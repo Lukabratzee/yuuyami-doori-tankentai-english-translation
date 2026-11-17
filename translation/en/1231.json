@@ -1,0 +1,53 @@
+{
+"file": 1231,
+"paths": [
+"d010/d022/f019"
+],
+"lines": [
+{
+"n": 0,
+"h": "d523cf39",
+"en_raw": "Give it back!"
+},
+{
+"n": 1,
+"h": "04e1f08b",
+"en_raw": "Sango and Nao"
+},
+{
+"n": 2,
+"h": "17c976aa",
+"en_raw": "give them back to Kurumi!"
+},
+{
+"n": 3,
+"h": "e2f4c3b4",
+"en_raw": "Go home / Not yet  Kurumi, not yet"
+},
+{
+"n": 4,
+"h": "9ab44c86",
+"en_raw": "I haven't gotten them back"
+},
+{
+"n": 5,
+"h": "80a881e5",
+"en_raw": "I can't go home yet"
+},
+{
+"n": 6,
+"h": "522b24b3",
+"en_raw": "Go home anyway / Absolutely not  Sango and Nao"
+},
+{
+"n": 7,
+"h": "95c460cd",
+"en_raw": "Until I get them back"
+},
+{
+"n": 8,
+"h": "2bb64db1",
+"en_raw": "I won't go home"
+}
+]
+}

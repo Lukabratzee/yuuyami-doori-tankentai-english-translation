@@ -1,0 +1,908 @@
+{
+"file": 36,
+"paths": [
+"d002/f651"
+],
+"lines": [
+{
+"n": 0,
+"h": "69326600",
+"en_raw": "...A friend of Shiina's in the park?"
+},
+{
+"n": 1,
+"h": "6677278a",
+"en_raw": "Yeah"
+},
+{
+"n": 2,
+"h": "cfbb0f7f",
+"en_raw": "They say he just moved in"
+},
+{
+"n": 3,
+"h": "0661c267",
+"en_raw": "From where?"
+},
+{
+"n": 4,
+"h": "bd59eac3",
+"en_raw": "Um, well, uh..."
+},
+{
+"n": 5,
+"h": "64be061d",
+"en_raw": "Outer space?"
+},
+{
+"n": 6,
+"h": "cab31535",
+"en_raw": "The Toilet Gang said that, right?"
+},
+{
+"n": 7,
+"h": "0590e15b",
+"en_raw": "That really ticks me off..."
+},
+{
+"n": 8,
+"h": "257ac869",
+"en_raw": "What are you talking about?"
+},
+{
+"n": 9,
+"h": "345c77df",
+"en_raw": "In the park under the overpass, a so-called..."
+},
+{
+"n": 10,
+"h": "2bada941",
+"en_raw": "funky person"
+},
+{
+"n": 11,
+"h": "511ae994",
+"en_raw": "has apparently settled in"
+},
+{
+"n": 12,
+"h": "08d13373",
+"en_raw": "There's a girl in my class"
+},
+{
+"n": 13,
+"h": "63af4fbd",
+"en_raw": "named Sakai"
+},
+{
+"n": 14,
+"h": "d31430e7",
+"en_raw": "and she teased Shiina"
+},
+{
+"n": 15,
+"h": "9adf83b6",
+"en_raw": "saying the park's resident"
+},
+{
+"n": 16,
+"h": "d1cf179b",
+"en_raw": "is Shiina's friend"
+},
+{
+"n": 17,
+"h": "87006990",
+"en_raw": "That's awful"
+},
+{
+"n": 18,
+"h": "76537f54",
+"en_raw": "...Why?"
+},
+{
+"n": 19,
+"h": "c6e6864d",
+"en_raw": "Kurumi wants to meet her friend!"
+},
+{
+"n": 20,
+"h": "634289ab",
+"en_raw": "Don't, it's dangerous, in many ways"
+},
+{
+"n": 21,
+"h": "a7d72eb0",
+"en_raw": "No, Kurumi's going to meet him!"
+},
+{
+"n": 22,
+"h": "8d2021b5",
+"en_raw": "The park under the overpass"
+},
+{
+"n": 23,
+"h": "147fa9db",
+"en_raw": "is the one on the slope from the station, right?"
+},
+{
+"n": 24,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 25,
+"h": "0722d1e7",
+"en_raw": "You're really going to meet him?"
+},
+{
+"n": 26,
+"h": "b133a6c1",
+"en_raw": "Yeah! Kurumi's going!"
+},
+{
+"n": 27,
+"h": "b016c384",
+"en_raw": "...Someone definitely lives here"
+},
+{
+"n": 28,
+"h": "fb75be5c",
+"en_raw": "it looked like, but..."
+},
+{
+"n": 29,
+"h": "1e79d044",
+"en_raw": "Not much use if he isn't here"
+},
+{
+"n": 30,
+"h": "9f654048",
+"en_raw": "Hey hey"
+},
+{
+"n": 31,
+"h": "c6e6864d",
+"en_raw": "Kurumi wants to meet her friend!"
+},
+{
+"n": 32,
+"h": "fb8da4b5",
+"en_raw": "He's not here, so it can't be helped"
+},
+{
+"n": 33,
+"h": "328bb968",
+"en_raw": "Then shall we try again tomorrow?"
+},
+{
+"n": 34,
+"h": "b016c384",
+"en_raw": "...Someone definitely lives here"
+},
+{
+"n": 35,
+"h": "b362e70e",
+"en_raw": "It looked like it, but"
+},
+{
+"n": 36,
+"h": "eb1f9f17",
+"en_raw": "not much use if he isn't here"
+},
+{
+"n": 37,
+"h": "7b6ebce1",
+"en_raw": "Hey hey, Sango"
+},
+{
+"n": 38,
+"h": "f6da1682",
+"en_raw": "Kurumi wants to meet him!"
+},
+{
+"n": 39,
+"h": "3e788833",
+"en_raw": "...Then, Shiina"
+},
+{
+"n": 40,
+"h": "e80dc3c9",
+"en_raw": "you go first"
+},
+{
+"n": 41,
+"h": "9fcecfda",
+"en_raw": "I'm going to"
+},
+{
+"n": 42,
+"h": "19c2e661",
+"en_raw": "pass on that smell"
+},
+{
+"n": 43,
+"h": "5b8b665f",
+"en_raw": "A friend in the park~"
+},
+{
+"n": 44,
+"h": "f7fb82e3",
+"en_raw": "...You always seem"
+},
+{
+"n": 45,
+"h": "93e97e70",
+"en_raw": "to be having fun, that's nice"
+},
+{
+"n": 46,
+"h": "6f7e1bdb",
+"en_raw": "Somehow... more than I expected..."
+},
+{
+"n": 47,
+"h": "068a13d5",
+"en_raw": "the conversation was"
+},
+{
+"n": 48,
+"h": "8398c850",
+"en_raw": "logical"
+},
+{
+"n": 49,
+"h": "3fd79994",
+"en_raw": "Do you think so?"
+},
+{
+"n": 50,
+"h": "c75a48fc",
+"en_raw": "To me it was a bit..."
+},
+{
+"n": 51,
+"h": "4b15ada8",
+"en_raw": "I sensed some single story"
+},
+{
+"n": 52,
+"h": "1fc1c4cc",
+"en_raw": "running underneath it all"
+},
+{
+"n": 53,
+"h": "92f502a1",
+"en_raw": "...Though something"
+},
+{
+"n": 54,
+"h": "06efea3d",
+"en_raw": "is definitely off"
+},
+{
+"n": 55,
+"h": "7b6ebce1",
+"en_raw": "Hey hey, Sango"
+},
+{
+"n": 56,
+"h": "b7f6e777",
+"en_raw": "Kurumi wants to talk to him too!"
+},
+{
+"n": 57,
+"h": "f956fb48",
+"en_raw": "Oh, right"
+},
+{
+"n": 58,
+"h": "4c1e64c9",
+"en_raw": "Shiina and that old guy"
+},
+{
+"n": 59,
+"h": "ca71f005",
+"en_raw": "could probably talk naturally"
+},
+{
+"n": 60,
+"h": "8e8deb73",
+"en_raw": "You should try talking once"
+},
+{
+"n": 61,
+"h": "5b8b665f",
+"en_raw": "A friend in the park~"
+},
+{
+"n": 62,
+"h": "32001685",
+"en_raw": "Don't turn everything into a song"
+},
+{
+"n": 63,
+"h": "e6bfb9b8",
+"en_raw": "Shiina"
+},
+{
+"n": 64,
+"h": "ad34a3b4",
+"en_raw": "Kurumi doesn't like"
+},
+{
+"n": 65,
+"h": "898c9d39",
+"en_raw": "that old guy"
+},
+{
+"n": 66,
+"h": "71c24fd1",
+"en_raw": "I was just taking a walk"
+},
+{
+"n": 67,
+"h": "45441295",
+"en_raw": "and he said go home"
+},
+{
+"n": 68,
+"h": "66598ab5",
+"en_raw": "Isn't that a bit dangerous?"
+},
+{
+"n": 69,
+"h": "1d6c3531",
+"en_raw": "He was recognizing Shiina"
+},
+{
+"n": 70,
+"h": "2ef34719",
+"en_raw": "in a total fantasy world"
+},
+{
+"n": 71,
+"h": "e4d3100b",
+"en_raw": "Hey, Sango"
+},
+{
+"n": 72,
+"h": "7433cebe",
+"en_raw": "Let's explain it properly to him"
+},
+{
+"n": 73,
+"h": "2978c447",
+"en_raw": "That Shiina isn't a Princess Bon"
+},
+{
+"n": 74,
+"h": "8da5f160",
+"en_raw": "or anything like that"
+},
+{
+"n": 75,
+"h": "9c19c203",
+"en_raw": "I think it's the 'let sleeping"
+},
+{
+"n": 76,
+"h": "40af03fe",
+"en_raw": "gods lie' type of situation"
+},
+{
+"n": 77,
+"h": "d8a09bb0",
+"en_raw": "I think that man too"
+},
+{
+"n": 78,
+"h": "a064e507",
+"en_raw": "would understand"
+},
+{
+"n": 79,
+"h": "90705f79",
+"en_raw": "if we explain it properly"
+},
+{
+"n": 80,
+"h": "fca31625",
+"en_raw": "And so, another daily visit to the park..."
+},
+{
+"n": 81,
+"h": "f713b168",
+"en_raw": "We shouldn't have"
+},
+{
+"n": 82,
+"h": "a48611e1",
+"en_raw": "gone near him after all"
+},
+{
+"n": 83,
+"h": "721c4334",
+"en_raw": "What are you saying now?"
+},
+{
+"n": 84,
+"h": "0f44f108",
+"en_raw": "More importantly, Takadai Street"
+},
+{
+"n": 85,
+"h": "0dcddb8e",
+"en_raw": "Hey Shiina, you might see a UFO"
+},
+{
+"n": 86,
+"h": "5a3ddca0",
+"en_raw": "How carefree!"
+},
+{
+"n": 87,
+"h": "735336d9",
+"en_raw": "It'll be fine, those types"
+},
+{
+"n": 88,
+"h": "68337a6b",
+"en_raw": "can't do anything"
+},
+{
+"n": 89,
+"h": "4f5b79cb",
+"en_raw": "as long as we have Melos"
+},
+{
+"n": 90,
+"h": "8a787c82",
+"en_raw": "Besides, do you think it'll come?"
+},
+{
+"n": 91,
+"h": "de548ef8",
+"en_raw": "The Kaplas rescue boat"
+},
+{
+"n": 92,
+"h": "a7ae296d",
+"en_raw": "But he's an adult, no telling what he'll do"
+},
+{
+"n": 93,
+"h": "50600838",
+"en_raw": "True"
+},
+{
+"n": 94,
+"h": "a1882a27",
+"en_raw": "So after we've seen everything"
+},
+{
+"n": 95,
+"h": "e6de0982",
+"en_raw": "let's go to the police"
+},
+{
+"n": 96,
+"h": "7760f005",
+"en_raw": "Helping prevent crime"
+},
+{
+"n": 97,
+"h": "82b9ba81",
+"en_raw": "is a citizen's duty"
+},
+{
+"n": 98,
+"h": "5de0bdf7",
+"en_raw": "Takadai Street is"
+},
+{
+"n": 99,
+"h": "f9b37e94",
+"en_raw": "up the stairs"
+},
+{
+"n": 100,
+"h": "c482e279",
+"en_raw": "that spot with the gorgeous"
+},
+{
+"n": 101,
+"h": "05389b97",
+"en_raw": "night view, right?"
+},
+{
+"n": 102,
+"h": "c6addca7",
+"en_raw": "The view is good"
+},
+{
+"n": 103,
+"h": "3600482d",
+"en_raw": "so it's perfect"
+},
+{
+"n": 104,
+"h": "ee61554e",
+"en_raw": "for contacting a UFO, isn't it?"
+},
+{
+"n": 105,
+"h": "c27f4b3a",
+"en_raw": "That man"
+},
+{
+"n": 106,
+"h": "2f454df9",
+"en_raw": "thought he was an alien to the very end"
+},
+{
+"n": 107,
+"h": "712bf9a6",
+"en_raw": "I felt such a strong will"
+},
+{
+"n": 108,
+"h": "aeca8062",
+"en_raw": "Totally wrong, though"
+},
+{
+"n": 109,
+"h": "ba83b543",
+"en_raw": "What do we do, Sango?"
+},
+{
+"n": 110,
+"h": "ff878416",
+"en_raw": "The police after all..."
+},
+{
+"n": 111,
+"h": "57b1349d",
+"en_raw": "You have no intention"
+},
+{
+"n": 112,
+"h": "bde9ada7",
+"en_raw": "of going, do you?"
+},
+{
+"n": 113,
+"h": "30c8d4b7",
+"en_raw": "...Good"
+},
+{
+"n": 114,
+"h": "a5f06a1f",
+"en_raw": "Hey hey, Nao, did you hear?"
+},
+{
+"n": 115,
+"h": "a2c42893",
+"en_raw": "The old man said his tummy goes grumble!"
+},
+{
+"n": 116,
+"h": "8ad6caed",
+"en_raw": "Kurumi is hungry too!"
+},
+{
+"n": 117,
+"h": "8e8b4b0d",
+"en_raw": "Shiina's friend, huh..."
+},
+{
+"n": 118,
+"h": "4d342543",
+"en_raw": "It's apt, in a way"
+},
+{
+"n": 119,
+"h": "4d041bc0",
+"en_raw": "What does that phrase mean?"
+},
+{
+"n": 120,
+"h": "eff563f3",
+"en_raw": "Well, um"
+},
+{
+"n": 121,
+"h": "f9d9436d",
+"en_raw": "Anyway, you use it"
+},
+{
+"n": 122,
+"h": "9394fdc7",
+"en_raw": "in times like this"
+},
+{
+"n": 123,
+"h": "c27f4b3a",
+"en_raw": "That man"
+},
+{
+"n": 124,
+"h": "2f454df9",
+"en_raw": "thought he was an alien to the very end"
+},
+{
+"n": 125,
+"h": "712bf9a6",
+"en_raw": "I felt such a strong will"
+},
+{
+"n": 126,
+"h": "aeca8062",
+"en_raw": "Totally wrong, though"
+},
+{
+"n": 127,
+"h": "ba83b543",
+"en_raw": "What do we do, Sango?"
+},
+{
+"n": 128,
+"h": "ff878416",
+"en_raw": "The police after all..."
+},
+{
+"n": 129,
+"h": "462ed249",
+"en_raw": "...No need to go"
+},
+{
+"n": 130,
+"h": "2addd26c",
+"en_raw": "Honestly"
+},
+{
+"n": 131,
+"h": "7cb57183",
+"en_raw": "But if Shiina gets"
+},
+{
+"n": 132,
+"h": "181fd5d8",
+"en_raw": "followed again..."
+},
+{
+"n": 133,
+"h": "53cdb6ab",
+"en_raw": "...I don't think telling him"
+},
+{
+"n": 134,
+"h": "8d9fe1ef",
+"en_raw": "would fix anything"
+},
+{
+"n": 135,
+"h": "25498844",
+"en_raw": "But it's better than doing nothing"
+},
+{
+"n": 136,
+"h": "882c1584",
+"en_raw": "Is he still at that spot in the park?"
+},
+{
+"n": 137,
+"h": "aff285dd",
+"en_raw": "It's sheltered from the rain, there's water"
+},
+{
+"n": 138,
+"h": "7549af94",
+"en_raw": "It's a good place"
+},
+{
+"n": 139,
+"h": "e5d689b0",
+"en_raw": "for someone like him to live"
+},
+{
+"n": 140,
+"h": "6b9799e0",
+"en_raw": "He probably hasn't moved"
+},
+{
+"n": 141,
+"h": "ed3ec9bd",
+"en_raw": "I think it's pointless to tell him..."
+},
+{
+"n": 142,
+"h": "e4109728",
+"en_raw": "But it's better than not saying"
+},
+{
+"n": 143,
+"h": "b9abcd61",
+"en_raw": "...He doesn't seem like a bad person"
+},
+{
+"n": 144,
+"h": "b4aabcc6",
+"en_raw": "Well, basically"
+},
+{
+"n": 145,
+"h": "f2672edb",
+"en_raw": "Nao just wants closure"
+},
+{
+"n": 146,
+"h": "cce0df4a",
+"en_raw": "Fine, I'll go"
+},
+{
+"n": 147,
+"h": "2aa09549",
+"en_raw": "The park under the overpass or anywhere"
+},
+{
+"n": 148,
+"h": "7cc10b60",
+"en_raw": "Aww, the old man"
+},
+{
+"n": 149,
+"h": "160f5724",
+"en_raw": "is gone"
+},
+{
+"n": 150,
+"h": "52777ff6",
+"en_raw": "Too bad, Shiina"
+},
+{
+"n": 151,
+"h": "e784d2eb",
+"en_raw": "You two got along so well"
+},
+{
+"n": 152,
+"h": "1c2585bc",
+"en_raw": "Don't put it that way"
+},
+{
+"n": 153,
+"h": "cc6d0834",
+"en_raw": "Sorry, sorry"
+},
+{
+"n": 154,
+"h": "196f7036",
+"en_raw": "But really"
+},
+{
+"n": 155,
+"h": "c8d8b140",
+"en_raw": "he wasn't a bad guy"
+},
+{
+"n": 156,
+"h": "f20fb697",
+"en_raw": "Not the lying adult type"
+},
+{
+"n": 157,
+"h": "2a12f3d9",
+"en_raw": "right?"
+},
+{
+"n": 158,
+"h": "20bd6b03",
+"en_raw": "He was quite strange, though"
+},
+{
+"n": 159,
+"h": "14d2881f",
+"en_raw": "How should I put it"
+},
+{
+"n": 160,
+"h": "61a5e5a6",
+"en_raw": "Yeah, how should I put it"
+},
+{
+"n": 161,
+"h": "b785f817",
+"en_raw": "How to put it?"
+},
+{
+"n": 162,
+"h": "42a3b258",
+"en_raw": "...A good person?"
+},
+{
+"n": 163,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 164,
+"h": "b4134480",
+"en_raw": "Breaking down is scary, I think, but..."
+},
+{
+"n": 165,
+"h": "67b1212e",
+"en_raw": "getting used to it"
+},
+{
+"n": 166,
+"h": "a2bb5951",
+"en_raw": "might actually be scarier"
+},
+{
+"n": 167,
+"h": "543c3ba5",
+"en_raw": "...Sango sometimes"
+},
+{
+"n": 168,
+"h": "41405c47",
+"en_raw": "says difficult things"
+},
+{
+"n": 169,
+"h": "4968362a",
+"en_raw": "That's right, respect me"
+},
+{
+"n": 170,
+"h": "555fec2e",
+"en_raw": "Solved the rumor of the Park Friend"
+},
+{
+"n": 171,
+"h": "757da207",
+"en_raw": "The old man was innocent"
+},
+{
+"n": 172,
+"h": "2ff2ec61",
+"en_raw": "Maybe the social system"
+},
+{
+"n": 173,
+"h": "74ce1774",
+"en_raw": "that creates people like him is the problem"
+},
+{
+"n": 174,
+"h": "2afc1ddf",
+"en_raw": "...or something"
+},
+{
+"n": 175,
+"h": "b33508ef",
+"en_raw": "True, he was Shiina's friend, living"
+},
+{
+"n": 176,
+"h": "2353bd68",
+"en_raw": "far beyond the realm of the"
+},
+{
+"n": 177,
+"h": "69f0a71e",
+"en_raw": "meaningless thing called 'common sense'"
+},
+{
+"n": 178,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 179,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

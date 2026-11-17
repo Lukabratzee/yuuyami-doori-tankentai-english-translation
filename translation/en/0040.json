@@ -1,0 +1,713 @@
+{
+"file": 40,
+"paths": [
+"d002/f659"
+],
+"lines": [
+{
+"n": 0,
+"h": "03d4c66b",
+"en_raw": "Hey hey, you know"
+},
+{
+"n": 1,
+"h": "bec819e8",
+"en_raw": "Kurumi forgot something"
+},
+{
+"n": 2,
+"h": "ec7bf564",
+"en_raw": "A forgotten item?"
+},
+{
+"n": 3,
+"h": "ac03286a",
+"en_raw": "What are you saying now?"
+},
+{
+"n": 4,
+"h": "f69fb78c",
+"en_raw": "You two get scolded"
+},
+{
+"n": 5,
+"h": "cf0473a9",
+"en_raw": "almost every day"
+},
+{
+"n": 6,
+"h": "61ea3559",
+"en_raw": "I see..."
+},
+{
+"n": 7,
+"h": "9fda1fe6",
+"en_raw": "You should just pack your"
+},
+{
+"n": 8,
+"h": "f12fdda7",
+"en_raw": "schedule the day before"
+},
+{
+"n": 9,
+"h": "ca619bae",
+"en_raw": "No, um, that's not it"
+},
+{
+"n": 10,
+"h": "011b3ae8",
+"en_raw": "What Kurumi means"
+},
+{
+"n": 11,
+"h": "c40eda00",
+"en_raw": "is that thing"
+},
+{
+"n": 12,
+"h": "701e1b1c",
+"en_raw": "What thing?"
+},
+{
+"n": 13,
+"h": "82769704",
+"en_raw": "Jelly-chan and the others said"
+},
+{
+"n": 14,
+"h": "acb47a51",
+"en_raw": "um, that thing is..."
+},
+{
+"n": 15,
+"h": "54d6b1a3",
+"en_raw": "Right, a time capsule!"
+},
+{
+"n": 16,
+"h": "adb75f33",
+"en_raw": "A time capsule?"
+},
+{
+"n": 17,
+"h": "850895c8",
+"en_raw": "Come to think of it, we buried one"
+},
+{
+"n": 18,
+"h": "46570208",
+"en_raw": "in elementary school"
+},
+{
+"n": 19,
+"h": "a7efe575",
+"en_raw": "We did"
+},
+{
+"n": 20,
+"h": "db14afcf",
+"en_raw": "It's kind of nostalgic"
+},
+{
+"n": 21,
+"h": "75769ca1",
+"en_raw": "Come on, let's go!"
+},
+{
+"n": 22,
+"h": "070cc1f4",
+"en_raw": "To look for what I forgot"
+},
+{
+"n": 23,
+"h": "3470bcc1",
+"en_raw": "Going to the elementary school is fine, but"
+},
+{
+"n": 24,
+"h": "78c2c03b",
+"en_raw": "we shouldn't dig up"
+},
+{
+"n": 25,
+"h": "69df7304",
+"en_raw": "the time capsule we buried"
+},
+{
+"n": 26,
+"h": "4d42f4cf",
+"en_raw": "That would be bad"
+},
+{
+"n": 27,
+"h": "1c286eba",
+"en_raw": "What do we do?"
+},
+{
+"n": 28,
+"h": "4f41da28",
+"en_raw": "Knowing Shiina"
+},
+{
+"n": 29,
+"h": "8325acfe",
+"en_raw": "she'll have forgotten"
+},
+{
+"n": 30,
+"h": "09481bad",
+"en_raw": "by the time we get to the school"
+},
+{
+"n": 31,
+"h": "41ce6386",
+"en_raw": "Shiina, did you really"
+},
+{
+"n": 32,
+"h": "fd772cdf",
+"en_raw": "forget it at school?"
+},
+{
+"n": 33,
+"h": "04969270",
+"en_raw": "Really, truly!"
+},
+{
+"n": 34,
+"h": "73daf370",
+"en_raw": "But we wouldn't know"
+},
+{
+"n": 35,
+"h": "fff6b5b9",
+"en_raw": "Shiina's old elementary school"
+},
+{
+"n": 36,
+"h": "2b878913",
+"en_raw": "anyway"
+},
+{
+"n": 37,
+"h": "d6d7f559",
+"en_raw": "No, that's not it"
+},
+{
+"n": 38,
+"h": "f61b44ee",
+"en_raw": "It's the school since I moved"
+},
+{
+"n": 39,
+"h": "97dc1e39",
+"en_raw": "Then it must be junior high"
+},
+{
+"n": 40,
+"h": "31ef1a69",
+"en_raw": "What did you forget? Something important?"
+},
+{
+"n": 41,
+"h": "65b70312",
+"en_raw": "...Dunno"
+},
+{
+"n": 42,
+"h": "a41c4122",
+"en_raw": "Give up already"
+},
+{
+"n": 43,
+"h": "235c4cee",
+"en_raw": "If you forgot what you forgot"
+},
+{
+"n": 44,
+"h": "4bd06746",
+"en_raw": "there's no way to look for it"
+},
+{
+"n": 45,
+"h": "f9ebdd5e",
+"en_raw": "Kurumi remembered!"
+},
+{
+"n": 46,
+"h": "250a82ab",
+"en_raw": "It's at school!"
+},
+{
+"n": 47,
+"h": "9418a756",
+"en_raw": "Really?"
+},
+{
+"n": 48,
+"h": "46c88e85",
+"en_raw": "Anyway, let's go"
+},
+{
+"n": 49,
+"h": "9357d70e",
+"en_raw": "to school..."
+},
+{
+"n": 50,
+"h": "1b171343",
+"en_raw": "Really really"
+},
+{
+"n": 51,
+"h": "3027a63a",
+"en_raw": "it's at school"
+},
+{
+"n": 52,
+"h": "2ca0b4e0",
+"en_raw": "I don't know what's there"
+},
+{
+"n": 53,
+"h": "37a01ff0",
+"en_raw": "What do you think, Nao? Go?"
+},
+{
+"n": 54,
+"h": "158f1126",
+"en_raw": "Let's humor her"
+},
+{
+"n": 55,
+"h": "d8e80c42",
+"en_raw": "I'm curious too"
+},
+{
+"n": 56,
+"h": "6da47639",
+"en_raw": "about Shiina's lost item"
+},
+{
+"n": 57,
+"h": "ed878b58",
+"en_raw": "Look look, Sango!"
+},
+{
+"n": 58,
+"h": "1084263a",
+"en_raw": "A treasure map!"
+},
+{
+"n": 59,
+"h": "6569cd33",
+"en_raw": "Well, you say that, but"
+},
+{
+"n": 60,
+"h": "4d9246fe",
+"en_raw": "this is sketchy"
+},
+{
+"n": 61,
+"h": "6c1e283d",
+"en_raw": "It seems to be east"
+},
+{
+"n": 62,
+"h": "c6c395a0",
+"en_raw": "of Shiina's house"
+},
+{
+"n": 63,
+"h": "eeca0993",
+"en_raw": "at least..."
+},
+{
+"n": 64,
+"h": "1f365544",
+"en_raw": "Not necessarily"
+},
+{
+"n": 65,
+"h": "a62ee2f2",
+"en_raw": "Which way is north on this map?"
+},
+{
+"n": 66,
+"h": "fa4bce70",
+"en_raw": "Ah..."
+},
+{
+"n": 67,
+"h": "06cd09d5",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 68,
+"h": "fe5b9395",
+"en_raw": "Where is this place?"
+},
+{
+"n": 69,
+"h": "c21842f9",
+"en_raw": "Huh?"
+},
+{
+"n": 70,
+"h": "a56bff9b",
+"en_raw": "I mean the place on this map"
+},
+{
+"n": 71,
+"h": "98c1d94c",
+"en_raw": "Kurumi doesn't know"
+},
+{
+"n": 72,
+"h": "2aa6017c",
+"en_raw": "It's south of the tracks, right..."
+},
+{
+"n": 73,
+"h": "ca0fef96",
+"en_raw": "Searching with this map, seriously?"
+},
+{
+"n": 74,
+"h": "ddfc1653",
+"en_raw": "I'm getting tired..."
+},
+{
+"n": 75,
+"h": "8f8eab8c",
+"en_raw": "It must be just a little more"
+},
+{
+"n": 76,
+"h": "a0cc4009",
+"en_raw": "Let's keep her company"
+},
+{
+"n": 77,
+"h": "d2d7a7c4",
+"en_raw": "This is no joke"
+},
+{
+"n": 78,
+"h": "b248168b",
+"en_raw": "But it's just one more step"
+},
+{
+"n": 79,
+"h": "44133466",
+"en_raw": "It's inside that shrine"
+},
+{
+"n": 80,
+"h": "cf5cff2c",
+"en_raw": "for sure, right?"
+},
+{
+"n": 81,
+"h": "1bce6024",
+"en_raw": "Yeah, I think..."
+},
+{
+"n": 82,
+"h": "66bd7884",
+"en_raw": "This map says 'hell' at the shrine"
+},
+{
+"n": 83,
+"h": "b6484b75",
+"en_raw": "but"
+},
+{
+"n": 84,
+"h": "08a9c90f",
+"en_raw": "what is that?"
+},
+{
+"n": 85,
+"h": "3cd76cf7",
+"en_raw": "We're totally wrong"
+},
+{
+"n": 86,
+"h": "8cffce5c",
+"en_raw": "Once more, Kurumi will"
+},
+{
+"n": 87,
+"h": "605e0c3e",
+"en_raw": "go and take a look"
+},
+{
+"n": 88,
+"h": "8e751ee1",
+"en_raw": "Found the treasure key!"
+},
+{
+"n": 89,
+"h": "1c0387d5",
+"en_raw": "But Shiina"
+},
+{
+"n": 90,
+"h": "5eb1c4b9",
+"en_raw": "what is this key for?"
+},
+{
+"n": 91,
+"h": "d41e87aa",
+"en_raw": "Dunno"
+},
+{
+"n": 92,
+"h": "f808a9aa",
+"en_raw": "Wait a second, Shiina"
+},
+{
+"n": 93,
+"h": "c15b753c",
+"en_raw": "I recognize this key"
+},
+{
+"n": 94,
+"h": "60221d76",
+"en_raw": "This key, could it be..."
+},
+{
+"n": 95,
+"h": "46d88741",
+"en_raw": "...Ah!"
+},
+{
+"n": 96,
+"h": "693319ef",
+"en_raw": "Don't just say 'ah'!"
+},
+{
+"n": 97,
+"h": "baa4c7da",
+"en_raw": "This is the key to the cleaning supplies locker!"
+},
+{
+"n": 98,
+"h": "da6fd96a",
+"en_raw": "It was you who did it?"
+},
+{
+"n": 99,
+"h": "b73542c7",
+"en_raw": "The reason the class rep"
+},
+{
+"n": 100,
+"h": "7febcd67",
+"en_raw": "scolded us so unfairly"
+},
+{
+"n": 101,
+"h": "484dbbcc",
+"en_raw": "was this..."
+},
+{
+"n": 102,
+"h": "b05f94c4",
+"en_raw": "I'm sorry"
+},
+{
+"n": 103,
+"h": "a399584e",
+"en_raw": "Damn, now I'm getting mad"
+},
+{
+"n": 104,
+"h": "f4c85bfc",
+"en_raw": "Shiina, you buried the key, so"
+},
+{
+"n": 105,
+"h": "22738421",
+"en_raw": "what did you hide in the locker?!"
+},
+{
+"n": 106,
+"h": "fa58766b",
+"en_raw": "That's, um..."
+},
+{
+"n": 107,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 108,
+"h": "567adfc7",
+"en_raw": "I forgot"
+},
+{
+"n": 109,
+"h": "f655f1b6",
+"en_raw": "Then we just go"
+},
+{
+"n": 110,
+"h": "953abf7e",
+"en_raw": "to the locker at school"
+},
+{
+"n": 111,
+"h": "81cd7982",
+"en_raw": "Yeah, right"
+},
+{
+"n": 112,
+"h": "7b6ea872",
+"en_raw": "Hey, Nao"
+},
+{
+"n": 113,
+"h": "fd2bfbca",
+"en_raw": "Hm?"
+},
+{
+"n": 114,
+"h": "35350b63",
+"en_raw": "If we find the lost item"
+},
+{
+"n": 115,
+"h": "9d5315c6",
+"en_raw": "can I punch you, Shiina?"
+},
+{
+"n": 116,
+"h": "978cd050",
+"en_raw": "Whaaat?"
+},
+{
+"n": 117,
+"h": "bb4f0282",
+"en_raw": "Ah, no, if you punch her"
+},
+{
+"n": 118,
+"h": "83d3086a",
+"en_raw": "it'll hurt Kurumi"
+},
+{
+"n": 119,
+"h": "8fe171b6",
+"en_raw": "So after that, you"
+},
+{
+"n": 120,
+"h": "9ddfe9a7",
+"en_raw": "waited the whole time"
+},
+{
+"n": 121,
+"h": "9b53cf21",
+"en_raw": "Yeah, well, a bit"
+},
+{
+"n": 122,
+"h": "d7db8955",
+"en_raw": "And Shiina"
+},
+{
+"n": 123,
+"h": "ed179540",
+"en_raw": "totally forgot about Nao"
+},
+{
+"n": 124,
+"h": "9c86358d",
+"en_raw": "and went home?"
+},
+{
+"n": 125,
+"h": "e17bcdd7",
+"en_raw": "Yeah, I'm a scatterbrain"
+},
+{
+"n": 126,
+"h": "f118832b",
+"en_raw": "How ridiculous, I'm appalled"
+},
+{
+"n": 127,
+"h": "7625aaae",
+"en_raw": "I don't even feel like getting mad"
+},
+{
+"n": 128,
+"h": "4e9403f9",
+"en_raw": "But Shiina, it looks like"
+},
+{
+"n": 129,
+"h": "3c1b144a",
+"en_raw": "you found your lost item"
+},
+{
+"n": 130,
+"h": "7a43b2d9",
+"en_raw": "I found it!"
+},
+{
+"n": 131,
+"h": "ee8329af",
+"en_raw": "Well, that's good"
+},
+{
+"n": 132,
+"h": "f9c85f36",
+"en_raw": "...Nao, you"
+},
+{
+"n": 133,
+"h": "398ec57e",
+"en_raw": "really are a good guy"
+},
+{
+"n": 134,
+"h": "3a2e0aa1",
+"en_raw": "Solved the rumor of Kurumi's Lost Item"
+},
+{
+"n": 135,
+"h": "a5d09750",
+"en_raw": "Shiina, what was"
+},
+{
+"n": 136,
+"h": "474dd3b6",
+"en_raw": "that lost item?"
+},
+{
+"n": 137,
+"h": "665a67ac",
+"en_raw": "Huh? ...Don't know"
+},
+{
+"n": 138,
+"h": "a613098a",
+"en_raw": "I've forgotten already"
+},
+{
+"n": 139,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 140,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

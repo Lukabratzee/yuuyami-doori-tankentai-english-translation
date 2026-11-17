@@ -1,0 +1,413 @@
+{
+"file": 837,
+"paths": [
+"d008/d074/f026"
+],
+"lines": [
+{
+"n": 0,
+"h": "c7ec1f53",
+"en_raw": "How should I put it..."
+},
+{
+"n": 1,
+"h": "d0333c75",
+"en_raw": "It's an ordinary vending machine"
+},
+{
+"n": 2,
+"h": "b802a097",
+"en_raw": "Something like this"
+},
+{
+"n": 3,
+"h": "e9250793",
+"en_raw": "...My allowance is in trouble this month"
+},
+{
+"n": 4,
+"h": "8ba1c390",
+"en_raw": "right"
+},
+{
+"n": 5,
+"h": "c632e329",
+"en_raw": "I can't spend 200 yen a day"
+},
+{
+"n": 6,
+"h": "e3789796",
+"en_raw": "on stuff like this"
+},
+{
+"n": 7,
+"h": "fd14cc7e",
+"en_raw": "Try the cheat?"
+},
+{
+"n": 8,
+"h": "ae3edd0d",
+"en_raw": "Try it / Don't  Is this all the money I have left?"
+},
+{
+"n": 9,
+"h": "3c5fdf20",
+"en_raw": "...Forget it"
+},
+{
+"n": 10,
+"h": "93b7e732",
+"en_raw": "Um..."
+},
+{
+"n": 11,
+"h": "67f6e68e",
+"en_raw": "Up down up down..."
+},
+{
+"n": 12,
+"h": "b860f24f",
+"en_raw": "After inserting the money"
+},
+{
+"n": 13,
+"h": "86107128",
+"en_raw": "Doctor P..."
+},
+{
+"n": 14,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 15,
+"h": "8a031c3a",
+"en_raw": "Sure enough"
+},
+{
+"n": 16,
+"h": "8b00a8b1",
+"en_raw": "it's not Doctor P"
+},
+{
+"n": 17,
+"h": "f012b7d2",
+"en_raw": "Does that mean the cheat worked?"
+},
+{
+"n": 18,
+"h": "9ae85403",
+"en_raw": "THE THING..."
+},
+{
+"n": 19,
+"h": "b1ad5286",
+"en_raw": "I've never seen a juice like this"
+},
+{
+"n": 20,
+"h": "72873402",
+"en_raw": "even at a convenience store..."
+},
+{
+"n": 21,
+"h": "54bb39a2",
+"en_raw": "Wonder what flavor it is"
+},
+{
+"n": 22,
+"h": "3f80f260",
+"en_raw": "...Huh?"
+},
+{
+"n": 23,
+"h": "ba6de792",
+"en_raw": "This juice has no ingredient list"
+},
+{
+"n": 24,
+"h": "b3ec48c1",
+"en_raw": "Drink it / Skip it  The cheat itself seems real"
+},
+{
+"n": 25,
+"h": "409aa38d",
+"en_raw": "but..."
+},
+{
+"n": 26,
+"h": "1b235046",
+"en_raw": "Drink it / Skip it  Who knows what's in it"
+},
+{
+"n": 27,
+"h": "a3fe3062",
+"en_raw": "is safer not to drink"
+},
+{
+"n": 28,
+"h": "c44c1110",
+"en_raw": "Where was it made"
+},
+{
+"n": 29,
+"h": "f5b6aed7",
+"en_raw": "This company's mark"
+},
+{
+"n": 30,
+"h": "b550c8db",
+"en_raw": "is a bird holding a snake..."
+},
+{
+"n": 31,
+"h": "68820be7",
+"en_raw": "The vulture-mark"
+},
+{
+"n": 32,
+"h": "3e32f6cb",
+"en_raw": "Yamakagashi Pharmaceutical...?"
+},
+{
+"n": 33,
+"h": "ff70a77a",
+"en_raw": "Is this okay..."
+},
+{
+"n": 34,
+"h": "491d2d36",
+"en_raw": "...Ah, right"
+},
+{
+"n": 35,
+"h": "0f7b7ad3",
+"en_raw": "Experiment / Don't  ...Direct dosing of a human"
+},
+{
+"n": 36,
+"h": "d66fd32c",
+"en_raw": "is only safe once the contents are known"
+},
+{
+"n": 37,
+"h": "78559e9f",
+"en_raw": "Here, Nao"
+},
+{
+"n": 38,
+"h": "db2c3b33",
+"en_raw": "Huh...?"
+},
+{
+"n": 39,
+"h": "7aa413fc",
+"en_raw": "You're slow"
+},
+{
+"n": 40,
+"h": "ed920476",
+"en_raw": "My treat"
+},
+{
+"n": 41,
+"h": "76b67ede",
+"en_raw": "No way..."
+},
+{
+"n": 42,
+"h": "01c46ce6",
+"en_raw": "It's fine"
+},
+{
+"n": 43,
+"h": "3cb6414e",
+"en_raw": "You won't die, you won't die"
+},
+{
+"n": 44,
+"h": "068b7663",
+"en_raw": "Come on, chug it"
+},
+{
+"n": 45,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 46,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 47,
+"h": "5694b694",
+"en_raw": "Well?"
+},
+{
+"n": 48,
+"h": "8f8d9586",
+"en_raw": "Hmm..."
+},
+{
+"n": 49,
+"h": "31e7023e",
+"en_raw": "A bit medicinal"
+},
+{
+"n": 50,
+"h": "60e89f8c",
+"en_raw": "but not undrinkable"
+},
+{
+"n": 51,
+"h": "9511c806",
+"en_raw": "Oh, so you can drink it"
+},
+{
+"n": 52,
+"h": "bc21ebb0",
+"en_raw": "Drink it / Skip it  Nao, give it back"
+},
+{
+"n": 53,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 54,
+"h": "4e55f103",
+"en_raw": "Safety hasn't been fully"
+},
+{
+"n": 55,
+"h": "c6786598",
+"en_raw": "confirmed yet"
+},
+{
+"n": 56,
+"h": "ee453a95",
+"en_raw": "Let's watch Nao for a while"
+},
+{
+"n": 57,
+"h": "ee9b12c3",
+"en_raw": "Drink it / Skip it  ...I've got a bad feeling"
+},
+{
+"n": 58,
+"h": "7490d6f5",
+"en_raw": "The design says"
+},
+{
+"n": 59,
+"h": "d47203d9",
+"en_raw": "suspicious stuff inside, all right..."
+},
+{
+"n": 60,
+"h": "f5ce5bec",
+"en_raw": "!!!"
+},
+{
+"n": 61,
+"h": "697d9636",
+"en_raw": "What is this, it's awful!!!"
+},
+{
+"n": 62,
+"h": "3621071a",
+"en_raw": "Gross, way too gross!"
+},
+{
+"n": 63,
+"h": "5d973d47",
+"en_raw": "Deadly gross!"
+},
+{
+"n": 64,
+"h": "8d33cc24",
+"en_raw": "It tastes like random liquids"
+},
+{
+"n": 65,
+"h": "9ae31100",
+"en_raw": "from the science room mixed together"
+},
+{
+"n": 66,
+"h": "b1ad5286",
+"en_raw": "I've never seen a juice like this"
+},
+{
+"n": 67,
+"h": "4851b553",
+"en_raw": "Make Earth drink it"
+},
+{
+"n": 68,
+"h": "d3bdeef6",
+"en_raw": "Seriously, are you trying to kill me"
+},
+{
+"n": 69,
+"h": "db336c70",
+"en_raw": "...Huh?"
+},
+{
+"n": 70,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 71,
+"h": "5ef65aa6",
+"en_raw": "Hey, Sango... that just now..."
+},
+{
+"n": 72,
+"h": "6a779e1f",
+"en_raw": "Shut up, be quiet"
+},
+{
+"n": 73,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 74,
+"h": "01f1be5b",
+"en_raw": "Press the matter?"
+},
+{
+"n": 75,
+"h": "8424fe83",
+"en_raw": "Think / Forget it  Ah, nice weather today too"
+},
+{
+"n": 76,
+"h": "d2649e21",
+"en_raw": "I'll go home and write my manuscript"
+},
+{
+"n": 77,
+"h": "4e1957a4",
+"en_raw": "I drank it, didn't I..."
+},
+{
+"n": 78,
+"h": "e08e2614",
+"en_raw": "I..."
+},
+{
+"n": 79,
+"h": "762ecca9",
+"en_raw": "Ugh..."
+},
+{
+"n": 80,
+"h": "21600954",
+"en_raw": "I'll stop thinking too hard..."
+}
+]
+}

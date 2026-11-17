@@ -1,0 +1,533 @@
+{
+"file": 70,
+"paths": [
+"d007/d000/f295"
+],
+"lines": [
+{
+"n": 0,
+"h": "44d0891d",
+"en_raw": "Hirauchi, did you study?"
+},
+{
+"n": 1,
+"h": "442b894b",
+"en_raw": "What are you doing?"
+},
+{
+"n": 2,
+"h": "c9541741",
+"en_raw": "Oh, Hirauchi"
+},
+{
+"n": 3,
+"h": "45076220",
+"en_raw": "Did you study?"
+},
+{
+"n": 4,
+"h": "9610a0ad",
+"en_raw": "I pulled an all-nighter yesterday"
+},
+{
+"n": 5,
+"h": "7fc3dc67",
+"en_raw": "Lie, oh no, I"
+},
+{
+"n": 6,
+"h": "4aff2551",
+"en_raw": "fell asleep"
+},
+{
+"n": 7,
+"h": "6baef588",
+"en_raw": "At least I should look"
+},
+{
+"n": 8,
+"h": "6d6f39f9",
+"en_raw": "over my notes..."
+},
+{
+"n": 9,
+"h": "5083d0ea",
+"en_raw": "Inagaki"
+},
+{
+"n": 10,
+"h": "eeb0b230",
+"en_raw": "You're a sore loser"
+},
+{
+"n": 11,
+"h": "3b2b3994",
+"en_raw": "Hey, wait"
+},
+{
+"n": 12,
+"h": "03942332",
+"en_raw": "Sorry"
+},
+{
+"n": 13,
+"h": "01bac3d5",
+"en_raw": "Maybe another time..."
+},
+{
+"n": 14,
+"h": "ef06d526",
+"en_raw": "...I'll go"
+},
+{
+"n": 15,
+"h": "0b50b8b8",
+"en_raw": "review my notes"
+},
+{
+"n": 16,
+"h": "bd73ddbe",
+"en_raw": "Hey, Inagaki..."
+},
+{
+"n": 17,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 18,
+"h": "0e8fdeec",
+"en_raw": "Why do you talk to me"
+},
+{
+"n": 19,
+"h": "6026ebf3",
+"en_raw": "after saying that?"
+},
+{
+"n": 20,
+"h": "79623cd0",
+"en_raw": "Well, that's..."
+},
+{
+"n": 21,
+"h": "d3eeac49",
+"en_raw": "...True"
+},
+{
+"n": 22,
+"h": "bd73ddbe",
+"en_raw": "Hey, Inagaki..."
+},
+{
+"n": 23,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 24,
+"h": "58b8e21a",
+"en_raw": "Well, it's fine"
+},
+{
+"n": 25,
+"h": "bd73ddbe",
+"en_raw": "Hey, Inagaki..."
+},
+{
+"n": 26,
+"h": "11a6b4d1",
+"en_raw": "Why do you talk to me?"
+},
+{
+"n": 27,
+"h": "5c2942ae",
+"en_raw": "I don't know what"
+},
+{
+"n": 28,
+"h": "1c63195a",
+"en_raw": "to do..."
+},
+{
+"n": 29,
+"h": "e740846e",
+"en_raw": "But if you act like that"
+},
+{
+"n": 30,
+"h": "43c107e4",
+"en_raw": "nobody will deal with you"
+},
+{
+"n": 31,
+"h": "b6ad00be",
+"en_raw": "But I said terrible things"
+},
+{
+"n": 32,
+"h": "01dd5f5d",
+"en_raw": "to Hirauchi too..."
+},
+{
+"n": 33,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 34,
+"h": "50ff2a5c",
+"en_raw": "Did I get told something?"
+},
+{
+"n": 35,
+"h": "ce0c629d",
+"en_raw": "Hirauchi..."
+},
+{
+"n": 36,
+"h": "7525cc9d",
+"en_raw": "Well, anyway, let's get along"
+},
+{
+"n": 37,
+"h": "3b7149e0",
+"en_raw": "We're both outcasts, so why not"
+},
+{
+"n": 38,
+"h": "8c4564cc",
+"en_raw": "Yo"
+},
+{
+"n": 39,
+"h": "9c7ba5db",
+"en_raw": "After all, I'll"
+},
+{
+"n": 40,
+"h": "7a16c1f4",
+"en_raw": "follow Hirauchi"
+},
+{
+"n": 41,
+"h": "f7a383a9",
+"en_raw": "Please look after me"
+},
+{
+"n": 42,
+"h": "baa35876",
+"en_raw": "Oh, Hirauchi!"
+},
+{
+"n": 43,
+"h": "1762dafb",
+"en_raw": "How are you doing?"
+},
+{
+"n": 44,
+"h": "b71edacc",
+"en_raw": "Hey, Hirauchi"
+},
+{
+"n": 45,
+"h": "d8342ab8",
+"en_raw": "What are Hirauchi's real hobbies"
+},
+{
+"n": 46,
+"h": "322f8cb4",
+"en_raw": "like?"
+},
+{
+"n": 47,
+"h": "e86919c9",
+"en_raw": "It's not late-night anime"
+},
+{
+"n": 48,
+"h": "9a646ec9",
+"en_raw": "that much is certain"
+},
+{
+"n": 49,
+"h": "8c4776d8",
+"en_raw": "...Huh?"
+},
+{
+"n": 50,
+"h": "11f650f5",
+"en_raw": "Is there something else?"
+},
+{
+"n": 51,
+"h": "2a60e82a",
+"en_raw": "Something else, you..."
+},
+{
+"n": 52,
+"h": "13428ac6",
+"en_raw": "There are tons, of course"
+},
+{
+"n": 53,
+"h": "a9a65274",
+"en_raw": "What I want to know"
+},
+{
+"n": 54,
+"h": "04f3b25b",
+"en_raw": "are Hirauchi's se-crets"
+},
+{
+"n": 55,
+"h": "17610dd8",
+"en_raw": "you know!"
+},
+{
+"n": 56,
+"h": "786e8d67",
+"en_raw": "Was making up"
+},
+{
+"n": 57,
+"h": "87ae2515",
+"en_raw": "the right call, I wonder..."
+},
+{
+"n": 58,
+"h": "6c6654a4",
+"en_raw": "Geez, don't tease me"
+},
+{
+"n": 59,
+"h": "7d9b3987",
+"en_raw": "tell me, please"
+},
+{
+"n": 60,
+"h": "7287f84f",
+"en_raw": "It's not a secret or anything"
+},
+{
+"n": 61,
+"h": "91d7ec52",
+"en_raw": "Ordinary Japanese novels"
+},
+{
+"n": 62,
+"h": "9f115d4c",
+"en_raw": "and such"
+},
+{
+"n": 63,
+"h": "2316e485",
+"en_raw": "Oh, like the ones in"
+},
+{
+"n": 64,
+"h": "b04407d7",
+"en_raw": "Japanese textbooks?"
+},
+{
+"n": 65,
+"h": "150252c3",
+"en_raw": "Those too, maybe..."
+},
+{
+"n": 66,
+"h": "dc7bef4f",
+"en_raw": "What I especially like is"
+},
+{
+"n": 67,
+"h": "c569c87d",
+"en_raw": "early Showa pure literature"
+},
+{
+"n": 68,
+"h": "88f5eb35",
+"en_raw": "The sharp, delicate"
+},
+{
+"n": 69,
+"h": "4f06acef",
+"en_raw": "depictions of inner life are good"
+},
+{
+"n": 70,
+"h": "67aaf290",
+"en_raw": "Oh, is that so?"
+},
+{
+"n": 71,
+"h": "061eaf35",
+"en_raw": "Do you understand what that means?"
+},
+{
+"n": 72,
+"h": "e2fc4194",
+"en_raw": "Of course!"
+},
+{
+"n": 73,
+"h": "d16ae7c4",
+"en_raw": "I might get interested"
+},
+{
+"n": 74,
+"h": "c8a890bf",
+"en_raw": "in that stuff too"
+},
+{
+"n": 75,
+"h": "53ca0ae0",
+"en_raw": "I'll try reading"
+},
+{
+"n": 76,
+"h": "9ee3ed69",
+"en_raw": "a book like that sometime~"
+},
+{
+"n": 77,
+"h": "4119a299",
+"en_raw": "Geez, you're so secretive!"
+},
+{
+"n": 78,
+"h": "cb5f4e4f",
+"en_raw": "That's also good, though..."
+},
+{
+"n": 79,
+"h": "b71edacc",
+"en_raw": "Hey, Hirauchi"
+},
+{
+"n": 80,
+"h": "3d15ee51",
+"en_raw": "What are you looking so happy about?"
+},
+{
+"n": 81,
+"h": "1ffec96b",
+"en_raw": "So Melos was a human"
+},
+{
+"n": 82,
+"h": "48091079",
+"en_raw": "No, what you know"
+},
+{
+"n": 83,
+"h": "ef373237",
+"en_raw": "is a mongrel dog"
+},
+{
+"n": 84,
+"h": "11fb3cd5",
+"en_raw": "No, that's not it"
+},
+{
+"n": 85,
+"h": "93abccd9",
+"en_raw": "Um, I read it"
+},
+{
+"n": 86,
+"h": "dfe67132",
+"en_raw": "...Run, Melos"
+},
+{
+"n": 87,
+"h": "d4686e08",
+"en_raw": "So?"
+},
+{
+"n": 88,
+"h": "4260401b",
+"en_raw": "...and I thought it was amazing"
+},
+{
+"n": 89,
+"h": "5c372dcf",
+"en_raw": "What part?"
+},
+{
+"n": 90,
+"h": "fcd2b2e3",
+"en_raw": "Um, well, ha ha"
+},
+{
+"n": 91,
+"h": "2986fb2b",
+"en_raw": "When I look at text"
+},
+{
+"n": 92,
+"h": "eb7238bd",
+"en_raw": "I get drowsy"
+},
+{
+"n": 93,
+"h": "a7fc55ee",
+"en_raw": "So what part"
+},
+{
+"n": 94,
+"h": "6236c833",
+"en_raw": "did you like?"
+},
+{
+"n": 95,
+"h": "a1c95f8e",
+"en_raw": "Um... Senn..."
+},
+{
+"n": 96,
+"h": "c9d5c8c8",
+"en_raw": "Selinuntius"
+},
+{
+"n": 97,
+"h": "f546531c",
+"en_raw": "Right, right, that guy"
+},
+{
+"n": 98,
+"h": "b4997863",
+"en_raw": "His name is hard to read, isn't it?"
+},
+{
+"n": 99,
+"h": "59e04177",
+"en_raw": "Sorry, Inagaki"
+},
+{
+"n": 100,
+"h": "c50faf65",
+"en_raw": "don't talk to me anymore"
+},
+{
+"n": 101,
+"h": "1e04d8e3",
+"en_raw": "I feel like I'd become"
+},
+{
+"n": 102,
+"h": "b1e0e6e1",
+"en_raw": "stupid too..."
+},
+{
+"n": 103,
+"h": "f6c3844b",
+"en_raw": "Sorry, I'll try"
+},
+{
+"n": 104,
+"h": "2a38e718",
+"en_raw": "to improve more..."
+}
+]
+}

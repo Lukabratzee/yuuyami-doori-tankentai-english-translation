@@ -1,0 +1,643 @@
+{
+"file": 410,
+"paths": [
+"d008/d014/f020"
+],
+"lines": [
+{
+"n": 0,
+"h": "eeea2d35",
+"en_raw": "Ah!"
+},
+{
+"n": 1,
+"h": "ec873070",
+"en_raw": "Sango-chan, look, look!"
+},
+{
+"n": 2,
+"h": "1dd74c55",
+"en_raw": "Look, there's the character 'ru'"
+},
+{
+"n": 3,
+"h": "47f7f5e4",
+"en_raw": "The 'ru' of Hirumi is..."
+},
+{
+"n": 4,
+"h": "c9926ff9",
+"en_raw": "The middle character is the same as Kurumi's!"
+},
+{
+"n": 5,
+"h": "c0e1f316",
+"en_raw": "Hey, Sango-chan,"
+},
+{
+"n": 6,
+"h": "adbaeaa2",
+"en_raw": "What does this character mean?"
+},
+{
+"n": 7,
+"h": "8442ba58",
+"en_raw": "This?"
+},
+{
+"n": 8,
+"h": "ebbbf18c",
+"en_raw": "'To stay'..."
+},
+{
+"n": 9,
+"h": "3506f138",
+"en_raw": "Shiina, do you get the meaning?"
+},
+{
+"n": 10,
+"h": "c984f154",
+"en_raw": "...Seriously?"
+},
+{
+"n": 11,
+"h": "4cde5bdf",
+"en_raw": "Even so..."
+},
+{
+"n": 12,
+"h": "49a02f5e",
+"en_raw": "why does only this town's name"
+},
+{
+"n": 13,
+"h": "85e0f3c6",
+"en_raw": "have a character like 'ru' in it"
+},
+{
+"n": 14,
+"h": "55b499f9",
+"en_raw": "Oh my, you don't know?"
+},
+{
+"n": 15,
+"h": "ba9960c4",
+"en_raw": "Hirumi was originally"
+},
+{
+"n": 16,
+"h": "d3ac32cf",
+"en_raw": "written like that"
+},
+{
+"n": 17,
+"h": "3a3cc39a",
+"en_raw": "Um, excuse me"
+},
+{
+"n": 18,
+"h": "6e8a5fe0",
+"en_raw": "What is it?"
+},
+{
+"n": 19,
+"h": "984cac65",
+"en_raw": "Originally it was that name..."
+},
+{
+"n": 20,
+"h": "9ba6675f",
+"en_raw": "What do you mean?"
+},
+{
+"n": 21,
+"h": "92a6611e",
+"en_raw": "This town, you see, was originally"
+},
+{
+"n": 22,
+"h": "35301a0d",
+"en_raw": "To see the evening sun stay..."
+},
+{
+"n": 23,
+"h": "7ac31697",
+"en_raw": "That's why it's written Hirumi"
+},
+{
+"n": 24,
+"h": "8f60f45c",
+"en_raw": "It's a beautiful name, isn't it"
+},
+{
+"n": 25,
+"h": "08c6274f",
+"en_raw": "The 'ru'~ in Kurumi is"
+},
+{
+"n": 26,
+"h": "17140818",
+"en_raw": "this same character!"
+},
+{
+"n": 27,
+"h": "a4cd7ff8",
+"en_raw": "Your name is Kurumi?"
+},
+{
+"n": 28,
+"h": "82e1f995",
+"en_raw": "What an unusual name"
+},
+{
+"n": 29,
+"h": "07872856",
+"en_raw": "Beauty that stays long..."
+},
+{
+"n": 30,
+"h": "af499054",
+"en_raw": "It's a good name"
+},
+{
+"n": 31,
+"h": "8c30e16d",
+"en_raw": "It suits you"
+},
+{
+"n": 32,
+"h": "767b0f2f",
+"en_raw": "I used to like"
+},
+{
+"n": 33,
+"h": "1747e494",
+"en_raw": "I used to like it, but..."
+},
+{
+"n": 34,
+"h": "ebfa5c3d",
+"en_raw": "You know that kind of thing..."
+},
+{
+"n": 35,
+"h": "17ee8efb",
+"en_raw": "Meaning you've lived here a long time?"
+},
+{
+"n": 36,
+"h": "f277ae97",
+"en_raw": "Well, since before"
+},
+{
+"n": 37,
+"h": "ac0399d7",
+"en_raw": "your mother was born"
+},
+{
+"n": 38,
+"h": "0a1b4276",
+"en_raw": "I've been living here"
+},
+{
+"n": 39,
+"h": "94541f87",
+"en_raw": "Then, I'd like to ask"
+},
+{
+"n": 40,
+"h": "9b79fd66",
+"en_raw": "do you know Hanako-san's grave?"
+},
+{
+"n": 41,
+"h": "4abf747d",
+"en_raw": "A grave? Let me think..."
+},
+{
+"n": 42,
+"h": "6b4b4445",
+"en_raw": "Oh, the bus is here"
+},
+{
+"n": 43,
+"h": "7660e693",
+"en_raw": "Well then"
+},
+{
+"n": 44,
+"h": "bf7e5d2c",
+"en_raw": "This river somehow"
+},
+{
+"n": 45,
+"h": "1f977987",
+"en_raw": "feels like the border between city and country"
+},
+{
+"n": 46,
+"h": "ee6e1b8b",
+"en_raw": "Ah, I want to go"
+},
+{
+"n": 47,
+"h": "67795e9d",
+"en_raw": "over to that side too"
+},
+{
+"n": 48,
+"h": "c4c0f898",
+"en_raw": "That old woman isn't here"
+},
+{
+"n": 49,
+"h": "cb0b6fba",
+"en_raw": "Wait / Don't  She wouldn't come every day..."
+},
+{
+"n": 50,
+"h": "e2d4d8af",
+"en_raw": "...It's not like we have other leads"
+},
+{
+"n": 51,
+"h": "90aec621",
+"en_raw": "...Looks like we came too late"
+},
+{
+"n": 52,
+"h": "ebe125c9",
+"en_raw": "Well, well, we meet again"
+},
+{
+"n": 53,
+"h": "ebc40775",
+"en_raw": "Um, around here, is there"
+},
+{
+"n": 54,
+"h": "b327cbc7",
+"en_raw": "a place for Hanako-san's grave?"
+},
+{
+"n": 55,
+"h": "bb7c65f5",
+"en_raw": "I doubt there is, but?"
+},
+{
+"n": 56,
+"h": "c42a6e16",
+"en_raw": "That story again"
+},
+{
+"n": 57,
+"h": "fb2d1ca4",
+"en_raw": "Well, Hanako-san"
+},
+{
+"n": 58,
+"h": "c6efc158",
+"en_raw": "what kind of girl was she"
+},
+{
+"n": 59,
+"h": "76cd8c1f",
+"en_raw": "Um, a little girl, I think"
+},
+{
+"n": 60,
+"h": "80d6af76",
+"en_raw": "She's a yokai like that"
+},
+{
+"n": 61,
+"h": "b3edf3ec",
+"en_raw": "Oh, oh, you mean the Hime Grove"
+},
+{
+"n": 62,
+"h": "e98420da",
+"en_raw": "Oh dear, you"
+},
+{
+"n": 63,
+"h": "894af561",
+"en_raw": "The Hime Grove isn't a grave"
+},
+{
+"n": 64,
+"h": "ec771cba",
+"en_raw": "Well, it might be"
+},
+{
+"n": 65,
+"h": "ed40a00e",
+"en_raw": "a little similar"
+},
+{
+"n": 66,
+"h": "4d38c0bb",
+"en_raw": "...Does it really exist?"
+},
+{
+"n": 67,
+"h": "20b49443",
+"en_raw": "See, if you turn before"
+},
+{
+"n": 68,
+"h": "b830034c",
+"en_raw": "the big hospital there"
+},
+{
+"n": 69,
+"h": "56b02493",
+"en_raw": "there are houses on Furumachi Street"
+},
+{
+"n": 70,
+"h": "a41d8931",
+"en_raw": "and turning at the crossroads toward the river"
+},
+{
+"n": 71,
+"h": "82c7e1f2",
+"en_raw": "it's the Hime Grove"
+},
+{
+"n": 72,
+"h": "756d5506",
+"en_raw": "...Hime-no-Mori?"
+},
+{
+"n": 73,
+"h": "8ceb1922",
+"en_raw": "Is that the name of the place?"
+},
+{
+"n": 74,
+"h": "8225b59d",
+"en_raw": "Long ago, before I was born"
+},
+{
+"n": 75,
+"h": "89ba361c",
+"en_raw": "a very, very old story"
+},
+{
+"n": 76,
+"h": "33ed6f12",
+"en_raw": "You see, this river"
+},
+{
+"n": 77,
+"h": "452af943",
+"en_raw": "now has a fine bridge"
+},
+{
+"n": 78,
+"h": "8c18a01d",
+"en_raw": "...A monorail?"
+},
+{
+"n": 79,
+"h": "9403fb69",
+"en_raw": "They even say they'll run"
+},
+{
+"n": 80,
+"h": "95ac8a98",
+"en_raw": "such a thing, but"
+},
+{
+"n": 81,
+"h": "893231eb",
+"en_raw": "Long, long ago"
+},
+{
+"n": 82,
+"h": "536b5c0e",
+"en_raw": "it often flooded, apparently"
+},
+{
+"n": 83,
+"h": "b8eda5f9",
+"en_raw": "You understand?"
+},
+{
+"n": 84,
+"h": "f87125cc",
+"en_raw": "When it rained"
+},
+{
+"n": 85,
+"h": "f6f41b9a",
+"en_raw": "the river water washed away fields and houses"
+},
+{
+"n": 86,
+"h": "678699ce",
+"en_raw": "So they built"
+},
+{
+"n": 87,
+"h": "6dbc377f",
+"en_raw": "reinforcements around the river"
+},
+{
+"n": 88,
+"h": "2bb5161d",
+"en_raw": "but it didn't go well"
+},
+{
+"n": 89,
+"h": "548ea64c",
+"en_raw": "and in the end, every year"
+},
+{
+"n": 90,
+"h": "dfd33f76",
+"en_raw": "the water overflowed"
+},
+{
+"n": 91,
+"h": "55d2da63",
+"en_raw": "The Hime Grove is"
+},
+{
+"n": 92,
+"h": "38f6b8ec",
+"en_raw": "a shrine enshrining"
+},
+{
+"n": 93,
+"h": "494e9b1f",
+"en_raw": "a little girl"
+},
+{
+"n": 94,
+"h": "a2ed453d",
+"en_raw": "It's a story I often heard"
+},
+{
+"n": 95,
+"h": "97c70c0c",
+"en_raw": "as a child"
+},
+{
+"n": 96,
+"h": "540767a6",
+"en_raw": "It's a frightening"
+},
+{
+"n": 97,
+"h": "62aad48e",
+"en_raw": "and sad story"
+},
+{
+"n": 98,
+"h": "f1ddac9b",
+"en_raw": "It's also known as"
+},
+{
+"n": 99,
+"h": "57549993",
+"en_raw": "human sacrifice"
+},
+{
+"n": 100,
+"h": "aff32d3d",
+"en_raw": "To calm the river"
+},
+{
+"n": 101,
+"h": "08da13b8",
+"en_raw": "along with various offerings"
+},
+{
+"n": 102,
+"h": "cc1052d5",
+"en_raw": "one small, lovely girl"
+},
+{
+"n": 103,
+"h": "e419cf3f",
+"en_raw": "to the bottom of the water..."
+},
+{
+"n": 104,
+"h": "a371aafc",
+"en_raw": "People of old did terrible things"
+},
+{
+"n": 105,
+"h": "cb887e6f",
+"en_raw": "But strangely, since then"
+},
+{
+"n": 106,
+"h": "7e33c714",
+"en_raw": "the river never flooded, they say"
+},
+{
+"n": 107,
+"h": "560b5b6e",
+"en_raw": "So out of gratitude to the girl"
+},
+{
+"n": 108,
+"h": "a457620f",
+"en_raw": "they built a shrine"
+},
+{
+"n": 109,
+"h": "3497a36b",
+"en_raw": "That's the Hime Grove"
+},
+{
+"n": 110,
+"h": "f812b04d",
+"en_raw": "Um, I"
+},
+{
+"n": 111,
+"h": "4efa027e",
+"en_raw": "am in a bit of a hurry"
+},
+{
+"n": 112,
+"h": "8b5dac62",
+"en_raw": "I'm meeting a friend"
+},
+{
+"n": 113,
+"h": "4f5a59f5",
+"en_raw": "at that place"
+},
+{
+"n": 114,
+"h": "a76f8ab6",
+"en_raw": "Could you tell me the location"
+},
+{
+"n": 115,
+"h": "97497771",
+"en_raw": "briefly once more?"
+},
+{
+"n": 116,
+"h": "29a7cc12",
+"en_raw": "If you turn left before the big hospital"
+},
+{
+"n": 117,
+"h": "56b02493",
+"en_raw": "there are houses on Furumachi Street"
+},
+{
+"n": 118,
+"h": "a41d8931",
+"en_raw": "and turning at the crossroads toward the river"
+},
+{
+"n": 119,
+"h": "82c7e1f2",
+"en_raw": "it's the Hime Grove"
+},
+{
+"n": 120,
+"h": "ebd2ccab",
+"en_raw": "Thank you very much"
+},
+{
+"n": 121,
+"h": "7660e693",
+"en_raw": "Well then"
+},
+{
+"n": 122,
+"h": "ed99d5d3",
+"en_raw": "I don't know the road ahead..."
+},
+{
+"n": 123,
+"h": "b5bb2ada",
+"en_raw": "For a walk, this is"
+},
+{
+"n": 124,
+"h": "e7d20466",
+"en_raw": "a bit too far"
+},
+{
+"n": 125,
+"h": "c0e859da",
+"en_raw": "If we go somewhere unfamiliar"
+},
+{
+"n": 126,
+"h": "c1f8d9b5",
+"en_raw": "we won't be able to get home"
+}
+]
+}

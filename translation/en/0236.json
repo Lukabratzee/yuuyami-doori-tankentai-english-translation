@@ -1,0 +1,818 @@
+{
+"file": 236,
+"paths": [
+"d007/d010/f195"
+],
+"lines": [
+{
+"n": 0,
+"h": "8daa7522",
+"en_raw": "Their eyes are big and round"
+},
+{
+"n": 1,
+"h": "44f381f8",
+"en_raw": "they're really cute"
+},
+{
+"n": 2,
+"h": "20d91222",
+"en_raw": "Their teeth are jagged"
+},
+{
+"n": 3,
+"h": "33390815",
+"en_raw": "it's scary"
+},
+{
+"n": 4,
+"h": "e6ace534",
+"en_raw": "They're cute, I said"
+},
+{
+"n": 5,
+"h": "33390815",
+"en_raw": "it's scary"
+},
+{
+"n": 6,
+"h": "e6ace534",
+"en_raw": "They're cute, I said"
+},
+{
+"n": 7,
+"h": "33390815",
+"en_raw": "it's scary"
+},
+{
+"n": 8,
+"h": "b6056933",
+"en_raw": "What, what, include Kurumi too?"
+},
+{
+"n": 9,
+"h": "fb0f5da8",
+"en_raw": "Hey, hey"
+},
+{
+"n": 10,
+"h": "27e33a87",
+"en_raw": "that story from before"
+},
+{
+"n": 11,
+"h": "dcdc08e2",
+"en_raw": "tell Kurumi again?"
+},
+{
+"n": 12,
+"h": "813542bb",
+"en_raw": "Pez, you've seen one, right?"
+},
+{
+"n": 13,
+"h": "5ff5f484",
+"en_raw": "A tanuki"
+},
+{
+"n": 14,
+"h": "08740775",
+"en_raw": "...What was it like?"
+},
+{
+"n": 15,
+"h": "b6056933",
+"en_raw": "What, what, include Kurumi too?"
+},
+{
+"n": 16,
+"h": "ff98e14e",
+"en_raw": "Hey, Pez"
+},
+{
+"n": 17,
+"h": "209eb6a2",
+"en_raw": "Then, have you ever seen"
+},
+{
+"n": 18,
+"h": "bd74df0f",
+"en_raw": "a real tanuki?"
+},
+{
+"n": 19,
+"h": "fb0f5da8",
+"en_raw": "Hey, hey"
+},
+{
+"n": 20,
+"h": "27e33a87",
+"en_raw": "that story from before"
+},
+{
+"n": 21,
+"h": "dcdc08e2",
+"en_raw": "tell Kurumi again?"
+},
+{
+"n": 22,
+"h": "9ce60cd9",
+"en_raw": "Jelly's story from before"
+},
+{
+"n": 23,
+"h": "41d2018c",
+"en_raw": "is all lies"
+},
+{
+"n": 24,
+"h": "87e4968f",
+"en_raw": "Real tanuki"
+},
+{
+"n": 25,
+"h": "5690fca5",
+"en_raw": "are really scary"
+},
+{
+"n": 26,
+"h": "ff98e14e",
+"en_raw": "Hey, Pez"
+},
+{
+"n": 27,
+"h": "518a2bbb",
+"en_raw": "Have you ever seen a tanuki?"
+},
+{
+"n": 28,
+"h": "a05204aa",
+"en_raw": "Yeah, in a picture book"
+},
+{
+"n": 29,
+"h": "08740775",
+"en_raw": "...What was it like?"
+},
+{
+"n": 30,
+"h": "4f8202c2",
+"en_raw": "Hey you, was it"
+},
+{
+"n": 31,
+"h": "ce0c1f10",
+"en_raw": "a face like this?"
+},
+{
+"n": 32,
+"h": "f6f5c3a4",
+"en_raw": "And when the wife stroked her face"
+},
+{
+"n": 33,
+"h": "c095a24f",
+"en_raw": "it turned out to be blank..."
+},
+{
+"n": 34,
+"h": "6cabf6d2",
+"en_raw": "Tanuki tricking people is from folktales"
+},
+{
+"n": 35,
+"h": "95fd4157",
+"en_raw": "What about a real tanuki?"
+},
+{
+"n": 36,
+"h": "ca9885c9",
+"en_raw": "What do you mean, real?"
+},
+{
+"n": 37,
+"h": "090f822e",
+"en_raw": "A moving one"
+},
+{
+"n": 38,
+"h": "7b6c30aa",
+"en_raw": "Kurumi hasn't seen one"
+},
+{
+"n": 39,
+"h": "4d770b1e",
+"en_raw": "Real ones are really cute"
+},
+{
+"n": 40,
+"h": "5be5b446",
+"en_raw": "My mom said so"
+},
+{
+"n": 41,
+"h": "1312d680",
+"en_raw": "Like a cat, a mouse and a panda"
+},
+{
+"n": 42,
+"h": "0fe3aead",
+"en_raw": "added together"
+},
+{
+"n": 43,
+"h": "2eeea7d6",
+"en_raw": "she said they were really cute"
+},
+{
+"n": 44,
+"h": "9d8a4c82",
+"en_raw": "Jelly doesn't know a real one"
+},
+{
+"n": 45,
+"h": "add5a864",
+"en_raw": "The one in front of the soba shop"
+},
+{
+"n": 46,
+"h": "e3877fc5",
+"en_raw": "is a realistic stuffed tanuki"
+},
+{
+"n": 47,
+"h": "baea1d91",
+"en_raw": "It's scary, right, Pez?"
+},
+{
+"n": 48,
+"h": "3912af8f",
+"en_raw": "Kurumi likes that one"
+},
+{
+"n": 49,
+"h": "48fc989c",
+"en_raw": "Cookie, you liar"
+},
+{
+"n": 50,
+"h": "7ded4179",
+"en_raw": "That's not stuffed"
+},
+{
+"n": 51,
+"h": "d22a4019",
+"en_raw": "it's a ceramic Shigaraki one"
+},
+{
+"n": 52,
+"h": "c8bef1f0",
+"en_raw": "But it had the same face"
+},
+{
+"n": 53,
+"h": "b62b4bdd",
+"en_raw": "as the picture in the field guide"
+},
+{
+"n": 54,
+"h": "75a23e4b",
+"en_raw": "That's why the one in the guide is cute"
+},
+{
+"n": 55,
+"h": "06dfbdc7",
+"en_raw": "You don't know anything"
+},
+{
+"n": 56,
+"h": "dbbb1267",
+"en_raw": "Then show me a real one"
+},
+{
+"n": 57,
+"h": "c1f8bf1f",
+"en_raw": "careful"
+},
+{
+"n": 58,
+"h": "1f47cbb5",
+"en_raw": "My mom said she saw one"
+},
+{
+"n": 59,
+"h": "af777754",
+"en_raw": "near Narusawa Housing Complex"
+},
+{
+"n": 60,
+"h": "cc0eaa4f",
+"en_raw": "so let's go see it together sometime?"
+},
+{
+"n": 61,
+"h": "5c7adff2",
+"en_raw": "No way, tanuki are omnivores"
+},
+{
+"n": 62,
+"h": "2249cc91",
+"en_raw": "I don't want to get eaten"
+},
+{
+"n": 63,
+"h": "44a56d02",
+"en_raw": "Tanuki don't eat people"
+},
+{
+"n": 64,
+"h": "b228d6c9",
+"en_raw": "I'm never going to a place"
+},
+{
+"n": 65,
+"h": "6964dbab",
+"en_raw": "where tanuki show up"
+},
+{
+"n": 66,
+"h": "b6101817",
+"en_raw": "Cookie's a young lady"
+},
+{
+"n": 67,
+"h": "e9db4de6",
+"en_raw": "so she's so selfish"
+},
+{
+"n": 68,
+"h": "9b1dc1a7",
+"en_raw": "Geez... what do we do, Pez?"
+},
+{
+"n": 69,
+"h": "cdf21fa4",
+"en_raw": "Then Kurumi will go see"
+},
+{
+"n": 70,
+"h": "f19f180b",
+"en_raw": "Obtained the rumor of Narusawa Housing Complex"
+},
+{
+"n": 71,
+"h": "c4be1394",
+"en_raw": "Hey hey?"
+},
+{
+"n": 72,
+"h": "8a844e63",
+"en_raw": "What if they're really cute?"
+},
+{
+"n": 73,
+"h": "18d445bf",
+"en_raw": "Cookie?"
+},
+{
+"n": 74,
+"h": "b1467bc2",
+"en_raw": "Then what if they're really scary"
+},
+{
+"n": 75,
+"h": "e572daf1",
+"en_raw": "what then, Jelly?"
+},
+{
+"n": 76,
+"h": "b38d0c7a",
+"en_raw": "...You've never actually seen one, right?"
+},
+{
+"n": 77,
+"h": "48fa5a11",
+"en_raw": "They're scary"
+},
+{
+"n": 78,
+"h": "b0ac7d02",
+"en_raw": "No, they're cute"
+},
+{
+"n": 79,
+"h": "a487f7a7",
+"en_raw": "...Fine, I won't go"
+},
+{
+"n": 80,
+"h": "131c23e5",
+"en_raw": "Right, Pez"
+},
+{
+"n": 81,
+"h": "dc7314c7",
+"en_raw": "Geez"
+},
+{
+"n": 82,
+"h": "fa7eba43",
+"en_raw": "...E-I~"
+},
+{
+"n": 83,
+"h": "05661cab",
+"en_raw": "E-I, O~"
+},
+{
+"n": 84,
+"h": "4ade2f18",
+"en_raw": "Green pasture!"
+},
+{
+"n": 85,
+"h": "368f239b",
+"en_raw": "Wrong, it's the Merry Pasture"
+},
+{
+"n": 86,
+"h": "8639080e",
+"en_raw": "Oh, Jelly"
+},
+{
+"n": 87,
+"h": "302ac458",
+"en_raw": "That's right, Cookie"
+},
+{
+"n": 88,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 89,
+"h": "ffcd599d",
+"en_raw": "Hey, what's E-I-O?"
+},
+{
+"n": 90,
+"h": "fbc1ff37",
+"en_raw": "Hey, Jelly"
+},
+{
+"n": 91,
+"h": "68810be3",
+"en_raw": "Should we ignore her?"
+},
+{
+"n": 92,
+"h": "051dcc21",
+"en_raw": "We should ignore her"
+},
+{
+"n": 93,
+"h": "e3700268",
+"en_raw": "Then let's ignore her"
+},
+{
+"n": 94,
+"h": "cb40a747",
+"en_raw": "Yeah, let's ignore her"
+},
+{
+"n": 95,
+"h": "e6b36ec0",
+"en_raw": "Hey hey, what are you doing?"
+},
+{
+"n": 96,
+"h": "c8e16e3f",
+"en_raw": "Spread butter..."
+},
+{
+"n": 97,
+"h": "67bfb448",
+"en_raw": "Add lettuce..."
+},
+{
+"n": 98,
+"h": "5552c888",
+"en_raw": "Add ham too..."
+},
+{
+"n": 99,
+"h": "9dd1a5d3",
+"en_raw": "Put it in the basket..."
+},
+{
+"n": 100,
+"h": "5717e6e6",
+"en_raw": "And then, and then, Cookie"
+},
+{
+"n": 101,
+"h": "1da8d925",
+"en_raw": "bring tea too..."
+},
+{
+"n": 102,
+"h": "9f654048",
+"en_raw": "Hey hey"
+},
+{
+"n": 103,
+"h": "db040bd4",
+"en_raw": "What's that about?"
+},
+{
+"n": 104,
+"h": "2017102d",
+"en_raw": "...Kurumi wants to join too"
+},
+{
+"n": 105,
+"h": "974a8018",
+"en_raw": "Hey, Jelly?"
+},
+{
+"n": 106,
+"h": "fe7978fc",
+"en_raw": "What is it, Cookie?"
+},
+{
+"n": 107,
+"h": "68810be3",
+"en_raw": "Should we ignore her?"
+},
+{
+"n": 108,
+"h": "974a8018",
+"en_raw": "Hey, Jelly?"
+},
+{
+"n": 109,
+"h": "fe7978fc",
+"en_raw": "What is it, Cookie?"
+},
+{
+"n": 110,
+"h": "912f39f7",
+"en_raw": "A weird girl came"
+},
+{
+"n": 111,
+"h": "1c286eba",
+"en_raw": "What do we do?"
+},
+{
+"n": 112,
+"h": "d79659ec",
+"en_raw": "Yeah, what do we do?"
+},
+{
+"n": 113,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 114,
+"h": "214e7bc3",
+"en_raw": "...Giraffe?"
+},
+{
+"n": 115,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 116,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 117,
+"h": "3cc6575a",
+"en_raw": "...Oh, I get it!"
+},
+{
+"n": 118,
+"h": "f33a25b4",
+"en_raw": "It's about food!"
+},
+{
+"n": 119,
+"h": "9c8b5417",
+"en_raw": "Jelly, Cookie, um"
+},
+{
+"n": 120,
+"h": "a68c3757",
+"en_raw": "...Tell me, secretly?"
+},
+{
+"n": 121,
+"h": "37520fde",
+"en_raw": "Kurumi doesn't get it"
+},
+{
+"n": 122,
+"h": "9c3b5b89",
+"en_raw": "Hey, go away!"
+},
+{
+"n": 123,
+"h": "0918fb52",
+"en_raw": "Go away!"
+},
+{
+"n": 124,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 125,
+"h": "6b558282",
+"en_raw": "...Koala?"
+},
+{
+"n": 126,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 127,
+"h": "4f358b5f",
+"en_raw": "...Cola?"
+},
+{
+"n": 128,
+"h": "675ef19a",
+"en_raw": "Something starting with Ko..."
+},
+{
+"n": 129,
+"h": "675ef19a",
+"en_raw": "Something starting with Ko..."
+},
+{
+"n": 130,
+"h": "939233d5",
+"en_raw": "It doesn't have to start with Ko"
+},
+{
+"n": 131,
+"h": "34adaf37",
+"en_raw": "Jelly, Jelly, Cookie, Cookie"
+},
+{
+"n": 132,
+"h": "34adaf37",
+"en_raw": "Jelly, Jelly, Cookie, Cookie"
+},
+{
+"n": 133,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 134,
+"h": "a32757fa",
+"en_raw": "...Match?"
+},
+{
+"n": 135,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 136,
+"h": "ea958d4a",
+"en_raw": "...Lotte?"
+},
+{
+"n": 137,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 138,
+"h": "da5f6c49",
+"en_raw": "...Pez?"
+},
+{
+"n": 139,
+"h": "775a5822",
+"en_raw": "Pez, I'm Cookie"
+},
+{
+"n": 140,
+"h": "25add41f",
+"en_raw": "Nice to meet you"
+},
+{
+"n": 141,
+"h": "f7d409fe",
+"en_raw": "Pez, I'm Jelly"
+},
+{
+"n": 142,
+"h": "84228bce",
+"en_raw": "...Not Zelly"
+},
+{
+"n": 143,
+"h": "a538af34",
+"en_raw": "It's Jelly, okay?"
+},
+{
+"n": 144,
+"h": "7c3abe94",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 145,
+"h": "57da40d5",
+"en_raw": "Pez?"
+},
+{
+"n": 146,
+"h": "0774ffcc",
+"en_raw": "Yeah"
+},
+{
+"n": 147,
+"h": "5ba4bcbd",
+"en_raw": "...That's right"
+},
+{
+"n": 148,
+"h": "1136b586",
+"en_raw": "Nice to meet you, Pez"
+},
+{
+"n": 149,
+"h": "ea53bf7e",
+"en_raw": "Let's be friends, Pez"
+},
+{
+"n": 150,
+"h": "12020a72",
+"en_raw": "I'm here~"
+},
+{
+"n": 151,
+"h": "12acd094",
+"en_raw": "Ni hao, Pez"
+},
+{
+"n": 152,
+"h": "11fc0cb8",
+"en_raw": "Who am I?"
+},
+{
+"n": 153,
+"h": "4da30a76",
+"en_raw": "Um, you're Jelly-chan"
+},
+{
+"n": 154,
+"h": "b550a4bd",
+"en_raw": "Correct"
+},
+{
+"n": 155,
+"h": "ff3455df",
+"en_raw": "Amore, Pez"
+},
+{
+"n": 156,
+"h": "11fc0cb8",
+"en_raw": "Who am I?"
+},
+{
+"n": 157,
+"h": "4f026046",
+"en_raw": "You're Cookie-chan"
+},
+{
+"n": 158,
+"h": "b550a4bd",
+"en_raw": "Correct"
+},
+{
+"n": 159,
+"h": "3c9f2827",
+"en_raw": "We're best friends, right?"
+},
+{
+"n": 160,
+"h": "a058589a",
+"en_raw": "...Right?"
+},
+{
+"n": 161,
+"h": "2c7a30cf",
+"en_raw": "Yeah, best friends!"
+}
+]
+}

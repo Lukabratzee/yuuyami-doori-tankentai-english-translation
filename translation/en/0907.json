@@ -1,0 +1,558 @@
+{
+"file": 907,
+"paths": [
+"d008/d094/f020"
+],
+"lines": [
+{
+"n": 0,
+"h": "9ae49854",
+"en_raw": "Whoa"
+},
+{
+"n": 1,
+"h": "f73d257c",
+"en_raw": "Footing might be dangerous..."
+},
+{
+"n": 2,
+"h": "0495faa1",
+"en_raw": "Huh, looks like you can go in"
+},
+{
+"n": 3,
+"h": "9da1cb42",
+"en_raw": "...Pitch dark"
+},
+{
+"n": 4,
+"h": "205ee5c8",
+"en_raw": "What's it like inside"
+},
+{
+"n": 5,
+"h": "0bd260de",
+"en_raw": "Go in / Skip it  Feels kind of risky, but..."
+},
+{
+"n": 6,
+"h": "8759553e",
+"en_raw": "It's a little too dicey"
+},
+{
+"n": 7,
+"h": "594e289e",
+"en_raw": "Shiina, where's the child?"
+},
+{
+"n": 8,
+"h": "5a0cdf3e",
+"en_raw": "...In the hole"
+},
+{
+"n": 9,
+"h": "79aa0289",
+"en_raw": "Should I go in and look..."
+},
+{
+"n": 10,
+"h": "b563f0c0",
+"en_raw": "Have to look / Not my business  Can't be helped"
+},
+{
+"n": 11,
+"h": "e24a039f",
+"en_raw": "I'm not feeling it, but..."
+},
+{
+"n": 12,
+"h": "092c5c5f",
+"en_raw": "It's not a place"
+},
+{
+"n": 13,
+"h": "3d18dec9",
+"en_raw": "a child could enter alone... yeah"
+},
+{
+"n": 14,
+"h": "3a3cc39a",
+"en_raw": "Um, excuse me"
+},
+{
+"n": 15,
+"h": "1fb45d7e",
+"en_raw": "My child, my child..."
+},
+{
+"n": 16,
+"h": "fa12c666",
+"en_raw": "what happened?"
+},
+{
+"n": 17,
+"h": "0465bf6f",
+"en_raw": "My child went in here"
+},
+{
+"n": 18,
+"h": "ffe83c56",
+"en_raw": "and disappeared"
+},
+{
+"n": 19,
+"h": "07f5e914",
+"en_raw": "Have you seen her?"
+},
+{
+"n": 20,
+"h": "dfb3c2d0",
+"en_raw": "Do you know?"
+},
+{
+"n": 21,
+"h": "a0dda496",
+"en_raw": "Please"
+},
+{
+"n": 22,
+"h": "fe659c33",
+"en_raw": "tell me"
+},
+{
+"n": 23,
+"h": "3a146edd",
+"en_raw": "Don't tell me..."
+},
+{
+"n": 24,
+"h": "af4ae051",
+"en_raw": "Hey, you two"
+},
+{
+"n": 25,
+"h": "011b4d81",
+"en_raw": "have you seen her anywhere?"
+},
+{
+"n": 26,
+"h": "c2275629",
+"en_raw": "Did you perhaps see her?"
+},
+{
+"n": 27,
+"h": "13477f0c",
+"en_raw": "Please, tell me"
+},
+{
+"n": 28,
+"h": "e6ba7990",
+"en_raw": "Then what Shiina said"
+},
+{
+"n": 29,
+"h": "95bfc55c",
+"en_raw": "was true..."
+},
+{
+"n": 30,
+"h": "6b689b71",
+"en_raw": "A little kid"
+},
+{
+"n": 31,
+"h": "0e2fe0b9",
+"en_raw": "in the hole here"
+},
+{
+"n": 32,
+"h": "6e159956",
+"en_raw": "I wondered, and it was true"
+},
+{
+"n": 33,
+"h": "52699587",
+"en_raw": "What should I do..."
+},
+{
+"n": 34,
+"h": "893c46f8",
+"en_raw": "What should I do..."
+},
+{
+"n": 35,
+"h": "3eb4a228",
+"en_raw": "This is exactly when"
+},
+{
+"n": 36,
+"h": "2c55ffea",
+"en_raw": "the police would be useful"
+},
+{
+"n": 37,
+"h": "4ffd6744",
+"en_raw": "They were in that building over there"
+},
+{
+"n": 38,
+"h": "e4e7a2fe",
+"en_raw": "I'll go get them"
+},
+{
+"n": 39,
+"h": "ae70b520",
+"en_raw": "...Police?"
+},
+{
+"n": 40,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 41,
+"h": "a1440197",
+"en_raw": "It's not such a big deal"
+},
+{
+"n": 42,
+"h": "ebb79fbd",
+"en_raw": "she just got lost"
+},
+{
+"n": 43,
+"h": "6bdb666e",
+"en_raw": "that's all"
+},
+{
+"n": 44,
+"h": "21bf3e73",
+"en_raw": "...What is it?"
+},
+{
+"n": 45,
+"h": "33cc0771",
+"en_raw": "Getting lost in a department store"
+},
+{
+"n": 46,
+"h": "948fd9ea",
+"en_raw": "is a different matter"
+},
+{
+"n": 47,
+"h": "15a60091",
+"en_raw": "Yes, that's right"
+},
+{
+"n": 48,
+"h": "7b00ef06",
+"en_raw": "if something happened to my child"
+},
+{
+"n": 49,
+"h": "4ec2b8e1",
+"en_raw": "what would my husband say..."
+},
+{
+"n": 50,
+"h": "a06f3fbc",
+"en_raw": "That's why I'm getting the police now..."
+},
+{
+"n": 51,
+"h": "44711d1a",
+"en_raw": "...No!"
+},
+{
+"n": 52,
+"h": "59306127",
+"en_raw": "Hey, you, could you"
+},
+{
+"n": 53,
+"h": "0bd65264",
+"en_raw": "look in that hole?"
+},
+{
+"n": 54,
+"h": "c48a0a7b",
+"en_raw": "Wait a second"
+},
+{
+"n": 55,
+"h": "cc2188d8",
+"en_raw": "A mere middle schooler I don't know"
+},
+{
+"n": 56,
+"h": "79bb28d6",
+"en_raw": "and you want me to go?"
+},
+{
+"n": 57,
+"h": "5fafff26",
+"en_raw": "She must be"
+},
+{
+"n": 58,
+"h": "81bf96cd",
+"en_raw": "She must be scared..."
+},
+{
+"n": 59,
+"h": "a8028fc8",
+"en_raw": "Better than an adult going, right?"
+},
+{
+"n": 60,
+"h": "df13b735",
+"en_raw": "I'll thank you properly"
+},
+{
+"n": 61,
+"h": "eb1c2fe6",
+"en_raw": "What you're saying"
+},
+{
+"n": 62,
+"h": "174e1202",
+"en_raw": "is a mess"
+},
+{
+"n": 63,
+"h": "bdf9c109",
+"en_raw": "Please!"
+},
+{
+"n": 64,
+"h": "3623265a",
+"en_raw": "There's a police officer"
+},
+{
+"n": 65,
+"h": "291f7d01",
+"en_raw": "right there, I said!"
+},
+{
+"n": 66,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 67,
+"h": "0bc98d52",
+"en_raw": "A child's life is at stake"
+},
+{
+"n": 68,
+"h": "d054d724",
+"en_raw": "you heartless..."
+},
+{
+"n": 69,
+"h": "cec07b81",
+"en_raw": "I'm asking you so much"
+},
+{
+"n": 70,
+"h": "1f8fcc21",
+"en_raw": "and you won't look?"
+},
+{
+"n": 71,
+"h": "955b1d34",
+"en_raw": "Fine"
+},
+{
+"n": 72,
+"h": "2c87b1e8",
+"en_raw": "Fine, I'll go!"
+},
+{
+"n": 73,
+"h": "6686b1bc",
+"en_raw": "Understood"
+},
+{
+"n": 74,
+"h": "af5e7358",
+"en_raw": "asking you"
+},
+{
+"n": 75,
+"h": "4b06d79f",
+"en_raw": "was a mistake..."
+},
+{
+"n": 76,
+"h": "f3439afd",
+"en_raw": "That's why this"
+},
+{
+"n": 77,
+"h": "d291bf09",
+"en_raw": "isn't a middle schooler's job"
+},
+{
+"n": 78,
+"h": "a2b74112",
+"en_raw": "it's a police job"
+},
+{
+"n": 79,
+"h": "02df979b",
+"en_raw": "Sorry"
+},
+{
+"n": 80,
+"h": "dcc678f1",
+"en_raw": "I'm a bit..."
+},
+{
+"n": 81,
+"h": "372ea9b3",
+"en_raw": "Wait!"
+},
+{
+"n": 82,
+"h": "9a4a32c8",
+"en_raw": "The same scenery as five years ago..."
+},
+{
+"n": 83,
+"h": "824e5991",
+"en_raw": "Ah, what a horrible place"
+},
+{
+"n": 84,
+"h": "500919b5",
+"en_raw": "I wish they'd tear it down quick"
+},
+{
+"n": 85,
+"h": "cad89998",
+"en_raw": "Um"
+},
+{
+"n": 86,
+"h": "f0508c71",
+"en_raw": "Please"
+},
+{
+"n": 87,
+"h": "cc3591bc",
+"en_raw": "find my child quickly!"
+},
+{
+"n": 88,
+"h": "f0508c71",
+"en_raw": "Please"
+},
+{
+"n": 89,
+"h": "cc3591bc",
+"en_raw": "find my child quickly!"
+},
+{
+"n": 90,
+"h": "bf8f8fc0",
+"en_raw": "Wait!"
+},
+{
+"n": 91,
+"h": "98c82cc0",
+"en_raw": "I have to go help..."
+},
+{
+"n": 92,
+"h": "22d5ea36",
+"en_raw": "Go in / Skip it  Ugh, why do I have to"
+},
+{
+"n": 93,
+"h": "292046d3",
+"en_raw": "do this..."
+},
+{
+"n": 94,
+"h": "030068df",
+"en_raw": "...It's not for me"
+},
+{
+"n": 95,
+"h": "d27e7971",
+"en_raw": "to step in after all"
+},
+{
+"n": 96,
+"h": "65341ee4",
+"en_raw": "You were lying unconscious inside"
+},
+{
+"n": 97,
+"h": "41d2da51",
+"en_raw": "If I hadn't gone"
+},
+{
+"n": 98,
+"h": "f98930ae",
+"en_raw": "what would have happened by now!"
+},
+{
+"n": 99,
+"h": "84602f8f",
+"en_raw": "How can I ever thank you..."
+},
+{
+"n": 100,
+"h": "a4c4885a",
+"en_raw": "Thank you..."
+},
+{
+"n": 101,
+"h": "1f0438da",
+"en_raw": "What, what's wrong?"
+},
+{
+"n": 102,
+"h": "1459ff02",
+"en_raw": "...No"
+},
+{
+"n": 103,
+"h": "aa948dcf",
+"en_raw": "This child isn't mine"
+},
+{
+"n": 104,
+"h": "a35b201a",
+"en_raw": "Hey, where's my child?"
+},
+{
+"n": 105,
+"h": "3e6e2247",
+"en_raw": "I have to find her quick..."
+},
+{
+"n": 106,
+"h": "aee08ac2",
+"en_raw": "Hey, Nao"
+},
+{
+"n": 107,
+"h": "0901e743",
+"en_raw": "what do we do with this child?"
+},
+{
+"n": 108,
+"h": "357c5f69",
+"en_raw": "...Shall we leave her"
+},
+{
+"n": 109,
+"h": "5bf967f1",
+"en_raw": "with the officer?"
+}
+]
+}

@@ -1,0 +1,978 @@
+{
+"file": 12,
+"paths": [
+"d002/f603"
+],
+"lines": [
+{
+"n": 0,
+"h": "05f87fbc",
+"en_raw": "...The taste of people?"
+},
+{
+"n": 1,
+"h": "d3d8bfb0",
+"en_raw": "Soy sauce on pudding"
+},
+{
+"n": 2,
+"h": "d408f81b",
+"en_raw": "tastes like sea urchin, I know that"
+},
+{
+"n": 3,
+"h": "302f52f6",
+"en_raw": "That's apparently how she answered"
+},
+{
+"n": 4,
+"h": "23d70f47",
+"en_raw": "So she's called"
+},
+{
+"n": 5,
+"h": "ef4bcf88",
+"en_raw": "Soy Sauce Granny"
+},
+{
+"n": 6,
+"h": "ab23e444",
+"en_raw": "Huh, so that's the underpass's"
+},
+{
+"n": 7,
+"h": "d0e30cfe",
+"en_raw": "new monster"
+},
+{
+"n": 8,
+"h": "ad98630a",
+"en_raw": "They say she sings weird songs"
+},
+{
+"n": 9,
+"h": "a296e9d4",
+"en_raw": "and carries a kitchen knife too..."
+},
+{
+"n": 10,
+"h": "187ef6e6",
+"en_raw": "Why isn't she arrested?"
+},
+{
+"n": 11,
+"h": "154a0787",
+"en_raw": "Maybe it's because she hasn't"
+},
+{
+"n": 12,
+"h": "b441fa2f",
+"en_raw": "done anything wrong"
+},
+{
+"n": 13,
+"h": "19a39ce7",
+"en_raw": "A knife big enough to butcher a person"
+},
+{
+"n": 14,
+"h": "26ddc2e1",
+"en_raw": "would be a weapons law violation..."
+},
+{
+"n": 15,
+"h": "5cad8419",
+"en_raw": "Anyway, there are students"
+},
+{
+"n": 16,
+"h": "fca21180",
+"en_raw": "who are scared, right?"
+},
+{
+"n": 17,
+"h": "c8e81d3f",
+"en_raw": "Someone should do something"
+},
+{
+"n": 18,
+"h": "056590af",
+"en_raw": "Yeah, and Nishi said"
+},
+{
+"n": 19,
+"h": "101ab94b",
+"en_raw": "he'd drive her out"
+},
+{
+"n": 20,
+"h": "25dce7e3",
+"en_raw": "Wow! As expected of Takayuki Nishi"
+},
+{
+"n": 21,
+"h": "1977679c",
+"en_raw": "Nao, you could learn from him a bit"
+},
+{
+"n": 22,
+"h": "8f0ef26e",
+"en_raw": "Yeah..."
+},
+{
+"n": 23,
+"h": "f041421c",
+"en_raw": "Not 'yeah' - say 'yes'"
+},
+{
+"n": 24,
+"h": "651fcc33",
+"en_raw": "Got it? Then"
+},
+{
+"n": 25,
+"h": "04e7201d",
+"en_raw": "let's go peek at that underpass"
+},
+{
+"n": 26,
+"h": "22d8d89a",
+"en_raw": "before Nishi drives"
+},
+{
+"n": 27,
+"h": "0fe14ace",
+"en_raw": "Soy Sauce Granny out"
+},
+{
+"n": 28,
+"h": "b331ac99",
+"en_raw": "...Even so"
+},
+{
+"n": 29,
+"h": "a504ac2c",
+"en_raw": "that underpass again?"
+},
+{
+"n": 30,
+"h": "abc35567",
+"en_raw": "Since Melos won't"
+},
+{
+"n": 31,
+"h": "18991255",
+"en_raw": "go in there,"
+},
+{
+"n": 32,
+"h": "6506da15",
+"en_raw": "it's effectively closed off"
+},
+{
+"n": 33,
+"h": "b2044ca7",
+"en_raw": "Hurry up and renovate it already"
+},
+{
+"n": 34,
+"h": "f52cd6fc",
+"en_raw": "Some 'I'll drive her out'"
+},
+{
+"n": 35,
+"h": "8b5e4ebb",
+"en_raw": "Takayuki Nishi is all talk"
+},
+{
+"n": 36,
+"h": "dfc01b71",
+"en_raw": "What do we do?"
+},
+{
+"n": 37,
+"h": "0f568f60",
+"en_raw": "Obviously, we go"
+},
+{
+"n": 38,
+"h": "0ed53abe",
+"en_raw": "I'll drive her out myself"
+},
+{
+"n": 39,
+"h": "305b4dcb",
+"en_raw": "If she's a man-eating old woman"
+},
+{
+"n": 40,
+"h": "0d8ba90b",
+"en_raw": "like the rumor says"
+},
+{
+"n": 41,
+"h": "c1804a24",
+"en_raw": "Hey, that huge kitchen knife"
+},
+{
+"n": 42,
+"h": "103a61b6",
+"en_raw": "Yeah, I saw it too"
+},
+{
+"n": 43,
+"h": "e2272082",
+"en_raw": "So, with that, I..."
+},
+{
+"n": 44,
+"h": "c16a5149",
+"en_raw": "almost got eaten,"
+},
+{
+"n": 45,
+"h": "eb8d8837",
+"en_raw": "is that what you're saying?"
+},
+{
+"n": 46,
+"h": "03e5debd",
+"en_raw": "Well"
+},
+{
+"n": 47,
+"h": "701e3a6d",
+"en_raw": "Calm down, Nao"
+},
+{
+"n": 48,
+"h": "586547cb",
+"en_raw": "There's no such thing"
+},
+{
+"n": 49,
+"h": "efe67ff8",
+"en_raw": "as a man-eating granny"
+},
+{
+"n": 50,
+"h": "e4f3512b",
+"en_raw": "Think calmly, realistically"
+},
+{
+"n": 51,
+"h": "1e07ad4a",
+"en_raw": "and logically"
+},
+{
+"n": 52,
+"h": "be1aa80c",
+"en_raw": "But... a bit..."
+},
+{
+"n": 53,
+"h": "172e5806",
+"en_raw": "I'll pass on this place now"
+},
+{
+"n": 54,
+"h": "55d52abd",
+"en_raw": "...That person, the black thing"
+},
+{
+"n": 55,
+"h": "39e7b2c9",
+"en_raw": "on her back, I can't stand it"
+},
+{
+"n": 56,
+"h": "ccd6def2",
+"en_raw": "I'll expose her true identity"
+},
+{
+"n": 57,
+"h": "d607f747",
+"en_raw": "What's with Soy Sauce Granny?"
+},
+{
+"n": 58,
+"h": "1814f735",
+"en_raw": "That's cheating!"
+},
+{
+"n": 59,
+"h": "b7f1023a",
+"en_raw": "It was really creepy, wasn't it?"
+},
+{
+"n": 60,
+"h": "a5eaf7dc",
+"en_raw": "Let's stop going"
+},
+{
+"n": 61,
+"h": "6f89e6ef",
+"en_raw": "...I disagree"
+},
+{
+"n": 62,
+"h": "9854bd86",
+"en_raw": "I won't forgive that!"
+},
+{
+"n": 63,
+"h": "c18593e3",
+"en_raw": "But how do we"
+},
+{
+"n": 64,
+"h": "ebcd53bf",
+"en_raw": "drive her out?"
+},
+{
+"n": 65,
+"h": "76a8683d",
+"en_raw": "Kurumi, you see, can't stand"
+},
+{
+"n": 66,
+"h": "64273525",
+"en_raw": "the black thing on that person's back"
+},
+{
+"n": 67,
+"h": "313bf3fc",
+"en_raw": "Stop saying weird things"
+},
+{
+"n": 68,
+"h": "c2612e7c",
+"en_raw": "and suggest a way to repel her, Shiina"
+},
+{
+"n": 69,
+"h": "ae27ea85",
+"en_raw": "Sango, that old lady"
+},
+{
+"n": 70,
+"h": "09853634",
+"en_raw": "really is..."
+},
+{
+"n": 71,
+"h": "569d83ce",
+"en_raw": "Did she do anything to us?"
+},
+{
+"n": 72,
+"h": "f59280b8",
+"en_raw": "Our eyes just met"
+},
+{
+"n": 73,
+"h": "043bdde8",
+"en_raw": "But I couldn't move..."
+},
+{
+"n": 74,
+"h": "fd780347",
+"en_raw": "Like being bound..."
+},
+{
+"n": 75,
+"h": "472ee991",
+"en_raw": "It's your imagination"
+},
+{
+"n": 76,
+"h": "536d7c1c",
+"en_raw": "So we just leave it?"
+},
+{
+"n": 77,
+"h": "48749c3c",
+"en_raw": "Yeah, leave it"
+},
+{
+"n": 78,
+"h": "1c13aa3e",
+"en_raw": "I don't want to remember"
+},
+{
+"n": 79,
+"h": "185610ed",
+"en_raw": "that soy sauce smell"
+},
+{
+"n": 80,
+"h": "36320dcc",
+"en_raw": "It makes me nauseous"
+},
+{
+"n": 81,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 82,
+"h": "65cf17e2",
+"en_raw": "What's wrong, even Shiina?"
+},
+{
+"n": 83,
+"h": "11bd8bd7",
+"en_raw": "Kurumi feels weird"
+},
+{
+"n": 84,
+"h": "1741509f",
+"en_raw": "It's okay, I promise"
+},
+{
+"n": 85,
+"h": "38c0b3ed",
+"en_raw": "Sango and I"
+},
+{
+"n": 86,
+"h": "f109f474",
+"en_raw": "won't go there anymore"
+},
+{
+"n": 87,
+"h": "6ec90532",
+"en_raw": "Yeah, Kurumi doesn't want to go"
+},
+{
+"n": 88,
+"h": "30d5ac69",
+"en_raw": "But..."
+},
+{
+"n": 89,
+"h": "06f07da9",
+"en_raw": "But what?"
+},
+{
+"n": 90,
+"h": "07952de8",
+"en_raw": "Did you lose something?"
+},
+{
+"n": 91,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 92,
+"h": "d4d24fe7",
+"en_raw": "Don't tell me that hag"
+},
+{
+"n": 93,
+"h": "dcdfe5e2",
+"en_raw": "did something to you?"
+},
+{
+"n": 94,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 95,
+"h": "812ac358",
+"en_raw": "I can't tell if you stay silent"
+},
+{
+"n": 96,
+"h": "81813036",
+"en_raw": "Sango"
+},
+{
+"n": 97,
+"h": "06f4a424",
+"en_raw": "Yeah, it's fine now..."
+},
+{
+"n": 98,
+"h": "62a6cfbf",
+"en_raw": "Kurumi doesn't want to go"
+},
+{
+"n": 99,
+"h": "295afef7",
+"en_raw": "but not going is bad too"
+},
+{
+"n": 100,
+"h": "b49c63fa",
+"en_raw": "?"
+},
+{
+"n": 101,
+"h": "40b8a0b1",
+"en_raw": "Shiina is definitely weird"
+},
+{
+"n": 102,
+"h": "fc696215",
+"en_raw": "Something with that old lady..."
+},
+{
+"n": 103,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 104,
+"h": "27ad0f8f",
+"en_raw": "Nao, you're persistent"
+},
+{
+"n": 105,
+"h": "e6266a36",
+"en_raw": "She says it's fine"
+},
+{
+"n": 106,
+"h": "1a5d879b",
+"en_raw": "so it's fine"
+},
+{
+"n": 107,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 108,
+"h": "733438f9",
+"en_raw": "...Even if something happened"
+},
+{
+"n": 109,
+"h": "3e2d9470",
+"en_raw": "that's"
+},
+{
+"n": 110,
+"h": "be739f04",
+"en_raw": "something only Shiina knows"
+},
+{
+"n": 111,
+"h": "129e0586",
+"en_raw": "Melos came for me"
+},
+{
+"n": 112,
+"h": "3c618d1e",
+"en_raw": "I don't really get it, but"
+},
+{
+"n": 113,
+"h": "85345ce3",
+"en_raw": "he slipped his leash and"
+},
+{
+"n": 114,
+"h": "b071c656",
+"en_raw": "dashed under the tracks"
+},
+{
+"n": 115,
+"h": "e3fcbb1e",
+"en_raw": "Shiina, what on earth"
+},
+{
+"n": 116,
+"h": "9f2dc6db",
+"en_raw": "did you do?"
+},
+{
+"n": 117,
+"h": "52a7bf4a",
+"en_raw": "Yeah, to get it back"
+},
+{
+"n": 118,
+"h": "e6fb2c74",
+"en_raw": "I don't understand anything..."
+},
+{
+"n": 119,
+"h": "8acee47c",
+"en_raw": "But I got it back"
+},
+{
+"n": 120,
+"h": "9b1e174a",
+"en_raw": "Kurumi's treasure"
+},
+{
+"n": 121,
+"h": "a45701cc",
+"en_raw": "I said I don't understand"
+},
+{
+"n": 122,
+"h": "103c57e9",
+"en_raw": "Whatever, she's safe"
+},
+{
+"n": 123,
+"h": "3809005c",
+"en_raw": "Let's talk about this again"
+},
+{
+"n": 124,
+"h": "ee3672d4",
+"en_raw": "tomorrow"
+},
+{
+"n": 125,
+"h": "0d7c28fe",
+"en_raw": "Kurumi is fine now"
+},
+{
+"n": 126,
+"h": "be4cbadc",
+"en_raw": "Did Melos really"
+},
+{
+"n": 127,
+"h": "b754a213",
+"en_raw": "beat Soy Sauce Granny?"
+},
+{
+"n": 128,
+"h": "a33f174c",
+"en_raw": "No way!"
+},
+{
+"n": 129,
+"h": "6faac288",
+"en_raw": "This dog has no such"
+},
+{
+"n": 130,
+"h": "24682917",
+"en_raw": "guts"
+},
+{
+"n": 131,
+"h": "edb87d8b",
+"en_raw": "It's true, I love Melos"
+},
+{
+"n": 132,
+"h": "ab9d21b7",
+"en_raw": "But since then"
+},
+{
+"n": 133,
+"h": "648fb809",
+"en_raw": "she's apparently gone"
+},
+{
+"n": 134,
+"h": "32fdf53a",
+"en_raw": "that old lady..."
+},
+{
+"n": 135,
+"h": "cba9a5be",
+"en_raw": "Melos's silver bell"
+},
+{
+"n": 136,
+"h": "60823d81",
+"en_raw": "...Huh? It's gone"
+},
+{
+"n": 137,
+"h": "aebeffbb",
+"en_raw": "I just remembered"
+},
+{
+"n": 138,
+"h": "c31e4b34",
+"en_raw": "I think I've seen"
+},
+{
+"n": 139,
+"h": "a68ab459",
+"en_raw": "that old lady before"
+},
+{
+"n": 140,
+"h": "c48e0287",
+"en_raw": "Last year or the year before"
+},
+{
+"n": 141,
+"h": "cd95609c",
+"en_raw": "at Tachikawa Station"
+},
+{
+"n": 142,
+"h": "8e15a02e",
+"en_raw": "in the next town, under the tracks..."
+},
+{
+"n": 143,
+"h": "8d3cd9f4",
+"en_raw": "Yes, that was definitely her"
+},
+{
+"n": 144,
+"h": "e682b63f",
+"en_raw": "Where is she now?"
+},
+{
+"n": 145,
+"h": "5823a046",
+"en_raw": "Maybe Melos injured"
+},
+{
+"n": 146,
+"h": "6f0d0048",
+"en_raw": "her..."
+},
+{
+"n": 147,
+"h": "e3518ef9",
+"en_raw": "You're so serious"
+},
+{
+"n": 148,
+"h": "cee60c9f",
+"en_raw": "You're overthinking it"
+},
+{
+"n": 149,
+"h": "2e2afecf",
+"en_raw": "But it bugs me"
+},
+{
+"n": 150,
+"h": "6fa4a5c8",
+"en_raw": "The police might know"
+},
+{
+"n": 151,
+"h": "e6c75b5e",
+"en_raw": "something"
+},
+{
+"n": 152,
+"h": "953b5177",
+"en_raw": "Let's ask them"
+},
+{
+"n": 153,
+"h": "79e8a908",
+"en_raw": "Hey hey, Nao"
+},
+{
+"n": 154,
+"h": "85828994",
+"en_raw": "Going to the police to find out"
+},
+{
+"n": 155,
+"h": "a6023a8a",
+"en_raw": "about Soy Sauce Granny is fine, but"
+},
+{
+"n": 156,
+"h": "3cc88a8e",
+"en_raw": "if they say the dog bite was the cause"
+},
+{
+"n": 157,
+"h": "9fb220dc",
+"en_raw": "and she died"
+},
+{
+"n": 158,
+"h": "103cb5e3",
+"en_raw": "Sango?"
+},
+{
+"n": 159,
+"h": "669463fc",
+"en_raw": "I don't know..."
+},
+{
+"n": 160,
+"h": "da618d45",
+"en_raw": "Let's keep quiet about Melos, okay"
+},
+{
+"n": 161,
+"h": "4bb3ee72",
+"en_raw": "It was Soy Sauce Granny, right?"
+},
+{
+"n": 162,
+"h": "df1c9c25",
+"en_raw": "Who went under the tracks"
+},
+{
+"n": 163,
+"h": "38776482",
+"en_raw": "But I may have seen wrong..."
+},
+{
+"n": 164,
+"h": "103b1b8f",
+"en_raw": "Anyway, let's go!"
+},
+{
+"n": 165,
+"h": "65d1630c",
+"en_raw": "What if we hear that song?"
+},
+{
+"n": 166,
+"h": "92e39fe7",
+"en_raw": "Soy Sauce is gone..."
+},
+{
+"n": 167,
+"h": "18489691",
+"en_raw": "But Sango, you saw her before"
+},
+{
+"n": 168,
+"h": "f1bb19d2",
+"en_raw": "at Tachikawa Station, right?"
+},
+{
+"n": 169,
+"h": "ad8a3899",
+"en_raw": "I might just have thought so"
+},
+{
+"n": 170,
+"h": "7d0ac507",
+"en_raw": "Tachikawa is the next city, right?"
+},
+{
+"n": 171,
+"h": "9b09cd7b",
+"en_raw": "Why did she come to Hirumi?"
+},
+{
+"n": 172,
+"h": "9c515849",
+"en_raw": "No"
+},
+{
+"n": 173,
+"h": "dbb6f288",
+"en_raw": "Where did she go?"
+},
+{
+"n": 174,
+"h": "32346ae3",
+"en_raw": "Hachioji, maybe?"
+},
+{
+"n": 175,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 176,
+"h": "c44c240d",
+"en_raw": "One night, one night, the taste of man"
+},
+{
+"n": 177,
+"h": "6504db5e",
+"en_raw": "Soy Sauce Granny, huh..."
+},
+{
+"n": 178,
+"h": "44fa11bc",
+"en_raw": "What did she put soy sauce on"
+},
+{
+"n": 179,
+"h": "2c6d5bbc",
+"en_raw": "to make it taste like people?"
+},
+{
+"n": 180,
+"h": "625633a5",
+"en_raw": "Anyway"
+},
+{
+"n": 181,
+"h": "00e89d25",
+"en_raw": "She's gone from this town now"
+},
+{
+"n": 182,
+"h": "960874e4",
+"en_raw": "Knowing that is a bit of a relief"
+},
+{
+"n": 183,
+"h": "266dc60d",
+"en_raw": "Thanks to Shiina and Melos"
+},
+{
+"n": 184,
+"h": "6e76a087",
+"en_raw": "I guess..."
+},
+{
+"n": 185,
+"h": "bc61b3f9",
+"en_raw": "Yeah, and thanks to Kasuka-chan"
+},
+{
+"n": 186,
+"h": "442714b1",
+"en_raw": "too"
+},
+{
+"n": 187,
+"h": "427445bf",
+"en_raw": "Solved the rumor of Soy Sauce Granny"
+},
+{
+"n": 188,
+"h": "c436698b",
+"en_raw": "Still, the underpass is still"
+},
+{
+"n": 189,
+"h": "354992e2",
+"en_raw": "a scary underpass"
+},
+{
+"n": 190,
+"h": "8a4787a3",
+"en_raw": "That place's rumors"
+},
+{
+"n": 191,
+"h": "8a645205",
+"en_raw": "when will they ever end..."
+},
+{
+"n": 192,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 193,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

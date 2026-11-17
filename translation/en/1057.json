@@ -1,0 +1,338 @@
+{
+"file": 1057,
+"paths": [
+"d008/d150/f016"
+],
+"lines": [
+{
+"n": 0,
+"h": "32631dac",
+"en_raw": "Is this Rasen's paper?"
+},
+{
+"n": 1,
+"h": "0774ffcc",
+"en_raw": "Yeah"
+},
+{
+"n": 2,
+"h": "37dcc7b1",
+"en_raw": "And then the chant, right?"
+},
+{
+"n": 3,
+"h": "7ceac85e",
+"en_raw": "That's right"
+},
+{
+"n": 4,
+"h": "0635e7eb",
+"en_raw": "Try / Don't  But Kurumi forgot the chant"
+},
+{
+"n": 5,
+"h": "dfde8bda",
+"en_raw": "I remember it"
+},
+{
+"n": 6,
+"h": "eb310711",
+"en_raw": "Rasen, Rasen..."
+},
+{
+"n": 7,
+"h": "80b4c062",
+"en_raw": "Please enter"
+},
+{
+"n": 8,
+"h": "e417a0b3",
+"en_raw": "by the window facing the sunset..."
+},
+{
+"n": 9,
+"h": "fbc7cd28",
+"en_raw": "...That's it"
+},
+{
+"n": 10,
+"h": "eb310711",
+"en_raw": "Rasen, Rasen..."
+},
+{
+"n": 11,
+"h": "80b4c062",
+"en_raw": "Please enter"
+},
+{
+"n": 12,
+"h": "e417a0b3",
+"en_raw": "by the window facing the sunset..."
+},
+{
+"n": 13,
+"h": "f71c6c96",
+"en_raw": "Ah, it moved!"
+},
+{
+"n": 14,
+"h": "cbcd2822",
+"en_raw": "...Shiina, aren't you moving it?"
+},
+{
+"n": 15,
+"h": "2a1c7387",
+"en_raw": "Nope"
+},
+{
+"n": 16,
+"h": "28314c1f",
+"en_raw": "Is Nao moving it?"
+},
+{
+"n": 17,
+"h": "7e32988e",
+"en_raw": "I'm not moving it"
+},
+{
+"n": 18,
+"h": "b50433bb",
+"en_raw": "Yay! Then then"
+},
+{
+"n": 19,
+"h": "4e255f57",
+"en_raw": "Kurumi will make a wish"
+},
+{
+"n": 20,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 21,
+"h": "c58d39a1",
+"en_raw": "Ah... it moved..."
+},
+{
+"n": 22,
+"h": "36f6edb9",
+"en_raw": "...Yes, it says"
+},
+{
+"n": 23,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 24,
+"h": "e868118f",
+"en_raw": "What did you wish for?"
+},
+{
+"n": 25,
+"h": "41ce99f4",
+"en_raw": "That's a secret~"
+},
+{
+"n": 26,
+"h": "b87c9c60",
+"en_raw": "Hmm..."
+},
+{
+"n": 27,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 28,
+"h": "0698e419",
+"en_raw": "Didn't someone talk in the hallway just now?"
+},
+{
+"n": 29,
+"h": "b0a0f591",
+"en_raw": "Leave / Stay  Leave / Stay  Then I'll..."
+},
+{
+"n": 30,
+"h": "34631ce7",
+"en_raw": "Hey, Nao-kun"
+},
+{
+"n": 31,
+"h": "d352accd",
+"en_raw": "Kurumi, once more"
+},
+{
+"n": 32,
+"h": "e3db95be",
+"en_raw": "can I make a wish?"
+},
+{
+"n": 33,
+"h": "b79e0646",
+"en_raw": "...Sure"
+},
+{
+"n": 34,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 35,
+"h": "2de9d613",
+"en_raw": "Ah, it's moving..."
+},
+{
+"n": 36,
+"h": "08471d54",
+"en_raw": "Really?"
+},
+{
+"n": 37,
+"h": "0c530d75",
+"en_raw": "Yeah, I hope the wish comes true"
+},
+{
+"n": 38,
+"h": "1d389e68",
+"en_raw": "Yay!"
+},
+{
+"n": 39,
+"h": "96ee8cd1",
+"en_raw": "Kurumi's done"
+},
+{
+"n": 40,
+"h": "3c49328f",
+"en_raw": "Nao, let's go home"
+},
+{
+"n": 41,
+"h": "a3f052e6",
+"en_raw": "Eh, ah... yeah"
+},
+{
+"n": 42,
+"h": "22b7d241",
+"en_raw": "Um, Shiina"
+},
+{
+"n": 43,
+"h": "a1779cbf",
+"en_raw": "What is it?"
+},
+{
+"n": 44,
+"h": "52a74cf9",
+"en_raw": "Tomorrow once more"
+},
+{
+"n": 45,
+"h": "1b7aec27",
+"en_raw": "will you join me for"
+},
+{
+"n": 46,
+"h": "9ce207a4",
+"en_raw": "my own wish...?"
+},
+{
+"n": 47,
+"h": "d7f93023",
+"en_raw": "Sure~"
+},
+{
+"n": 48,
+"h": "36f9eda9",
+"en_raw": "Then let's go home!"
+},
+{
+"n": 49,
+"h": "4130250e",
+"en_raw": "It's almost time to leave school"
+},
+{
+"n": 50,
+"h": "8d9303c5",
+"en_raw": "Mr. Kamei will come..."
+},
+{
+"n": 51,
+"h": "56546d34",
+"en_raw": "Wish / Don't  Mr. Kamei will be scary"
+},
+{
+"n": 52,
+"h": "d7b0729e",
+"en_raw": "Right..."
+},
+{
+"n": 53,
+"h": "59c4c593",
+"en_raw": "Nao, hurry home!"
+},
+{
+"n": 54,
+"h": "8df500b3",
+"en_raw": "I couldn't make my wish"
+},
+{
+"n": 55,
+"h": "8ebda4b0",
+"en_raw": "so join me again tomorrow"
+},
+{
+"n": 56,
+"h": "6677278a",
+"en_raw": "Yeah"
+},
+{
+"n": 57,
+"h": "9f16ad29",
+"en_raw": "Hey, Kurumi"
+},
+{
+"n": 58,
+"h": "75dfb27b",
+"en_raw": "make the last wish"
+},
+{
+"n": 59,
+"h": "955b1d34",
+"en_raw": "Fine"
+},
+{
+"n": 60,
+"h": "c6a612fc",
+"en_raw": "Once that's done, let's go home right away"
+},
+{
+"n": 61,
+"h": "7d5b2ac0",
+"en_raw": "Mm..."
+},
+{
+"n": 62,
+"h": "55e12497",
+"en_raw": "......."
+},
+{
+"n": 63,
+"h": "d86da0b7",
+"en_raw": "Done~!"
+},
+{
+"n": 64,
+"h": "36fdba32",
+"en_raw": "Okay, let's go home"
+},
+{
+"n": 65,
+"h": "ff6fc33e",
+"en_raw": "Okay!"
+}
+]
+}

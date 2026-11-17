@@ -1,0 +1,628 @@
+{
+"file": 233,
+"paths": [
+"d007/d010/f069"
+],
+"lines": [
+{
+"n": 0,
+"h": "fa7eba43",
+"en_raw": "...E-I~"
+},
+{
+"n": 1,
+"h": "05661cab",
+"en_raw": "E-I, O~"
+},
+{
+"n": 2,
+"h": "4ade2f18",
+"en_raw": "Green pasture!"
+},
+{
+"n": 3,
+"h": "368f239b",
+"en_raw": "Wrong, it's the Merry Pasture"
+},
+{
+"n": 4,
+"h": "8639080e",
+"en_raw": "Oh, Jelly"
+},
+{
+"n": 5,
+"h": "302ac458",
+"en_raw": "That's right, Cookie"
+},
+{
+"n": 6,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 7,
+"h": "ffcd599d",
+"en_raw": "Hey, what's E-I-O?"
+},
+{
+"n": 8,
+"h": "fbc1ff37",
+"en_raw": "Hey, Jelly"
+},
+{
+"n": 9,
+"h": "68810be3",
+"en_raw": "Should we ignore her?"
+},
+{
+"n": 10,
+"h": "051dcc21",
+"en_raw": "We should ignore her"
+},
+{
+"n": 11,
+"h": "e3700268",
+"en_raw": "Then let's ignore her"
+},
+{
+"n": 12,
+"h": "cb40a747",
+"en_raw": "Yeah, let's ignore her"
+},
+{
+"n": 13,
+"h": "e6b36ec0",
+"en_raw": "Hey hey, what are you doing?"
+},
+{
+"n": 14,
+"h": "c8e16e3f",
+"en_raw": "Spread butter..."
+},
+{
+"n": 15,
+"h": "67bfb448",
+"en_raw": "Add lettuce..."
+},
+{
+"n": 16,
+"h": "5552c888",
+"en_raw": "Add ham too..."
+},
+{
+"n": 17,
+"h": "9dd1a5d3",
+"en_raw": "Put it in the basket..."
+},
+{
+"n": 18,
+"h": "5717e6e6",
+"en_raw": "And then, and then, Cookie"
+},
+{
+"n": 19,
+"h": "1da8d925",
+"en_raw": "bring tea too..."
+},
+{
+"n": 20,
+"h": "9f654048",
+"en_raw": "Hey hey"
+},
+{
+"n": 21,
+"h": "db040bd4",
+"en_raw": "What's that about?"
+},
+{
+"n": 22,
+"h": "2017102d",
+"en_raw": "...Kurumi wants to join too"
+},
+{
+"n": 23,
+"h": "974a8018",
+"en_raw": "Hey, Jelly?"
+},
+{
+"n": 24,
+"h": "fe7978fc",
+"en_raw": "What is it, Cookie?"
+},
+{
+"n": 25,
+"h": "68810be3",
+"en_raw": "Should we ignore her?"
+},
+{
+"n": 26,
+"h": "051dcc21",
+"en_raw": "We should ignore her"
+},
+{
+"n": 27,
+"h": "974a8018",
+"en_raw": "Hey, Jelly?"
+},
+{
+"n": 28,
+"h": "fe7978fc",
+"en_raw": "What is it, Cookie?"
+},
+{
+"n": 29,
+"h": "912f39f7",
+"en_raw": "A weird girl came"
+},
+{
+"n": 30,
+"h": "1c286eba",
+"en_raw": "What do we do?"
+},
+{
+"n": 31,
+"h": "d79659ec",
+"en_raw": "Yeah, what do we do?"
+},
+{
+"n": 32,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 33,
+"h": "214e7bc3",
+"en_raw": "...Giraffe?"
+},
+{
+"n": 34,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 35,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 36,
+"h": "3cc6575a",
+"en_raw": "...Oh, I get it!"
+},
+{
+"n": 37,
+"h": "f33a25b4",
+"en_raw": "It's about food!"
+},
+{
+"n": 38,
+"h": "9c8b5417",
+"en_raw": "Jelly, Cookie, um"
+},
+{
+"n": 39,
+"h": "a68c3757",
+"en_raw": "...Tell me, secretly?"
+},
+{
+"n": 40,
+"h": "37520fde",
+"en_raw": "Kurumi doesn't get it"
+},
+{
+"n": 41,
+"h": "9c3b5b89",
+"en_raw": "Hey, go away!"
+},
+{
+"n": 42,
+"h": "0918fb52",
+"en_raw": "Go away!"
+},
+{
+"n": 43,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 44,
+"h": "6b558282",
+"en_raw": "...Koala?"
+},
+{
+"n": 45,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 46,
+"h": "4f358b5f",
+"en_raw": "...Cola?"
+},
+{
+"n": 47,
+"h": "675ef19a",
+"en_raw": "Something starting with Ko..."
+},
+{
+"n": 48,
+"h": "675ef19a",
+"en_raw": "Something starting with Ko..."
+},
+{
+"n": 49,
+"h": "939233d5",
+"en_raw": "It doesn't have to start with Ko"
+},
+{
+"n": 50,
+"h": "34adaf37",
+"en_raw": "Jelly, Jelly, Cookie, Cookie"
+},
+{
+"n": 51,
+"h": "34adaf37",
+"en_raw": "Jelly, Jelly, Cookie, Cookie"
+},
+{
+"n": 52,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 53,
+"h": "a32757fa",
+"en_raw": "...Match?"
+},
+{
+"n": 54,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 55,
+"h": "ea958d4a",
+"en_raw": "...Lotte?"
+},
+{
+"n": 56,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 57,
+"h": "da5f6c49",
+"en_raw": "...Pez?"
+},
+{
+"n": 58,
+"h": "775a5822",
+"en_raw": "Pez, I'm Cookie"
+},
+{
+"n": 59,
+"h": "25add41f",
+"en_raw": "Nice to meet you"
+},
+{
+"n": 60,
+"h": "f7d409fe",
+"en_raw": "Pez, I'm Jelly"
+},
+{
+"n": 61,
+"h": "84228bce",
+"en_raw": "...Not Zelly"
+},
+{
+"n": 62,
+"h": "a538af34",
+"en_raw": "It's Jelly, okay?"
+},
+{
+"n": 63,
+"h": "7c3abe94",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 64,
+"h": "57da40d5",
+"en_raw": "Pez?"
+},
+{
+"n": 65,
+"h": "0774ffcc",
+"en_raw": "Yeah"
+},
+{
+"n": 66,
+"h": "5ba4bcbd",
+"en_raw": "...That's right"
+},
+{
+"n": 67,
+"h": "1136b586",
+"en_raw": "Nice to meet you, Pez"
+},
+{
+"n": 68,
+"h": "ea53bf7e",
+"en_raw": "Let's be friends, Pez"
+},
+{
+"n": 69,
+"h": "12020a72",
+"en_raw": "I'm here~"
+},
+{
+"n": 70,
+"h": "12acd094",
+"en_raw": "Ni hao, Pez"
+},
+{
+"n": 71,
+"h": "11fc0cb8",
+"en_raw": "Who am I?"
+},
+{
+"n": 72,
+"h": "4da30a76",
+"en_raw": "Um, you're Jelly-chan"
+},
+{
+"n": 73,
+"h": "b550a4bd",
+"en_raw": "Correct"
+},
+{
+"n": 74,
+"h": "ff3455df",
+"en_raw": "Amore, Pez"
+},
+{
+"n": 75,
+"h": "11fc0cb8",
+"en_raw": "Who am I?"
+},
+{
+"n": 76,
+"h": "4f026046",
+"en_raw": "You're Cookie-chan"
+},
+{
+"n": 77,
+"h": "b550a4bd",
+"en_raw": "Correct"
+},
+{
+"n": 78,
+"h": "3c9f2827",
+"en_raw": "We're best friends, right?"
+},
+{
+"n": 79,
+"h": "a058589a",
+"en_raw": "...Right?"
+},
+{
+"n": 80,
+"h": "2c7a30cf",
+"en_raw": "Yeah, best friends!"
+},
+{
+"n": 81,
+"h": "ed78644c",
+"en_raw": "Because it's very"
+},
+{
+"n": 82,
+"h": "9966b095",
+"en_raw": "Bad, bad, Jelly"
+},
+{
+"n": 83,
+"h": "9e677498",
+"en_raw": "No it's not"
+},
+{
+"n": 84,
+"h": "8696bf65",
+"en_raw": "Today's a very happy"
+},
+{
+"n": 85,
+"h": "36c91df3",
+"en_raw": "day, so there"
+},
+{
+"n": 86,
+"h": "3ebddf8e",
+"en_raw": "It's bad"
+},
+{
+"n": 87,
+"h": "041b7986",
+"en_raw": "It's happy"
+},
+{
+"n": 88,
+"h": "3ebddf8e",
+"en_raw": "It's bad"
+},
+{
+"n": 89,
+"h": "041b7986",
+"en_raw": "It's happy"
+},
+{
+"n": 90,
+"h": "3ebddf8e",
+"en_raw": "It's bad"
+},
+{
+"n": 91,
+"h": "39f82066",
+"en_raw": "Then I won't talk"
+},
+{
+"n": 92,
+"h": "a5802ad1",
+"en_raw": "to you anymore"
+},
+{
+"n": 93,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 94,
+"h": "a731e38e",
+"en_raw": "Jelly, hmph!"
+},
+{
+"n": 95,
+"h": "6536a20f",
+"en_raw": "Cookie, bleh!"
+},
+{
+"n": 96,
+"h": "6c607bf4",
+"en_raw": "You should have just fallen..."
+},
+{
+"n": 97,
+"h": "69dbf554",
+"en_raw": "Stop it, Pez"
+},
+{
+"n": 98,
+"h": "d67856c6",
+"en_raw": "Do you know that story too, Pez?"
+},
+{
+"n": 99,
+"h": "22b5d4bc",
+"en_raw": "What story is that?"
+},
+{
+"n": 100,
+"h": "824e358f",
+"en_raw": "You don't know?"
+},
+{
+"n": 101,
+"h": "7ee997ba",
+"en_raw": "The thirteenth step of the grand staircase..."
+},
+{
+"n": 102,
+"h": "4bb9ba39",
+"en_raw": "A ghost?"
+},
+{
+"n": 103,
+"h": "228ee9b5",
+"en_raw": "Yeah, in front of the station"
+},
+{
+"n": 104,
+"h": "6de0a7cd",
+"en_raw": "there's a big staircase, right?"
+},
+{
+"n": 105,
+"h": "25a3aeb1",
+"en_raw": "When you try to cross the landing"
+},
+{
+"n": 106,
+"h": "6ac7a8ae",
+"en_raw": "at midnight"
+},
+{
+"n": 107,
+"h": "ecf0abd0",
+"en_raw": "your back gets... shoved!"
+},
+{
+"n": 108,
+"h": "eeb3e64f",
+"en_raw": "No more, Jelly"
+},
+{
+"n": 109,
+"h": "7198f093",
+"en_raw": "stop, stop"
+},
+{
+"n": 110,
+"h": "b9d00ae9",
+"en_raw": "A lucky person who doesn't fall"
+},
+{
+"n": 111,
+"h": "8f652bce",
+"en_raw": "relaxes and starts going down"
+},
+{
+"n": 112,
+"h": "add8ab85",
+"en_raw": "and hears a voice by their ear"
+},
+{
+"n": 113,
+"h": "8b742c1a",
+"en_raw": "'You should have fallen...'"
+},
+{
+"n": 114,
+"h": "3d134c00",
+"en_raw": "...You should have fallen?"
+},
+{
+"n": 115,
+"h": "c9ea0895",
+"en_raw": "Obtained the rumor of the Staircase Ghost!"
+},
+{
+"n": 116,
+"h": "4df675f8",
+"en_raw": "I told you to stop!"
+},
+{
+"n": 117,
+"h": "2d08293d",
+"en_raw": "I hate you both!"
+},
+{
+"n": 118,
+"h": "6869bcdb",
+"en_raw": "Ha ha, it's okay"
+},
+{
+"n": 119,
+"h": "ab0b3983",
+"en_raw": "Cookie is too scared"
+},
+{
+"n": 120,
+"h": "efdca910",
+"en_raw": "I'm never going to"
+},
+{
+"n": 121,
+"h": "8bc7c1b1",
+"en_raw": "use that staircase again!"
+},
+{
+"n": 122,
+"h": "3c09149b",
+"en_raw": "Jelly, Pez, stop"
+},
+{
+"n": 123,
+"h": "5377ef4b",
+"en_raw": "I don't want to hear it"
+}
+]
+}

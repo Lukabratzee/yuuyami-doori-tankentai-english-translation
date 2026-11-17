@@ -1,0 +1,568 @@
+{
+"file": 862,
+"paths": [
+"d008/d083/f020"
+],
+"lines": [
+{
+"n": 0,
+"h": "06dc6941",
+"en_raw": "Nobody followed you, right?"
+},
+{
+"n": 1,
+"h": "26a78020",
+"en_raw": "...What are you saying?"
+},
+{
+"n": 2,
+"h": "f9c61ae2",
+"en_raw": "Um, I'd like to talk with"
+},
+{
+"n": 3,
+"h": "cd94cdec",
+"en_raw": "Murase alone"
+},
+{
+"n": 4,
+"h": "bc25aecb",
+"en_raw": "I figured you'd say that, but no"
+},
+{
+"n": 5,
+"h": "6dc88d4f",
+"en_raw": "The kitten-in-a-jar incident"
+},
+{
+"n": 6,
+"h": "5099e22e",
+"en_raw": "is my case"
+},
+{
+"n": 7,
+"h": "92402071",
+"en_raw": "...Yes, your deduction is right"
+},
+{
+"n": 8,
+"h": "09f52ec5",
+"en_raw": "It was me,"
+},
+{
+"n": 9,
+"h": "de2e466f",
+"en_raw": "satisfied now?"
+},
+{
+"n": 10,
+"h": "5e5289d7",
+"en_raw": "Brazening it out won't help"
+},
+{
+"n": 11,
+"h": "f8611577",
+"en_raw": "If you don't want it blown up,"
+},
+{
+"n": 12,
+"h": "d84d45e7",
+"en_raw": "give your reason"
+},
+{
+"n": 13,
+"h": "ceebeed3",
+"en_raw": "You don't look like someone who"
+},
+{
+"n": 14,
+"h": "d0a76560",
+"en_raw": "does this for no reason"
+},
+{
+"n": 15,
+"h": "7efae95e",
+"en_raw": "You're Segawa Shinta,"
+},
+{
+"n": 16,
+"h": "6e202d57",
+"en_raw": "right?"
+},
+{
+"n": 17,
+"h": "e530f281",
+"en_raw": "...You mean I'm a coward?"
+},
+{
+"n": 18,
+"h": "4a7f40e9",
+"en_raw": "Or harmless, you mean"
+},
+{
+"n": 19,
+"h": "c8dfb5eb",
+"en_raw": "Yeah, he's Nao's best friend type"
+},
+{
+"n": 20,
+"h": "e877c1f1",
+"en_raw": "...The Kodoku curse"
+},
+{
+"n": 21,
+"h": "77dc9146",
+"en_raw": "I don't know much, but"
+},
+{
+"n": 22,
+"h": "9f190e94",
+"en_raw": "apparently it can kill people"
+},
+{
+"n": 23,
+"h": "58017e30",
+"en_raw": "With that curse, a guy named Yuasa,"
+},
+{
+"n": 24,
+"h": "c59b82f9",
+"en_raw": "someone who ticks me off..."
+},
+{
+"n": 25,
+"h": "79b3b66f",
+"en_raw": "Ah, that bratty little shrimp"
+},
+{
+"n": 26,
+"h": "c67f8d2b",
+"en_raw": "Famous~"
+},
+{
+"n": 27,
+"h": "d3c2f0b6",
+"en_raw": "There are times he deserves to die"
+},
+{
+"n": 28,
+"h": "60b7ee6d",
+"en_raw": "But I never had"
+},
+{
+"n": 29,
+"h": "52b3cdfb",
+"en_raw": "that kind of knowledge"
+},
+{
+"n": 30,
+"h": "42b4d1c3",
+"en_raw": "The one who taught me..."
+},
+{
+"n": 31,
+"h": "a03461d9",
+"en_raw": "...Kojiro Kume?"
+},
+{
+"n": 32,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 33,
+"h": "6a5552ea",
+"en_raw": "It's not like"
+},
+{
+"n": 34,
+"h": "9e77d51d",
+"en_raw": "I'm the one who talked"
+},
+{
+"n": 35,
+"h": "933a9d99",
+"en_raw": "He's a dangerous guy, right?"
+},
+{
+"n": 36,
+"h": "6750bc3f",
+"en_raw": "You hear things even when you keep quiet"
+},
+{
+"n": 37,
+"h": "6b1b9d56",
+"en_raw": "So... please, then"
+},
+{
+"n": 38,
+"h": "94fa0f00",
+"en_raw": "I can't take it anymore"
+},
+{
+"n": 39,
+"h": "86cc710d",
+"en_raw": "...What a truly unreliable guy"
+},
+{
+"n": 40,
+"h": "01d7a84d",
+"en_raw": "Shut up"
+},
+{
+"n": 41,
+"h": "3f54f1b7",
+"en_raw": "You don't know"
+},
+{
+"n": 42,
+"h": "7adc2101",
+"en_raw": "Kume..."
+},
+{
+"n": 43,
+"h": "5697563a",
+"en_raw": "Right, but I get the gist"
+},
+{
+"n": 44,
+"h": "afc75e60",
+"en_raw": "You hate it, but can't"
+},
+{
+"n": 45,
+"h": "089d129c",
+"en_raw": "refuse Kume's request"
+},
+{
+"n": 46,
+"h": "dae160ce",
+"en_raw": "So today again you go out"
+},
+{
+"n": 47,
+"h": "dd7c5b37",
+"en_raw": "to look for a kitten..."
+},
+{
+"n": 48,
+"h": "2aa18f4e",
+"en_raw": "Hey"
+},
+{
+"n": 49,
+"h": "c7f95c25",
+"en_raw": "Please..."
+},
+{
+"n": 50,
+"h": "7c2104f6",
+"en_raw": "Hey, tell me"
+},
+{
+"n": 51,
+"h": "8acfd603",
+"en_raw": "how did you know?"
+},
+{
+"n": 52,
+"h": "165e7c6c",
+"en_raw": "With you that flustered"
+},
+{
+"n": 53,
+"h": "6b3111e3",
+"en_raw": "anyone could guess"
+},
+{
+"n": 54,
+"h": "8f170be3",
+"en_raw": "Well, very good,"
+},
+{
+"n": 55,
+"h": "f592c884",
+"en_raw": "I'm an outsider"
+},
+{
+"n": 56,
+"h": "b53fbee8",
+"en_raw": "so for rescuing a kitten"
+},
+{
+"n": 57,
+"h": "17afbb66",
+"en_raw": "Right"
+},
+{
+"n": 58,
+"h": "37570fa2",
+"en_raw": "...let's settle at 5000 yen"
+},
+{
+"n": 59,
+"h": "c5446d97",
+"en_raw": "Stop it, Sango"
+},
+{
+"n": 60,
+"h": "c660f568",
+"en_raw": "...Fine,"
+},
+{
+"n": 61,
+"h": "55da45c6",
+"en_raw": "I can manage that much"
+},
+{
+"n": 62,
+"h": "fde20234",
+"en_raw": "Just kidding,"
+},
+{
+"n": 63,
+"h": "6af18a3e",
+"en_raw": "about 2000 yen"
+},
+{
+"n": 64,
+"h": "60f9063e",
+"en_raw": "Sango!"
+},
+{
+"n": 65,
+"h": "b0042be0",
+"en_raw": "Just shut up already"
+},
+{
+"n": 66,
+"h": "768384a0",
+"en_raw": "Wait a moment"
+},
+{
+"n": 67,
+"h": "82aef05c",
+"en_raw": "...Hey, Segawa,"
+},
+{
+"n": 68,
+"h": "439d05c6",
+"en_raw": "I get the gist, but"
+},
+{
+"n": 69,
+"h": "eea89bbf",
+"en_raw": "can I ask just one thing?"
+},
+{
+"n": 70,
+"h": "fbb810a6",
+"en_raw": "What?"
+},
+{
+"n": 71,
+"h": "7aae84b2",
+"en_raw": "...How many times will this go on?"
+},
+{
+"n": 72,
+"h": "3c153ddf",
+"en_raw": "...Until the curse works,"
+},
+{
+"n": 73,
+"h": "dedc4ed0",
+"en_raw": "I suppose"
+},
+{
+"n": 74,
+"h": "c0698811",
+"en_raw": "But you, until then,"
+},
+{
+"n": 75,
+"h": "b5daf01d",
+"en_raw": "jarring kittens yourself"
+},
+{
+"n": 76,
+"h": "e6f07c01",
+"en_raw": "and paying 2000 yen yourself"
+},
+{
+"n": 77,
+"h": "4552b7cc",
+"en_raw": "all along?"
+},
+{
+"n": 78,
+"h": "71b920ce",
+"en_raw": "That's nastier than"
+},
+{
+"n": 79,
+"h": "9b432398",
+"en_raw": "a futon hard-sell loan"
+},
+{
+"n": 80,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 81,
+"h": "1d2ec9d1",
+"en_raw": "Well, whatever"
+},
+{
+"n": 82,
+"h": "f31f51a2",
+"en_raw": "Anyway, I collect payment tomorrow"
+},
+{
+"n": 83,
+"h": "f0540bff",
+"en_raw": "at this place, okay?"
+},
+{
+"n": 84,
+"h": "6f994f51",
+"en_raw": "Hey, I'm counting on you"
+},
+{
+"n": 85,
+"h": "7e93a447",
+"en_raw": "It's not like I like to"
+},
+{
+"n": 86,
+"h": "a4dcb416",
+"en_raw": "lend a hand"
+},
+{
+"n": 87,
+"h": "5fc3e84c",
+"en_raw": "Then refuse, coward!"
+},
+{
+"n": 88,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 89,
+"h": "97c04393",
+"en_raw": "...Even so, he's my friend!"
+},
+{
+"n": 90,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 91,
+"h": "35a0931f",
+"en_raw": "...Sorry, Murase"
+},
+{
+"n": 92,
+"h": "5a13b3b9",
+"en_raw": "I can't talk today"
+},
+{
+"n": 93,
+"h": "3ace62e9",
+"en_raw": "I'll wait here again tomorrow"
+},
+{
+"n": 94,
+"h": "d6c6373b",
+"en_raw": "And don't call me"
+},
+{
+"n": 95,
+"h": "b0d54a69",
+"en_raw": "it's dangerous..."
+},
+{
+"n": 96,
+"h": "57b3a8ca",
+"en_raw": "...I'm counting on you"
+},
+{
+"n": 97,
+"h": "917ef822",
+"en_raw": "I'll be waiting here tomorrow"
+},
+{
+"n": 98,
+"h": "79dba5e2",
+"en_raw": "wait up"
+},
+{
+"n": 99,
+"h": "dd1245ad",
+"en_raw": "After making me say this much"
+},
+{
+"n": 100,
+"h": "e9fbc779",
+"en_raw": "isn't it cruel to go home?"
+},
+{
+"n": 101,
+"h": "85510941",
+"en_raw": "If you understand that much"
+},
+{
+"n": 102,
+"h": "63048820",
+"en_raw": "there's something I want to ask"
+},
+{
+"n": 103,
+"h": "c02d3c08",
+"en_raw": "Please"
+},
+{
+"n": 104,
+"h": "0009b778",
+"en_raw": "listen to me"
+},
+{
+"n": 105,
+"h": "4281876f",
+"en_raw": "Huh..."
+},
+{
+"n": 106,
+"h": "d516e8e9",
+"en_raw": "Segawa...?"
+},
+{
+"n": 107,
+"h": "57f9d44d",
+"en_raw": "Plan changed:"
+},
+{
+"n": 108,
+"h": "30444046",
+"en_raw": "wait behind the school..."
+},
+{
+"n": 109,
+"h": "60abe887",
+"en_raw": "Murase, come alone..."
+},
+{
+"n": 110,
+"h": "2a25fdd7",
+"en_raw": "so it says"
+},
+{
+"n": 111,
+"h": "fd1acbf5",
+"en_raw": "What do you do, Nao?"
+}
+]
+}

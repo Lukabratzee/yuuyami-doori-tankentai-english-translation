@@ -1,0 +1,613 @@
+{
+"file": 28,
+"paths": [
+"d002/f635"
+],
+"lines": [
+{
+"n": 0,
+"h": "0496b7be",
+"en_raw": "Worm check, worm check"
+},
+{
+"n": 1,
+"h": "953a9070",
+"en_raw": "Okay, Naoki Murase!"
+},
+{
+"n": 2,
+"h": "02e075db",
+"en_raw": "Congratulations"
+},
+{
+"n": 3,
+"h": "20ed5d39",
+"en_raw": "You're one of one in a million"
+},
+{
+"n": 4,
+"h": "2a79ea97",
+"en_raw": "people who's raising a worm"
+},
+{
+"n": 5,
+"h": "134208fd",
+"en_raw": "inside your belly"
+},
+{
+"n": 6,
+"h": "e1004fe8",
+"en_raw": "Congratulations!"
+},
+{
+"n": 7,
+"h": "56205059",
+"en_raw": "...Ha ha ha ha ha ha ha"
+},
+{
+"n": 8,
+"h": "f576c009",
+"en_raw": "Shiina, you can't go that far"
+},
+{
+"n": 9,
+"h": "37eb2713",
+"en_raw": "You're hurting the boy badly"
+},
+{
+"n": 10,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 11,
+"h": "639b9b63",
+"en_raw": "...I'm going home"
+},
+{
+"n": 12,
+"h": "ad94aded",
+"en_raw": "Wait wait wait!"
+},
+{
+"n": 13,
+"h": "622b85eb",
+"en_raw": "I was joking, right, Shiina"
+},
+{
+"n": 14,
+"h": "aa8ccfa3",
+"en_raw": "Lucky Nao"
+},
+{
+"n": 15,
+"h": "1175e876",
+"en_raw": "you keep Melos"
+},
+{
+"n": 16,
+"h": "247b2ab1",
+"en_raw": "and a worm too"
+},
+{
+"n": 17,
+"h": "0ea3e988",
+"en_raw": "Kurumi wants to keep one too"
+},
+{
+"n": 18,
+"h": "56205059",
+"en_raw": "...Ha ha ha ha ha ha ha"
+},
+{
+"n": 19,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 20,
+"h": "6c0725a6",
+"en_raw": "...I'm going to the hospital"
+},
+{
+"n": 21,
+"h": "ad94aded",
+"en_raw": "Wait wait wait!"
+},
+{
+"n": 22,
+"h": "e46eb6cb",
+"en_raw": "Geez, don't take it so seriously"
+},
+{
+"n": 23,
+"h": "fa21eee8",
+"en_raw": "For starters, if you suddenly go"
+},
+{
+"n": 24,
+"h": "2a5fbeb9",
+"en_raw": "to the hospital, then what?"
+},
+{
+"n": 25,
+"h": "df23c196",
+"en_raw": "...Anyway, I'm going"
+},
+{
+"n": 26,
+"h": "d7000852",
+"en_raw": "Shiina, please"
+},
+{
+"n": 27,
+"h": "e57370f2",
+"en_raw": "stop him"
+},
+{
+"n": 28,
+"h": "82a8f42c",
+"en_raw": "Kurumi wants to see"
+},
+{
+"n": 29,
+"h": "8a37977d",
+"en_raw": "Nao's worm too!"
+},
+{
+"n": 30,
+"h": "56205059",
+"en_raw": "...Ha ha ha ha ha ha ha"
+},
+{
+"n": 31,
+"h": "492704b7",
+"en_raw": "If you're going anyway"
+},
+{
+"n": 32,
+"h": "f3e45fd9",
+"en_raw": "a big hospital would be better, right?"
+},
+{
+"n": 33,
+"h": "602b7f4b",
+"en_raw": "Like the general hospital by the river..."
+},
+{
+"n": 34,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 35,
+"h": "9cb2d5b2",
+"en_raw": "or something..."
+},
+{
+"n": 36,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 37,
+"h": "4091bf01",
+"en_raw": "Hey... Nao"
+},
+{
+"n": 38,
+"h": "1bd0cea8",
+"en_raw": "are you really going?"
+},
+{
+"n": 39,
+"h": "8017d40e",
+"en_raw": "...I'm going"
+},
+{
+"n": 40,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 41,
+"h": "cfe6ce31",
+"en_raw": "...You came all this way"
+},
+{
+"n": 42,
+"h": "ad52f168",
+"en_raw": "why won't you go into the hospital?"
+},
+{
+"n": 43,
+"h": "8f491465",
+"en_raw": "Ah... no..."
+},
+{
+"n": 44,
+"h": "77f648be",
+"en_raw": "It's not like it's"
+},
+{
+"n": 45,
+"h": "6a65c3e4",
+"en_raw": "definitely true"
+},
+{
+"n": 46,
+"h": "94c2b450",
+"en_raw": "I thought maybe I'd check first..."
+},
+{
+"n": 47,
+"h": "86717198",
+"en_raw": "That's a bit more positive"
+},
+{
+"n": 48,
+"h": "26de40c9",
+"en_raw": "Then how about the health center?"
+},
+{
+"n": 49,
+"h": "bd75b794",
+"en_raw": "Get the tape again"
+},
+{
+"n": 50,
+"h": "a8caeded",
+"en_raw": "and have Melos too"
+},
+{
+"n": 51,
+"h": "4f8e1464",
+"en_raw": "get a worm check"
+},
+{
+"n": 52,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 53,
+"h": "10bc4f5f",
+"en_raw": "I'm done for..."
+},
+{
+"n": 54,
+"h": "9f2eb2ad",
+"en_raw": "...Nao?"
+},
+{
+"n": 55,
+"h": "45ad4ea8",
+"en_raw": "Shiina, thanks for everything so far"
+},
+{
+"n": 56,
+"h": "08406e3e",
+"en_raw": "Take care"
+},
+{
+"n": 57,
+"h": "fda82f17",
+"en_raw": "Visit Melos once in a while"
+},
+{
+"n": 58,
+"h": "678415f5",
+"en_raw": "Nao, what are you saying?"
+},
+{
+"n": 59,
+"h": "c24c5c75",
+"en_raw": "Even if I'm quarantined in the hospital"
+},
+{
+"n": 60,
+"h": "cc6d473f",
+"en_raw": "don't come visit me"
+},
+{
+"n": 61,
+"h": "5f96e0bc",
+"en_raw": "...I don't want to show"
+},
+{
+"n": 62,
+"h": "59d270f0",
+"en_raw": "you my pathetic side..."
+},
+{
+"n": 63,
+"h": "71d14068",
+"en_raw": "Nao!"
+},
+{
+"n": 64,
+"h": "a97d1e34",
+"en_raw": "Sango, take care too"
+},
+{
+"n": 65,
+"h": "655dd0aa",
+"en_raw": "Hey hey, Nao"
+},
+{
+"n": 66,
+"h": "1951d6b3",
+"en_raw": "calm down"
+},
+{
+"n": 67,
+"h": "5e126230",
+"en_raw": "Worms go away"
+},
+{
+"n": 68,
+"h": "eabcb381",
+"en_raw": "as soon as you take medicine, right?"
+},
+{
+"n": 69,
+"h": "6e31b801",
+"en_raw": "Why would you be put in a quarantine ward?"
+},
+{
+"n": 70,
+"h": "efd42ea2",
+"en_raw": "My worm is special"
+},
+{
+"n": 71,
+"h": "bfa39ed3",
+"en_raw": "and it'll harm everyone"
+},
+{
+"n": 72,
+"h": "9ee3d9f0",
+"en_raw": "...so I have to be quarantined"
+},
+{
+"n": 73,
+"h": "7bd33f01",
+"en_raw": "Nao, that's called a delusion"
+},
+{
+"n": 74,
+"h": "4e04845c",
+"en_raw": "Nao, what you need right now"
+},
+{
+"n": 75,
+"h": "07af1505",
+"en_raw": "isn't a hospital for the body"
+},
+{
+"n": 76,
+"h": "7f574c32",
+"en_raw": "but a hospital for the mind"
+},
+{
+"n": 77,
+"h": "8ec2ea5f",
+"en_raw": "A hospital for the mind...?"
+},
+{
+"n": 78,
+"h": "3c6c2e17",
+"en_raw": "Will I get better if I go there...?"
+},
+{
+"n": 79,
+"h": "470415e7",
+"en_raw": "Yes, yes"
+},
+{
+"n": 80,
+"h": "c9a3a7b8",
+"en_raw": "So, let's go"
+},
+{
+"n": 81,
+"h": "1ef4345f",
+"en_raw": "I'm sure the hospital up the stairs"
+},
+{
+"n": 82,
+"h": "e6b23d61",
+"en_raw": "on the road east of the station"
+},
+{
+"n": 83,
+"h": "66b3b8aa",
+"en_raw": "has a psychiatry department"
+},
+{
+"n": 84,
+"h": "8436426b",
+"en_raw": "Yeah... I'll go"
+},
+{
+"n": 85,
+"h": "454bfbb2",
+"en_raw": "Anywhere, if I'll get better..."
+},
+{
+"n": 86,
+"h": "95e159a0",
+"en_raw": "Hey, Nao, do you understand?"
+},
+{
+"n": 87,
+"h": "360d036f",
+"en_raw": "The road east of the station"
+},
+{
+"n": 88,
+"h": "1d1ea77b",
+"en_raw": "the hospital up the stairs"
+},
+{
+"n": 89,
+"h": "d930b8a5",
+"en_raw": "Yeah... I'm fine"
+},
+{
+"n": 90,
+"h": "c61b412e",
+"en_raw": "I..."
+},
+{
+"n": 91,
+"h": "8765198a",
+"en_raw": "Hey, are you seriously going to see the priest?"
+},
+{
+"n": 92,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 93,
+"h": "0a1559f6",
+"en_raw": "Of course it's your life"
+},
+{
+"n": 94,
+"h": "abaa628b",
+"en_raw": "so use it however you like"
+},
+{
+"n": 95,
+"h": "0e7db363",
+"en_raw": "But is stopping thinking"
+},
+{
+"n": 96,
+"h": "3aea7adc",
+"en_raw": "for now"
+},
+{
+"n": 97,
+"h": "4e32f3f9",
+"en_raw": "not an option at all?"
+},
+{
+"n": 98,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 99,
+"h": "c4f41c06",
+"en_raw": "Fine, do what you like"
+},
+{
+"n": 100,
+"h": "7a9ab897",
+"en_raw": "Good for you, Nao"
+},
+{
+"n": 101,
+"h": "c57ad73c",
+"en_raw": "that there's no long white thing"
+},
+{
+"n": 102,
+"h": "9942be0a",
+"en_raw": "in your belly"
+},
+{
+"n": 103,
+"h": "2da158df",
+"en_raw": "Kurumi wanted to see that"
+},
+{
+"n": 104,
+"h": "a73a52f6",
+"en_raw": "Oh, Shiina, you can see it, you can"
+},
+{
+"n": 105,
+"h": "77ae5343",
+"en_raw": "It's supposed to be in Yuasa's belly"
+},
+{
+"n": 106,
+"h": "b161a5f1",
+"en_raw": "Yay"
+},
+{
+"n": 107,
+"h": "a0a7f58a",
+"en_raw": "Still, though"
+},
+{
+"n": 108,
+"h": "bf710094",
+"en_raw": "your homeroom teacher"
+},
+{
+"n": 109,
+"h": "f3672174",
+"en_raw": "really pulled one"
+},
+{
+"n": 110,
+"h": "40163b7c",
+"en_raw": "Mixing you and Yuasa up"
+},
+{
+"n": 111,
+"h": "4c0f1b76",
+"en_raw": "by attendance number!"
+},
+{
+"n": 112,
+"h": "52549b3c",
+"en_raw": "Solved the rumor of the Parasite"
+},
+{
+"n": 113,
+"h": "524c1fe8",
+"en_raw": "When's the next worm check, I wonder"
+},
+{
+"n": 114,
+"h": "4082265e",
+"en_raw": "Shiina, enough about that"
+},
+{
+"n": 115,
+"h": "3051c9dc",
+"en_raw": "Anyway, Nao is back to normal"
+},
+{
+"n": 116,
+"h": "5cf28bd7",
+"en_raw": "Good, good"
+},
+{
+"n": 117,
+"h": "8606a72f",
+"en_raw": "Happy ending, happy ending"
+},
+{
+"n": 118,
+"h": "5bf5551c",
+"en_raw": "Right, Nao?"
+},
+{
+"n": 119,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 120,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

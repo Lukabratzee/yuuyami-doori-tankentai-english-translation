@@ -1,0 +1,853 @@
+{
+"file": 634,
+"paths": [
+"d008/d047/f016"
+],
+"lines": [
+{
+"n": 0,
+"h": "11a62c8f",
+"en_raw": "Huh?"
+},
+{
+"n": 1,
+"h": "f741e558",
+"en_raw": "This looks passable, doesn't it?"
+},
+{
+"n": 2,
+"h": "a3dba9e5",
+"en_raw": "Go look! / Nah  With heat like this"
+},
+{
+"n": 3,
+"h": "a76d36b0",
+"en_raw": "I can't work"
+},
+{
+"n": 4,
+"h": "e90c1c2b",
+"en_raw": "School's out, you know"
+},
+{
+"n": 5,
+"h": "25abd5cc",
+"en_raw": "This summer is hot"
+},
+{
+"n": 6,
+"h": "ea84b501",
+"en_raw": "Melos will melt~"
+},
+{
+"n": 7,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 8,
+"h": "e0eda5d0",
+"en_raw": "Okay, answering~"
+},
+{
+"n": 9,
+"h": "94680991",
+"en_raw": "Does this outfit suit me?"
+},
+{
+"n": 10,
+"h": "82808a59",
+"en_raw": "Kurumi"
+},
+{
+"n": 11,
+"h": "effa21b4",
+"en_raw": "always brings a hat"
+},
+{
+"n": 12,
+"h": "2d9d23b4",
+"en_raw": "Hmm?"
+},
+{
+"n": 13,
+"h": "cef9049f",
+"en_raw": "Are you interested in me?"
+},
+{
+"n": 14,
+"h": "2acd3596",
+"en_raw": "There's nothing on it, is there??"
+},
+{
+"n": 15,
+"h": "677db820",
+"en_raw": "Students should just go to school."
+},
+{
+"n": 16,
+"h": "661e8057",
+"en_raw": "Kurumi has never taken a day off"
+},
+{
+"n": 17,
+"h": "d54e2289",
+"en_raw": "You kids get home before dark."
+},
+{
+"n": 18,
+"h": "0f35ce2c",
+"en_raw": "Okay~"
+},
+{
+"n": 19,
+"h": "b4dbe595",
+"en_raw": "Hm? On a school field trip?"
+},
+{
+"n": 20,
+"h": "82808a59",
+"en_raw": "Kurumi"
+},
+{
+"n": 21,
+"h": "6257384a",
+"en_raw": "I found a frog during science class"
+},
+{
+"n": 22,
+"h": "fe138147",
+"en_raw": "Get the dog out of the way"
+},
+{
+"n": 23,
+"h": "86a1ad9a",
+"en_raw": "I'm no good with dogs..."
+},
+{
+"n": 24,
+"h": "b5ec956c",
+"en_raw": "Kurumi likes everything"
+},
+{
+"n": 25,
+"h": "4bf18c94",
+"en_raw": "Oh, a doggy"
+},
+{
+"n": 26,
+"h": "3dc6fe96",
+"en_raw": "Melos is a boy"
+},
+{
+"n": 27,
+"h": "e8f8bc39",
+"en_raw": "I want to go to the sea"
+},
+{
+"n": 28,
+"h": "82808a59",
+"en_raw": "Kurumi"
+},
+{
+"n": 29,
+"h": "817fb24d",
+"en_raw": "She has a dolphin"
+},
+{
+"n": 30,
+"h": "c2f48e1c",
+"en_raw": "Hot"
+},
+{
+"n": 31,
+"h": "18225fab",
+"en_raw": "I'm getting dizzy"
+},
+{
+"n": 32,
+"h": "427c6c39",
+"en_raw": "Dizzy~"
+},
+{
+"n": 33,
+"h": "68595741",
+"en_raw": "Having fun, junior high kids?"
+},
+{
+"n": 34,
+"h": "6677278a",
+"en_raw": "Yeah"
+},
+{
+"n": 35,
+"h": "ca63c3f3",
+"en_raw": "Sorry, I'm in a hurry right now."
+},
+{
+"n": 36,
+"h": "baa7c57c",
+"en_raw": "Melos is fast~"
+},
+{
+"n": 37,
+"h": "417694cb",
+"en_raw": "Hm??"
+},
+{
+"n": 38,
+"h": "98d13176",
+"en_raw": "??"
+},
+{
+"n": 39,
+"h": "8f131ad9",
+"en_raw": "Leave me alone!"
+},
+{
+"n": 40,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 41,
+"h": "e24704de",
+"en_raw": "Rare for junior high kids to talk to me."
+},
+{
+"n": 42,
+"h": "16b02a5d",
+"en_raw": "Chu... gu... sei?"
+},
+{
+"n": 43,
+"h": "327c44df",
+"en_raw": "It's Kurumi"
+},
+{
+"n": 44,
+"h": "d811e9c2",
+"en_raw": "You're being fooled... you kids."
+},
+{
+"n": 45,
+"h": "5c5f26c5",
+"en_raw": "Are you hiding something?"
+},
+{
+"n": 46,
+"h": "e4aa50e8",
+"en_raw": "The season I hate is here..."
+},
+{
+"n": 47,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 48,
+"h": "d019ca94",
+"en_raw": "When it's hot I remember bad things..."
+},
+{
+"n": 49,
+"h": "911f1c0e",
+"en_raw": "Kurumi too"
+},
+{
+"n": 50,
+"h": "7e2037ae",
+"en_raw": "I like fish"
+},
+{
+"n": 51,
+"h": "b7a25830",
+"en_raw": "At your school,"
+},
+{
+"n": 52,
+"h": "d60f9733",
+"en_raw": "Is there a Miyuki Yamamoto?"
+},
+{
+"n": 53,
+"h": "9b40d9c4",
+"en_raw": "Kurumi has lots of friends too"
+},
+{
+"n": 54,
+"h": "732c53fb",
+"en_raw": "W-what is it?"
+},
+{
+"n": 55,
+"h": "5349b091",
+"en_raw": "Hee hee hee hee hee"
+},
+{
+"n": 56,
+"h": "fbb810a6",
+"en_raw": "What?"
+},
+{
+"n": 57,
+"h": "f3769199",
+"en_raw": "It's Melos~"
+},
+{
+"n": 58,
+"h": "51087b63",
+"en_raw": "I feel like I've seen your face before."
+},
+{
+"n": 59,
+"h": "c99b97f6",
+"en_raw": "I know about that~"
+},
+{
+"n": 60,
+"h": "7ace2674",
+"en_raw": "I'm a hopeless case anyway."
+},
+{
+"n": 61,
+"h": "292ea801",
+"en_raw": "Amazing!!"
+},
+{
+"n": 62,
+"h": "4a53b205",
+"en_raw": "The secret, secret person"
+},
+{
+"n": 63,
+"h": "0f1edb0d",
+"en_raw": "I'm going to the pool next!!"
+},
+{
+"n": 64,
+"h": "bc9faf22",
+"en_raw": "Kurumi too!"
+},
+{
+"n": 65,
+"h": "097827ab",
+"en_raw": "I'm going to the sea"
+},
+{
+"n": 66,
+"h": "bf9867f5",
+"en_raw": "Nice, right?"
+},
+{
+"n": 67,
+"h": "285610c1",
+"en_raw": "Kurumi too!!!"
+},
+{
+"n": 68,
+"h": "d5774226",
+"en_raw": "You're tall"
+},
+{
+"n": 69,
+"h": "d1a6ef84",
+"en_raw": "Melos is big too"
+},
+{
+"n": 70,
+"h": "2aa36cce",
+"en_raw": "What?! ...Tch."
+},
+{
+"n": 71,
+"h": "24bafa01",
+"en_raw": "Chii~"
+},
+{
+"n": 72,
+"h": "731ec776",
+"en_raw": "Hey, is junior high fun?"
+},
+{
+"n": 73,
+"h": "1dfc209a",
+"en_raw": "Mr. Kamei says"
+},
+{
+"n": 74,
+"h": "a3ab064e",
+"en_raw": "eat lots and grow big"
+},
+{
+"n": 75,
+"h": "7faed635",
+"en_raw": "I found some sunflower seeds earlier."
+},
+{
+"n": 76,
+"h": "9b668f6e",
+"en_raw": "Really?"
+},
+{
+"n": 77,
+"h": "675b5fa3",
+"en_raw": "Did you see the rainbow?"
+},
+{
+"n": 78,
+"h": "ba53eae5",
+"en_raw": "Birds have it good, they look so happy..."
+},
+{
+"n": 79,
+"h": "1940befa",
+"en_raw": "Go see the egrets. The egrets!"
+},
+{
+"n": 80,
+"h": "113e36da",
+"en_raw": "There are pigeons in the park too."
+},
+{
+"n": 81,
+"h": "ced71668",
+"en_raw": "The view from Hirumi Bridge is lovely."
+},
+{
+"n": 82,
+"h": "e2141831",
+"en_raw": "The view from Takadai Street is great."
+},
+{
+"n": 83,
+"h": "3f6659d4",
+"en_raw": "It's getting hot, isn't it?"
+},
+{
+"n": 84,
+"h": "ebc5aae2",
+"en_raw": "Yeah"
+},
+{
+"n": 85,
+"h": "81953a8f",
+"en_raw": "Hot, hot."
+},
+{
+"n": 86,
+"h": "12f75da4",
+"en_raw": "It's hot~"
+},
+{
+"n": 87,
+"h": "1bfaac33",
+"en_raw": "Oh my, if it isn't Yumi-chan"
+},
+{
+"n": 88,
+"h": "bf684ff4",
+"en_raw": "Say hello to your mother for me."
+},
+{
+"n": 89,
+"h": "88280d85",
+"en_raw": "I got it wrong"
+},
+{
+"n": 90,
+"h": "ca373e1d",
+"en_raw": "So many crows in this town."
+},
+{
+"n": 91,
+"h": "eae508e9",
+"en_raw": "Don't you think?"
+},
+{
+"n": 92,
+"h": "7512569c",
+"en_raw": "Kurumi, you know"
+},
+{
+"n": 93,
+"h": "6c9943ff",
+"en_raw": "likes antlions too"
+},
+{
+"n": 94,
+"h": "7ae19f3b",
+"en_raw": "Busy day in, day out."
+},
+{
+"n": 95,
+"h": "bd1c9009",
+"en_raw": "It wears me down."
+},
+{
+"n": 96,
+"h": "5f86c1df",
+"en_raw": "Kurumi also brushes"
+},
+{
+"n": 97,
+"h": "463a6fd6",
+"en_raw": "her teeth, goes to school, and eats"
+},
+{
+"n": 98,
+"h": "36a11d1f",
+"en_raw": "Oh, walking the dog?"
+},
+{
+"n": 99,
+"h": "7da975ac",
+"en_raw": "Melos's walk!"
+},
+{
+"n": 100,
+"h": "d0da2117",
+"en_raw": "They say kids these days are dangerous,"
+},
+{
+"n": 101,
+"h": "e2fe46ab",
+"en_raw": "but that's not true, is it?"
+},
+{
+"n": 102,
+"h": "aa520f9c",
+"en_raw": "I know!"
+},
+{
+"n": 103,
+"h": "028a0f50",
+"en_raw": "That goes to City Hall"
+},
+{
+"n": 104,
+"h": "b4510347",
+"en_raw": "When it's this hot"
+},
+{
+"n": 105,
+"h": "93acc09c",
+"en_raw": "How awful"
+},
+{
+"n": 106,
+"h": "c715503b",
+"en_raw": "Kurumi's doing great too"
+},
+{
+"n": 107,
+"h": "bffd8418",
+"en_raw": "What lovely weather."
+},
+{
+"n": 108,
+"h": "6a909d17",
+"en_raw": "Granny, nice weather too"
+},
+{
+"n": 109,
+"h": "488a2e57",
+"en_raw": "You're lively, little girl"
+},
+{
+"n": 110,
+"h": "509cb8d6",
+"en_raw": "Taking a nap"
+},
+{
+"n": 111,
+"h": "cae98cbe",
+"en_raw": "How dreadful, how dreadful..."
+},
+{
+"n": 112,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 113,
+"h": "19c40759",
+"en_raw": "Long ago, all of this around here"
+},
+{
+"n": 114,
+"h": "78e709bd",
+"en_raw": "It's all fields around here"
+},
+{
+"n": 115,
+"h": "226f33c9",
+"en_raw": "Lots of corn seeds"
+},
+{
+"n": 116,
+"h": "82bc564f",
+"en_raw": "It's hot, isn't it"
+},
+{
+"n": 117,
+"h": "a67e4c7a",
+"en_raw": "Yeah"
+},
+{
+"n": 118,
+"h": "b4510347",
+"en_raw": "When it's this hot"
+},
+{
+"n": 119,
+"h": "9076df03",
+"en_raw": "I get in a strange mood."
+},
+{
+"n": 120,
+"h": "991b02f2",
+"en_raw": "Melos seems off too"
+},
+{
+"n": 121,
+"h": "f1500649",
+"en_raw": "Must be nice, kids are so innocent."
+},
+{
+"n": 122,
+"h": "9e5d87ca",
+"en_raw": "Kurumi didn't do anything wrong"
+},
+{
+"n": 123,
+"h": "f5011258",
+"en_raw": "I hate brats"
+},
+{
+"n": 124,
+"h": "70688e09",
+"en_raw": "No, it's Kurumi"
+},
+{
+"n": 125,
+"h": "f297a8e4",
+"en_raw": "Hmm"
+},
+{
+"n": 126,
+"h": "b41ab126",
+"en_raw": "You're good friends"
+},
+{
+"n": 127,
+"h": "ebc5aae2",
+"en_raw": "Yeah"
+},
+{
+"n": 128,
+"h": "05a6ec8c",
+"en_raw": "Eh? What is it?"
+},
+{
+"n": 129,
+"h": "2f1827c7",
+"en_raw": "I don't really understand."
+},
+{
+"n": 130,
+"h": "93cc3732",
+"en_raw": "Hee hee"
+},
+{
+"n": 131,
+"h": "40873692",
+"en_raw": "3544, 3545..."
+},
+{
+"n": 132,
+"h": "b35b331e",
+"en_raw": "Ahh, I lost count."
+},
+{
+"n": 133,
+"h": "15e50d27",
+"en_raw": "Kurumi doesn't remember either"
+},
+{
+"n": 134,
+"h": "b8bb610b",
+"en_raw": "Yikes, a big dog."
+},
+{
+"n": 135,
+"h": "eb3fee77",
+"en_raw": "I know bigger ones~"
+},
+{
+"n": 136,
+"h": "b97501fc",
+"en_raw": "No, no, no, no."
+},
+{
+"n": 137,
+"h": "5c0d357b",
+"en_raw": "I can't stand dogs."
+},
+{
+"n": 138,
+"h": "acbefeae",
+"en_raw": "Kurumi too~"
+},
+{
+"n": 139,
+"h": "76c28729",
+"en_raw": "Is this Pochi?"
+},
+{
+"n": 140,
+"h": "ee5388f7",
+"en_raw": "Not? Then from now on you're Pochi"
+},
+{
+"n": 141,
+"h": "6edf405d",
+"en_raw": "It's Melos, you know?"
+},
+{
+"n": 142,
+"h": "2ef5a932",
+"en_raw": "Cute dog. Is it a mutt?"
+},
+{
+"n": 143,
+"h": "1805a600",
+"en_raw": "No, he's Melos"
+},
+{
+"n": 144,
+"h": "97679038",
+"en_raw": "I love the heat."
+},
+{
+"n": 145,
+"h": "acbefeae",
+"en_raw": "Kurumi too~"
+},
+{
+"n": 146,
+"h": "f0e78113",
+"en_raw": "What? Is something on me?"
+},
+{
+"n": 147,
+"h": "92dfc14c",
+"en_raw": "Sticky, I can see skin~"
+},
+{
+"n": 148,
+"h": "dc2368cd",
+"en_raw": "Ohh?"
+},
+{
+"n": 149,
+"h": "e109b528",
+"en_raw": "Oh~"
+},
+{
+"n": 150,
+"h": "601afda2",
+"en_raw": "School's so boring, you know."
+},
+{
+"n": 151,
+"h": "90145e88",
+"en_raw": "School...??"
+},
+{
+"n": 152,
+"h": "7761fa94",
+"en_raw": "Aww, so cute!"
+},
+{
+"n": 153,
+"h": "c4df8268",
+"en_raw": "Why?"
+},
+{
+"n": 154,
+"h": "a3f8d0d5",
+"en_raw": "Hey!!"
+},
+{
+"n": 155,
+"h": "63edc948",
+"en_raw": "I told you I hate dogs!!"
+},
+{
+"n": 156,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 157,
+"h": "11affad6",
+"en_raw": "So hot..."
+},
+{
+"n": 158,
+"h": "1a48994f",
+"en_raw": "This is Melos!"
+},
+{
+"n": 159,
+"h": "6ce00dee",
+"en_raw": "Dogs have it hard in the heat too"
+},
+{
+"n": 160,
+"h": "0ae2add6",
+"en_raw": "Kurumi is fine~"
+},
+{
+"n": 161,
+"h": "c2a81548",
+"en_raw": "What a cute hat"
+},
+{
+"n": 162,
+"h": "ebc5aae2",
+"en_raw": "Yeah"
+},
+{
+"n": 163,
+"h": "8f129b69",
+"en_raw": "You boys watch out for cars, okay?"
+},
+{
+"n": 164,
+"h": "d17490c3",
+"en_raw": "Uh-huh"
+},
+{
+"n": 165,
+"h": "074f9a97",
+"en_raw": "Oh, such a well-behaved doggy"
+},
+{
+"n": 166,
+"h": "3321dd19",
+"en_raw": "What's 'well-behaved'?"
+},
+{
+"n": 167,
+"h": "bd81325e",
+"en_raw": "My, what a big doggy."
+},
+{
+"n": 168,
+"h": "e8071c88",
+"en_raw": "Hee hee hee~"
+}
+]
+}

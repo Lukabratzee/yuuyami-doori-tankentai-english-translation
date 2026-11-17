@@ -1,0 +1,733 @@
+{
+"file": 15,
+"paths": [
+"d002/f609"
+],
+"lines": [
+{
+"n": 0,
+"h": "708480bc",
+"en_raw": "'Carries your feelings,' my foot"
+},
+{
+"n": 1,
+"h": "adea1079",
+"en_raw": "That little-girl hobby"
+},
+{
+"n": 2,
+"h": "b6d43046",
+"en_raw": "where did that even come from?"
+},
+{
+"n": 3,
+"h": "3d56ae87",
+"en_raw": "Maybe toilet flies laid eggs in your head"
+},
+{
+"n": 4,
+"h": "8ec92735",
+"en_raw": "and hatched?"
+},
+{
+"n": 5,
+"h": "da19a5e5",
+"en_raw": "But 'double suicide cases'"
+},
+{
+"n": 6,
+"h": "4985cbb3",
+"en_raw": "they say it on the news, right?"
+},
+{
+"n": 7,
+"h": "81813036",
+"en_raw": "Sango"
+},
+{
+"n": 8,
+"h": "7d3d18d6",
+"en_raw": "What kind of case is that?"
+},
+{
+"n": 9,
+"h": "4ed45a7d",
+"en_raw": "...Huh"
+},
+{
+"n": 10,
+"h": "b155a3b7",
+"en_raw": "You don't even know that?"
+},
+{
+"n": 11,
+"h": "34b6a4e7",
+"en_raw": "Kurumi doesn't know either"
+},
+{
+"n": 12,
+"h": "b37cf3ee",
+"en_raw": "Hey, what's a double suicide?"
+},
+{
+"n": 13,
+"h": "b59f0838",
+"en_raw": "Well, it's, you know..."
+},
+{
+"n": 14,
+"h": "de9a62b3",
+"en_raw": "...Like a forced murder-suicide"
+},
+{
+"n": 15,
+"h": "1c36ab04",
+"en_raw": "That doesn't explain anything"
+},
+{
+"n": 16,
+"h": "5ad1671c",
+"en_raw": "Well, basically..."
+},
+{
+"n": 17,
+"h": "77941550",
+"en_raw": "...Just like it's written"
+},
+{
+"n": 18,
+"h": "d4d5f0dc",
+"en_raw": "'Heart' and 'inside'?"
+},
+{
+"n": 19,
+"h": "84350b75",
+"en_raw": "Yes..."
+},
+{
+"n": 20,
+"h": "4027ad65",
+"en_raw": "Someone's heart gets all messed up"
+},
+{
+"n": 21,
+"h": "97dc4e36",
+"en_raw": "and the person who goes crazy"
+},
+{
+"n": 22,
+"h": "c208c950",
+"en_raw": "kills the people close to them"
+},
+{
+"n": 23,
+"h": "a971d602",
+"en_raw": "one after another"
+},
+{
+"n": 24,
+"h": "895130ba",
+"en_raw": "...For example, with a flashlight on their head"
+},
+{
+"n": 25,
+"h": "e9b432f0",
+"en_raw": "chasing them around"
+},
+{
+"n": 26,
+"h": "aeb489f1",
+"en_raw": "And finally the person"
+},
+{
+"n": 27,
+"h": "86e65e75",
+"en_raw": "kills themselves, too"
+},
+{
+"n": 28,
+"h": "de10c962",
+"en_raw": "It's like, totally"
+},
+{
+"n": 29,
+"h": "4ea63822",
+"en_raw": "Aaaaaagh! you know"
+},
+{
+"n": 30,
+"h": "8b58e9d4",
+"en_raw": "...Pretty gruesome, huh?"
+},
+{
+"n": 31,
+"h": "fc7f31bb",
+"en_raw": "Sango, you're scary..."
+},
+{
+"n": 32,
+"h": "6b0fd171",
+"en_raw": "...I didn't know"
+},
+{
+"n": 33,
+"h": "7660b4aa",
+"en_raw": "that the car sunk in the reservoir"
+},
+{
+"n": 34,
+"h": "fa31fea3",
+"en_raw": "had such a scary story"
+},
+{
+"n": 35,
+"h": "ec6fb401",
+"en_raw": "Actually, I..."
+},
+{
+"n": 36,
+"h": "6149b291",
+"en_raw": "But you know, often"
+},
+{
+"n": 37,
+"h": "984aa90b",
+"en_raw": "those incidents that go beyond reason"
+},
+{
+"n": 38,
+"h": "f0d6658d",
+"en_raw": "steeped in madness"
+},
+{
+"n": 39,
+"h": "02cc36e2",
+"en_raw": "happen in backwaters like this"
+},
+{
+"n": 40,
+"h": "184026ef",
+"en_raw": "So be careful, Nao"
+},
+{
+"n": 41,
+"h": "b2dda0ec",
+"en_raw": "...Yeah"
+},
+{
+"n": 42,
+"h": "badc6d2c",
+"en_raw": "Well then, shall we go?"
+},
+{
+"n": 43,
+"h": "986bb2c1",
+"en_raw": "...The forest reservoir!"
+},
+{
+"n": 44,
+"h": "f3a43a92",
+"en_raw": "The reservoir"
+},
+{
+"n": 45,
+"h": "0fef00e6",
+"en_raw": "is deep inside Tsukazato Forest, right?"
+},
+{
+"n": 46,
+"h": "4381eb61",
+"en_raw": "We'd better hurry, it'll get dark"
+},
+{
+"n": 47,
+"h": "db3567f8",
+"en_raw": "Sango, you're really going?"
+},
+{
+"n": 48,
+"h": "bd5867f4",
+"en_raw": "Kurumi wants to see too"
+},
+{
+"n": 49,
+"h": "a8fd4dbb",
+"en_raw": "Double suicide"
+},
+{
+"n": 50,
+"h": "c0da01ca",
+"en_raw": "It's a story that's"
+},
+{
+"n": 51,
+"h": "724fd592",
+"en_raw": "kind of hard to pin down"
+},
+{
+"n": 52,
+"h": "9e2b072b",
+"en_raw": "...Who did it, and for what purpose"
+},
+{
+"n": 53,
+"h": "985933be",
+"en_raw": "committed mass murder"
+},
+{
+"n": 54,
+"h": "13188384",
+"en_raw": "...So a double suicide"
+},
+{
+"n": 55,
+"h": "733ea22f",
+"en_raw": "is mass murder?"
+},
+{
+"n": 56,
+"h": "40958a67",
+"en_raw": "Of course"
+},
+{
+"n": 57,
+"h": "75c75d3a",
+"en_raw": "A huge amount of blood was shed"
+},
+{
+"n": 58,
+"h": "36ba49f5",
+"en_raw": "enough to turn that reservoir"
+},
+{
+"n": 59,
+"h": "bfebebd7",
+"en_raw": "bright red"
+},
+{
+"n": 60,
+"h": "57947005",
+"en_raw": "I don't want to go anymore..."
+},
+{
+"n": 61,
+"h": "57eddad2",
+"en_raw": "Hey, what were you looking at in the water?"
+},
+{
+"n": 62,
+"h": "8ad545a7",
+"en_raw": "...Hey, a turtle?"
+},
+{
+"n": 63,
+"h": "dcf26e2c",
+"en_raw": "Just dirty water"
+},
+{
+"n": 64,
+"h": "5bf3ed11",
+"en_raw": "Really, really?"
+},
+{
+"n": 65,
+"h": "f10e9860",
+"en_raw": "Kurumi wants to see too"
+},
+{
+"n": 66,
+"h": "5b01174a",
+"en_raw": "Yeah, either way"
+},
+{
+"n": 67,
+"h": "88ebf733",
+"en_raw": "we have no choice but to go again"
+},
+{
+"n": 68,
+"h": "08a58061",
+"en_raw": "Sango, I bet"
+},
+{
+"n": 69,
+"h": "9df13440",
+"en_raw": "there are frogs there"
+},
+{
+"n": 70,
+"h": "2ffa2b40",
+"en_raw": "...Shiina, you once"
+},
+{
+"n": 71,
+"h": "7a036bde",
+"en_raw": "put a little frog"
+},
+{
+"n": 72,
+"h": "f2a1226c",
+"en_raw": "in your mouth and spat it out, right?"
+},
+{
+"n": 73,
+"h": "2b765008",
+"en_raw": "If you do that again"
+},
+{
+"n": 74,
+"h": "08bd30f5",
+"en_raw": "I'll kill you"
+},
+{
+"n": 75,
+"h": "e70f5cfc",
+"en_raw": "But Kurumi is going to the pond"
+},
+{
+"n": 76,
+"h": "650b50c9",
+"en_raw": "and with Melos"
+},
+{
+"n": 77,
+"h": "4db69cfd",
+"en_raw": "she'll watch the double suicide"
+},
+{
+"n": 78,
+"h": "330184be",
+"en_raw": "Hey, this cell phone"
+},
+{
+"n": 79,
+"h": "9aafce38",
+"en_raw": "works perfectly"
+},
+{
+"n": 80,
+"h": "d9707a87",
+"en_raw": "An unexpected find"
+},
+{
+"n": 81,
+"h": "fa231df4",
+"en_raw": "I'm making this mine from today"
+},
+{
+"n": 82,
+"h": "321c1a0e",
+"en_raw": "No, we have to turn it in to the police"
+},
+{
+"n": 83,
+"h": "291c739f",
+"en_raw": "That's you, Mr. Serious..."
+},
+{
+"n": 84,
+"h": "9bb3068e",
+"en_raw": "If the owner notices"
+},
+{
+"n": 85,
+"h": "a4e23da7",
+"en_raw": "it'll be found out right away"
+},
+{
+"n": 86,
+"h": "991aa3ac",
+"en_raw": "Let's take it to the police"
+},
+{
+"n": 87,
+"h": "552bcba8",
+"en_raw": "Kurumi has turned in lots too"
+},
+{
+"n": 88,
+"h": "d3ef6763",
+"en_raw": "Tch"
+},
+{
+"n": 89,
+"h": "c873a340",
+"en_raw": "What a waste, but oh well"
+},
+{
+"n": 90,
+"h": "c3a0024c",
+"en_raw": "While we're at it, about the double suicide"
+},
+{
+"n": 91,
+"h": "7fd4fcbb",
+"en_raw": "I'll ask them every detail"
+},
+{
+"n": 92,
+"h": "789e35ca",
+"en_raw": "Then Kurumi will"
+},
+{
+"n": 93,
+"h": "c1abf639",
+"en_raw": "take it there!"
+},
+{
+"n": 94,
+"h": "01ce9110",
+"en_raw": "No, Shiina"
+},
+{
+"n": 95,
+"h": "b2a88b35",
+"en_raw": "you can't explain it"
+},
+{
+"n": 96,
+"h": "c8b73743",
+"en_raw": "...By the way, Shiina"
+},
+{
+"n": 97,
+"h": "09414f33",
+"en_raw": "who was the call from?"
+},
+{
+"n": 98,
+"h": "bc14e119",
+"en_raw": "Dunno, a woman"
+},
+{
+"n": 99,
+"h": "84542d77",
+"en_raw": "She was angry"
+},
+{
+"n": 100,
+"h": "2fcb54ec",
+"en_raw": "The cell phone"
+},
+{
+"n": 101,
+"h": "51f0bb14",
+"en_raw": "we need to take to the police box"
+},
+{
+"n": 102,
+"h": "861b5ba4",
+"en_raw": "The main street by school, or the station"
+},
+{
+"n": 103,
+"h": "7d65ed57",
+"en_raw": "...Which way?"
+},
+{
+"n": 104,
+"h": "10d20f67",
+"en_raw": "I don't really get it, but"
+},
+{
+"n": 105,
+"h": "b81553da",
+"en_raw": "It was just a messy"
+},
+{
+"n": 106,
+"h": "74ce858c",
+"en_raw": "story between a man and a woman"
+},
+{
+"n": 107,
+"h": "ca08dd2b",
+"en_raw": "...That's totally different, isn't it?"
+},
+{
+"n": 108,
+"h": "1fa65a7a",
+"en_raw": "What is?"
+},
+{
+"n": 109,
+"h": "e1f69f1c",
+"en_raw": "from what Sango said"
+},
+{
+"n": 110,
+"h": "922fe26f",
+"en_raw": "about the double suicide"
+},
+{
+"n": 111,
+"h": "cba98247",
+"en_raw": "How so?"
+},
+{
+"n": 112,
+"h": "be4e4e0e",
+"en_raw": "I mean, you said"
+},
+{
+"n": 113,
+"h": "b39f0daa",
+"en_raw": "hearts getting messed up"
+},
+{
+"n": 114,
+"h": "6f4f0ed2",
+"en_raw": "and mass murder"
+},
+{
+"n": 115,
+"h": "8c512252",
+"en_raw": "and all that crazy stuff"
+},
+{
+"n": 116,
+"h": "43bafc82",
+"en_raw": "It's about right, isn't it?"
+},
+{
+"n": 117,
+"h": "87d79e6f",
+"en_raw": "You're always so careless"
+},
+{
+"n": 118,
+"h": "44118463",
+"en_raw": "Better than the Toilet Gang"
+},
+{
+"n": 119,
+"h": "80d9dd53",
+"en_raw": "...Saying 'let's die together'"
+},
+{
+"n": 120,
+"h": "5d8aef07",
+"en_raw": "no one's such a softie"
+},
+{
+"n": 121,
+"h": "2be622ba",
+"en_raw": "that they'd actually die"
+},
+{
+"n": 122,
+"h": "a25b4129",
+"en_raw": "...True"
+},
+{
+"n": 123,
+"h": "e18069dd",
+"en_raw": "Saying 'let's run the marathon together'"
+},
+{
+"n": 124,
+"h": "e38c910d",
+"en_raw": "is about as off as that"
+},
+{
+"n": 125,
+"h": "9ba6675f",
+"en_raw": "What do you mean?"
+},
+{
+"n": 126,
+"h": "e6fda95c",
+"en_raw": "Love, friendship"
+},
+{
+"n": 127,
+"h": "e4a00188",
+"en_raw": "it's always the ones who want to confirm it"
+},
+{
+"n": 128,
+"h": "c38bd92b",
+"en_raw": "who decide they've been betrayed"
+},
+{
+"n": 129,
+"h": "c47b4acf",
+"en_raw": "mess up their own hearts"
+},
+{
+"n": 130,
+"h": "716d7fda",
+"en_raw": "and cause gruesome incidents"
+},
+{
+"n": 131,
+"h": "75a8f99b",
+"en_raw": "in the world, I'm saying"
+},
+{
+"n": 132,
+"h": "9eddfe57",
+"en_raw": "The day the Toilet Gang's false friendship"
+},
+{
+"n": 133,
+"h": "1ebd338f",
+"en_raw": "turns into hatred"
+},
+{
+"n": 134,
+"h": "7f2ef929",
+"en_raw": "I'm so looking forward"
+},
+{
+"n": 135,
+"h": "8126fe8d",
+"en_raw": "to it, I can't help it"
+},
+{
+"n": 136,
+"h": "a0049f4f",
+"en_raw": "Huh, a phone ringing..."
+},
+{
+"n": 137,
+"h": "627a0e3a",
+"en_raw": "Stop it, Shiina"
+},
+{
+"n": 138,
+"h": "d019b990",
+"en_raw": "Solved the rumor of the Double Suicide!"
+},
+{
+"n": 139,
+"h": "cb41b189",
+"en_raw": "Segawa complained to me that"
+},
+{
+"n": 140,
+"h": "0d246ded",
+"en_raw": "he can't go to the reservoir anymore"
+},
+{
+"n": 141,
+"h": "517b677c",
+"en_raw": "Wimp, worm"
+},
+{
+"n": 142,
+"h": "cd52d56d",
+"en_raw": "pinch him and throw him away!"
+},
+{
+"n": 143,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 144,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

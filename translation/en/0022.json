@@ -1,0 +1,893 @@
+{
+"file": 22,
+"paths": [
+"d002/f623"
+],
+"lines": [
+{
+"n": 0,
+"h": "be7be607",
+"en_raw": "It's a suicide site, they say, Nao"
+},
+{
+"n": 1,
+"h": "6f908375",
+"en_raw": "The pachinko parlor at the north exit"
+},
+{
+"n": 2,
+"h": "7d040ae3",
+"en_raw": "You looked so happy"
+},
+{
+"n": 3,
+"h": "a54e70e0",
+"en_raw": "and then a story like that..."
+},
+{
+"n": 4,
+"h": "63f0fbd3",
+"en_raw": "I see, no wonder"
+},
+{
+"n": 5,
+"h": "5dc5ec8d",
+"en_raw": "it's always closed"
+},
+{
+"n": 6,
+"h": "fbc4bd30",
+"en_raw": "I don't like it"
+},
+{
+"n": 7,
+"h": "1fa65a7a",
+"en_raw": "What is?"
+},
+{
+"n": 8,
+"h": "3ae868d5",
+"en_raw": "Sango is bound to say"
+},
+{
+"n": 9,
+"h": "2450b2a8",
+"en_raw": "it"
+},
+{
+"n": 10,
+"h": "0e141c45",
+"en_raw": "...Let's sneak in"
+},
+{
+"n": 11,
+"h": "adc4a94a",
+"en_raw": "There's no way to get in"
+},
+{
+"n": 12,
+"h": "50df1f87",
+"en_raw": "The shutter's down"
+},
+{
+"n": 13,
+"h": "45ce0050",
+"en_raw": "Then maybe through the back door..."
+},
+{
+"n": 14,
+"h": "f52df3a2",
+"en_raw": "Anyway, I'm not going"
+},
+{
+"n": 15,
+"h": "141b5ad7",
+"en_raw": "I see, the back door, huh..."
+},
+{
+"n": 16,
+"h": "8935ce38",
+"en_raw": "I never thought of that"
+},
+{
+"n": 17,
+"h": "7ad7168c",
+"en_raw": "...Sango, are you listening?"
+},
+{
+"n": 18,
+"h": "36873306",
+"en_raw": "We're not supposed to enter"
+},
+{
+"n": 19,
+"h": "2d9c78e9",
+"en_raw": "pachinko parlors at all"
+},
+{
+"n": 20,
+"h": "085bf8c1",
+"en_raw": "School rules ban arcades"
+},
+{
+"n": 21,
+"h": "396388d4",
+"en_raw": "but they don't"
+},
+{
+"n": 22,
+"h": "a87d8b23",
+"en_raw": "say pachinko parlors"
+},
+{
+"n": 23,
+"h": "51893211",
+"en_raw": "are banned"
+},
+{
+"n": 24,
+"h": "fd458fe5",
+"en_raw": "Well, leave it to me"
+},
+{
+"n": 25,
+"h": "8db040c7",
+"en_raw": "The pachinko parlor's back door..."
+},
+{
+"n": 26,
+"h": "e751e713",
+"en_raw": "Down the side street of the redevelopment area"
+},
+{
+"n": 27,
+"h": "2825d9a5",
+"en_raw": "near the parking lot, right?"
+},
+{
+"n": 28,
+"h": "31fcf493",
+"en_raw": "Let's stop, Sango"
+},
+{
+"n": 29,
+"h": "381fd0a6",
+"en_raw": "There's no way in"
+},
+{
+"n": 30,
+"h": "ffb90588",
+"en_raw": "It's definitely locked"
+},
+{
+"n": 31,
+"h": "205036d5",
+"en_raw": "We'll cross that bridge then"
+},
+{
+"n": 32,
+"h": "bcb3581b",
+"en_raw": "Huh, someone was there"
+},
+{
+"n": 33,
+"h": "bf5945d0",
+"en_raw": "And the sound of the ventilation fan"
+},
+{
+"n": 34,
+"h": "21dd2f4a",
+"en_raw": "was really like a woman's voice..."
+},
+{
+"n": 35,
+"h": "10d20f67",
+"en_raw": "I don't really get it, but"
+},
+{
+"n": 36,
+"h": "27ec1f39",
+"en_raw": "So was that person who seemed to be"
+},
+{
+"n": 37,
+"h": "d6bfb234",
+"en_raw": "the manager the one who killed himself?"
+},
+{
+"n": 38,
+"h": "f604c7d3",
+"en_raw": "What do you mean?"
+},
+{
+"n": 39,
+"h": "13dd526a",
+"en_raw": "I mean, was the person Nao talked to"
+},
+{
+"n": 40,
+"h": "58076999",
+"en_raw": "a ghost?"
+},
+{
+"n": 41,
+"h": "6b161339",
+"en_raw": "How should I know"
+},
+{
+"n": 42,
+"h": "ef5c1d34",
+"en_raw": "Hmm..."
+},
+{
+"n": 43,
+"h": "f2f99377",
+"en_raw": "Looks like I'll have to go myself"
+},
+{
+"n": 44,
+"h": "9fede0fa",
+"en_raw": "I'm not going anymore"
+},
+{
+"n": 45,
+"h": "018ddc6b",
+"en_raw": "The suicide wasn't the manager"
+},
+{
+"n": 46,
+"h": "c44b9344",
+"en_raw": "but someone else, a woman...?"
+},
+{
+"n": 47,
+"h": "0c25f731",
+"en_raw": "Hanging from the ceiling"
+},
+{
+"n": 48,
+"h": "91a32c8b",
+"en_raw": "No matter how I think about it..."
+},
+{
+"n": 49,
+"h": "1898934b",
+"en_raw": "Still, we couldn't hear"
+},
+{
+"n": 50,
+"h": "6b9a4108",
+"en_raw": "the important part"
+},
+{
+"n": 51,
+"h": "930197e8",
+"en_raw": "And we can't go ask to use"
+},
+{
+"n": 52,
+"h": "637f1972",
+"en_raw": "the bathroom again"
+},
+{
+"n": 53,
+"h": "c255ba4a",
+"en_raw": "Hey, let's stop"
+},
+{
+"n": 54,
+"h": "ac0bdc8d",
+"en_raw": "But Nao, that person"
+},
+{
+"n": 55,
+"h": "8343d8d8",
+"en_raw": "isn't a ghost"
+},
+{
+"n": 56,
+"h": "565b93d1",
+"en_raw": "How do you know that?"
+},
+{
+"n": 57,
+"h": "d743f689",
+"en_raw": "How, well"
+},
+{
+"n": 58,
+"h": "60f4cf7c",
+"en_raw": "you can normally tell"
+},
+{
+"n": 59,
+"h": "e08fa9b2",
+"en_raw": "Because he's right there"
+},
+{
+"n": 60,
+"h": "a42cca82",
+"en_raw": "Okay, this time let's go after"
+},
+{
+"n": 61,
+"h": "c1cf2f6e",
+"en_raw": "the background of the incident"
+},
+{
+"n": 62,
+"h": "cda5e717",
+"en_raw": "Take statements from everyone"
+},
+{
+"n": 63,
+"h": "b9f8e3a4",
+"en_raw": "around here"
+},
+{
+"n": 64,
+"h": "98542d5d",
+"en_raw": "And then, maybe..."
+},
+{
+"n": 65,
+"h": "b7dd5d60",
+"en_raw": "the police might know something"
+},
+{
+"n": 66,
+"h": "2746101e",
+"en_raw": "Even the mom who killed herself..."
+},
+{
+"n": 67,
+"h": "fdeef7f2",
+"en_raw": "It's like a middle-aged ladies' magazine"
+},
+{
+"n": 68,
+"h": "339a603f",
+"en_raw": "story, lacking credibility"
+},
+{
+"n": 69,
+"h": "fa8eca45",
+"en_raw": "I get nauseous just hearing it"
+},
+{
+"n": 70,
+"h": "8545f31b",
+"en_raw": "Info from the blond guy, let's see..."
+},
+{
+"n": 71,
+"h": "f76a4f6a",
+"en_raw": "What 'that matter'?"
+},
+{
+"n": 72,
+"h": "6025672d",
+"en_raw": "He seemed like he knew"
+},
+{
+"n": 73,
+"h": "db76d4b7",
+"en_raw": "quite a lot, though"
+},
+{
+"n": 74,
+"h": "1c1d2666",
+"en_raw": "Doesn't look like we'll get more out of him"
+},
+{
+"n": 75,
+"h": "c05b06e2",
+"en_raw": "Interview refused"
+},
+{
+"n": 76,
+"h": "aecbb7c0",
+"en_raw": "That's awful, geez"
+},
+{
+"n": 77,
+"h": "007513eb",
+"en_raw": "...Getting scolded is normal"
+},
+{
+"n": 78,
+"h": "6fa0b711",
+"en_raw": "We can't keep up"
+},
+{
+"n": 79,
+"h": "d3195cdc",
+"en_raw": "with Sango anymore"
+},
+{
+"n": 80,
+"h": "e919e458",
+"en_raw": "Hey, Shiina, let's go to the wild plant garden"
+},
+{
+"n": 81,
+"h": "1bff2049",
+"en_raw": "No, Kurumi will go"
+},
+{
+"n": 82,
+"h": "71afe2fe",
+"en_raw": "with Sango"
+},
+{
+"n": 83,
+"h": "ded8df4b",
+"en_raw": "What!?"
+},
+{
+"n": 84,
+"h": "b2a2aff0",
+"en_raw": "Too bad!"
+},
+{
+"n": 85,
+"h": "f1a8483f",
+"en_raw": "Shiina has been bribed"
+},
+{
+"n": 86,
+"h": "72e81a59",
+"en_raw": "She got treated to ice cream"
+},
+{
+"n": 87,
+"h": "360fce06",
+"en_raw": "We should ask people even closer"
+},
+{
+"n": 88,
+"h": "b34e37b6",
+"en_raw": "to that pachinko parlor"
+},
+{
+"n": 89,
+"h": "47f873e4",
+"en_raw": "After hanging from the ceiling"
+},
+{
+"n": 90,
+"h": "d3b03615",
+"en_raw": "now it's stabbed with a knife..."
+},
+{
+"n": 91,
+"h": "d28afa04",
+"en_raw": "What he says is different every time"
+},
+{
+"n": 92,
+"h": "1fd7e3f1",
+"en_raw": "How many women did that"
+},
+{
+"n": 93,
+"h": "6381de29",
+"en_raw": "so-called manager kill, exactly?"
+},
+{
+"n": 94,
+"h": "f6e9c9dc",
+"en_raw": "Hey, Sango, let's stop"
+},
+{
+"n": 95,
+"h": "e34014fa",
+"en_raw": "Or else..."
+},
+{
+"n": 96,
+"h": "344e5a97",
+"en_raw": "he's just scaring us"
+},
+{
+"n": 97,
+"h": "c71c6579",
+"en_raw": "or he's lost a screw..."
+},
+{
+"n": 98,
+"h": "c7ecb6f3",
+"en_raw": "Hey, that shop once more"
+},
+{
+"n": 99,
+"h": "f17e8c9d",
+"en_raw": "when it gets around that time"
+},
+{
+"n": 100,
+"h": "c9fa116a",
+"en_raw": "The blond guy, the aunties' stories"
+},
+{
+"n": 101,
+"h": "b3259ecf",
+"en_raw": "and the police officer's attitude"
+},
+{
+"n": 102,
+"h": "4d006ea7",
+"en_raw": "Put these together and..."
+},
+{
+"n": 103,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 104,
+"h": "749debf6",
+"en_raw": "it doesn't seem to be entirely that manager's"
+},
+{
+"n": 105,
+"h": "f89da9b3",
+"en_raw": "delusion after all"
+},
+{
+"n": 106,
+"h": "ad167396",
+"en_raw": "About the ghost...?"
+},
+{
+"n": 107,
+"h": "92d00545",
+"en_raw": "No, that someone did commit suicide"
+},
+{
+"n": 108,
+"h": "ed0df12f",
+"en_raw": "tied to that pachinko parlor"
+},
+{
+"n": 109,
+"h": "fb9522d8",
+"en_raw": "This was a real incident"
+},
+{
+"n": 110,
+"h": "e5c99d3c",
+"en_raw": "So are you satisfied now?"
+},
+{
+"n": 111,
+"h": "4222804d",
+"en_raw": "Let's stop poking around"
+},
+{
+"n": 112,
+"h": "0b6fc9b7",
+"en_raw": "But what does that manager"
+},
+{
+"n": 113,
+"h": "fb0299df",
+"en_raw": "do every day, I wonder"
+},
+{
+"n": 114,
+"h": "eed1be83",
+"en_raw": "Is he seriously going to open the shop..."
+},
+{
+"n": 115,
+"h": "0ae936fe",
+"en_raw": "I'm sure it will"
+},
+{
+"n": 116,
+"h": "5f66c82b",
+"en_raw": "To a person like that, a word"
+},
+{
+"n": 117,
+"h": "8dd28aef",
+"en_raw": "'Good luck'"
+},
+{
+"n": 118,
+"h": "341d9053",
+"en_raw": "is it bad to go cheer him on?"
+},
+{
+"n": 119,
+"h": "f5b4a049",
+"en_raw": "Do you mean that?"
+},
+{
+"n": 120,
+"h": "f2c330fe",
+"en_raw": "Oh, that hurt..."
+},
+{
+"n": 121,
+"h": "7790285a",
+"en_raw": "I guess I don't have a shred"
+},
+{
+"n": 122,
+"h": "8a648751",
+"en_raw": "of human feeling, whatever"
+},
+{
+"n": 123,
+"h": "ce4fafd9",
+"en_raw": "I didn't say that"
+},
+{
+"n": 124,
+"h": "93ccbca1",
+"en_raw": "...It can't be helped"
+},
+{
+"n": 125,
+"h": "4ee736e8",
+"en_raw": "It's my parents' upbringing"
+},
+{
+"n": 126,
+"h": "f596e533",
+"en_raw": "Fine, I'll go"
+},
+{
+"n": 127,
+"h": "0dcb7116",
+"en_raw": "Then this time, let's go together"
+},
+{
+"n": 128,
+"h": "dec0231f",
+"en_raw": "If I go alone, I get dragged"
+},
+{
+"n": 129,
+"h": "7e762789",
+"en_raw": "into that manager's pace"
+},
+{
+"n": 130,
+"h": "69576f61",
+"en_raw": "Good for him"
+},
+{
+"n": 131,
+"h": "ac116c85",
+"en_raw": "He says he's opening tomorrow"
+},
+{
+"n": 132,
+"h": "4504defd",
+"en_raw": "...Nao, are you"
+},
+{
+"n": 133,
+"h": "70a033a9",
+"en_raw": "seriously thinking that?"
+},
+{
+"n": 134,
+"h": "bfa88dbe",
+"en_raw": "He was a bit odd"
+},
+{
+"n": 135,
+"h": "f23ce4fa",
+"en_raw": "but he was awfully serious"
+},
+{
+"n": 136,
+"h": "dbac0e78",
+"en_raw": "That's not the issue"
+},
+{
+"n": 137,
+"h": "67873e2c",
+"en_raw": "...A ghost parlor"
+},
+{
+"n": 138,
+"h": "6c9cd07a",
+"en_raw": "is he opening a haunted house?"
+},
+{
+"n": 139,
+"h": "e8a248a2",
+"en_raw": "So that's why he'll clean it up"
+},
+{
+"n": 140,
+"h": "3edb8868",
+"en_raw": "tonight, surely"
+},
+{
+"n": 141,
+"h": "00561af9",
+"en_raw": "As if that's possible..."
+},
+{
+"n": 142,
+"h": "449adea0",
+"en_raw": "Oh well"
+},
+{
+"n": 143,
+"h": "8c7881b6",
+"en_raw": "We'll know tomorrow"
+},
+{
+"n": 144,
+"h": "7883ef84",
+"en_raw": "...According to that weird manager"
+},
+{
+"n": 145,
+"h": "a853199f",
+"en_raw": "today should be the so-called"
+},
+{
+"n": 146,
+"h": "970b2e2f",
+"en_raw": "grand opening, right?"
+},
+{
+"n": 147,
+"h": "1b25dc3e",
+"en_raw": "Hey, Sango, let's go see"
+},
+{
+"n": 148,
+"h": "9fcb0ebb",
+"en_raw": "I plan to, but..."
+},
+{
+"n": 149,
+"h": "08d2bdda",
+"en_raw": "I somehow don't feel like it..."
+},
+{
+"n": 150,
+"h": "c84b06e5",
+"en_raw": "When will it open, I wonder"
+},
+{
+"n": 151,
+"h": "72161a7b",
+"en_raw": "that pachinko parlor"
+},
+{
+"n": 152,
+"h": "a7c65b4f",
+"en_raw": "It's never going to open"
+},
+{
+"n": 153,
+"h": "40d1f33e",
+"en_raw": "So that person"
+},
+{
+"n": 154,
+"h": "1edb4eb1",
+"en_raw": "was weird after all..."
+},
+{
+"n": 155,
+"h": "e190823c",
+"en_raw": "He must be up to something"
+},
+{
+"n": 156,
+"h": "2b31409b",
+"en_raw": "Even if he talks tough"
+},
+{
+"n": 157,
+"h": "c4b011ba",
+"en_raw": "he apparently did some"
+},
+{
+"n": 158,
+"h": "5f663ab3",
+"en_raw": "pretty awful things"
+},
+{
+"n": 159,
+"h": "30ddbf63",
+"en_raw": "That's the cause, isn't it?"
+},
+{
+"n": 160,
+"h": "89deb497",
+"en_raw": "A pang of conscience?"
+},
+{
+"n": 161,
+"h": "c21366e7",
+"en_raw": "Well, yeah"
+},
+{
+"n": 162,
+"h": "06f3ebb3",
+"en_raw": "Which means after all..."
+},
+{
+"n": 163,
+"h": "0de9e8bf",
+"en_raw": "...a ghost's curse?"
+},
+{
+"n": 164,
+"h": "664a06bb",
+"en_raw": "That's what people might say"
+},
+{
+"n": 165,
+"h": "9391c2b4",
+"en_raw": "But Sango, you don't believe"
+},
+{
+"n": 166,
+"h": "ad16462e",
+"en_raw": "in ghosts, do you?"
+},
+{
+"n": 167,
+"h": "6677278a",
+"en_raw": "Yeah"
+},
+{
+"n": 168,
+"h": "d4d5c536",
+"en_raw": "Because they can't exist"
+},
+{
+"n": 169,
+"h": "20693b11",
+"en_raw": "Solved the rumor of the Unopened Pachinko Parlor"
+},
+{
+"n": 170,
+"h": "229aa650",
+"en_raw": "A phantom created by weak hearts"
+},
+{
+"n": 171,
+"h": "85f0a582",
+"en_raw": "That's what ghosts are"
+},
+{
+"n": 172,
+"h": "453ba901",
+"en_raw": "Actually, I was a bit"
+},
+{
+"n": 173,
+"h": "2403bf4a",
+"en_raw": "scared too..."
+},
+{
+"n": 174,
+"h": "56d15478",
+"en_raw": "This is a secret, okay?"
+},
+{
+"n": 175,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 176,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

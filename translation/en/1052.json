@@ -1,0 +1,608 @@
+{
+"file": 1052,
+"paths": [
+"d008/d148/f018"
+],
+"lines": [
+{
+"n": 0,
+"h": "1f2e00df",
+"en_raw": "What is that sound..."
+},
+{
+"n": 1,
+"h": "d93ab5ea",
+"en_raw": "A ghost..."
+},
+{
+"n": 2,
+"h": "fdb9b290",
+"en_raw": "It's a grand reopening..."
+},
+{
+"n": 3,
+"h": "4c832065",
+"en_raw": "An upfront investment is necessary..."
+},
+{
+"n": 4,
+"h": "63f44487",
+"en_raw": "Looks like an all-nighter today..."
+},
+{
+"n": 5,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 6,
+"h": "fbaeadc4",
+"en_raw": "Sorry, excuse me"
+},
+{
+"n": 7,
+"h": "3f79841b",
+"en_raw": "Hey, wait..."
+},
+{
+"n": 8,
+"h": "e632606f",
+"en_raw": "Ah, um..."
+},
+{
+"n": 9,
+"h": "d4f81069",
+"en_raw": "Ah, a kid..."
+},
+{
+"n": 10,
+"h": "a4f3711a",
+"en_raw": "Where did you slip in from?"
+},
+{
+"n": 11,
+"h": "c610b2fa",
+"en_raw": "Um, the back door"
+},
+{
+"n": 12,
+"h": "46b8c533",
+"en_raw": "was open..."
+},
+{
+"n": 13,
+"h": "c54a3d7d",
+"en_raw": "I wanted to borrow the toilet..."
+},
+{
+"n": 14,
+"h": "779cd054",
+"en_raw": "Sure, use it as you like..."
+},
+{
+"n": 15,
+"h": "fbaeadc4",
+"en_raw": "Sorry, excuse me"
+},
+{
+"n": 16,
+"h": "3e82c27e",
+"en_raw": "But... it appears"
+},
+{
+"n": 17,
+"h": "0a825c63",
+"en_raw": "Um... it appears...?"
+},
+{
+"n": 18,
+"h": "6c4d5c64",
+"en_raw": "Listen, you can hear it, right?"
+},
+{
+"n": 19,
+"h": "3479fa1b",
+"en_raw": "That woman's voice"
+},
+{
+"n": 20,
+"h": "2dd58ab4",
+"en_raw": "A woman's voice...?"
+},
+{
+"n": 21,
+"h": "4f9e2640",
+"en_raw": "Listen / Don't  ......"
+},
+{
+"n": 22,
+"h": "e07fdc64",
+"en_raw": "...It's the ventilation fan"
+},
+{
+"n": 23,
+"h": "b558cad7",
+"en_raw": "That's not it"
+},
+{
+"n": 24,
+"h": "564e7c35",
+"en_raw": "That's a woman's voice"
+},
+{
+"n": 25,
+"h": "89dea10f",
+"en_raw": "who came out resenting me"
+},
+{
+"n": 26,
+"h": "76f554ae",
+"en_raw": "Listen again carefully"
+},
+{
+"n": 27,
+"h": "d8f3d529",
+"en_raw": "It sounds just like her crying"
+},
+{
+"n": 28,
+"h": "eaf42266",
+"en_raw": "I don't hear such a sound"
+},
+{
+"n": 29,
+"h": "2f1063e8",
+"en_raw": "That's how it sounds"
+},
+{
+"n": 30,
+"h": "e6488620",
+"en_raw": "Come on, listen carefully..."
+},
+{
+"n": 31,
+"h": "3ddcbb17",
+"en_raw": "Listen / Don't  ...She said she'd die"
+},
+{
+"n": 32,
+"h": "a593d664",
+"en_raw": "I thought it was her usual hysterics"
+},
+{
+"n": 33,
+"h": "67e51fe5",
+"en_raw": "I was fed up"
+},
+{
+"n": 34,
+"h": "983d422c",
+"en_raw": "I told her to go ahead and die"
+},
+{
+"n": 35,
+"h": "c1ee7496",
+"en_raw": "left her and walked out of the hall"
+},
+{
+"n": 36,
+"h": "ce05de2c",
+"en_raw": "...Then the next morning I came"
+},
+{
+"n": 37,
+"h": "5a54e230",
+"en_raw": "and she was dangling from the ceiling"
+},
+{
+"n": 38,
+"h": "969c9179",
+"en_raw": "That woman, honestly"
+},
+{
+"n": 39,
+"h": "053cf03b",
+"en_raw": "dirtying my shop"
+},
+{
+"n": 40,
+"h": "d773575a",
+"en_raw": "I don't hear anything like that..."
+},
+{
+"n": 41,
+"h": "81a6bab0",
+"en_raw": "Excuse me"
+},
+{
+"n": 42,
+"h": "233ed1fd",
+"en_raw": "Don't get caught by that woman"
+},
+{
+"n": 43,
+"h": "cc1c8281",
+"en_raw": "...She's persistent"
+},
+{
+"n": 44,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 45,
+"h": "4c1fd024",
+"en_raw": "...Now, I'm working"
+},
+{
+"n": 46,
+"h": "9cd4eb49",
+"en_raw": "leave when you're done"
+},
+{
+"n": 47,
+"h": "fdb9b290",
+"en_raw": "It's a grand reopening..."
+},
+{
+"n": 48,
+"h": "4c832065",
+"en_raw": "An upfront investment is necessary..."
+},
+{
+"n": 49,
+"h": "63f44487",
+"en_raw": "Looks like an all-nighter today..."
+},
+{
+"n": 50,
+"h": "4b8558ed",
+"en_raw": "Excuse me..."
+},
+{
+"n": 51,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 52,
+"h": "527ac2d4",
+"en_raw": "What, don't use my shop"
+},
+{
+"n": 53,
+"h": "41ac8f6f",
+"en_raw": "as a playground"
+},
+{
+"n": 54,
+"h": "d1782d6d",
+"en_raw": "Ah, sorry for the intrusion"
+},
+{
+"n": 55,
+"h": "7e61ef4e",
+"en_raw": "Well, don't rush"
+},
+{
+"n": 56,
+"h": "5de270a2",
+"en_raw": "But you came at"
+},
+{
+"n": 57,
+"h": "c90237b1",
+"en_raw": "just the right time"
+},
+{
+"n": 58,
+"h": "dbb66183",
+"en_raw": "It's almost time..."
+},
+{
+"n": 59,
+"h": "614baeab",
+"en_raw": "...Time?"
+},
+{
+"n": 60,
+"h": "823f01cd",
+"en_raw": "Yes, the time that woman comes"
+},
+{
+"n": 61,
+"h": "45805414",
+"en_raw": "...That woman?"
+},
+{
+"n": 62,
+"h": "1e2ab92f",
+"en_raw": "Here she comes..."
+},
+{
+"n": 63,
+"h": "98e42c92",
+"en_raw": "No matter how I lock up"
+},
+{
+"n": 64,
+"h": "4f020f65",
+"en_raw": "she gets in through the ventilation fan"
+},
+{
+"n": 65,
+"h": "67eea098",
+"en_raw": "Such a nasty woman"
+},
+{
+"n": 66,
+"h": "d955fa2a",
+"en_raw": "...What are you talking about?"
+},
+{
+"n": 67,
+"h": "808ecb5e",
+"en_raw": "That woman I killed"
+},
+{
+"n": 68,
+"h": "7947c012",
+"en_raw": "She barged into my house"
+},
+{
+"n": 69,
+"h": "e3ea9f93",
+"en_raw": "and swung a kitchen knife"
+},
+{
+"n": 70,
+"h": "5a69bc1d",
+"en_raw": "so I took it and stabbed her"
+},
+{
+"n": 71,
+"h": "c0563f14",
+"en_raw": "...Self-defense, of course"
+},
+{
+"n": 72,
+"h": "59b50abd",
+"en_raw": "...Please stop"
+},
+{
+"n": 73,
+"h": "933a3045",
+"en_raw": "Can't you see?"
+},
+{
+"n": 74,
+"h": "2c7686af",
+"en_raw": "Look, she's standing behind you"
+},
+{
+"n": 75,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 76,
+"h": "2c98873a",
+"en_raw": "Tell her I won't give money"
+},
+{
+"n": 77,
+"h": "79f96d3c",
+"en_raw": "I'm busy"
+},
+{
+"n": 78,
+"h": "fdb9b290",
+"en_raw": "It's a grand reopening..."
+},
+{
+"n": 79,
+"h": "4c832065",
+"en_raw": "An upfront investment is necessary..."
+},
+{
+"n": 80,
+"h": "63f44487",
+"en_raw": "Looks like an all-nighter today..."
+},
+{
+"n": 81,
+"h": "2ca4d74d",
+"en_raw": "Oh, a customer already..."
+},
+{
+"n": 82,
+"h": "c687e56f",
+"en_raw": "The grand opening is tomorrow though"
+},
+{
+"n": 83,
+"h": "2786dd1a",
+"en_raw": "Is it opening tomorrow?"
+},
+{
+"n": 84,
+"h": "8b730ebe",
+"en_raw": "...Oh, that kid from before"
+},
+{
+"n": 85,
+"h": "49ef49e9",
+"en_raw": "Oh boy, not a customer"
+},
+{
+"n": 86,
+"h": "d8578d0d",
+"en_raw": "Ah, um..."
+},
+{
+"n": 87,
+"h": "b1d14532",
+"en_raw": "Congratulations on the opening"
+},
+{
+"n": 88,
+"h": "5aa45920",
+"en_raw": "Ah, I'll accept that"
+},
+{
+"n": 89,
+"h": "18d5cc2e",
+"en_raw": "But finally I got here"
+},
+{
+"n": 90,
+"h": "f4766dc7",
+"en_raw": "Since that woman, it's been awful"
+},
+{
+"n": 91,
+"h": "47ed7618",
+"en_raw": "Customers dropped"
+},
+{
+"n": 92,
+"h": "0fbd10a4",
+"en_raw": "part-timers quit..."
+},
+{
+"n": 93,
+"h": "55e12497",
+"en_raw": "......."
+},
+{
+"n": 94,
+"h": "a224eaa2",
+"en_raw": "Yes, that woman"
+},
+{
+"n": 95,
+"h": "18b5f0ff",
+"en_raw": "covered herself in kerosene..."
+},
+{
+"n": 96,
+"h": "17c23486",
+"en_raw": "and burned black"
+},
+{
+"n": 97,
+"h": "e6ea044e",
+"en_raw": "but she still comes to the shop"
+},
+{
+"n": 98,
+"h": "b5ff964b",
+"en_raw": "Persistent woman..."
+},
+{
+"n": 99,
+"h": "55e12497",
+"en_raw": "......."
+},
+{
+"n": 100,
+"h": "b5ef768b",
+"en_raw": "But listen"
+},
+{
+"n": 101,
+"h": "a3fa7d21",
+"en_raw": "I thought of the best"
+},
+{
+"n": 102,
+"h": "7011ed47",
+"en_raw": "customer-attracting idea"
+},
+{
+"n": 103,
+"h": "a8ad4865",
+"en_raw": "An idea?"
+},
+{
+"n": 104,
+"h": "0398ecec",
+"en_raw": "...That's right"
+},
+{
+"n": 105,
+"h": "aaa41085",
+"en_raw": "Its name is Ghost Parlor"
+},
+{
+"n": 106,
+"h": "147bf993",
+"en_raw": "Good, right?"
+},
+{
+"n": 107,
+"h": "ea80e85e",
+"en_raw": "Perfect for the coming season"
+},
+{
+"n": 108,
+"h": "fdb9b290",
+"en_raw": "It's a grand reopening..."
+},
+{
+"n": 109,
+"h": "4c832065",
+"en_raw": "An upfront investment is necessary..."
+},
+{
+"n": 110,
+"h": "63f44487",
+"en_raw": "Looks like an all-nighter today..."
+},
+{
+"n": 111,
+"h": "fdb9b290",
+"en_raw": "It's a grand reopening..."
+},
+{
+"n": 112,
+"h": "4c832065",
+"en_raw": "An upfront investment is necessary..."
+},
+{
+"n": 113,
+"h": "63f44487",
+"en_raw": "Looks like an all-nighter today..."
+},
+{
+"n": 114,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 115,
+"h": "a9969c9a",
+"en_raw": "I'll go now..."
+},
+{
+"n": 116,
+"h": "02caddfc",
+"en_raw": "Now, now, wait"
+},
+{
+"n": 117,
+"h": "6d9db78e",
+"en_raw": "Don't rush"
+},
+{
+"n": 118,
+"h": "02caddfc",
+"en_raw": "Now, now, wait"
+},
+{
+"n": 119,
+"h": "6d9db78e",
+"en_raw": "Don't rush"
+}
+]
+}

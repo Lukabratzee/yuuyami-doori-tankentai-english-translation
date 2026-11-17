@@ -1,0 +1,788 @@
+{
+"file": 688,
+"paths": [
+"d008/d055/f018"
+],
+"lines": [
+{
+"n": 0,
+"h": "5e6a7daf",
+"en_raw": "Hey, you can't bring a dog in here"
+},
+{
+"n": 1,
+"h": "9d0e6633",
+"en_raw": "This is a housing complex"
+},
+{
+"n": 2,
+"h": "af147f3d",
+"en_raw": "Clean up properly"
+},
+{
+"n": 3,
+"h": "48ded76b",
+"en_raw": "after your dog"
+},
+{
+"n": 4,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 5,
+"h": "3bc9fc97",
+"en_raw": "It's a real problem, this, dog stuff"
+},
+{
+"n": 6,
+"h": "ddb96a1f",
+"en_raw": "When I'm weeding"
+},
+{
+"n": 7,
+"h": "86ffbb36",
+"en_raw": "it turns up"
+},
+{
+"n": 8,
+"h": "cd8c1cc5",
+"en_raw": "Oh, sorry..."
+},
+{
+"n": 9,
+"h": "5024559a",
+"en_raw": "If I find any"
+},
+{
+"n": 10,
+"h": "90b11e57",
+"en_raw": "I'll have the owner come"
+},
+{
+"n": 11,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 12,
+"h": "97e2e5db",
+"en_raw": "No, no"
+},
+{
+"n": 13,
+"h": "5d01df01",
+"en_raw": "Hurry up and get your dog out"
+},
+{
+"n": 14,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 15,
+"h": "56a5c762",
+"en_raw": "Need something?"
+},
+{
+"n": 16,
+"h": "1b35c3b9",
+"en_raw": "Where's the notice board"
+},
+{
+"n": 17,
+"h": "5f5b12b6",
+"en_raw": "with this month's city newsletter?"
+},
+{
+"n": 18,
+"h": "feed6fb9",
+"en_raw": "See, at the entrance"
+},
+{
+"n": 19,
+"h": "a0ea61ba",
+"en_raw": "you came in through"
+},
+{
+"n": 20,
+"h": "b1451b39",
+"en_raw": "That's the one"
+},
+{
+"n": 21,
+"h": "e126d009",
+"en_raw": "I see"
+},
+{
+"n": 22,
+"h": "e333a75e",
+"en_raw": "Thank you very much"
+},
+{
+"n": 23,
+"h": "e3b1c3d4",
+"en_raw": "Did you find the notice board?"
+},
+{
+"n": 24,
+"h": "75631d96",
+"en_raw": "Oh, no, I haven't looked yet"
+},
+{
+"n": 25,
+"h": "ccee2952",
+"en_raw": "It's at the entrance"
+},
+{
+"n": 26,
+"h": "9ecbb9bc",
+"en_raw": "you'll spot it right away"
+},
+{
+"n": 27,
+"h": "e3b1c3d4",
+"en_raw": "Did you find the notice board?"
+},
+{
+"n": 28,
+"h": "eaa183e6",
+"en_raw": "Ah, yes."
+},
+{
+"n": 29,
+"h": "e333a75e",
+"en_raw": "Thank you very much"
+},
+{
+"n": 30,
+"h": "0774ffcc",
+"en_raw": "Yeah"
+},
+{
+"n": 31,
+"h": "d9795ddd",
+"en_raw": "That's good"
+},
+{
+"n": 32,
+"h": "e66025ac",
+"en_raw": "Well then, excuse me"
+},
+{
+"n": 33,
+"h": "33471b85",
+"en_raw": "Hello, out for a walk?"
+},
+{
+"n": 34,
+"h": "fe7dc9ce",
+"en_raw": "How nice"
+},
+{
+"n": 35,
+"h": "3cfe3141",
+"en_raw": "Um... excuse me"
+},
+{
+"n": 36,
+"h": "38a28ad6",
+"en_raw": "Where's the notice board"
+},
+{
+"n": 37,
+"h": "eea61872",
+"en_raw": "with the city newsletter?"
+},
+{
+"n": 38,
+"h": "93b7e732",
+"en_raw": "Um..."
+},
+{
+"n": 39,
+"h": "4c9d217f",
+"en_raw": "Hey, Mrs. Yamada"
+},
+{
+"n": 40,
+"h": "e3d632ad",
+"en_raw": "do you know?"
+},
+{
+"n": 41,
+"h": "ced38c8d",
+"en_raw": "Wasn't it posted on the board"
+},
+{
+"n": 42,
+"h": "14e809cb",
+"en_raw": "at the complex entrance?"
+},
+{
+"n": 43,
+"h": "b6baf062",
+"en_raw": "Oh... I see"
+},
+{
+"n": 44,
+"h": "8ceba444",
+"en_raw": "Thank you"
+},
+{
+"n": 45,
+"h": "cbeaf30b",
+"en_raw": "Hello"
+},
+{
+"n": 46,
+"h": "c6c03f90",
+"en_raw": "Oh, what a cute doggy"
+},
+{
+"n": 47,
+"h": "19d00188",
+"en_raw": "Oh... thank you"
+},
+{
+"n": 48,
+"h": "339b2414",
+"en_raw": "...Shiina?"
+},
+{
+"n": 49,
+"h": "dee42576",
+"en_raw": "A person fell down"
+},
+{
+"n": 50,
+"h": "b7fd2996",
+"en_raw": "Huh..."
+},
+{
+"n": 51,
+"h": "8ca854d4",
+"en_raw": "...There's nobody"
+},
+{
+"n": 52,
+"h": "362d2004",
+"en_raw": "Yeah, nobody's there"
+},
+{
+"n": 53,
+"h": "3e486744",
+"en_raw": "Yes, yes, let's go quickly"
+},
+{
+"n": 54,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 55,
+"h": "d8c93a41",
+"en_raw": "Shiina, let's go"
+},
+{
+"n": 56,
+"h": "508f3689",
+"en_raw": "Yeah"
+},
+{
+"n": 57,
+"h": "5e6a7daf",
+"en_raw": "Hey, you can't bring a dog in here"
+},
+{
+"n": 58,
+"h": "9d0e6633",
+"en_raw": "This is a housing complex"
+},
+{
+"n": 59,
+"h": "be540051",
+"en_raw": "I told you"
+},
+{
+"n": 60,
+"h": "60683db2",
+"en_raw": "not to bring dogs in"
+},
+{
+"n": 61,
+"h": "9f4d8112",
+"en_raw": "No, no"
+},
+{
+"n": 62,
+"h": "f1063ded",
+"en_raw": "Tie it up somewhere properly"
+},
+{
+"n": 63,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 64,
+"h": "8237b549",
+"en_raw": "The complex photo"
+},
+{
+"n": 65,
+"h": "c58e97d6",
+"en_raw": "in this month's city newsletter..."
+},
+{
+"n": 66,
+"h": "d7701b9b",
+"en_raw": "Ah, the other day"
+},
+{
+"n": 67,
+"h": "6eeb1583",
+"en_raw": "a photographer came"
+},
+{
+"n": 68,
+"h": "ed769b29",
+"en_raw": "Photographed, it"
+},
+{
+"n": 69,
+"h": "378f0746",
+"en_raw": "looks quite pretty"
+},
+{
+"n": 70,
+"h": "b49e4e4b",
+"en_raw": "I was surprised"
+},
+{
+"n": 71,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 72,
+"h": "8bc50a0e",
+"en_raw": "Rumor says"
+},
+{
+"n": 73,
+"h": "2860a754",
+"en_raw": "that photo is a spirit photo..."
+},
+{
+"n": 74,
+"h": "04e6fada",
+"en_raw": "A spirit photo?"
+},
+{
+"n": 75,
+"h": "97e2e5db",
+"en_raw": "No, no"
+},
+{
+"n": 76,
+"h": "36c3f0f1",
+"en_raw": "There's no way that's true"
+},
+{
+"n": 77,
+"h": "4513f801",
+"en_raw": "Don't say weird things"
+},
+{
+"n": 78,
+"h": "34448a90",
+"en_raw": "Honestly..."
+},
+{
+"n": 79,
+"h": "3b3c6ade",
+"en_raw": "Oh, sorry..."
+},
+{
+"n": 80,
+"h": "1cb18eea",
+"en_raw": "Don't spread strange stories"
+},
+{
+"n": 81,
+"h": "680ac39d",
+"en_raw": "Excuse me, um..."
+},
+{
+"n": 82,
+"h": "b2ddd8f8",
+"en_raw": "Yes?"
+},
+{
+"n": 83,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 84,
+"h": "3eafbcc8",
+"en_raw": "Are there rumors of"
+},
+{
+"n": 85,
+"h": "9709ad63",
+"en_raw": "ghosts seen at the complex?"
+},
+{
+"n": 86,
+"h": "57ee6939",
+"en_raw": "Well... never heard any"
+},
+{
+"n": 87,
+"h": "42b3dc4a",
+"en_raw": "I see..."
+},
+{
+"n": 88,
+"h": "e333a75e",
+"en_raw": "Thank you very much"
+},
+{
+"n": 89,
+"h": "cbeaf30b",
+"en_raw": "Hello"
+},
+{
+"n": 90,
+"h": "c6c03f90",
+"en_raw": "Oh, what a cute doggy"
+},
+{
+"n": 91,
+"h": "19d00188",
+"en_raw": "Oh... thank you"
+},
+{
+"n": 92,
+"h": "3c0b199e",
+"en_raw": "Huh...?"
+},
+{
+"n": 93,
+"h": "63f75706",
+"en_raw": "The manager..."
+},
+{
+"n": 94,
+"h": "04bed65d",
+"en_raw": "was always around here..."
+},
+{
+"n": 95,
+"h": "27c72f77",
+"en_raw": "Um, today"
+},
+{
+"n": 96,
+"h": "22e4c41d",
+"en_raw": "is the manager off?"
+},
+{
+"n": 97,
+"h": "6fded75c",
+"en_raw": "Oh, haven't you seen him?"
+},
+{
+"n": 98,
+"h": "814f0601",
+"en_raw": "...Oh dear"
+},
+{
+"n": 99,
+"h": "bafac279",
+"en_raw": "Haven't you heard, ma'am?"
+},
+{
+"n": 100,
+"h": "a530a19c",
+"en_raw": "What's wrong?"
+},
+{
+"n": 101,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 102,
+"h": "4891caef",
+"en_raw": "...Oh my, was that so"
+},
+{
+"n": 103,
+"h": "0caa749c",
+"en_raw": "I didn't know"
+},
+{
+"n": 104,
+"h": "8f08b2b1",
+"en_raw": "How sad"
+},
+{
+"n": 105,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 106,
+"h": "80cab2d9",
+"en_raw": "The manager"
+},
+{
+"n": 107,
+"h": "e1e569f0",
+"en_raw": "did something happen?"
+},
+{
+"n": 108,
+"h": "724d899b",
+"en_raw": "The manager, Mr. Kono"
+},
+{
+"n": 109,
+"h": "1252037a",
+"en_raw": "...passed away"
+},
+{
+"n": 110,
+"h": "52f7ee22",
+"en_raw": "...What?"
+},
+{
+"n": 111,
+"h": "bfb0274e",
+"en_raw": "He was so healthy"
+},
+{
+"n": 112,
+"h": "21077456",
+"en_raw": "You never can tell with the elderly"
+},
+{
+"n": 113,
+"h": "9f7ee6fa",
+"en_raw": "We have to watch out"
+},
+{
+"n": 114,
+"h": "37976c14",
+"en_raw": "for my grandpa too"
+},
+{
+"n": 115,
+"h": "0b4e356f",
+"en_raw": "By the way, then"
+},
+{
+"n": 116,
+"h": "6cb3ae9e",
+"en_raw": "will a new manager come?"
+},
+{
+"n": 117,
+"h": "46b0b752",
+"en_raw": "Apparently so"
+},
+{
+"n": 118,
+"h": "cd5efce5",
+"en_raw": "A young person this time, they say"
+},
+{
+"n": 119,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 120,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 121,
+"h": "73652315",
+"en_raw": "When did the manager..."
+},
+{
+"n": 122,
+"h": "375a7f33",
+"en_raw": "Yesterday, yesterday"
+},
+{
+"n": 123,
+"h": "a339acd1",
+"en_raw": "Taken to the hospital late"
+},
+{
+"n": 124,
+"h": "434506e4",
+"en_raw": "and just like that..., they say"
+},
+{
+"n": 125,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 126,
+"h": "8a27e576",
+"en_raw": "Does he have any relatives..."
+},
+{
+"n": 127,
+"h": "35aa0a11",
+"en_raw": "Mr. Kono"
+},
+{
+"n": 128,
+"h": "c1d513d6",
+"en_raw": "didn't he have a wife?"
+},
+{
+"n": 129,
+"h": "bf803863",
+"en_raw": "I haven't heard"
+},
+{
+"n": 130,
+"h": "bf7ce929",
+"en_raw": "he was alone, I think"
+},
+{
+"n": 131,
+"h": "aa0f1bc1",
+"en_raw": "Oh my, then"
+},
+{
+"n": 132,
+"h": "eedfc2b2",
+"en_raw": "he really was alone..."
+},
+{
+"n": 133,
+"h": "b2e48a58",
+"en_raw": "Poor man"
+},
+{
+"n": 134,
+"h": "0e4a5f90",
+"en_raw": "Did you"
+},
+{
+"n": 135,
+"h": "579261f6",
+"en_raw": "have something left with him?"
+},
+{
+"n": 136,
+"h": "5c2eee0a",
+"en_raw": "Ah, no..."
+},
+{
+"n": 137,
+"h": "e333a75e",
+"en_raw": "Thank you very much"
+},
+{
+"n": 138,
+"h": "a2bcb731",
+"en_raw": "You really can't tell"
+},
+{
+"n": 139,
+"h": "ed9a9e4c",
+"en_raw": "He was so healthy"
+},
+{
+"n": 140,
+"h": "ec4ab5fb",
+"en_raw": "up until yesterday"
+},
+{
+"n": 141,
+"h": "f1e39097",
+"en_raw": "But what kind of person"
+},
+{
+"n": 142,
+"h": "dcd54e72",
+"en_raw": "will the new one be?"
+},
+{
+"n": 143,
+"h": "4b4d6c97",
+"en_raw": "Well..."
+},
+{
+"n": 144,
+"h": "425d9718",
+"en_raw": "Thank you very much..."
+},
+{
+"n": 145,
+"h": "0e87675e",
+"en_raw": "Excuse me"
+},
+{
+"n": 146,
+"h": "a91167b7",
+"en_raw": "I heard there used to be"
+},
+{
+"n": 147,
+"h": "029b8fdd",
+"en_raw": "a 'Bird Mound' around here..."
+},
+{
+"n": 148,
+"h": "2e11bc8b",
+"en_raw": "Bird Mound... hmm..."
+},
+{
+"n": 149,
+"h": "0e9b94ed",
+"en_raw": "get lost?"
+},
+{
+"n": 150,
+"h": "740cf570",
+"en_raw": "I've never heard of it"
+},
+{
+"n": 151,
+"h": "d83b189c",
+"en_raw": "I see..."
+},
+{
+"n": 152,
+"h": "e333a75e",
+"en_raw": "Thank you very much"
+},
+{
+"n": 153,
+"h": "f753c32d",
+"en_raw": "If the manager were alive"
+},
+{
+"n": 154,
+"h": "445ec476",
+"en_raw": "he'd surely have known"
+},
+{
+"n": 155,
+"h": "19589fe6",
+"en_raw": "It was truly sudden"
+}
+]
+}

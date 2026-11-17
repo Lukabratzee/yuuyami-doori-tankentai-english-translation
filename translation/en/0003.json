@@ -1,0 +1,918 @@
+{
+"file": 3,
+"paths": [
+"d002/f585"
+],
+"lines": [
+{
+"n": 0,
+"h": "aea028df",
+"en_raw": "...Hanako-san's grave?"
+},
+{
+"n": 1,
+"h": "69dc453a",
+"en_raw": "You know, that rumor"
+},
+{
+"n": 2,
+"h": "6930e4b2",
+"en_raw": "from before?"
+},
+{
+"n": 3,
+"h": "4bfc358b",
+"en_raw": "The bob-haired girl monster, or whatever"
+},
+{
+"n": 4,
+"h": "ddd8ce14",
+"en_raw": "Yeah, I know it"
+},
+{
+"n": 5,
+"h": "3c64a1f0",
+"en_raw": "That girl"
+},
+{
+"n": 6,
+"h": "cce8733e",
+"en_raw": "lived in this town..."
+},
+{
+"n": 7,
+"h": "fd2def55",
+"en_raw": "Oh, don't get the wrong idea"
+},
+{
+"n": 8,
+"h": "82aac238",
+"en_raw": "This story comes from the"
+},
+{
+"n": 9,
+"h": "0d210113",
+"en_raw": "hopeless people called"
+},
+{
+"n": 10,
+"h": "b97b0cb3",
+"en_raw": "the Toilet Gang"
+},
+{
+"n": 11,
+"h": "3ad9c0b5",
+"en_raw": "...The Toilet Gang?"
+},
+{
+"n": 12,
+"h": "280e5327",
+"en_raw": "People led by Mika Sakai"
+},
+{
+"n": 13,
+"h": "1c61999f",
+"en_raw": "who specialize in bad-mouthing and ghosts"
+},
+{
+"n": 14,
+"h": "d8f55de9",
+"en_raw": "Well, they're a kind of"
+},
+{
+"n": 15,
+"h": "ed33476e",
+"en_raw": "Hanako-san themselves"
+},
+{
+"n": 16,
+"h": "a6469f3b",
+"en_raw": "The cancer cells of our class"
+},
+{
+"n": 17,
+"h": "1b8babb9",
+"en_raw": "But it's near Hirumi Bridge, right?"
+},
+{
+"n": 18,
+"h": "4341c832",
+"en_raw": "Since we're here anyway"
+},
+{
+"n": 19,
+"h": "6af34f6a",
+"en_raw": "let's all go and see it"
+},
+{
+"n": 20,
+"h": "08ec26bf",
+"en_raw": "...Shiina"
+},
+{
+"n": 21,
+"h": "d44bdbb1",
+"en_raw": "Do you know that bridge?"
+},
+{
+"n": 22,
+"h": "e8b39cec",
+"en_raw": "The sunsets there are so pretty"
+},
+{
+"n": 23,
+"h": "2d431ccc",
+"en_raw": "Hmm, then Kurumi"
+},
+{
+"n": 24,
+"h": "4ce651ec",
+"en_raw": "might go and see it"
+},
+{
+"n": 25,
+"h": "31440a13",
+"en_raw": "...Kind of an impure motive"
+},
+{
+"n": 26,
+"h": "7b6ebce1",
+"en_raw": "Hey hey, Sango"
+},
+{
+"n": 27,
+"h": "ff43b247",
+"en_raw": "What about going to see the grave?"
+},
+{
+"n": 28,
+"h": "90f70b0d",
+"en_raw": "A crossroads or something"
+},
+{
+"n": 29,
+"h": "ed0b0fe4",
+"en_raw": "is what the Toilet Gang said, right?"
+},
+{
+"n": 30,
+"h": "469ea35c",
+"en_raw": "If we go and look"
+},
+{
+"n": 31,
+"h": "ad960ffa",
+"en_raw": "we'd probably find out"
+},
+{
+"n": 32,
+"h": "5b5071ed",
+"en_raw": "The Tama River? That's far..."
+},
+{
+"n": 33,
+"h": "e4587a41",
+"en_raw": "She was a strange old lady"
+},
+{
+"n": 34,
+"h": "ae59205c",
+"en_raw": "Suddenly started talking to us"
+},
+{
+"n": 35,
+"h": "5f3a291e",
+"en_raw": "It was the same character as Kurumi's"
+},
+{
+"n": 36,
+"h": "4b04e995",
+"en_raw": "...Hirumi, the long way, huh"
+},
+{
+"n": 37,
+"h": "de01b158",
+"en_raw": "I prefer the short Hirumi, myself"
+},
+{
+"n": 38,
+"h": "f5e66f02",
+"en_raw": "Writing addresses on postcards"
+},
+{
+"n": 39,
+"h": "7c4a23b5",
+"en_raw": "is easier that way"
+},
+{
+"n": 40,
+"h": "2e9b82e7",
+"en_raw": "Oh, right!"
+},
+{
+"n": 41,
+"h": "d3595fd5",
+"en_raw": "Sango, what about the grave?"
+},
+{
+"n": 42,
+"h": "6ce301bb",
+"en_raw": "Right, right"
+},
+{
+"n": 43,
+"h": "4ce5ce27",
+"en_raw": "That matters more than the bridge's name"
+},
+{
+"n": 44,
+"h": "8785ff4b",
+"en_raw": "We still haven't learned"
+},
+{
+"n": 45,
+"h": "f7406a3f",
+"en_raw": "anything, after all"
+},
+{
+"n": 46,
+"h": "90cf32b0",
+"en_raw": "Anyway, let's leave this story"
+},
+{
+"n": 47,
+"h": "3ce554b3",
+"en_raw": "for tomorrow"
+},
+{
+"n": 48,
+"h": "a4bcee50",
+"en_raw": "...Well, okay"
+},
+{
+"n": 49,
+"h": "bed5b85f",
+"en_raw": "Who's hungry?"
+},
+{
+"n": 50,
+"h": "23530248",
+"en_raw": "...Me!"
+},
+{
+"n": 51,
+"h": "90cf32b0",
+"en_raw": "Anyway, let's leave this story"
+},
+{
+"n": 52,
+"h": "3ce554b3",
+"en_raw": "for tomorrow"
+},
+{
+"n": 53,
+"h": "28c2e28f",
+"en_raw": "Shiina, was the bridge interesting?"
+},
+{
+"n": 54,
+"h": "5f3a291e",
+"en_raw": "It was the same character as Kurumi's"
+},
+{
+"n": 55,
+"h": "15ffd158",
+"en_raw": "Hirumi isn't the short one"
+},
+{
+"n": 56,
+"h": "21a32c00",
+"en_raw": "the long one is the real one"
+},
+{
+"n": 57,
+"h": "ca0ab204",
+"en_raw": "Huh, so what? is how I feel"
+},
+{
+"n": 58,
+"h": "e4587a41",
+"en_raw": "She was a strange old lady"
+},
+{
+"n": 59,
+"h": "7b6ebce1",
+"en_raw": "Hey hey, Sango"
+},
+{
+"n": 60,
+"h": "32e15e7b",
+"en_raw": "What about going to see the grave?"
+},
+{
+"n": 61,
+"h": "664c51c9",
+"en_raw": "Right, that matters more than the bridge"
+},
+{
+"n": 62,
+"h": "87a5fd25",
+"en_raw": "We still haven't"
+},
+{
+"n": 63,
+"h": "b9492042",
+"en_raw": "learned anything, after all"
+},
+{
+"n": 64,
+"h": "5f4f33d0",
+"en_raw": "Forget it, who cares about graves"
+},
+{
+"n": 65,
+"h": "5cec00a7",
+"en_raw": "Oh, if you say that"
+},
+{
+"n": 66,
+"h": "3de40aaf",
+"en_raw": "Hanako-san will bring you bad luck!"
+},
+{
+"n": 67,
+"h": "15577b1b",
+"en_raw": "Ha ha ha"
+},
+{
+"n": 68,
+"h": "e6a63ac8",
+"en_raw": "Sango, you're scary!"
+},
+{
+"n": 69,
+"h": "2529c408",
+"en_raw": "I strangely remember the Toilet Gang"
+},
+{
+"n": 70,
+"h": "664c6897",
+"en_raw": "mentioning a crossroads or something"
+},
+{
+"n": 71,
+"h": "dcbe03e6",
+"en_raw": "But the problem is where it is"
+},
+{
+"n": 72,
+"h": "33dac8b8",
+"en_raw": "It's impossible to find something like that"
+},
+{
+"n": 73,
+"h": "77734afa",
+"en_raw": "And actually, what I'm really"
+},
+{
+"n": 74,
+"h": "a41a7805",
+"en_raw": "curious about right now is"
+},
+{
+"n": 75,
+"h": "c4b326d6",
+"en_raw": "that old lady"
+},
+{
+"n": 76,
+"h": "fea860ae",
+"en_raw": "That old lady might know about"
+},
+{
+"n": 77,
+"h": "5e83ce7e",
+"en_raw": "the old days..."
+},
+{
+"n": 78,
+"h": "aef1b6c0",
+"en_raw": "Maybe so, but..."
+},
+{
+"n": 79,
+"h": "45b42e1b",
+"en_raw": "What would you do with that info?"
+},
+{
+"n": 80,
+"h": "4dfa0436",
+"en_raw": "Nothing"
+},
+{
+"n": 81,
+"h": "c40ca7d2",
+"en_raw": "I just want to confront"
+},
+{
+"n": 82,
+"h": "50ac0fde",
+"en_raw": "the Toilet Gang with"
+},
+{
+"n": 83,
+"h": "0398e8f3",
+"en_raw": "the truth"
+},
+{
+"n": 84,
+"h": "bee4d143",
+"en_raw": "...Well, it's just a bit of"
+},
+{
+"n": 85,
+"h": "a015fbe9",
+"en_raw": "killing time"
+},
+{
+"n": 86,
+"h": "c4b326d6",
+"en_raw": "that old lady"
+},
+{
+"n": 87,
+"h": "5b81fd14",
+"en_raw": "We hit the jackpot"
+},
+{
+"n": 88,
+"h": "8ccbe1a8",
+"en_raw": "Turn onto the road in front of the hospital"
+},
+{
+"n": 89,
+"h": "a777c142",
+"en_raw": "and the fork beyond it"
+},
+{
+"n": 90,
+"h": "9f6a1486",
+"en_raw": "that's the crossroads, right?"
+},
+{
+"n": 91,
+"h": "bc9a807f",
+"en_raw": "If you go through toward the river"
+},
+{
+"n": 92,
+"h": "756d5506",
+"en_raw": "...Hime-no-Mori?"
+},
+{
+"n": 93,
+"h": "625633a5",
+"en_raw": "Anyway"
+},
+{
+"n": 94,
+"h": "f1346772",
+"en_raw": "you get to the place the Toilet Gang"
+},
+{
+"n": 95,
+"h": "c6a4935a",
+"en_raw": "talked about, is what you're saying"
+},
+{
+"n": 96,
+"h": "2972daaa",
+"en_raw": "That's how it works out"
+},
+{
+"n": 97,
+"h": "52c0e9bb",
+"en_raw": "But not a word about Hanako's grave..."
+},
+{
+"n": 98,
+"h": "42ad9359",
+"en_raw": "Right?"
+},
+{
+"n": 99,
+"h": "e625165f",
+"en_raw": "And there, lies and reality"
+},
+{
+"n": 100,
+"h": "ce658056",
+"en_raw": "get all mixed up"
+},
+{
+"n": 101,
+"h": "2ebf567c",
+"en_raw": "Showing the Toilet Gang the truth..."
+},
+{
+"n": 102,
+"h": "4a3ed58f",
+"en_raw": "...Well, that kind of"
+},
+{
+"n": 103,
+"h": "5903906f",
+"en_raw": "stopped mattering"
+},
+{
+"n": 104,
+"h": "59a23d34",
+"en_raw": "Looks like it"
+},
+{
+"n": 105,
+"h": "bd14b051",
+"en_raw": "But it sounds fun, doesn't it?"
+},
+{
+"n": 106,
+"h": "08823f24",
+"en_raw": "Let's go! And check it out"
+},
+{
+"n": 107,
+"h": "862b1e20",
+"en_raw": "But before it gets dark"
+},
+{
+"n": 108,
+"h": "81813036",
+"en_raw": "Sango"
+},
+{
+"n": 109,
+"h": "3355c970",
+"en_raw": "We got lost after all"
+},
+{
+"n": 110,
+"h": "c5c6f945",
+"en_raw": "Toward the Tama River, but"
+},
+{
+"n": 111,
+"h": "43e5a27a",
+"en_raw": "with nothing but similar-looking roads"
+},
+{
+"n": 112,
+"h": "e5678f06",
+"en_raw": "you can't tell which way you're going"
+},
+{
+"n": 113,
+"h": "56494940",
+"en_raw": "That's a strange place"
+},
+{
+"n": 114,
+"h": "d498e511",
+"en_raw": "Maybe I'll give up..."
+},
+{
+"n": 115,
+"h": "a522f1f3",
+"en_raw": "Want to?"
+},
+{
+"n": 116,
+"h": "8b9cfcc4",
+"en_raw": "Then Kurumi will"
+},
+{
+"n": 117,
+"h": "605e0c3e",
+"en_raw": "go and take a look"
+},
+{
+"n": 118,
+"h": "e364b7f6",
+"en_raw": "Right, places like that"
+},
+{
+"n": 119,
+"h": "aa23dbe8",
+"en_raw": "are Shiina's specialty"
+},
+{
+"n": 120,
+"h": "160f561c",
+"en_raw": "True, strangely she never gets lost"
+},
+{
+"n": 121,
+"h": "4152a13d",
+"en_raw": "Must be animal instinct"
+},
+{
+"n": 122,
+"h": "8a6f3e12",
+"en_raw": "Kasuka-chan"
+},
+{
+"n": 123,
+"h": "6a96493a",
+"en_raw": "said"
+},
+{
+"n": 124,
+"h": "8be4332b",
+"en_raw": "If you keep going like this"
+},
+{
+"n": 125,
+"h": "722c8c7e",
+"en_raw": "you'll die!"
+},
+{
+"n": 126,
+"h": "9561b837",
+"en_raw": "And then Kurumi"
+},
+{
+"n": 127,
+"h": "247c5a8e",
+"en_raw": "found it funny and laughed"
+},
+{
+"n": 128,
+"h": "cff7c05c",
+"en_raw": "Shiina, that kid"
+},
+{
+"n": 129,
+"h": "bf58c85e",
+"en_raw": "really said you'd die?"
+},
+{
+"n": 130,
+"h": "f51b4e4d",
+"en_raw": "There are more kids lately"
+},
+{
+"n": 131,
+"h": "8663e3ea",
+"en_raw": "who say nasty things"
+},
+{
+"n": 132,
+"h": "44ab714c",
+"en_raw": "It's the parents' fault"
+},
+{
+"n": 133,
+"h": "4041b812",
+"en_raw": "But it was a strange incident"
+},
+{
+"n": 134,
+"h": "74d635d5",
+"en_raw": "That old lady was also"
+},
+{
+"n": 135,
+"h": "a9326cbd",
+"en_raw": "really odd..."
+},
+{
+"n": 136,
+"h": "e7baca99",
+"en_raw": "Honestly"
+},
+{
+"n": 137,
+"h": "d45f3da6",
+"en_raw": "Nothing but old stories"
+},
+{
+"n": 138,
+"h": "21c4e5d2",
+"en_raw": "Such a nuisance, being told them"
+},
+{
+"n": 139,
+"h": "83aebb05",
+"en_raw": "In the end, the grave"
+},
+{
+"n": 140,
+"h": "1b6d1de8",
+"en_raw": "wasn't there, was it?"
+},
+{
+"n": 141,
+"h": "c2e4cd72",
+"en_raw": "Just knowing that"
+},
+{
+"n": 142,
+"h": "14e80775",
+"en_raw": "is enough, isn't it?"
+},
+{
+"n": 143,
+"h": "efcd5b66",
+"en_raw": "What was good about it"
+},
+{
+"n": 144,
+"h": "35a5eb62",
+"en_raw": "I have no idea"
+},
+{
+"n": 145,
+"h": "e30da9a8",
+"en_raw": "Searching for the grave any more"
+},
+{
+"n": 146,
+"h": "e5dd199f",
+"en_raw": "is pointless, true"
+},
+{
+"n": 147,
+"h": "dc698afb",
+"en_raw": "Yeah, but"
+},
+{
+"n": 148,
+"h": "9862fa33",
+"en_raw": "This town still has"
+},
+{
+"n": 149,
+"h": "763ebeed",
+"en_raw": "so many things we don't know"
+},
+{
+"n": 150,
+"h": "5d4e9116",
+"en_raw": "about, you know"
+},
+{
+"n": 151,
+"h": "fa86399e",
+"en_raw": "Like the meaning of Hirumi"
+},
+{
+"n": 152,
+"h": "e20062d4",
+"en_raw": "or the god Hime-no-Mori"
+},
+{
+"n": 153,
+"h": "52f56dac",
+"en_raw": "Anyway"
+},
+{
+"n": 154,
+"h": "6e8a8a8b",
+"en_raw": "Watching the evening sun linger, huh..."
+},
+{
+"n": 155,
+"h": "e8c2cf9a",
+"en_raw": "Come to think of it, lately"
+},
+{
+"n": 156,
+"h": "41214940",
+"en_raw": "the days are getting longer"
+},
+{
+"n": 157,
+"h": "36fb110b",
+"en_raw": "A walk with Melos"
+},
+{
+"n": 158,
+"h": "9e3b27aa",
+"en_raw": "would surely feel nice"
+},
+{
+"n": 159,
+"h": "9eeca5eb",
+"en_raw": "Sango, let's go together again"
+},
+{
+"n": 160,
+"h": "37913a7b",
+"en_raw": "Like we used to"
+},
+{
+"n": 161,
+"h": "d7c12180",
+"en_raw": "If there's some interesting place"
+},
+{
+"n": 162,
+"h": "573f5b8a",
+"en_raw": "in this town, I'll go along"
+},
+{
+"n": 163,
+"h": "1419b18e",
+"en_raw": "Whether it's like before, never mind"
+},
+{
+"n": 164,
+"h": "ce23164e",
+"en_raw": "Solved the rumor of Hanako-san's Grave"
+},
+{
+"n": 165,
+"h": "88267580",
+"en_raw": "Even so"
+},
+{
+"n": 166,
+"h": "73a818f0",
+"en_raw": "All we desperately tracked down was"
+},
+{
+"n": 167,
+"h": "4f4aa8a6",
+"en_raw": "just a riverside parking lot..."
+},
+{
+"n": 168,
+"h": "204250e8",
+"en_raw": "You look grumpy, Sango"
+},
+{
+"n": 169,
+"h": "f5dbb890",
+"en_raw": "Don't bother me, I'm thinking"
+},
+{
+"n": 170,
+"h": "aa239610",
+"en_raw": "so hard you're knitting your brow"
+},
+{
+"n": 171,
+"h": "55e12497",
+"en_raw": "......."
+},
+{
+"n": 172,
+"h": "051a62c2",
+"en_raw": "Hey, so is this how it is?"
+},
+{
+"n": 173,
+"h": "68469dd6",
+"en_raw": "We"
+},
+{
+"n": 174,
+"h": "11796bc4",
+"en_raw": "were played by the Toilet Gang's rumor"
+},
+{
+"n": 175,
+"h": "ad6bb52d",
+"en_raw": "and on top of that, that old lady"
+},
+{
+"n": 176,
+"h": "27038322",
+"en_raw": "tricked us too..."
+},
+{
+"n": 177,
+"h": "d364821e",
+"en_raw": "But she never said it was a grave"
+},
+{
+"n": 178,
+"h": "f5480e1a",
+"en_raw": "Even Hime-no-Mori..."
+},
+{
+"n": 179,
+"h": "75cce645",
+"en_raw": "Will I see Kasuka-chan again?"
+},
+{
+"n": 180,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 181,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

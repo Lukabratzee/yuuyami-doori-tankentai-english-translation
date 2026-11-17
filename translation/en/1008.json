@@ -1,0 +1,513 @@
+{
+"file": 1008,
+"paths": [
+"d008/d126/f024"
+],
+"lines": [
+{
+"n": 0,
+"h": "8da11ff0",
+"en_raw": "Yo!"
+},
+{
+"n": 1,
+"h": "2145fa48",
+"en_raw": "Oh, it's Murase"
+},
+{
+"n": 2,
+"h": "e20aa0bd",
+"en_raw": "You really came?"
+},
+{
+"n": 3,
+"h": "99f9528a",
+"en_raw": "After all that threatening"
+},
+{
+"n": 4,
+"h": "3fe536d7",
+"en_raw": "Well, anyway, tonight"
+},
+{
+"n": 5,
+"h": "c5257a4b",
+"en_raw": "Everyone for you"
+},
+{
+"n": 6,
+"h": "867ec605",
+"en_raw": "gathered for you"
+},
+{
+"n": 7,
+"h": "a2a87605",
+"en_raw": "You're prepared, right?"
+},
+{
+"n": 8,
+"h": "1ac9a3c4",
+"en_raw": "Not running away now..."
+},
+{
+"n": 9,
+"h": "56b0be78",
+"en_raw": "you won't say that, right?"
+},
+{
+"n": 10,
+"h": "cd9aa2d5",
+"en_raw": "I said that, but"
+},
+{
+"n": 11,
+"h": "88dcebbb",
+"en_raw": "somehow I'm getting"
+},
+{
+"n": 12,
+"h": "c7b17912",
+"en_raw": "angry too"
+},
+{
+"n": 13,
+"h": "aff7865b",
+"en_raw": "...Why not quit?"
+},
+{
+"n": 14,
+"h": "1147e587",
+"en_raw": "Hey, ugly"
+},
+{
+"n": 15,
+"h": "aca959ae",
+"en_raw": "The kid from the next class"
+},
+{
+"n": 16,
+"h": "b707ac07",
+"en_raw": "has nothing to do with this!"
+},
+{
+"n": 17,
+"h": "8d7a6791",
+"en_raw": "Or, Murase"
+},
+{
+"n": 18,
+"h": "f93efbd6",
+"en_raw": "are you going to listen to a girl"
+},
+{
+"n": 19,
+"h": "26d7c5a0",
+"en_raw": "and go home with her?"
+},
+{
+"n": 20,
+"h": "25cab5ac",
+"en_raw": "...What should I do"
+},
+{
+"n": 21,
+"h": "0806cc0a",
+"en_raw": "Accept the challenge / Quit..."
+},
+{
+"n": 22,
+"h": "515c23f5",
+"en_raw": "Hey, Murase, we"
+},
+{
+"n": 23,
+"h": "d71a409f",
+"en_raw": "prepared plenty"
+},
+{
+"n": 24,
+"h": "f0fbba40",
+"en_raw": "for you"
+},
+{
+"n": 25,
+"h": "4b560e06",
+"en_raw": "Are you going to"
+},
+{
+"n": 26,
+"h": "b0517511",
+"en_raw": "ruin it?"
+},
+{
+"n": 27,
+"h": "ad3d24c3",
+"en_raw": "What a scary guy"
+},
+{
+"n": 28,
+"h": "0806cc0a",
+"en_raw": "Accept the challenge / Quit..."
+},
+{
+"n": 29,
+"h": "d6fdb7c9",
+"en_raw": "That's not fair, senor"
+},
+{
+"n": 30,
+"h": "0e528013",
+"en_raw": "What a selfish guy"
+},
+{
+"n": 31,
+"h": "8619bf0b",
+"en_raw": "Go easy on him, everyone"
+},
+{
+"n": 32,
+"h": "e046a399",
+"en_raw": "Murase's off today"
+},
+{
+"n": 33,
+"h": "ff9cf1ea",
+"en_raw": "but he'll definitely do it tomorrow"
+},
+{
+"n": 34,
+"h": "8f5f8c1e",
+"en_raw": "I'll do it, whatever it is"
+},
+{
+"n": 35,
+"h": "efea3aac",
+"en_raw": "Whoa,"
+},
+{
+"n": 36,
+"h": "6bef9330",
+"en_raw": "as expected of Murase, a real man!"
+},
+{
+"n": 37,
+"h": "940b0e8b",
+"en_raw": "Not yet, though!"
+},
+{
+"n": 38,
+"h": "96bd7d2f",
+"en_raw": "All right, Naoki Murase!"
+},
+{
+"n": 39,
+"h": "1aa4d44e",
+"en_raw": "I give you a mission"
+},
+{
+"n": 40,
+"h": "34e43981",
+"en_raw": "The rules are simple"
+},
+{
+"n": 41,
+"h": "63fd4e07",
+"en_raw": "Go through the ruin in back"
+},
+{
+"n": 42,
+"h": "d0fa4299",
+"en_raw": "and keep going forward"
+},
+{
+"n": 43,
+"h": "80fcc1ec",
+"en_raw": "Then take Segawa's item"
+},
+{
+"n": 44,
+"h": "a8a540f1",
+"en_raw": "from the farthest ruin"
+},
+{
+"n": 45,
+"h": "8c562133",
+"en_raw": "and come back!"
+},
+{
+"n": 46,
+"h": "2f4102bd",
+"en_raw": "...Who are you"
+},
+{
+"n": 47,
+"h": "9e955586",
+"en_raw": "Segawa..."
+},
+{
+"n": 48,
+"h": "0a520955",
+"en_raw": "That's an important item"
+},
+{
+"n": 49,
+"h": "37a49dbb",
+"en_raw": "Murase, sorry, but"
+},
+{
+"n": 50,
+"h": "6abee614",
+"en_raw": "be sure to bring it"
+},
+{
+"n": 51,
+"h": "3f6cbb02",
+"en_raw": "Even Sanjo...?"
+},
+{
+"n": 52,
+"h": "3c22a23c",
+"en_raw": "Time to show some guts!"
+},
+{
+"n": 53,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 54,
+"h": "bcc92fca",
+"en_raw": "..."
+},
+{
+"n": 55,
+"h": "0989e7c1",
+"en_raw": "Murase, if you meet a ghost"
+},
+{
+"n": 56,
+"h": "4606bdea",
+"en_raw": "chant a sutra"
+},
+{
+"n": 57,
+"h": "0c1731c2",
+"en_raw": "Idiot, sutras don't work"
+},
+{
+"n": 58,
+"h": "f5dab982",
+"en_raw": "It's Amen"
+},
+{
+"n": 59,
+"h": "1424407c",
+"en_raw": "The ghosts here"
+},
+{
+"n": 60,
+"h": "a62e5b71",
+"en_raw": "are foreigners' ghosts"
+},
+{
+"n": 61,
+"h": "ad85c41d",
+"en_raw": "...Don't die, Murase"
+},
+{
+"n": 62,
+"h": "8fb35ced",
+"en_raw": "Now go, brave one!"
+},
+{
+"n": 63,
+"h": "dec093ec",
+"en_raw": "Take care of Melos"
+},
+{
+"n": 64,
+"h": "290915ed",
+"en_raw": "Don't worry, I'll be right back"
+},
+{
+"n": 65,
+"h": "1c49ef4b",
+"en_raw": "Segawa, I brought it"
+},
+{
+"n": 66,
+"h": "2cefc8eb",
+"en_raw": "Amazing, thanks Murase"
+},
+{
+"n": 67,
+"h": "a6c2075c",
+"en_raw": "As expected of Naoki Murase!"
+},
+{
+"n": 68,
+"h": "2abfb9a9",
+"en_raw": "I believed you'd do it"
+},
+{
+"n": 69,
+"h": "02c5312f",
+"en_raw": "It appeared, it's, it's real!"
+},
+{
+"n": 70,
+"h": "83a51b49",
+"en_raw": "A real ghost appeared!"
+},
+{
+"n": 71,
+"h": "3a146edd",
+"en_raw": "Don't tell me..."
+},
+{
+"n": 72,
+"h": "d9f6b987",
+"en_raw": "If, if you think I'm lying"
+},
+{
+"n": 73,
+"h": "eea0ff84",
+"en_raw": "go see for yourself"
+},
+{
+"n": 74,
+"h": "00c0dc80",
+"en_raw": "That was definitely real"
+},
+{
+"n": 75,
+"h": "baf69281",
+"en_raw": "Go see / Real is a bit..."
+},
+{
+"n": 76,
+"h": "b5596c9d",
+"en_raw": "Murase"
+},
+{
+"n": 77,
+"h": "6717f2bc",
+"en_raw": "A ghost for real..."
+},
+{
+"n": 78,
+"h": "bec1f324",
+"en_raw": "It's scary, Murase..."
+},
+{
+"n": 79,
+"h": "83f01ae3",
+"en_raw": "There's no way, that's impossible"
+},
+{
+"n": 80,
+"h": "f28eef04",
+"en_raw": "It's fine, Murase will"
+},
+{
+"n": 81,
+"h": "d3eeac86",
+"en_raw": "definitely reveal its identity"
+},
+{
+"n": 82,
+"h": "2fafa254",
+"en_raw": "Hey, that's so irresponsible"
+},
+{
+"n": 83,
+"h": "af3a7aaf",
+"en_raw": "Go see / Real is a bit...  Okay, I'll go"
+},
+{
+"n": 84,
+"h": "efbad2d7",
+"en_raw": "Yuasa, where?"
+},
+{
+"n": 85,
+"h": "9b56878c",
+"en_raw": "Right, right next door..."
+},
+{
+"n": 86,
+"h": "fae8fc33",
+"en_raw": "A shadow at the top of the stairs..."
+},
+{
+"n": 87,
+"h": "1b71e8b6",
+"en_raw": "Don't do it..."
+},
+{
+"n": 88,
+"h": "7a917893",
+"en_raw": "Hey, are you okay!?"
+},
+{
+"n": 89,
+"h": "31b231be",
+"en_raw": "The, the ghost..."
+},
+{
+"n": 90,
+"h": "3158ca85",
+"en_raw": "I saw the ghost too"
+},
+{
+"n": 91,
+"h": "9dc3a21a",
+"en_raw": "It's surely the same one"
+},
+{
+"n": 92,
+"h": "efcf1cbf",
+"en_raw": "Yuasa saw"
+},
+{
+"n": 93,
+"h": "eb9939d6",
+"en_raw": "Why are you so calm?"
+},
+{
+"n": 94,
+"h": "d55c1b5a",
+"en_raw": "Yuasa, I'm not"
+},
+{
+"n": 95,
+"h": "d9bdf559",
+"en_raw": "as much of a coward as you think"
+},
+{
+"n": 96,
+"h": "a8fcb21f",
+"en_raw": "Sango, Shiina, let's go"
+},
+{
+"n": 97,
+"h": "f9d7c319",
+"en_raw": "Hey hey, Murase"
+},
+{
+"n": 98,
+"h": "8a0bf1db",
+"en_raw": "where are you going"
+},
+{
+"n": 99,
+"h": "de0741a8",
+"en_raw": "You won't say you're running"
+},
+{
+"n": 100,
+"h": "f473c11c",
+"en_raw": "away now, will you, Murase?"
+}
+]
+}

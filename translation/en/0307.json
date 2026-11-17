@@ -1,0 +1,808 @@
+{
+"file": 307,
+"paths": [
+"d008/d000/f020"
+],
+"lines": [
+{
+"n": 0,
+"h": "e449aba6",
+"en_raw": "See, Shiina"
+},
+{
+"n": 1,
+"h": "e179518f",
+"en_raw": "hated it, didn't she"
+},
+{
+"n": 2,
+"h": "cdf622ee",
+"en_raw": "Hey, what are you doing?"
+},
+{
+"n": 3,
+"h": "9c305e6e",
+"en_raw": "Which school are you from?"
+},
+{
+"n": 4,
+"h": "cb664006",
+"en_raw": "...Huh?"
+},
+{
+"n": 5,
+"h": "4e418162",
+"en_raw": "Look closely, you're a girl"
+},
+{
+"n": 6,
+"h": "7eb12557",
+"en_raw": "What are you thinking?"
+},
+{
+"n": 7,
+"h": "0727b153",
+"en_raw": "A girl shouldn't come"
+},
+{
+"n": 8,
+"h": "fc28f162",
+"en_raw": "to a place like this"
+},
+{
+"n": 9,
+"h": "7e19a56a",
+"en_raw": "Your parents will cry"
+},
+{
+"n": 10,
+"h": "1dce838d",
+"en_raw": "What on earth"
+},
+{
+"n": 11,
+"h": "1402c85a",
+"en_raw": "did you come here for"
+},
+{
+"n": 12,
+"h": "8727c84b",
+"en_raw": "It's not for"
+},
+{
+"n": 13,
+"h": "a9758724",
+"en_raw": "unhealthy reasons like that"
+},
+{
+"n": 14,
+"h": "2f87eedc",
+"en_raw": "It's just a test of courage"
+},
+{
+"n": 15,
+"h": "834fcb8c",
+"en_raw": "...A test of courage?"
+},
+{
+"n": 16,
+"h": "620a575e",
+"en_raw": "...A test of courage, you say?"
+},
+{
+"n": 17,
+"h": "7eba5d92",
+"en_raw": "Why in a place like this..."
+},
+{
+"n": 18,
+"h": "37d2aaf2",
+"en_raw": "Is there some story about it?"
+},
+{
+"n": 19,
+"h": "e71c7a94",
+"en_raw": "You don't know, mister?"
+},
+{
+"n": 20,
+"h": "a5db4ba2",
+"en_raw": "Yokai appear here"
+},
+{
+"n": 21,
+"h": "ae01565e",
+"en_raw": "Yokai? ...What's that?"
+},
+{
+"n": 22,
+"h": "4513f801",
+"en_raw": "Don't say weird things"
+},
+{
+"n": 23,
+"h": "94db3b22",
+"en_raw": "If you don't know, never mind"
+},
+{
+"n": 24,
+"h": "a20f5f36",
+"en_raw": "We're going home"
+},
+{
+"n": 25,
+"h": "a58108ce",
+"en_raw": "Hey, hey"
+},
+{
+"n": 26,
+"h": "2b5bd838",
+"en_raw": "Wait a moment"
+},
+{
+"n": 27,
+"h": "264b8233",
+"en_raw": "Um... what are yokai?"
+},
+{
+"n": 28,
+"h": "ce94e74c",
+"en_raw": "I can't have strange rumors going around"
+},
+{
+"n": 29,
+"h": "50b0a1d3",
+"en_raw": "Could it be, mister"
+},
+{
+"n": 30,
+"h": "21828ba4",
+"en_raw": "that you own this place?"
+},
+{
+"n": 31,
+"h": "79af60ab",
+"en_raw": "...It's awful, really"
+},
+{
+"n": 32,
+"h": "e94e618a",
+"en_raw": "High schoolers break the machines"
+},
+{
+"n": 33,
+"h": "2a723bea",
+"en_raw": "kids like you come"
+},
+{
+"n": 34,
+"h": "6a139c74",
+"en_raw": "almost every day"
+},
+{
+"n": 35,
+"h": "5de2441f",
+"en_raw": "and on top of that, weird rumors"
+},
+{
+"n": 36,
+"h": "59c04413",
+"en_raw": "going around..."
+},
+{
+"n": 37,
+"h": "6a63b60c",
+"en_raw": "Did someone come recently?"
+},
+{
+"n": 38,
+"h": "3e83d991",
+"en_raw": "Someone like a middle schooler?"
+},
+{
+"n": 39,
+"h": "c5ef5400",
+"en_raw": "They come in astonishing numbers..."
+},
+{
+"n": 40,
+"h": "5617185e",
+"en_raw": "So the other day"
+},
+{
+"n": 41,
+"h": "4a0ee314",
+"en_raw": "I hid in the gap by the vending machine"
+},
+{
+"n": 42,
+"h": "aa78057d",
+"en_raw": "and gave one a little scare"
+},
+{
+"n": 43,
+"h": "7b246209",
+"en_raw": "and he ran away"
+},
+{
+"n": 44,
+"h": "07d47f63",
+"en_raw": "Um, was he a small one?"
+},
+{
+"n": 45,
+"h": "080ee6c8",
+"en_raw": "Just the other day, too"
+},
+{
+"n": 46,
+"h": "60635aa7",
+"en_raw": "a kid like an elementary schooler came"
+},
+{
+"n": 47,
+"h": "4a0ee314",
+"en_raw": "I hid in the gap by the vending machine"
+},
+{
+"n": 48,
+"h": "aa78057d",
+"en_raw": "and gave one a little scare"
+},
+{
+"n": 49,
+"h": "7b246209",
+"en_raw": "and he ran away"
+},
+{
+"n": 50,
+"h": "77f54fd6",
+"en_raw": "Yuasa..."
+},
+{
+"n": 51,
+"h": "a4071951",
+"en_raw": "Yeah, the one who ran off"
+},
+{
+"n": 52,
+"h": "f9a95368",
+"en_raw": "was a small one"
+},
+{
+"n": 53,
+"h": "40830727",
+"en_raw": "Honestly, elementary schoolers"
+},
+{
+"n": 54,
+"h": "e5df9d58",
+"en_raw": "these days..."
+},
+{
+"n": 55,
+"h": "dba1184a",
+"en_raw": "Yuasa talked about"
+},
+{
+"n": 56,
+"h": "5dfea575",
+"en_raw": "the Peeping Old Man..."
+},
+{
+"n": 57,
+"h": "41840634",
+"en_raw": "Huh...?"
+},
+{
+"n": 58,
+"h": "10f3d731",
+"en_raw": "Could it be that the yokai"
+},
+{
+"n": 59,
+"h": "3d03e7f1",
+"en_raw": "was me?"
+},
+{
+"n": 60,
+"h": "24a37fea",
+"en_raw": "No doubt"
+},
+{
+"n": 61,
+"h": "dc182766",
+"en_raw": "It's a ridiculous story..."
+},
+{
+"n": 62,
+"h": "7b430167",
+"en_raw": "Lately even the security cameras"
+},
+{
+"n": 63,
+"h": "598f40cf",
+"en_raw": "get vandalized"
+},
+{
+"n": 64,
+"h": "87468bfc",
+"en_raw": "so watching myself"
+},
+{
+"n": 65,
+"h": "dc802548",
+"en_raw": "is far more reassuring"
+},
+{
+"n": 66,
+"h": "f3ad7027",
+"en_raw": "Then isn't it your own fault"
+},
+{
+"n": 67,
+"h": "0950c6ad",
+"en_raw": "that weird rumors spread?"
+},
+{
+"n": 68,
+"h": "8258c344",
+"en_raw": "My own fault, you say"
+},
+{
+"n": 69,
+"h": "5cd9bfbb",
+"en_raw": "Nobody does it because they like it"
+},
+{
+"n": 70,
+"h": "51a9ad53",
+"en_raw": "If you kids didn't come"
+},
+{
+"n": 71,
+"h": "73052d26",
+"en_raw": "I could be sleeping at home"
+},
+{
+"n": 72,
+"h": "9afe76bd",
+"en_raw": "Honestly, if you kids didn't come"
+},
+{
+"n": 73,
+"h": "30cbcb9f",
+"en_raw": "I could be sleeping at home..."
+},
+{
+"n": 74,
+"h": "890e9aba",
+"en_raw": "Hmm, a perfect stalemate of arguments..."
+},
+{
+"n": 75,
+"h": "39a5661c",
+"en_raw": "I could report it to the police box"
+},
+{
+"n": 76,
+"h": "5bfa96da",
+"en_raw": "but that would be going too far"
+},
+{
+"n": 77,
+"h": "9825df2d",
+"en_raw": "Honestly, I'm doing this out of kindness"
+},
+{
+"n": 78,
+"h": "0b679132",
+"en_raw": "It's really insulting"
+},
+{
+"n": 79,
+"h": "aab105fb",
+"en_raw": "Tough for you too, mister"
+},
+{
+"n": 80,
+"h": "759716fb",
+"en_raw": "Whose fault do you think it is?"
+},
+{
+"n": 81,
+"h": "74f58b4d",
+"en_raw": "Next time I'll call your school"
+},
+{
+"n": 82,
+"h": "988f40d1",
+"en_raw": "Sorry~"
+},
+{
+"n": 83,
+"h": "6ae0d11a",
+"en_raw": "Next time I catch you"
+},
+{
+"n": 84,
+"h": "c39f2237",
+"en_raw": "I'll call your school"
+},
+{
+"n": 85,
+"h": "988f40d1",
+"en_raw": "Sorry~"
+},
+{
+"n": 86,
+"h": "217a1cbf",
+"en_raw": "What are you doing?"
+},
+{
+"n": 87,
+"h": "99da849e",
+"en_raw": "Come on, off you go"
+},
+{
+"n": 88,
+"h": "988f40d1",
+"en_raw": "Sorry~"
+},
+{
+"n": 89,
+"h": "6b44ea3b",
+"en_raw": "We won't do it again~"
+},
+{
+"n": 90,
+"h": "768384a0",
+"en_raw": "Wait a moment"
+},
+{
+"n": 91,
+"h": "04488f67",
+"en_raw": "We're not done talking"
+},
+{
+"n": 92,
+"h": "95c57180",
+"en_raw": "Oh, that's right"
+},
+{
+"n": 93,
+"h": "c476431b",
+"en_raw": "You two wait here"
+},
+{
+"n": 94,
+"h": "38809efa",
+"en_raw": "It'd be bad if that man comes"
+},
+{
+"n": 95,
+"h": "3db2f2a1",
+"en_raw": "Hold on"
+},
+{
+"n": 96,
+"h": "d93671aa",
+"en_raw": "We're not done talking"
+},
+{
+"n": 97,
+"h": "ef8d2cd7",
+"en_raw": "Take your eyes off him for a second"
+},
+{
+"n": 98,
+"h": "0b3e4f0f",
+"en_raw": "and it's like this"
+},
+{
+"n": 99,
+"h": "53a7edd2",
+"en_raw": "She's too young, I'm telling you!"
+},
+{
+"n": 100,
+"h": "44c0748b",
+"en_raw": "I told you no so many times"
+},
+{
+"n": 101,
+"h": "002b0bc5",
+"en_raw": "Why do you keep coming back..."
+},
+{
+"n": 102,
+"h": "023cda4c",
+"en_raw": "No, you don't understand"
+},
+{
+"n": 103,
+"h": "6d7cd684",
+"en_raw": "We found something"
+},
+{
+"n": 104,
+"h": "abe46cc9",
+"en_raw": "Something amazing"
+},
+{
+"n": 105,
+"h": "9a705584",
+"en_raw": "Trying to dodge the subject again"
+},
+{
+"n": 106,
+"h": "25fe2ef9",
+"en_raw": "Mister"
+},
+{
+"n": 107,
+"h": "b12e9409",
+"en_raw": "you're the owner here, right?"
+},
+{
+"n": 108,
+"h": "4ac50fef",
+"en_raw": "It'd be bad if a yokai rumor spread"
+},
+{
+"n": 109,
+"h": "ab3345b1",
+"en_raw": "wouldn't it?"
+},
+{
+"n": 110,
+"h": "4651c52f",
+"en_raw": "Before making excuses, say"
+},
+{
+"n": 111,
+"h": "6bba99da",
+"en_raw": "what you saw"
+},
+{
+"n": 112,
+"h": "81d62d9a",
+"en_raw": "Tell me what you saw"
+},
+{
+"n": 113,
+"h": "9203cfd8",
+"en_raw": "What about a hole?"
+},
+{
+"n": 114,
+"h": "d4686e08",
+"en_raw": "So?"
+},
+{
+"n": 115,
+"h": "1c1d7955",
+"en_raw": "A hole, a hole!"
+},
+{
+"n": 116,
+"h": "568149d3",
+"en_raw": "The vending machine spot"
+},
+{
+"n": 117,
+"h": "5ba358fe",
+"en_raw": "connects to the house"
+},
+{
+"n": 118,
+"h": "96494704",
+"en_raw": "next door, right?"
+},
+{
+"n": 119,
+"h": "3ad94abf",
+"en_raw": "That's the Kikutani place"
+},
+{
+"n": 120,
+"h": "c66c269e",
+"en_raw": "From there, some"
+},
+{
+"n": 121,
+"h": "cc8c951c",
+"en_raw": "unidentifiable thing"
+},
+{
+"n": 122,
+"h": "ed84457e",
+"en_raw": "comes in"
+},
+{
+"n": 123,
+"h": "e9004a1f",
+"en_raw": "My friend saw it, so"
+},
+{
+"n": 124,
+"h": "8388b3b8",
+"en_raw": "Oh, that..."
+},
+{
+"n": 125,
+"h": "1d499c73",
+"en_raw": "Well, I don't like saying it, but"
+},
+{
+"n": 126,
+"h": "10f3856e",
+"en_raw": "it's probably old man Kikutani"
+},
+{
+"n": 127,
+"h": "6216b6b9",
+"en_raw": "No, I mean, kid or"
+},
+{
+"n": 128,
+"h": "f44c723d",
+"en_raw": "old man"
+},
+{
+"n": 129,
+"h": "0f54b251",
+"en_raw": "it's not a hole of a size"
+},
+{
+"n": 130,
+"h": "04f1b4e8",
+"en_raw": "a person could pass through"
+},
+{
+"n": 131,
+"h": "90ba3778",
+"en_raw": "Even so, Kikutani's"
+},
+{
+"n": 132,
+"h": "f942eadd",
+"en_raw": "old man, probably"
+},
+{
+"n": 133,
+"h": "ad5d894e",
+"en_raw": "Do you think I'd believe"
+},
+{
+"n": 134,
+"h": "08463cea",
+"en_raw": "such an unscientific story?"
+},
+{
+"n": 135,
+"h": "af58fd40",
+"en_raw": "I don't expect you"
+},
+{
+"n": 136,
+"h": "4b1b3d2c",
+"en_raw": "to understand"
+},
+{
+"n": 137,
+"h": "e75bfe76",
+"en_raw": "Well, you"
+},
+{
+"n": 138,
+"h": "6352ad08",
+"en_raw": "wouldn't get this story, I think"
+},
+{
+"n": 139,
+"h": "0276f611",
+"en_raw": "Why, why"
+},
+{
+"n": 140,
+"h": "9a745b26",
+"en_raw": "You're making fun of me as a kid, right?"
+},
+{
+"n": 141,
+"h": "74a681fd",
+"en_raw": "No, I'm not"
+},
+{
+"n": 142,
+"h": "70b82940",
+"en_raw": "It's because you're a girl"
+},
+{
+"n": 143,
+"h": "d3d19e9b",
+"en_raw": "Well, don't sulk"
+},
+{
+"n": 144,
+"h": "60dd71a8",
+"en_raw": "I'm not making fun of you"
+},
+{
+"n": 145,
+"h": "25a19f93",
+"en_raw": "at all"
+},
+{
+"n": 146,
+"h": "60dd71a8",
+"en_raw": "I'm not making fun of you"
+},
+{
+"n": 147,
+"h": "c7614634",
+"en_raw": "It's just because you're a girl"
+},
+{
+"n": 148,
+"h": "2498783a",
+"en_raw": "that you don't understand"
+},
+{
+"n": 149,
+"h": "5f442e33",
+"en_raw": "You shouldn't stay"
+},
+{
+"n": 150,
+"h": "44540aa5",
+"en_raw": "in a place like this forever"
+},
+{
+"n": 151,
+"h": "779a0b85",
+"en_raw": "Go home, go home, quickly"
+},
+{
+"n": 152,
+"h": "ed047bf9",
+"en_raw": "...Fine, never mind"
+},
+{
+"n": 153,
+"h": "b7f020a6",
+"en_raw": "Goodbye"
+},
+{
+"n": 154,
+"h": "a750e839",
+"en_raw": "No good, he's completely watching us"
+},
+{
+"n": 155,
+"h": "ed99d5d3",
+"en_raw": "I don't know the road ahead..."
+},
+{
+"n": 156,
+"h": "b5bb2ada",
+"en_raw": "For a walk, this is"
+},
+{
+"n": 157,
+"h": "e7d20466",
+"en_raw": "a bit too far"
+},
+{
+"n": 158,
+"h": "c0e859da",
+"en_raw": "If we go somewhere unfamiliar"
+},
+{
+"n": 159,
+"h": "c1f8d9b5",
+"en_raw": "we won't be able to get home"
+}
+]
+}

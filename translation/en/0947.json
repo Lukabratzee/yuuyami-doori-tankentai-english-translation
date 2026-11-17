@@ -1,0 +1,318 @@
+{
+"file": 947,
+"paths": [
+"d008/d107/f016"
+],
+"lines": [
+{
+"n": 0,
+"h": "95db8ebb",
+"en_raw": "2-0-1~"
+},
+{
+"n": 1,
+"h": "e503f87d",
+"en_raw": "2-0-2~"
+},
+{
+"n": 2,
+"h": "2bc1ceb6",
+"en_raw": "2-0-3~"
+},
+{
+"n": 3,
+"h": "b1e96f23",
+"en_raw": "2-0-5~"
+},
+{
+"n": 4,
+"h": "dc4f3d79",
+"en_raw": "...Huh?"
+},
+{
+"n": 5,
+"h": "f5710520",
+"en_raw": "Need something from my room?"
+},
+{
+"n": 6,
+"h": "0a68005d",
+"en_raw": "2-0-4..."
+},
+{
+"n": 7,
+"h": "14827160",
+"en_raw": "Is this the moldy room?"
+},
+{
+"n": 8,
+"h": "e30a9ff9",
+"en_raw": "Try pressing the doorbell??"
+},
+{
+"n": 9,
+"h": "1c580e72",
+"en_raw": "Ding-dong / Don't  Hel-lo-o~"
+},
+{
+"n": 10,
+"h": "7476723c",
+"en_raw": "...Looks like nobody's home"
+},
+{
+"n": 11,
+"h": "e5d553a9",
+"en_raw": "Do it again?"
+},
+{
+"n": 12,
+"h": "cdeaad83",
+"en_raw": "Do it again / Stop  Hel-lo-o~"
+},
+{
+"n": 13,
+"h": "e5d553a9",
+"en_raw": "Do it again?"
+},
+{
+"n": 14,
+"h": "16aca382",
+"en_raw": "Again / Stop  Need something from next door?"
+},
+{
+"n": 15,
+"h": "9f654048",
+"en_raw": "Hey hey"
+},
+{
+"n": 16,
+"h": "1365ff0f",
+"en_raw": "The moldy"
+},
+{
+"n": 17,
+"h": "1a730953",
+"en_raw": "vengeful ghost's corpse?"
+},
+{
+"n": 18,
+"h": "70e7d7de",
+"en_raw": "...Huh?"
+},
+{
+"n": 19,
+"h": "1365ff0f",
+"en_raw": "The moldy"
+},
+{
+"n": 20,
+"h": "c8e501f2",
+"en_raw": "The vengeful ghost's corpse!"
+},
+{
+"n": 21,
+"h": "1d3fff0e",
+"en_raw": "Come on"
+},
+{
+"n": 22,
+"h": "20597aa2",
+"en_raw": "I'm already sleep-deprived"
+},
+{
+"n": 23,
+"h": "2cdab386",
+"en_raw": "with a terrible headache"
+},
+{
+"n": 24,
+"h": "9c5d315f",
+"en_raw": "Somehow, in this world"
+},
+{
+"n": 25,
+"h": "f8f9a1cf",
+"en_raw": "everything is becoming suspicious"
+},
+{
+"n": 26,
+"h": "9e50f835",
+"en_raw": "Maybe it's the lack of sleep..."
+},
+{
+"n": 27,
+"h": "2178cdef",
+"en_raw": "Ring the bell?"
+},
+{
+"n": 28,
+"h": "53c79c91",
+"en_raw": "Ding-dong / Stop  Nobody's home, after all"
+},
+{
+"n": 29,
+"h": "3f71258c",
+"en_raw": "Maybe I'll try once more"
+},
+{
+"n": 30,
+"h": "cd511030",
+"en_raw": "Do it again / Stop  Hmm..."
+},
+{
+"n": 31,
+"h": "5a15462c",
+"en_raw": "Try once more?"
+},
+{
+"n": 32,
+"h": "582c3935",
+"en_raw": "Do it again / Stop  Room 205..."
+},
+{
+"n": 33,
+"h": "b92e54c5",
+"en_raw": "This is it"
+},
+{
+"n": 34,
+"h": "a6ac3cbd",
+"en_raw": "Say hello?"
+},
+{
+"n": 35,
+"h": "3e47991a",
+"en_raw": "Hello / Later  La-ter~!"
+},
+{
+"n": 36,
+"h": "fab2689a",
+"en_raw": "The big brother from yesterday"
+},
+{
+"n": 37,
+"h": "a1520729",
+"en_raw": "is he in~?"
+},
+{
+"n": 38,
+"h": "dfe11525",
+"en_raw": "He wasn't in~"
+},
+{
+"n": 39,
+"h": "fd849ad7",
+"en_raw": "Look properly"
+},
+{
+"n": 40,
+"h": "41355c8c",
+"en_raw": "A little more..."
+},
+{
+"n": 41,
+"h": "d48c16b0",
+"en_raw": "Try ringing the bell?"
+},
+{
+"n": 42,
+"h": "2eaefc7f",
+"en_raw": "Ding-dong / Don't  Hel-lo-o~"
+},
+{
+"n": 43,
+"h": "4d86ed88",
+"en_raw": "Hmm"
+},
+{
+"n": 44,
+"h": "ac9ac639",
+"en_raw": "Seems nobody's home"
+},
+{
+"n": 45,
+"h": "1d409927",
+"en_raw": "Do it again?"
+},
+{
+"n": 46,
+"h": "7b2cbe93",
+"en_raw": "Do it again / Stop  Hel-lo-o~"
+},
+{
+"n": 47,
+"h": "1d409927",
+"en_raw": "Do it again?"
+},
+{
+"n": 48,
+"h": "dc39cc87",
+"en_raw": "Do it again / Stop  Something next door..."
+},
+{
+"n": 49,
+"h": "f06bfbe7",
+"en_raw": "Oh, it's you kids"
+},
+{
+"n": 50,
+"h": "82d7e182",
+"en_raw": "Hel-lo-o~"
+},
+{
+"n": 51,
+"h": "ad8a3234",
+"en_raw": "Wasn't there nothing?"
+},
+{
+"n": 52,
+"h": "a9b486ec",
+"en_raw": "You see, once more"
+},
+{
+"n": 53,
+"h": "cb8652a3",
+"en_raw": "Kurumi will investigate"
+},
+{
+"n": 54,
+"h": "980ddd75",
+"en_raw": "Sure, wait a moment"
+},
+{
+"n": 55,
+"h": "2bc36cf0",
+"en_raw": "Need something from my room?"
+},
+{
+"n": 56,
+"h": "d495e8a5",
+"en_raw": "Ask him once more?"
+},
+{
+"n": 57,
+"h": "9d0cbb97",
+"en_raw": "Ask / Don't  Okay..."
+},
+{
+"n": 58,
+"h": "4147c3cb",
+"en_raw": "Hel-lo-o"
+},
+{
+"n": 59,
+"h": "5f07e778",
+"en_raw": "Let us in~"
+},
+{
+"n": 60,
+"h": "9041e0b5",
+"en_raw": "Oh, the kid from the other day"
+},
+{
+"n": 61,
+"h": "ecd936af",
+"en_raw": "Wait a moment..."
+}
+]
+}

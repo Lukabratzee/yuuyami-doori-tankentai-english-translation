@@ -1,0 +1,998 @@
+{
+"file": 1018,
+"paths": [
+"d008/d132/f020"
+],
+"lines": [
+{
+"n": 0,
+"h": "a7ba9426",
+"en_raw": "Melos, what are you doing!"
+},
+{
+"n": 1,
+"h": "0a759396",
+"en_raw": "Whoa, what a smell"
+},
+{
+"n": 2,
+"h": "74739799",
+"en_raw": "The toilet smell can't be helped, but"
+},
+{
+"n": 3,
+"h": "d8698a45",
+"en_raw": "what is this nose-bending"
+},
+{
+"n": 4,
+"h": "49b3bbd9",
+"en_raw": "animal smell..."
+},
+{
+"n": 5,
+"h": "701068ea",
+"en_raw": "What is this object..."
+},
+{
+"n": 6,
+"h": "436aa227",
+"en_raw": "Is it maybe supposed to be"
+},
+{
+"n": 7,
+"h": "e2c7180d",
+"en_raw": "a parabolic antenna...?"
+},
+{
+"n": 8,
+"h": "e0bce93c",
+"en_raw": "Could the resident here be..."
+},
+{
+"n": 9,
+"h": "ca657ea0",
+"en_raw": "...Let's not think about it"
+},
+{
+"n": 10,
+"h": "32c023b2",
+"en_raw": "A necktie...?"
+},
+{
+"n": 11,
+"h": "f7edf8af",
+"en_raw": "Was the resident here"
+},
+{
+"n": 12,
+"h": "690863f7",
+"en_raw": "maybe an ordinary"
+},
+{
+"n": 13,
+"h": "b9ed0068",
+"en_raw": "office worker"
+},
+{
+"n": 14,
+"h": "fa9e19b3",
+"en_raw": "in the past...?"
+},
+{
+"n": 15,
+"h": "6039244e",
+"en_raw": "Knock on wood, knock on wood..."
+},
+{
+"n": 16,
+"h": "a86c861b",
+"en_raw": "...What's it like inside"
+},
+{
+"n": 17,
+"h": "3f80f260",
+"en_raw": "...Huh?"
+},
+{
+"n": 18,
+"h": "f78cc0e9",
+"en_raw": "Could it be..."
+},
+{
+"n": 19,
+"h": "163a7dac",
+"en_raw": "Is someone there...?"
+},
+{
+"n": 20,
+"h": "74718602",
+"en_raw": "Yikes, let's go home"
+},
+{
+"n": 21,
+"h": "fbb9a95d",
+"en_raw": "Ah... there!?"
+},
+{
+"n": 22,
+"h": "0177aa0f",
+"en_raw": "Ah, no no, don't come in"
+},
+{
+"n": 23,
+"h": "98137d0c",
+"en_raw": "I'm in communication right now"
+},
+{
+"n": 24,
+"h": "47295aac",
+"en_raw": "Um"
+},
+{
+"n": 25,
+"h": "c432cfda",
+"en_raw": "...Hm!?"
+},
+{
+"n": 26,
+"h": "8e2d4ff5",
+"en_raw": "..............."
+},
+{
+"n": 27,
+"h": "61eca9e3",
+"en_raw": "Kinkodal?"
+},
+{
+"n": 28,
+"h": "d8c85bd8",
+"en_raw": "...What?"
+},
+{
+"n": 29,
+"h": "31c35878",
+"en_raw": "I'm asking you"
+},
+{
+"n": 30,
+"h": "30b13220",
+"en_raw": "Are you a Kinkodal child?"
+},
+{
+"n": 31,
+"h": "d6736738",
+"en_raw": "Huh?"
+},
+{
+"n": 32,
+"h": "c432cfda",
+"en_raw": "...Hm!?"
+},
+{
+"n": 33,
+"h": "8e2d4ff5",
+"en_raw": "..............."
+},
+{
+"n": 34,
+"h": "bf8e36be",
+"en_raw": "My mistake,"
+},
+{
+"n": 35,
+"h": "8f64a83c",
+"en_raw": "so you're an Earthling after all"
+},
+{
+"n": 36,
+"h": "056d1171",
+"en_raw": "...Stop it, mister, you're scary"
+},
+{
+"n": 37,
+"h": "0ff23085",
+"en_raw": "Anyway, I'm busy communicating now"
+},
+{
+"n": 38,
+"h": "62e9ab76",
+"en_raw": "If you're an Earthling, come again"
+},
+{
+"n": 39,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 40,
+"h": "2efe0361",
+"en_raw": "What communication"
+},
+{
+"n": 41,
+"h": "290b5a91",
+"en_raw": "You're just spacing out"
+},
+{
+"n": 42,
+"h": "243fa9cd",
+"en_raw": "Mister, sorry"
+},
+{
+"n": 43,
+"h": "4e772db9",
+"en_raw": "The word \"bath\" seems"
+},
+{
+"n": 44,
+"h": "74359961",
+"en_raw": "absent from this guy's dictionary"
+},
+{
+"n": 45,
+"h": "3c982fb5",
+"en_raw": "Hey!"
+},
+{
+"n": 46,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 47,
+"h": "5faa8d72",
+"en_raw": "Hey, I said, hey!"
+},
+{
+"n": 48,
+"h": "55e6fc3c",
+"en_raw": "...Ah, a girl of Earth"
+},
+{
+"n": 49,
+"h": "6d4393b8",
+"en_raw": "Watching too much TV is bad"
+},
+{
+"n": 50,
+"h": "ad158dee",
+"en_raw": "Hey, mister, frankly"
+},
+{
+"n": 51,
+"h": "08d81604",
+"en_raw": "about me,"
+},
+{
+"n": 52,
+"h": "139ac70b",
+"en_raw": "of us, aren't you?"
+},
+{
+"n": 53,
+"h": "552ed289",
+"en_raw": "Huh? ...Is that so?"
+},
+{
+"n": 54,
+"h": "ec11597e",
+"en_raw": "That does it!"
+},
+{
+"n": 55,
+"h": "ad3cc7f6",
+"en_raw": "I'll find out what words"
+},
+{
+"n": 56,
+"h": "3631320a",
+"en_raw": "you react to"
+},
+{
+"n": 57,
+"h": "97bee8ab",
+"en_raw": "Stanislas"
+},
+{
+"n": 58,
+"h": "091f1cf8",
+"en_raw": "Klossowski"
+},
+{
+"n": 59,
+"h": "3ac836a1",
+"en_raw": "de Rola"
+},
+{
+"n": 60,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 61,
+"h": "dcf1253f",
+"en_raw": "Muddy water"
+},
+{
+"n": 62,
+"h": "7467c7ef",
+"en_raw": "flowing, clearing: Santoka"
+},
+{
+"n": 63,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 64,
+"h": "9efb32be",
+"en_raw": "Today's game business"
+},
+{
+"n": 65,
+"h": "991a4659",
+"en_raw": "is high risk, high return"
+},
+{
+"n": 66,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 67,
+"h": "2553f2e2",
+"en_raw": "Sri Jayawardenepura"
+},
+{
+"n": 68,
+"h": "26864119",
+"en_raw": "Kotte"
+},
+{
+"n": 69,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 70,
+"h": "ea1d0e76",
+"en_raw": "The economy, unemployment"
+},
+{
+"n": 71,
+"h": "5966941e",
+"en_raw": "the Asian crisis"
+},
+{
+"n": 72,
+"h": "30aeefe1",
+"en_raw": "the Year 2000 problem"
+},
+{
+"n": 73,
+"h": "19a29f91",
+"en_raw": "cold pizza"
+},
+{
+"n": 74,
+"h": "6b978c3f",
+"en_raw": "...Hmm, how unexpected"
+},
+{
+"n": 75,
+"h": "1f382e00",
+"en_raw": "This Earth girl"
+},
+{
+"n": 76,
+"h": "34105b49",
+"en_raw": "knows words, doesn't she"
+},
+{
+"n": 77,
+"h": "d934f7ff",
+"en_raw": "You think I'm cheeky, don't you?"
+},
+{
+"n": 78,
+"h": "2c76d186",
+"en_raw": "No, it's the TV's fault"
+},
+{
+"n": 79,
+"h": "b3b96ff2",
+"en_raw": "The TV that ordinary kids watch"
+},
+{
+"n": 80,
+"h": "cae95d4b",
+"en_raw": "I don't watch"
+},
+{
+"n": 81,
+"h": "c6f718e6",
+"en_raw": "that stuff"
+},
+{
+"n": 82,
+"h": "921c783a",
+"en_raw": "Hmm, then..."
+},
+{
+"n": 83,
+"h": "3fd979bb",
+"en_raw": "Hey, mister?"
+},
+{
+"n": 84,
+"h": "8f0f8eae",
+"en_raw": "I have a question for you"
+},
+{
+"n": 85,
+"h": "06ae8bed",
+"en_raw": "You received such words and information"
+},
+{
+"n": 86,
+"h": "b49618d5",
+"en_raw": "not on someone else's antenna"
+},
+{
+"n": 87,
+"h": "74a1db42",
+"en_raw": "but on your own antenna,"
+},
+{
+"n": 88,
+"h": "8f840d0c",
+"en_raw": "is that what you mean?"
+},
+{
+"n": 89,
+"h": "456f8f29",
+"en_raw": "I'm not bragging or anything"
+},
+{
+"n": 90,
+"h": "457207a5",
+"en_raw": "I just hated being treated"
+},
+{
+"n": 91,
+"h": "98c67080",
+"en_raw": "like a trend-follower"
+},
+{
+"n": 92,
+"h": "1e2980e9",
+"en_raw": "Oho, how rare"
+},
+{
+"n": 93,
+"h": "3fd979bb",
+"en_raw": "Hey, mister?"
+},
+{
+"n": 94,
+"h": "201bf850",
+"en_raw": "True wisdom"
+},
+{
+"n": 95,
+"h": "70697175",
+"en_raw": "is still far off"
+},
+{
+"n": 96,
+"h": "2105dce8",
+"en_raw": "but you"
+},
+{
+"n": 97,
+"h": "68843e88",
+"en_raw": "seem to have the potential"
+},
+{
+"n": 98,
+"h": "c1b730bf",
+"en_raw": "I've reconsidered you, girl of Earth"
+},
+{
+"n": 99,
+"h": "624b0125",
+"en_raw": "Being reconsidered by a mister..."
+},
+{
+"n": 100,
+"h": "982d21b7",
+"en_raw": "Hey, mister"
+},
+{
+"n": 101,
+"h": "d6e3828c",
+"en_raw": "So, girl of Earth"
+},
+{
+"n": 102,
+"h": "1b370fe0",
+"en_raw": "mister, maybe"
+},
+{
+"n": 103,
+"h": "717c5ad9",
+"en_raw": "you were actually"
+},
+{
+"n": 104,
+"h": "ddf8c043",
+"en_raw": "really smart?"
+},
+{
+"n": 105,
+"h": "0949efb1",
+"en_raw": "Huh?"
+},
+{
+"n": 106,
+"h": "4389e3a7",
+"en_raw": "Why would you say that?"
+},
+{
+"n": 107,
+"h": "2dc9dd95",
+"en_raw": "Just a feeling"
+},
+{
+"n": 108,
+"h": "b910ed92",
+"en_raw": "...You mentioned something"
+},
+{
+"n": 109,
+"h": "a9ae5bde",
+"en_raw": "about a TV station before, right?"
+},
+{
+"n": 110,
+"h": "810cf13d",
+"en_raw": "I thought maybe"
+},
+{
+"n": 111,
+"h": "c5a835a3",
+"en_raw": "you were some"
+},
+{
+"n": 112,
+"h": "cbdcc219",
+"en_raw": "great elite or something"
+},
+{
+"n": 113,
+"h": "a17a86e9",
+"en_raw": "Yes, there was such a time"
+},
+{
+"n": 114,
+"h": "7c4b13cb",
+"en_raw": "It was soon after I came to Earth..."
+},
+{
+"n": 115,
+"h": "6c2fd4f2",
+"en_raw": "Oh, oh, but now..."
+},
+{
+"n": 116,
+"h": "1f8be398",
+"en_raw": "Then you do have memories!"
+},
+{
+"n": 117,
+"h": "ecd61ba7",
+"en_raw": "Hey, tell me about the old days"
+},
+{
+"n": 118,
+"h": "d8c1c0e5",
+"en_raw": "Mm..."
+},
+{
+"n": 119,
+"h": "7fc68ff9",
+"en_raw": "Well, no use standing here talking"
+},
+{
+"n": 120,
+"h": "d6b01286",
+"en_raw": "sit over there"
+},
+{
+"n": 121,
+"h": "465f024c",
+"en_raw": "Ah, I'll pass on that"
+},
+{
+"n": 122,
+"h": "dd06a6da",
+"en_raw": "Kapras people have short lifespans"
+},
+{
+"n": 123,
+"h": "b4ccd870",
+"en_raw": "After my parents died"
+},
+{
+"n": 124,
+"h": "4d89bafc",
+"en_raw": "on this remote planet"
+},
+{
+"n": 125,
+"h": "fa6508d2",
+"en_raw": "I entered school"
+},
+{
+"n": 126,
+"h": "f5fbfd0e",
+"en_raw": "as a scholarship student..."
+},
+{
+"n": 127,
+"h": "80bdc682",
+"en_raw": "My major was economics"
+},
+{
+"n": 128,
+"h": "1777695c",
+"en_raw": "but I wanted to know everything about Earth"
+},
+{
+"n": 129,
+"h": "3771d547",
+"en_raw": "I studied like I was gnawing at it"
+},
+{
+"n": 130,
+"h": "a87dc653",
+"en_raw": "I was diligent..."
+},
+{
+"n": 131,
+"h": "98ae1eb2",
+"en_raw": "No, Kapras people are"
+},
+{
+"n": 132,
+"h": "46bb1e58",
+"en_raw": "not diligent by nature"
+},
+{
+"n": 133,
+"h": "9082a9a2",
+"en_raw": "Only what they want to do"
+},
+{
+"n": 134,
+"h": "e29f0eec",
+"en_raw": "on others"
+},
+{
+"n": 135,
+"h": "57359809",
+"en_raw": "My brain is built differently from Earthlings"
+},
+{
+"n": 136,
+"h": "dca7252c",
+"en_raw": "How can I put it,"
+},
+{
+"n": 137,
+"h": "57c29c0f",
+"en_raw": "my brain is all right brain"
+},
+{
+"n": 138,
+"h": "bb0cc235",
+"en_raw": "that is, a sensory brain"
+},
+{
+"n": 139,
+"h": "40208dea",
+"en_raw": "To be more detailed,"
+},
+{
+"n": 140,
+"h": "416e3b8e",
+"en_raw": "in the basal ganglia..."
+},
+{
+"n": 141,
+"h": "15cef0c2",
+"en_raw": "Ah, sorry, I digressed"
+},
+{
+"n": 142,
+"h": "c2e66649",
+"en_raw": "Anyway, I liked"
+},
+{
+"n": 143,
+"h": "415e3e36",
+"en_raw": "gaining knowledge"
+},
+{
+"n": 144,
+"h": "f558478f",
+"en_raw": "It was around then"
+},
+{
+"n": 145,
+"h": "9654c86e",
+"en_raw": "I learned how wonderful Earthlings are"
+},
+{
+"n": 146,
+"h": "51d556bf",
+"en_raw": "And to fulfill the great purpose"
+},
+{
+"n": 147,
+"h": "9dc7afdf",
+"en_raw": "of protecting Earth,"
+},
+{
+"n": 148,
+"h": "7ef3e193",
+"en_raw": "what methods are there?"
+},
+{
+"n": 149,
+"h": "77e7efc6",
+"en_raw": "At that time I set my eyes"
+},
+{
+"n": 150,
+"h": "7c8f6274",
+"en_raw": "on a certain medium"
+},
+{
+"n": 151,
+"h": "38764382",
+"en_raw": "Space waves, so-called satellite communication"
+},
+{
+"n": 152,
+"h": "3cb3056e",
+"en_raw": "...Twenty years ago now?"
+},
+{
+"n": 153,
+"h": "095e48cb",
+"en_raw": "Satellite TV from that long ago?"
+},
+{
+"n": 154,
+"h": "5e235de5",
+"en_raw": "...Wow"
+},
+{
+"n": 155,
+"h": "32908b4a",
+"en_raw": "But there I met my greatest enemy,"
+},
+{
+"n": 156,
+"h": "30e1e396",
+"en_raw": "the Kinkodals"
+},
+{
+"n": 157,
+"h": "802c981e",
+"en_raw": "I may tell you someday,"
+},
+{
+"n": 158,
+"h": "1d7be46e",
+"en_raw": "but they're the worst in the galaxy"
+},
+{
+"n": 159,
+"h": "e58b9afb",
+"en_raw": "And so I"
+},
+{
+"n": 160,
+"h": "0b371720",
+"en_raw": "was robbed of"
+},
+{
+"n": 161,
+"h": "80999710",
+"en_raw": "the means to protect Earth"
+},
+{
+"n": 162,
+"h": "5e6fa780",
+"en_raw": "Afterward too, as a mere"
+},
+{
+"n": 163,
+"h": "6bfdcc07",
+"en_raw": "Kapras person"
+},
+{
+"n": 164,
+"h": "83550422",
+"en_raw": "I tried to resist in small ways"
+},
+{
+"n": 165,
+"h": "795d9c3d",
+"en_raw": "but oh, oh, now"
+},
+{
+"n": 166,
+"h": "b9ed35ab",
+"en_raw": "I'm a space outcast..."
+},
+{
+"n": 167,
+"h": "6b88ad63",
+"en_raw": "Hmm, somehow"
+},
+{
+"n": 168,
+"h": "c2ddb412",
+"en_raw": "Sounds like a microcosm of modern society..."
+},
+{
+"n": 169,
+"h": "cdf0b729",
+"en_raw": "Well, don't be so downcast"
+},
+{
+"n": 170,
+"h": "a70e1ec5",
+"en_raw": "Now, go on"
+},
+{
+"n": 171,
+"h": "fe30a0fb",
+"en_raw": "Oh right, watch out for TV"
+},
+{
+"n": 172,
+"h": "243fa9cd",
+"en_raw": "Mister, sorry"
+},
+{
+"n": 173,
+"h": "4de51e70",
+"en_raw": "I'm in a hurry"
+},
+{
+"n": 174,
+"h": "e3b74fb6",
+"en_raw": "if I don't hurry, the rescue ship..."
+},
+{
+"n": 175,
+"h": "180e83d7",
+"en_raw": "Now, Earth girl"
+},
+{
+"n": 176,
+"h": "f89fdd83",
+"en_raw": "How's Princess Bon's preparation?"
+},
+{
+"n": 177,
+"h": "982d21b7",
+"en_raw": "Hey, mister"
+},
+{
+"n": 178,
+"h": "e3b74fb6",
+"en_raw": "if I don't hurry, the rescue ship..."
+},
+{
+"n": 179,
+"h": "180e83d7",
+"en_raw": "Now, Earth girl"
+},
+{
+"n": 180,
+"h": "f89fdd83",
+"en_raw": "How's Princess Bon's preparation?"
+},
+{
+"n": 181,
+"h": "85dd60fb",
+"en_raw": "I'm not Princess Bon"
+},
+{
+"n": 182,
+"h": "505f22f0",
+"en_raw": "Shiina family's eldest daughter,"
+},
+{
+"n": 183,
+"h": "5593ce68",
+"en_raw": "Kurumi Shiina, that's my real name"
+},
+{
+"n": 184,
+"h": "7ededef6",
+"en_raw": "Mister, please, understand"
+},
+{
+"n": 185,
+"h": "d519b151",
+"en_raw": "So you really are"
+},
+{
+"n": 186,
+"h": "4fcf8388",
+"en_raw": "a Kinkodal!?"
+},
+{
+"n": 187,
+"h": "4ec5d7f9",
+"en_raw": "Um"
+},
+{
+"n": 188,
+"h": "e3c6d247",
+"en_raw": "I'm freezing already, enough"
+},
+{
+"n": 189,
+"h": "e04f0dea",
+"en_raw": "Oh, oh, how terrible..."
+},
+{
+"n": 190,
+"h": "3348d72c",
+"en_raw": "Once again the truth"
+},
+{
+"n": 191,
+"h": "c91c676a",
+"en_raw": "is being hidden..."
+},
+{
+"n": 192,
+"h": "7f496c8f",
+"en_raw": "...This is going nowhere"
+},
+{
+"n": 193,
+"h": "3769dd95",
+"en_raw": "How terrible..."
+},
+{
+"n": 194,
+"h": "a2c752af",
+"en_raw": "Another truth, a ray of hope"
+},
+{
+"n": 195,
+"h": "067e9ce0",
+"en_raw": "swallowed by a sea of darkness..."
+},
+{
+"n": 196,
+"h": "80036c06",
+"en_raw": "Huh...?"
+},
+{
+"n": 197,
+"h": "2160ffd2",
+"en_raw": "He's gone..."
+}
+]
+}

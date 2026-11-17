@@ -1,0 +1,858 @@
+{
+"file": 37,
+"paths": [
+"d002/f653"
+],
+"lines": [
+{
+"n": 0,
+"h": "2106f48b",
+"en_raw": "A painter who draws guardian spirits"
+},
+{
+"n": 1,
+"h": "cfc9d124",
+"en_raw": "...Are you stupid?"
+},
+{
+"n": 2,
+"h": "04f36cec",
+"en_raw": "So what did Sanjo say?"
+},
+{
+"n": 3,
+"h": "a627791a",
+"en_raw": "Not really..."
+},
+{
+"n": 4,
+"h": "78215153",
+"en_raw": "She said it was fun"
+},
+{
+"n": 5,
+"h": "2b4afae7",
+"en_raw": "She's a weird person too"
+},
+{
+"n": 6,
+"h": "1208a0c7",
+"en_raw": "Why is she so hyper"
+},
+{
+"n": 7,
+"h": "b3ab27e9",
+"en_raw": "every single day?"
+},
+{
+"n": 8,
+"h": "24409417",
+"en_raw": "Sango just lacks motivation"
+},
+{
+"n": 9,
+"h": "2b04b274",
+"en_raw": "My life"
+},
+{
+"n": 10,
+"h": "34448e2a",
+"en_raw": "is often tiring"
+},
+{
+"n": 11,
+"h": "10814192",
+"en_raw": "Anyway, since it's"
+},
+{
+"n": 12,
+"h": "9b148326",
+"en_raw": "summer vacation"
+},
+{
+"n": 13,
+"h": "35991df3",
+"en_raw": "let's go to the Wildflower Garden"
+},
+{
+"n": 14,
+"h": "40260644",
+"en_raw": "It's almost evening already..."
+},
+{
+"n": 15,
+"h": "f0c00068",
+"en_raw": "The Wildflower Garden has lots of weirdos"
+},
+{
+"n": 16,
+"h": "cc94bcdf",
+"en_raw": "I guess..."
+},
+{
+"n": 17,
+"h": "a9efafe8",
+"en_raw": "I mean, there are people juggling"
+},
+{
+"n": 18,
+"h": "7f7057f4",
+"en_raw": "instead of working"
+},
+{
+"n": 19,
+"h": "7c52a7a1",
+"en_raw": "or selling strange stuff"
+},
+{
+"n": 20,
+"h": "a35a55f8",
+"en_raw": "that'll never sell"
+},
+{
+"n": 21,
+"h": "c21366e7",
+"en_raw": "Well, yeah"
+},
+{
+"n": 22,
+"h": "c5771ffa",
+"en_raw": "Thinking about it, a portrait artist"
+},
+{
+"n": 23,
+"h": "c4e4bec3",
+"en_raw": "who draws guardian spirits"
+},
+{
+"n": 24,
+"h": "1413409e",
+"en_raw": "isn't all that"
+},
+{
+"n": 25,
+"h": "31a69a13",
+"en_raw": "special"
+},
+{
+"n": 26,
+"h": "76e27353",
+"en_raw": "Looks like we've gathered"
+},
+{
+"n": 27,
+"h": "d98be161",
+"en_raw": "info about the portrait artist"
+},
+{
+"n": 28,
+"h": "b80c275f",
+"en_raw": "What will you do, Sango?"
+},
+{
+"n": 29,
+"h": "bdfce349",
+"en_raw": "Get your portrait drawn?"
+},
+{
+"n": 30,
+"h": "fbcd4555",
+"en_raw": "Hmm, I'm"
+},
+{
+"n": 31,
+"h": "fbe97755",
+"en_raw": "still torn"
+},
+{
+"n": 32,
+"h": "6060c2cc",
+"en_raw": "If you don't like it"
+},
+{
+"n": 33,
+"h": "a5d6efba",
+"en_raw": "you don't have to force yourself"
+},
+{
+"n": 34,
+"h": "ef4b05d6",
+"en_raw": "to get one, I think..."
+},
+{
+"n": 35,
+"h": "dfd8a8b1",
+"en_raw": "Well, for now"
+},
+{
+"n": 36,
+"h": "02ca1cac",
+"en_raw": "I'll hear it"
+},
+{
+"n": 37,
+"h": "c694c081",
+"en_raw": "from the artist first"
+},
+{
+"n": 38,
+"h": "3083e855",
+"en_raw": "What's up?"
+},
+{
+"n": 39,
+"h": "c50c3442",
+"en_raw": "Sango, you're in a good mood"
+},
+{
+"n": 40,
+"h": "2c1db9d6",
+"en_raw": "Hee hee"
+},
+{
+"n": 41,
+"h": "ba121376",
+"en_raw": "My treasures have increased"
+},
+{
+"n": 42,
+"h": "7e9ce4d2",
+"en_raw": "Oh, it's the portrait"
+},
+{
+"n": 43,
+"h": "b6a74c45",
+"en_raw": "Oh, it's..."
+},
+{
+"n": 44,
+"h": "521f7eba",
+"en_raw": "Kids like you"
+},
+{
+"n": 45,
+"h": "dde1ec5a",
+"en_raw": "I can't keep up with"
+},
+{
+"n": 46,
+"h": "7f956e5b",
+"en_raw": "What"
+},
+{
+"n": 47,
+"h": "7ac1c37e",
+"en_raw": "Why do people cling"
+},
+{
+"n": 48,
+"h": "90389fce",
+"en_raw": "to being human?"
+},
+{
+"n": 49,
+"h": "18d2d3db",
+"en_raw": "...That picture"
+},
+{
+"n": 50,
+"h": "dcca63b4",
+"en_raw": "shows this planet's future"
+},
+{
+"n": 51,
+"h": "3a258dc0",
+"en_raw": "and how people should be"
+},
+{
+"n": 52,
+"h": "88548c7f",
+"en_raw": "It looks pessimistic at first, but"
+},
+{
+"n": 53,
+"h": "6d084f3a",
+"en_raw": "as one clearly hopeful guess"
+},
+{
+"n": 54,
+"h": "26c1b7bf",
+"en_raw": "I don't understand at all"
+},
+{
+"n": 55,
+"h": "f8da469c",
+"en_raw": "I've decided to change"
+},
+{
+"n": 56,
+"h": "52471853",
+"en_raw": "We too"
+},
+{
+"n": 57,
+"h": "cf1f9dd1",
+"en_raw": "should start thinking seriously"
+},
+{
+"n": 58,
+"h": "fd4f5ab6",
+"en_raw": "about the future"
+},
+{
+"n": 59,
+"h": "f01ef833",
+"en_raw": "Lucky Sango"
+},
+{
+"n": 60,
+"h": "21be3f4a",
+"en_raw": "Kurumi should have"
+},
+{
+"n": 61,
+"h": "f2259fb7",
+"en_raw": "gotten one too"
+},
+{
+"n": 62,
+"h": "9e7020a9",
+"en_raw": "Absolutely not!"
+},
+{
+"n": 63,
+"h": "35d112b9",
+"en_raw": "A portrait of Shiina"
+},
+{
+"n": 64,
+"h": "1dd99f8d",
+"en_raw": "would be like Leonardo da Vinci"
+},
+{
+"n": 65,
+"h": "dea8f240",
+"en_raw": "for a cat"
+},
+{
+"n": 66,
+"h": "bb36b720",
+"en_raw": "You mustn't make him waste"
+},
+{
+"n": 67,
+"h": "15016f8a",
+"en_raw": "his sublime act of drawing"
+},
+{
+"n": 68,
+"h": "b36ff097",
+"en_raw": "on such a trendy whim"
+},
+{
+"n": 69,
+"h": "42b6643e",
+"en_raw": "What's gotten into you, Sango?"
+},
+{
+"n": 70,
+"h": "6ecb8e46",
+"en_raw": "Hey hey, Nao"
+},
+{
+"n": 71,
+"h": "3c533df3",
+"en_raw": "Kurumi wants a portrait too!"
+},
+{
+"n": 72,
+"h": "dfd1fd48",
+"en_raw": "Whether or not we get"
+},
+{
+"n": 73,
+"h": "dfc3e834",
+"en_raw": "Shiina's portrait drawn"
+},
+{
+"n": 74,
+"h": "d1f822d0",
+"en_raw": "it's fine to stop by again"
+},
+{
+"n": 75,
+"h": "70b725be",
+"en_raw": "right?"
+},
+{
+"n": 76,
+"h": "f0746bf3",
+"en_raw": "Yeah yeah, let's go!"
+},
+{
+"n": 77,
+"h": "f0079307",
+"en_raw": "I wonder what his name is"
+},
+{
+"n": 78,
+"h": "37fb1e6e",
+"en_raw": "He never tells us"
+},
+{
+"n": 79,
+"h": "1dfacecc",
+"en_raw": "anything about himself..."
+},
+{
+"n": 80,
+"h": "3792836f",
+"en_raw": "Just like..."
+},
+{
+"n": 81,
+"h": "d5a83e25",
+"en_raw": "Just like, that's it!"
+},
+{
+"n": 82,
+"h": "b3397bff",
+"en_raw": "Like Tomoki!"
+},
+{
+"n": 83,
+"h": "615efc8c",
+"en_raw": "To think someone like that"
+},
+{
+"n": 84,
+"h": "f9da7c0a",
+"en_raw": "was in Hirumi too..."
+},
+{
+"n": 85,
+"h": "57b548aa",
+"en_raw": "You never know who you'll meet"
+},
+{
+"n": 86,
+"h": "7939bd44",
+"en_raw": "Who are you talking about?"
+},
+{
+"n": 87,
+"h": "c03fcb7b",
+"en_raw": "The portrait artist"
+},
+{
+"n": 88,
+"h": "f8524685",
+"en_raw": "obviously, dummy"
+},
+{
+"n": 89,
+"h": "82d84d21",
+"en_raw": "Will Kurumi's picture be done tomorrow?"
+},
+{
+"n": 90,
+"h": "a71cfa72",
+"en_raw": "Probably"
+},
+{
+"n": 91,
+"h": "23f06d5a",
+"en_raw": "The last one was done quickly"
+},
+{
+"n": 92,
+"h": "97d59607",
+"en_raw": "In Shiina's case she has long hair"
+},
+{
+"n": 93,
+"h": "1ca6d8bf",
+"en_raw": "and wears a straw hat"
+},
+{
+"n": 94,
+"h": "2d7985b2",
+"en_raw": "so there's a lot to draw"
+},
+{
+"n": 95,
+"h": "33ea258c",
+"en_raw": "and it's a pain"
+},
+{
+"n": 96,
+"h": "126d44af",
+"en_raw": "When will Kurumi's picture be done?"
+},
+{
+"n": 97,
+"h": "cbb70dab",
+"en_raw": "The last one was quick"
+},
+{
+"n": 98,
+"h": "16fc6f67",
+"en_raw": "About one more day, probably"
+},
+{
+"n": 99,
+"h": "a71cfa72",
+"en_raw": "Probably"
+},
+{
+"n": 100,
+"h": "cf7aea1b",
+"en_raw": "Well, who knows"
+},
+{
+"n": 101,
+"h": "0cc6a282",
+"en_raw": "It might take a while"
+},
+{
+"n": 102,
+"h": "9a62facd",
+"en_raw": "He seems to like her"
+},
+{
+"n": 103,
+"h": "38a4068e",
+"en_raw": "as a motif"
+},
+{
+"n": 104,
+"h": "d86fa943",
+"en_raw": "...Kurumi Shiina, today"
+},
+{
+"n": 105,
+"h": "8c503c52",
+"en_raw": "come to my studio"
+},
+{
+"n": 106,
+"h": "75128f38",
+"en_raw": "he might say"
+},
+{
+"n": 107,
+"h": "7bb8f5a4",
+"en_raw": "Then what do you do, Nao?"
+},
+{
+"n": 108,
+"h": "53652e2b",
+"en_raw": "What was that about, 'people can't"
+},
+{
+"n": 109,
+"h": "d92ed524",
+"en_raw": "live like this'?"
+},
+{
+"n": 110,
+"h": "ae0e64db",
+"en_raw": "Totally misjudged"
+},
+{
+"n": 111,
+"h": "76101f5d",
+"en_raw": "But shouldn't we have him"
+},
+{
+"n": 112,
+"h": "97b0926b",
+"en_raw": "finish it?"
+},
+{
+"n": 113,
+"h": "7f286689",
+"en_raw": "Shiina"
+},
+{
+"n": 114,
+"h": "412c7530",
+"en_raw": "paid money too"
+},
+{
+"n": 115,
+"h": "e757bd6e",
+"en_raw": "Then, Nao"
+},
+{
+"n": 116,
+"h": "1b9eea0a",
+"en_raw": "You can just tell Shiina"
+},
+{
+"n": 117,
+"h": "5f875b7c",
+"en_raw": "and make her understand, right?"
+},
+{
+"n": 118,
+"h": "4b3198da",
+"en_raw": "See you tomorrow!"
+},
+{
+"n": 119,
+"h": "2e99d448",
+"en_raw": "See you again tomorrow!"
+},
+{
+"n": 120,
+"h": "19d03651",
+"en_raw": "It's a bit strange"
+},
+{
+"n": 121,
+"h": "73b2ca87",
+"en_raw": "that it's taking this long"
+},
+{
+"n": 122,
+"h": "6849397c",
+"en_raw": "He was strange from the start"
+},
+{
+"n": 123,
+"h": "b27b1ac4",
+"en_raw": "that man"
+},
+{
+"n": 124,
+"h": "d69ede19",
+"en_raw": "Maybe Shiina really is"
+},
+{
+"n": 125,
+"h": "3c734501",
+"en_raw": "something special..."
+},
+{
+"n": 126,
+"h": "6a5d0093",
+"en_raw": "That's a discriminatory remark"
+},
+{
+"n": 127,
+"h": "4b91a08d",
+"en_raw": "When will Kurumi's picture be done?"
+},
+{
+"n": 128,
+"h": "19d03651",
+"en_raw": "It's a bit strange"
+},
+{
+"n": 129,
+"h": "73b2ca87",
+"en_raw": "that it's taking this long"
+},
+{
+"n": 130,
+"h": "6849397c",
+"en_raw": "He was strange from the start"
+},
+{
+"n": 131,
+"h": "b27b1ac4",
+"en_raw": "that man"
+},
+{
+"n": 132,
+"h": "ad7c03a4",
+"en_raw": "Hope it's done this time"
+},
+{
+"n": 133,
+"h": "41cead71",
+"en_raw": "If not, it's fraud"
+},
+{
+"n": 134,
+"h": "774be547",
+"en_raw": "But I'm sure it'll turn out"
+},
+{
+"n": 135,
+"h": "60467316",
+"en_raw": "to be a good picture"
+},
+{
+"n": 136,
+"h": "95b594b9",
+"en_raw": "Well, she looks good"
+},
+{
+"n": 137,
+"h": "c793d026",
+"en_raw": "Shiina, you know..."
+},
+{
+"n": 138,
+"h": "bb45b8dd",
+"en_raw": "Ugh, so everyone is"
+},
+{
+"n": 139,
+"h": "83a2489f",
+"en_raw": "into looks after all"
+},
+{
+"n": 140,
+"h": "78ba4734",
+"en_raw": "...Tch"
+},
+{
+"n": 141,
+"h": "e4d3100b",
+"en_raw": "Hey, Sango"
+},
+{
+"n": 142,
+"h": "3a7beeb6",
+"en_raw": "Do you think we should"
+},
+{
+"n": 143,
+"h": "a137dcb4",
+"en_raw": "have him finish it?"
+},
+{
+"n": 144,
+"h": "6ef0ec9d",
+"en_raw": "Don't know"
+},
+{
+"n": 145,
+"h": "e6fd374f",
+"en_raw": "Do what you like, Shiina"
+},
+{
+"n": 146,
+"h": "2959ed91",
+"en_raw": "He seems to like you"
+},
+{
+"n": 147,
+"h": "cc234ea1",
+"en_raw": "'Draws guardian spirits,' my foot"
+},
+{
+"n": 148,
+"h": "e338b879",
+"en_raw": "No matter how you look at it"
+},
+{
+"n": 149,
+"h": "4419bb1a",
+"en_raw": "this is a drawing of a cat, isn't it?"
+},
+{
+"n": 150,
+"h": "16a3d742",
+"en_raw": "But he seemed pretty unwell"
+},
+{
+"n": 151,
+"h": "e089d2bc",
+"en_raw": "toward the end"
+},
+{
+"n": 152,
+"h": "757430f6",
+"en_raw": "Maybe food poisoning?"
+},
+{
+"n": 153,
+"h": "182413ba",
+"en_raw": "Or an excuse for not being able to draw"
+},
+{
+"n": 154,
+"h": "c499d548",
+"en_raw": "So do you think"
+},
+{
+"n": 155,
+"h": "c554cf92",
+"en_raw": "he fooled us?"
+},
+{
+"n": 156,
+"h": "93cc191d",
+"en_raw": "Hmm, fooled us..."
+},
+{
+"n": 157,
+"h": "60e476f0",
+"en_raw": "Rather than fooled..."
+},
+{
+"n": 158,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 159,
+"h": "fb4c4c6e",
+"en_raw": "This is how it is"
+},
+{
+"n": 160,
+"h": "49338225",
+"en_raw": "They call it cultural investment"
+},
+{
+"n": 161,
+"h": "1c40497d",
+"en_raw": "Solved the rumor of the Portrait Artist"
+},
+{
+"n": 162,
+"h": "a085553d",
+"en_raw": "Since then, nobody has seen"
+},
+{
+"n": 163,
+"h": "82612fc6",
+"en_raw": "the young portrait artist at the garden..."
+},
+{
+"n": 164,
+"h": "2e288cea",
+"en_raw": "It's not like he's a ghost"
+},
+{
+"n": 165,
+"h": "da5c6ee8",
+"en_raw": "He's probably drawing portraits"
+},
+{
+"n": 166,
+"h": "b7159467",
+"en_raw": "in some park again"
+},
+{
+"n": 167,
+"h": "4883bb82",
+"en_raw": "with trendy fans in tow"
+},
+{
+"n": 168,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 169,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

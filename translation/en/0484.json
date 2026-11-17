@@ -1,0 +1,803 @@
+{
+"file": 484,
+"paths": [
+"d008/d025/f014"
+],
+"lines": [
+{
+"n": 0,
+"h": "b4510347",
+"en_raw": "When it's this hot"
+},
+{
+"n": 1,
+"h": "915adcd5",
+"en_raw": "I lose the will to work"
+},
+{
+"n": 2,
+"h": "aab8e485",
+"en_raw": "You never had it to begin with"
+},
+{
+"n": 3,
+"h": "25abd5cc",
+"en_raw": "This summer is hot"
+},
+{
+"n": 4,
+"h": "e4554aa4",
+"en_raw": "You ask that every year"
+},
+{
+"n": 5,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 6,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 7,
+"h": "bc11f854",
+"en_raw": "This outfit suits me, right?"
+},
+{
+"n": 8,
+"h": "bb2c6c81",
+"en_raw": "Well"
+},
+{
+"n": 9,
+"h": "2d9d23b4",
+"en_raw": "Hmm?"
+},
+{
+"n": 10,
+"h": "cef9049f",
+"en_raw": "Are you interested in me?"
+},
+{
+"n": 11,
+"h": "1717d826",
+"en_raw": "There's no way"
+},
+{
+"n": 12,
+"h": "677db820",
+"en_raw": "Students should just go to school."
+},
+{
+"n": 13,
+"h": "14d6578b",
+"en_raw": "Adults should just work"
+},
+{
+"n": 14,
+"h": "d54e2289",
+"en_raw": "You kids get home before dark."
+},
+{
+"n": 15,
+"h": "bf01f503",
+"en_raw": "True, adults are dangerous too"
+},
+{
+"n": 16,
+"h": "b17276d3",
+"en_raw": "Hm? Did you say something?"
+},
+{
+"n": 17,
+"h": "7131f9bd",
+"en_raw": "No..."
+},
+{
+"n": 18,
+"h": "efd19715",
+"en_raw": "Keep the dog away"
+},
+{
+"n": 19,
+"h": "f1cd3885",
+"en_raw": "I'm not good with them..."
+},
+{
+"n": 20,
+"h": "92838cd2",
+"en_raw": "Hmph..."
+},
+{
+"n": 21,
+"h": "b32e4b56",
+"en_raw": "What's this dog's name?"
+},
+{
+"n": 22,
+"h": "633c1adc",
+"en_raw": "It's Melos"
+},
+{
+"n": 23,
+"h": "b737a232",
+"en_raw": "It's hot"
+},
+{
+"n": 24,
+"h": "e4ef3546",
+"en_raw": "Makes me want to go to the sea"
+},
+{
+"n": 25,
+"h": "70a424f4",
+"en_raw": "Yes"
+},
+{
+"n": 26,
+"h": "4fc5e8cc",
+"en_raw": "So hot, I feel dizzy."
+},
+{
+"n": 27,
+"h": "f35bf640",
+"en_raw": "Huh"
+},
+{
+"n": 28,
+"h": "68595741",
+"en_raw": "Having fun, junior high kids?"
+},
+{
+"n": 29,
+"h": "5c7c39d0",
+"en_raw": "No"
+},
+{
+"n": 30,
+"h": "ca63c3f3",
+"en_raw": "Sorry, I'm in a hurry right now."
+},
+{
+"n": 31,
+"h": "6d4a1d04",
+"en_raw": "Sorry"
+},
+{
+"n": 32,
+"h": "417694cb",
+"en_raw": "Hm??"
+},
+{
+"n": 33,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 34,
+"h": "8f131ad9",
+"en_raw": "Leave me alone!"
+},
+{
+"n": 35,
+"h": "6d4a1d04",
+"en_raw": "Sorry"
+},
+{
+"n": 36,
+"h": "e24704de",
+"en_raw": "Rare for junior high kids to talk to me."
+},
+{
+"n": 37,
+"h": "09ce1925",
+"en_raw": "Is that so?"
+},
+{
+"n": 38,
+"h": "d811e9c2",
+"en_raw": "You're being fooled... you kids."
+},
+{
+"n": 39,
+"h": "51729e20",
+"en_raw": "???"
+},
+{
+"n": 40,
+"h": "e4aa50e8",
+"en_raw": "The season I hate is here..."
+},
+{
+"n": 41,
+"h": "3d865af1",
+"en_raw": "I see"
+},
+{
+"n": 42,
+"h": "183d9a48",
+"en_raw": "When it's hot I remember bad things..."
+},
+{
+"n": 43,
+"h": "3d865af1",
+"en_raw": "I see"
+},
+{
+"n": 44,
+"h": "4ec5d7f9",
+"en_raw": "Um"
+},
+{
+"n": 45,
+"h": "877029c2",
+"en_raw": "You probably don't know, though"
+},
+{
+"n": 46,
+"h": "4fd2f979",
+"en_raw": "Then don't ask"
+},
+{
+"n": 47,
+"h": "e44662ea",
+"en_raw": "What are you doing!"
+},
+{
+"n": 48,
+"h": "d20d21c1",
+"en_raw": "I didn't do anything"
+},
+{
+"n": 49,
+"h": "fbb810a6",
+"en_raw": "What?"
+},
+{
+"n": 50,
+"h": "6669cce8",
+"en_raw": "No, it's nothing"
+},
+{
+"n": 51,
+"h": "51087b63",
+"en_raw": "I feel like I've seen your face before."
+},
+{
+"n": 52,
+"h": "082a6f45",
+"en_raw": "Do I look like someone? Me?"
+},
+{
+"n": 53,
+"h": "7ace2674",
+"en_raw": "I'm a hopeless case anyway."
+},
+{
+"n": 54,
+"h": "f6854147",
+"en_raw": "You'll understand when you look"
+},
+{
+"n": 55,
+"h": "0f1edb0d",
+"en_raw": "I'm going to the pool next!!"
+},
+{
+"n": 56,
+"h": "0774ffcc",
+"en_raw": "Yeah"
+},
+{
+"n": 57,
+"h": "4f694609",
+"en_raw": "I'm going to the sea, nice, right!!"
+},
+{
+"n": 58,
+"h": "f6341425",
+"en_raw": "Whatever"
+},
+{
+"n": 59,
+"h": "e4f9e705",
+"en_raw": "Your shoelace is untied~"
+},
+{
+"n": 60,
+"h": "5d719f9b",
+"en_raw": "Liar"
+},
+{
+"n": 61,
+"h": "2aa36cce",
+"en_raw": "What?! ...Tch."
+},
+{
+"n": 62,
+"h": "ac7fc862",
+"en_raw": "What is this about"
+},
+{
+"n": 63,
+"h": "731ec776",
+"en_raw": "Hey, is junior high fun?"
+},
+{
+"n": 64,
+"h": "8359f88e",
+"en_raw": "True, a gang of cheap monkeys"
+},
+{
+"n": 65,
+"h": "65f6dfce",
+"en_raw": "playing at being friends"
+},
+{
+"n": 66,
+"h": "7faed635",
+"en_raw": "I found some sunflower seeds earlier."
+},
+{
+"n": 67,
+"h": "b84084e6",
+"en_raw": "Hmm"
+},
+{
+"n": 68,
+"h": "675b5fa3",
+"en_raw": "Did you see the rainbow?"
+},
+{
+"n": 69,
+"h": "ba53eae5",
+"en_raw": "Birds have it good, they look so happy..."
+},
+{
+"n": 70,
+"h": "1940befa",
+"en_raw": "Go see the egrets. The egrets!"
+},
+{
+"n": 71,
+"h": "113e36da",
+"en_raw": "There are pigeons in the park too."
+},
+{
+"n": 72,
+"h": "ced71668",
+"en_raw": "The view from Hirumi Bridge is lovely."
+},
+{
+"n": 73,
+"h": "e2141831",
+"en_raw": "The view from Takadai Street is great."
+},
+{
+"n": 74,
+"h": "3f6659d4",
+"en_raw": "It's getting hot, isn't it?"
+},
+{
+"n": 75,
+"h": "fbc761d6",
+"en_raw": "That's right"
+},
+{
+"n": 76,
+"h": "81953a8f",
+"en_raw": "Hot, hot."
+},
+{
+"n": 77,
+"h": "c32f003d",
+"en_raw": "Right"
+},
+{
+"n": 78,
+"h": "f592daa8",
+"en_raw": "Oh my, Yuki-chan"
+},
+{
+"n": 79,
+"h": "bf684ff4",
+"en_raw": "Say hello to your mother for me."
+},
+{
+"n": 80,
+"h": "db2c3b33",
+"en_raw": "Huh...?"
+},
+{
+"n": 81,
+"h": "ca373e1d",
+"en_raw": "So many crows in this town."
+},
+{
+"n": 82,
+"h": "eae508e9",
+"en_raw": "Don't you think?"
+},
+{
+"n": 83,
+"h": "fbc761d6",
+"en_raw": "That's right"
+},
+{
+"n": 84,
+"h": "7ae19f3b",
+"en_raw": "Busy day in, day out."
+},
+{
+"n": 85,
+"h": "bd1c9009",
+"en_raw": "It wears me down."
+},
+{
+"n": 86,
+"h": "f35bf640",
+"en_raw": "Huh"
+},
+{
+"n": 87,
+"h": "dad941f0",
+"en_raw": "Oh, walking the dog?"
+},
+{
+"n": 88,
+"h": "4384345e",
+"en_raw": "Yes, sort of"
+},
+{
+"n": 89,
+"h": "d0da2117",
+"en_raw": "They say kids these days are dangerous,"
+},
+{
+"n": 90,
+"h": "e2fe46ab",
+"en_raw": "but that's not true, is it?"
+},
+{
+"n": 91,
+"h": "fb8b191e",
+"en_raw": "You think so?"
+},
+{
+"n": 92,
+"h": "13dcbebf",
+"en_raw": "Ugh, it's hot"
+},
+{
+"n": 93,
+"h": "6ebda3b0",
+"en_raw": "Take care"
+},
+{
+"n": 94,
+"h": "bffd8418",
+"en_raw": "What lovely weather."
+},
+{
+"n": 95,
+"h": "fbc761d6",
+"en_raw": "That's right"
+},
+{
+"n": 96,
+"h": "a75ec0cf",
+"en_raw": "You're lively, kiddo"
+},
+{
+"n": 97,
+"h": "951585ed",
+"en_raw": "Huh? Kiddo...?"
+},
+{
+"n": 98,
+"h": "cae98cbe",
+"en_raw": "How dreadful, how dreadful..."
+},
+{
+"n": 99,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 100,
+"h": "19c40759",
+"en_raw": "Long ago, all of this around here"
+},
+{
+"n": 101,
+"h": "df88dbc2",
+"en_raw": "was nothing but fields."
+},
+{
+"n": 102,
+"h": "b84084e6",
+"en_raw": "Hmm"
+},
+{
+"n": 103,
+"h": "82bc564f",
+"en_raw": "It's hot, isn't it"
+},
+{
+"n": 104,
+"h": "c32f003d",
+"en_raw": "Right"
+},
+{
+"n": 105,
+"h": "b4510347",
+"en_raw": "When it's this hot"
+},
+{
+"n": 106,
+"h": "9e8f668d",
+"en_raw": "Doesn't it make you feel strange?"
+},
+{
+"n": 107,
+"h": "db90eb27",
+"en_raw": "Huh?"
+},
+{
+"n": 108,
+"h": "f1500649",
+"en_raw": "Must be nice, kids are so innocent."
+},
+{
+"n": 109,
+"h": "cdc3864a",
+"en_raw": "There are a lot of adults like that"
+},
+{
+"n": 110,
+"h": "b8d28215",
+"en_raw": "A cheeky brat..."
+},
+{
+"n": 111,
+"h": "8a9bc780",
+"en_raw": "Tch"
+},
+{
+"n": 112,
+"h": "f297a8e4",
+"en_raw": "Hmm"
+},
+{
+"n": 113,
+"h": "84638dd9",
+"en_raw": "You're so cute"
+},
+{
+"n": 114,
+"h": "1a162b47",
+"en_raw": "Thank you"
+},
+{
+"n": 115,
+"h": "563a960c",
+"en_raw": "...Hmph"
+},
+{
+"n": 116,
+"h": "05a6ec8c",
+"en_raw": "Eh? What is it?"
+},
+{
+"n": 117,
+"h": "2f1827c7",
+"en_raw": "I don't really understand."
+},
+{
+"n": 118,
+"h": "2e9ed958",
+"en_raw": "I didn't say anything"
+},
+{
+"n": 119,
+"h": "40873692",
+"en_raw": "3544, 3545..."
+},
+{
+"n": 120,
+"h": "b35b331e",
+"en_raw": "Ahh, I lost count."
+},
+{
+"n": 121,
+"h": "d74bb384",
+"en_raw": "What?"
+},
+{
+"n": 122,
+"h": "b8bb610b",
+"en_raw": "Yikes, a big dog."
+},
+{
+"n": 123,
+"h": "c2d96c6b",
+"en_raw": "So he says, Melos"
+},
+{
+"n": 124,
+"h": "b97501fc",
+"en_raw": "No, no, no, no."
+},
+{
+"n": 125,
+"h": "5c0d357b",
+"en_raw": "I can't stand dogs."
+},
+{
+"n": 126,
+"h": "01c198fd",
+"en_raw": "Here, Melos"
+},
+{
+"n": 127,
+"h": "f6fefb2c",
+"en_raw": "Come here"
+},
+{
+"n": 128,
+"h": "8f50e23a",
+"en_raw": "Is this Pochi? Not?"
+},
+{
+"n": 129,
+"h": "6275c87d",
+"en_raw": "Then from now on you're Pochi"
+},
+{
+"n": 130,
+"h": "3e23a45f",
+"en_raw": "How selfish"
+},
+{
+"n": 131,
+"h": "2ef5a932",
+"en_raw": "Cute dog. Is it a mutt?"
+},
+{
+"n": 132,
+"h": "15b8449c",
+"en_raw": "Right, as hard as you can"
+},
+{
+"n": 133,
+"h": "97679038",
+"en_raw": "I love the heat."
+},
+{
+"n": 134,
+"h": "3733884f",
+"en_raw": "Oh"
+},
+{
+"n": 135,
+"h": "00c34fc1",
+"en_raw": "What? Something on my face?"
+},
+{
+"n": 136,
+"h": "e8fe609d",
+"en_raw": "No"
+},
+{
+"n": 137,
+"h": "dc2368cd",
+"en_raw": "Ohh?"
+},
+{
+"n": 138,
+"h": "dc5c2514",
+"en_raw": "Huh?"
+},
+{
+"n": 139,
+"h": "601afda2",
+"en_raw": "School's so boring, you know."
+},
+{
+"n": 140,
+"h": "edb8d580",
+"en_raw": "Then don't go"
+},
+{
+"n": 141,
+"h": "7761fa94",
+"en_raw": "Aww, so cute!"
+},
+{
+"n": 142,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 143,
+"h": "a3f8d0d5",
+"en_raw": "Hey!!"
+},
+{
+"n": 144,
+"h": "63edc948",
+"en_raw": "I told you I hate dogs!!"
+},
+{
+"n": 145,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 146,
+"h": "c2470f7a",
+"en_raw": "Hot..."
+},
+{
+"n": 147,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 148,
+"h": "f1bc3748",
+"en_raw": "It's rough in this heat"
+},
+{
+"n": 149,
+"h": "63685714",
+"en_raw": "Really"
+},
+{
+"n": 150,
+"h": "5d246444",
+"en_raw": "Oh, come on!!"
+},
+{
+"n": 151,
+"h": "a1439217",
+"en_raw": "I forgot what I was thinking about."
+},
+{
+"n": 152,
+"h": "2d023aa9",
+"en_raw": "Excuse me"
+},
+{
+"n": 153,
+"h": "8f129b69",
+"en_raw": "You boys watch out for cars, okay?"
+},
+{
+"n": 154,
+"h": "6310ad13",
+"en_raw": "Yes, thanks for coming all this way"
+},
+{
+"n": 155,
+"h": "ba6e6f11",
+"en_raw": "Oh, good doggy"
+},
+{
+"n": 156,
+"h": "96e62f03",
+"en_raw": "That's flattery"
+},
+{
+"n": 157,
+"h": "bd81325e",
+"en_raw": "My, what a big doggy."
+},
+{
+"n": 158,
+"h": "5cc656b6",
+"en_raw": "Bigger isn't always better"
+}
+]
+}

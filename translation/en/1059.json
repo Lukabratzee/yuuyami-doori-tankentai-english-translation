@@ -1,0 +1,963 @@
+{
+"file": 1059,
+"paths": [
+"d008/d150/f022"
+],
+"lines": [
+{
+"n": 0,
+"h": "b322035e",
+"en_raw": "Kurumi"
+},
+{
+"n": 1,
+"h": "218bb588",
+"en_raw": "Sit here"
+},
+{
+"n": 2,
+"h": "f670528e",
+"en_raw": "Minami, what's this?"
+},
+{
+"n": 3,
+"h": "272b511e",
+"en_raw": "This is, you see..."
+},
+{
+"n": 4,
+"h": "9d9d8b83",
+"en_raw": "Same as the secret place"
+},
+{
+"n": 5,
+"h": "2e678586",
+"en_raw": "The gate torii"
+},
+{
+"n": 6,
+"h": "c3e2cb68",
+"en_raw": "A thin crescent moon in the sky"
+},
+{
+"n": 7,
+"h": "6f69042d",
+"en_raw": "The fox spirit comes"
+},
+{
+"n": 8,
+"h": "56f4bac8",
+"en_raw": "out from here"
+},
+{
+"n": 9,
+"h": "7a705c9f",
+"en_raw": "Right, Kurumi?"
+},
+{
+"n": 10,
+"h": "34dd5212",
+"en_raw": "Sit down"
+},
+{
+"n": 11,
+"h": "f6cdfb65",
+"en_raw": "Close your eyes"
+},
+{
+"n": 12,
+"h": "369ed8fd",
+"en_raw": "and chant the spell together"
+},
+{
+"n": 13,
+"h": "38041174",
+"en_raw": "When I say \"one, two\""
+},
+{
+"n": 14,
+"h": "5e7b548f",
+"en_raw": "say it together"
+},
+{
+"n": 15,
+"h": "feab9a2a",
+"en_raw": "And also"
+},
+{
+"n": 16,
+"h": "f58c20ce",
+"en_raw": "Never, ever let go of my hands"
+},
+{
+"n": 17,
+"h": "8d77815e",
+"en_raw": "What do I say?"
+},
+{
+"n": 18,
+"h": "e5be583e",
+"en_raw": "A moonlit night"
+},
+{
+"n": 19,
+"h": "8549b2f2",
+"en_raw": "a strange reed field..."
+},
+{
+"n": 20,
+"h": "7696caed",
+"en_raw": "(chant)"
+},
+{
+"n": 21,
+"h": "18cb11db",
+"en_raw": "(chant)"
+},
+{
+"n": 22,
+"h": "2e5a359a",
+"en_raw": "(chant)"
+},
+{
+"n": 23,
+"h": "7aea0af9",
+"en_raw": "...Got it?"
+},
+{
+"n": 24,
+"h": "5d53dadc",
+"en_raw": "Got it / Again  Um..."
+},
+{
+"n": 25,
+"h": "1a356b97",
+"en_raw": "A moonlit night..."
+},
+{
+"n": 26,
+"h": "e28473e4",
+"en_raw": "A strange..."
+},
+{
+"n": 27,
+"h": "f15fe4c6",
+"en_raw": "What?"
+},
+{
+"n": 28,
+"h": "e5be583e",
+"en_raw": "A moonlit night"
+},
+{
+"n": 29,
+"h": "8549b2f2",
+"en_raw": "a strange reed field..."
+},
+{
+"n": 30,
+"h": "7696caed",
+"en_raw": "(chant)"
+},
+{
+"n": 31,
+"h": "18cb11db",
+"en_raw": "(chant)"
+},
+{
+"n": 32,
+"h": "2e5a359a",
+"en_raw": "(chant)"
+},
+{
+"n": 33,
+"h": "7aea0af9",
+"en_raw": "...Got it?"
+},
+{
+"n": 34,
+"h": "98e2e76b",
+"en_raw": "Got it / Again  Yeah, let's try"
+},
+{
+"n": 35,
+"h": "789c7d0b",
+"en_raw": "Minami!"
+},
+{
+"n": 36,
+"h": "db4772dc",
+"en_raw": "Then close your eyes..."
+},
+{
+"n": 37,
+"h": "ff5dff7d",
+"en_raw": "Close / Keep open  Then here we go"
+},
+{
+"n": 38,
+"h": "f791baa9",
+"en_raw": "One, two..."
+},
+{
+"n": 39,
+"h": "e5be583e",
+"en_raw": "A moonlit night"
+},
+{
+"n": 40,
+"h": "8549b2f2",
+"en_raw": "a strange reed field..."
+},
+{
+"n": 41,
+"h": "7696caed",
+"en_raw": "(chant)"
+},
+{
+"n": 42,
+"h": "18cb11db",
+"en_raw": "(chant)"
+},
+{
+"n": 43,
+"h": "2e5a359a",
+"en_raw": "(chant)"
+},
+{
+"n": 44,
+"h": "ceae2b51",
+"en_raw": "Kurumi, no good"
+},
+{
+"n": 45,
+"h": "da23dad4",
+"en_raw": "You had your eyes open"
+},
+{
+"n": 46,
+"h": "1e0c71c6",
+"en_raw": "Let's start over"
+},
+{
+"n": 47,
+"h": "7cc94ebf",
+"en_raw": "Close your eyes properly..."
+},
+{
+"n": 48,
+"h": "ff5dff7d",
+"en_raw": "Close / Keep open  Then here we go"
+},
+{
+"n": 49,
+"h": "f791baa9",
+"en_raw": "One, two..."
+},
+{
+"n": 50,
+"h": "e5be583e",
+"en_raw": "A moonlit night"
+},
+{
+"n": 51,
+"h": "8549b2f2",
+"en_raw": "a strange reed field..."
+},
+{
+"n": 52,
+"h": "7696caed",
+"en_raw": "(chant)"
+},
+{
+"n": 53,
+"h": "18cb11db",
+"en_raw": "(chant)"
+},
+{
+"n": 54,
+"h": "2e5a359a",
+"en_raw": "(chant)"
+},
+{
+"n": 55,
+"h": "b322035e",
+"en_raw": "Kurumi"
+},
+{
+"n": 56,
+"h": "08cf5657",
+"en_raw": "You can open your eyes..."
+},
+{
+"n": 57,
+"h": "f265062d",
+"en_raw": "Ah!"
+},
+{
+"n": 58,
+"h": "69526e62",
+"en_raw": "Shh, Kurumi"
+},
+{
+"n": 59,
+"h": "6f68a38a",
+"en_raw": "Don't make a loud noise"
+},
+{
+"n": 60,
+"h": "3ab860eb",
+"en_raw": "Shh?"
+},
+{
+"n": 61,
+"h": "9636e9b8",
+"en_raw": "Yes, quietly"
+},
+{
+"n": 62,
+"h": "8678da4a",
+"en_raw": "The fox spirit has arrived"
+},
+{
+"n": 63,
+"h": "1255baf3",
+"en_raw": "Kurumi, want to ask something?"
+},
+{
+"n": 64,
+"h": "f723f772",
+"en_raw": "Try / Don't  Yeah!"
+},
+{
+"n": 65,
+"h": "40c9076f",
+"en_raw": "Can Sango and Nao"
+},
+{
+"n": 66,
+"h": "691254b0",
+"en_raw": "go walk Melos with me?"
+},
+{
+"n": 67,
+"h": "8e2d4ff5",
+"en_raw": "..............."
+},
+{
+"n": 68,
+"h": "c76451b5",
+"en_raw": "It's not moving, Minami"
+},
+{
+"n": 69,
+"h": "289fba08",
+"en_raw": "Giggle giggle..."
+},
+{
+"n": 70,
+"h": "62b14a2c",
+"en_raw": "Then should I"
+},
+{
+"n": 71,
+"h": "cd330671",
+"en_raw": "ask?"
+},
+{
+"n": 72,
+"h": "5745bc9c",
+"en_raw": "Go ahead / Again  Kurumi, okay"
+},
+{
+"n": 73,
+"h": "2f3ca97c",
+"en_raw": "Minami, you do it"
+},
+{
+"n": 74,
+"h": "6226c344",
+"en_raw": "Yeah, Minami, do it"
+},
+{
+"n": 75,
+"h": "2160a84b",
+"en_raw": "Then I'll ask"
+},
+{
+"n": 76,
+"h": "4a9340c1",
+"en_raw": "Does Kurumi"
+},
+{
+"n": 77,
+"h": "fd293651",
+"en_raw": "have someone she likes?"
+},
+{
+"n": 78,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 79,
+"h": "c76451b5",
+"en_raw": "It's not moving, Minami"
+},
+{
+"n": 80,
+"h": "3d17a65b",
+"en_raw": "Shh..."
+},
+{
+"n": 81,
+"h": "d844979c",
+"en_raw": "...Ah!"
+},
+{
+"n": 82,
+"h": "1b45bb37",
+"en_raw": "It moved!"
+},
+{
+"n": 83,
+"h": "93b7e732",
+"en_raw": "Um..."
+},
+{
+"n": 84,
+"h": "01a44802",
+"en_raw": "...Oh"
+},
+{
+"n": 85,
+"h": "07dcf504",
+"en_raw": "...ri"
+},
+{
+"n": 86,
+"h": "ff72f4a0",
+"en_raw": "Kurumi likes everyone!"
+},
+{
+"n": 87,
+"h": "c82a2163",
+"en_raw": "Kurumi, be quiet"
+},
+{
+"n": 88,
+"h": "c2a34b42",
+"en_raw": "...Will we be in the same class next year?"
+},
+{
+"n": 89,
+"h": "c99bc1d0",
+"en_raw": "...i"
+},
+{
+"n": 90,
+"h": "0f9c4d17",
+"en_raw": "...na"
+},
+{
+"n": 91,
+"h": "11083212",
+"en_raw": "Ah..."
+},
+{
+"n": 92,
+"h": "abccad93",
+"en_raw": "Kurumi, hush"
+},
+{
+"n": 93,
+"h": "f6f89647",
+"en_raw": "Will we be friends forever?"
+},
+{
+"n": 94,
+"h": "c99bc1d0",
+"en_raw": "...i"
+},
+{
+"n": 95,
+"h": "0f9c4d17",
+"en_raw": "...na"
+},
+{
+"n": 96,
+"h": "52516d1d",
+"en_raw": "Hey, Kurumi"
+},
+{
+"n": 97,
+"h": "06a12061",
+"en_raw": "Don't move it on your own!"
+},
+{
+"n": 98,
+"h": "b4f8da2b",
+"en_raw": "Kurumi didn't"
+},
+{
+"n": 99,
+"h": "df23b4ce",
+"en_raw": "I'll ask again, Fox Spirit"
+},
+{
+"n": 100,
+"h": "4caa8b93",
+"en_raw": "Can I stay together with"
+},
+{
+"n": 101,
+"h": "0881ae17",
+"en_raw": "Kurumi Shiina forever?"
+},
+{
+"n": 102,
+"h": "428a2d4f",
+"en_raw": "...wa"
+},
+{
+"n": 103,
+"h": "5bb6bf43",
+"en_raw": "...ka"
+},
+{
+"n": 104,
+"h": "8d515150",
+"en_raw": "...re"
+},
+{
+"n": 105,
+"h": "d0db108f",
+"en_raw": "...ru"
+},
+{
+"n": 106,
+"h": "4b964dcb",
+"en_raw": "Why!?"
+},
+{
+"n": 107,
+"h": "de8cd75f",
+"en_raw": "Fox Spirit!"
+},
+{
+"n": 108,
+"h": "2d49cd41",
+"en_raw": "Why won't you"
+},
+{
+"n": 109,
+"h": "79a290a6",
+"en_raw": "listen!"
+},
+{
+"n": 110,
+"h": "8e2d4ff5",
+"en_raw": "..............."
+},
+{
+"n": 111,
+"h": "80d74bf8",
+"en_raw": "Truthfully, this is all a lie"
+},
+{
+"n": 112,
+"h": "45246c08",
+"en_raw": "Sorry"
+},
+{
+"n": 113,
+"h": "2e78cc04",
+"en_raw": "I made you join a weird game"
+},
+{
+"n": 114,
+"h": "51ae52c7",
+"en_raw": "Let's stop this"
+},
+{
+"n": 115,
+"h": "f3ac176d",
+"en_raw": "No, you see, Minami"
+},
+{
+"n": 116,
+"h": "592a4ca7",
+"en_raw": "It's there, it's here"
+},
+{
+"n": 117,
+"h": "68856eb8",
+"en_raw": "Minami's fox possession..."
+},
+{
+"n": 118,
+"h": "d455087b",
+"en_raw": "...ta"
+},
+{
+"n": 119,
+"h": "c7c1ff3f",
+"en_raw": "...ma"
+},
+{
+"n": 120,
+"h": "9b898ac4",
+"en_raw": "...mu"
+},
+{
+"n": 121,
+"h": "e4667761",
+"en_raw": "...shi"
+},
+{
+"n": 122,
+"h": "89537148",
+"en_raw": "Liar!"
+},
+{
+"n": 123,
+"h": "67e250d4",
+"en_raw": "Kurumi, why?"
+},
+{
+"n": 124,
+"h": "fc0740f7",
+"en_raw": "...Do you hate me?"
+},
+{
+"n": 125,
+"h": "796c68cf",
+"en_raw": "Kurumi"
+},
+{
+"n": 126,
+"h": "11737af8",
+"en_raw": "Minami, we're friends"
+},
+{
+"n": 127,
+"h": "b4a39b0d",
+"en_raw": "Then why"
+},
+{
+"n": 128,
+"h": "6cadd14e",
+"en_raw": "You're lying!"
+},
+{
+"n": 129,
+"h": "f9087523",
+"en_raw": "...There's no way"
+},
+{
+"n": 130,
+"h": "61175021",
+"en_raw": "there's no fox possession"
+},
+{
+"n": 131,
+"h": "f2e9c3ae",
+"en_raw": "there's no way!"
+},
+{
+"n": 132,
+"h": "6167e9db",
+"en_raw": "Ah, it's gone..."
+},
+{
+"n": 133,
+"h": "b322035e",
+"en_raw": "Kurumi"
+},
+{
+"n": 134,
+"h": "c5d069df",
+"en_raw": "What I'm about to say is all lies"
+},
+{
+"n": 135,
+"h": "c61c00cc",
+"en_raw": "So please stay"
+},
+{
+"n": 136,
+"h": "f29dedce",
+"en_raw": "with me forever"
+},
+{
+"n": 137,
+"h": "6677278a",
+"en_raw": "Yeah"
+},
+{
+"n": 138,
+"h": "86e20758",
+"en_raw": "...You see, do you know jewel beetles?"
+},
+{
+"n": 139,
+"h": "b8825531",
+"en_raw": "...No"
+},
+{
+"n": 140,
+"h": "a307bfba",
+"en_raw": "This is how to tell special people"
+},
+{
+"n": 141,
+"h": "11020b7a",
+"en_raw": "You see"
+},
+{
+"n": 142,
+"h": "bcd55d44",
+"en_raw": "People with power all"
+},
+{
+"n": 143,
+"h": "b66d1231",
+"en_raw": "keep jewel beetles"
+},
+{
+"n": 144,
+"h": "52368757",
+"en_raw": "behind their pupils"
+},
+{
+"n": 145,
+"h": "7d1fe3d9",
+"en_raw": "My grandmother was"
+},
+{
+"n": 146,
+"h": "b4fe6afb",
+"en_raw": "like that"
+},
+{
+"n": 147,
+"h": "c31e1173",
+"en_raw": "and my mother too"
+},
+{
+"n": 148,
+"h": "90118960",
+"en_raw": "keeps a small one"
+},
+{
+"n": 149,
+"h": "bb9c0378",
+"en_raw": "...Weird, right"
+},
+{
+"n": 150,
+"h": "2de81ca7",
+"en_raw": "Really weird, right?"
+},
+{
+"n": 151,
+"h": "43fdda54",
+"en_raw": "My family believes"
+},
+{
+"n": 152,
+"h": "39f3a485",
+"en_raw": "in lies"
+},
+{
+"n": 153,
+"h": "026da1fb",
+"en_raw": "...But, but you see"
+},
+{
+"n": 154,
+"h": "564f3a75",
+"en_raw": "I saw it"
+},
+{
+"n": 155,
+"h": "419d35e1",
+"en_raw": "In Kurumi's eyes"
+},
+{
+"n": 156,
+"h": "b3c9e885",
+"en_raw": "a big jewel beetle"
+},
+{
+"n": 157,
+"h": "d0a9dd34",
+"en_raw": "Outside my home"
+},
+{
+"n": 158,
+"h": "12a1af15",
+"en_raw": "I'd never met"
+},
+{
+"n": 159,
+"h": "8456ca6e",
+"en_raw": "anyone like that"
+},
+{
+"n": 160,
+"h": "cba9e570",
+"en_raw": "Minami"
+},
+{
+"n": 161,
+"h": "63520cc6",
+"en_raw": "I've come to enjoy"
+},
+{
+"n": 162,
+"h": "02387c51",
+"en_raw": "coming to school"
+},
+{
+"n": 163,
+"h": "1739f5f0",
+"en_raw": "School is where"
+},
+{
+"n": 164,
+"h": "fdfefeb8",
+"en_raw": "I can meet Kurumi"
+},
+{
+"n": 165,
+"h": "993028eb",
+"en_raw": "But when I told Mom"
+},
+{
+"n": 166,
+"h": "1e54eef0",
+"en_raw": "she said never say such things"
+},
+{
+"n": 167,
+"h": "b139d3cf",
+"en_raw": "never play with you"
+},
+{
+"n": 168,
+"h": "b8af1fff",
+"en_raw": "that the truth is"
+},
+{
+"n": 169,
+"h": "d2abadbf",
+"en_raw": "a secret"
+},
+{
+"n": 170,
+"h": "efee6798",
+"en_raw": "My house has always been"
+},
+{
+"n": 171,
+"h": "dabcaaec",
+"en_raw": "like that"
+},
+{
+"n": 172,
+"h": "b6bb2d4a",
+"en_raw": "So I decided"
+},
+{
+"n": 173,
+"h": "30fbfcde",
+"en_raw": "I won't believe such things anymore!"
+},
+{
+"n": 174,
+"h": "5d67c0dd",
+"en_raw": "And yet..."
+},
+{
+"n": 175,
+"h": "0808e0d5",
+"en_raw": "And yet..."
+},
+{
+"n": 176,
+"h": "b48e17e8",
+"en_raw": "Minami-chan..."
+},
+{
+"n": 177,
+"h": "804c7ac5",
+"en_raw": "Go home... please go home!"
+},
+{
+"n": 178,
+"h": "fb035e38",
+"en_raw": "Kurumi doesn't understand"
+},
+{
+"n": 179,
+"h": "b48e17e8",
+"en_raw": "Minami-chan..."
+},
+{
+"n": 180,
+"h": "273ec483",
+"en_raw": "But listen"
+},
+{
+"n": 181,
+"h": "fd6bd381",
+"en_raw": "please, Kurumi..."
+},
+{
+"n": 182,
+"h": "273ec483",
+"en_raw": "But listen"
+},
+{
+"n": 183,
+"h": "fd6bd381",
+"en_raw": "please, Kurumi..."
+},
+{
+"n": 184,
+"h": "775793f3",
+"en_raw": "...The secret one!"
+},
+{
+"n": 185,
+"h": "3716bebe",
+"en_raw": "I understand now, Kurumi"
+},
+{
+"n": 186,
+"h": "c6275366",
+"en_raw": "You'll go somewhere"
+},
+{
+"n": 187,
+"h": "b8bfa6ca",
+"en_raw": "somewhere I can't go..."
+},
+{
+"n": 188,
+"h": "df1b97ea",
+"en_raw": "Kurumi won't go anywhere"
+},
+{
+"n": 189,
+"h": "399feea4",
+"en_raw": "...Liar!"
+},
+{
+"n": 190,
+"h": "c212149d",
+"en_raw": "...Go home, please go home!"
+}
+]
+}

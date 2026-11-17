@@ -1,0 +1,563 @@
+{
+"file": 241,
+"paths": [
+"d007/d010/f321"
+],
+"lines": [
+{
+"n": 0,
+"h": "fa7eba43",
+"en_raw": "...E-I~"
+},
+{
+"n": 1,
+"h": "05661cab",
+"en_raw": "E-I, O~"
+},
+{
+"n": 2,
+"h": "4ade2f18",
+"en_raw": "Green pasture!"
+},
+{
+"n": 3,
+"h": "368f239b",
+"en_raw": "Wrong, it's the Merry Pasture"
+},
+{
+"n": 4,
+"h": "8639080e",
+"en_raw": "Oh, Jelly"
+},
+{
+"n": 5,
+"h": "302ac458",
+"en_raw": "That's right, Cookie"
+},
+{
+"n": 6,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 7,
+"h": "ffcd599d",
+"en_raw": "Hey, what's E-I-O?"
+},
+{
+"n": 8,
+"h": "fbc1ff37",
+"en_raw": "Hey, Jelly"
+},
+{
+"n": 9,
+"h": "68810be3",
+"en_raw": "Should we ignore her?"
+},
+{
+"n": 10,
+"h": "051dcc21",
+"en_raw": "We should ignore her"
+},
+{
+"n": 11,
+"h": "e3700268",
+"en_raw": "Then let's ignore her"
+},
+{
+"n": 12,
+"h": "cb40a747",
+"en_raw": "Yeah, let's ignore her"
+},
+{
+"n": 13,
+"h": "e6b36ec0",
+"en_raw": "Hey hey, what are you doing?"
+},
+{
+"n": 14,
+"h": "c8e16e3f",
+"en_raw": "Spread butter..."
+},
+{
+"n": 15,
+"h": "67bfb448",
+"en_raw": "Add lettuce..."
+},
+{
+"n": 16,
+"h": "5552c888",
+"en_raw": "Add ham too..."
+},
+{
+"n": 17,
+"h": "9dd1a5d3",
+"en_raw": "Put it in the basket..."
+},
+{
+"n": 18,
+"h": "5717e6e6",
+"en_raw": "And then, and then, Cookie"
+},
+{
+"n": 19,
+"h": "1da8d925",
+"en_raw": "bring tea too..."
+},
+{
+"n": 20,
+"h": "9f654048",
+"en_raw": "Hey hey"
+},
+{
+"n": 21,
+"h": "db040bd4",
+"en_raw": "What's that about?"
+},
+{
+"n": 22,
+"h": "2017102d",
+"en_raw": "...Kurumi wants to join too"
+},
+{
+"n": 23,
+"h": "974a8018",
+"en_raw": "Hey, Jelly?"
+},
+{
+"n": 24,
+"h": "fe7978fc",
+"en_raw": "What is it, Cookie?"
+},
+{
+"n": 25,
+"h": "68810be3",
+"en_raw": "Should we ignore her?"
+},
+{
+"n": 26,
+"h": "051dcc21",
+"en_raw": "We should ignore her"
+},
+{
+"n": 27,
+"h": "974a8018",
+"en_raw": "Hey, Jelly?"
+},
+{
+"n": 28,
+"h": "fe7978fc",
+"en_raw": "What is it, Cookie?"
+},
+{
+"n": 29,
+"h": "912f39f7",
+"en_raw": "A weird girl came"
+},
+{
+"n": 30,
+"h": "1c286eba",
+"en_raw": "What do we do?"
+},
+{
+"n": 31,
+"h": "d79659ec",
+"en_raw": "Yeah, what do we do?"
+},
+{
+"n": 32,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 33,
+"h": "214e7bc3",
+"en_raw": "...Giraffe?"
+},
+{
+"n": 34,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 35,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 36,
+"h": "3cc6575a",
+"en_raw": "...Oh, I get it!"
+},
+{
+"n": 37,
+"h": "f33a25b4",
+"en_raw": "It's about food!"
+},
+{
+"n": 38,
+"h": "9c8b5417",
+"en_raw": "Jelly, Cookie, um"
+},
+{
+"n": 39,
+"h": "a68c3757",
+"en_raw": "...Tell me, secretly?"
+},
+{
+"n": 40,
+"h": "37520fde",
+"en_raw": "Kurumi doesn't get it"
+},
+{
+"n": 41,
+"h": "9c3b5b89",
+"en_raw": "Hey, go away!"
+},
+{
+"n": 42,
+"h": "0918fb52",
+"en_raw": "Go away!"
+},
+{
+"n": 43,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 44,
+"h": "6b558282",
+"en_raw": "...Koala?"
+},
+{
+"n": 45,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 46,
+"h": "4f358b5f",
+"en_raw": "...Cola?"
+},
+{
+"n": 47,
+"h": "675ef19a",
+"en_raw": "Something starting with Ko..."
+},
+{
+"n": 48,
+"h": "675ef19a",
+"en_raw": "Something starting with Ko..."
+},
+{
+"n": 49,
+"h": "939233d5",
+"en_raw": "It doesn't have to start with Ko"
+},
+{
+"n": 50,
+"h": "34adaf37",
+"en_raw": "Jelly, Jelly, Cookie, Cookie"
+},
+{
+"n": 51,
+"h": "34adaf37",
+"en_raw": "Jelly, Jelly, Cookie, Cookie"
+},
+{
+"n": 52,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 53,
+"h": "a32757fa",
+"en_raw": "...Match?"
+},
+{
+"n": 54,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 55,
+"h": "bbeb26b1",
+"en_raw": "...Cheese?"
+},
+{
+"n": 56,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 57,
+"h": "da5f6c49",
+"en_raw": "...Pez?"
+},
+{
+"n": 58,
+"h": "775a5822",
+"en_raw": "Pez, I'm Cookie"
+},
+{
+"n": 59,
+"h": "25add41f",
+"en_raw": "Nice to meet you"
+},
+{
+"n": 60,
+"h": "f7d409fe",
+"en_raw": "Pez, I'm Jelly"
+},
+{
+"n": 61,
+"h": "84228bce",
+"en_raw": "...Not Zelly"
+},
+{
+"n": 62,
+"h": "a538af34",
+"en_raw": "It's Jelly, okay?"
+},
+{
+"n": 63,
+"h": "7c3abe94",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 64,
+"h": "57da40d5",
+"en_raw": "Pez?"
+},
+{
+"n": 65,
+"h": "0774ffcc",
+"en_raw": "Yeah"
+},
+{
+"n": 66,
+"h": "5ba4bcbd",
+"en_raw": "...That's right"
+},
+{
+"n": 67,
+"h": "1136b586",
+"en_raw": "Nice to meet you, Pez"
+},
+{
+"n": 68,
+"h": "ea53bf7e",
+"en_raw": "Let's be friends, Pez"
+},
+{
+"n": 69,
+"h": "12020a72",
+"en_raw": "I'm here~"
+},
+{
+"n": 70,
+"h": "12acd094",
+"en_raw": "Ni hao, Pez"
+},
+{
+"n": 71,
+"h": "11fc0cb8",
+"en_raw": "Who am I?"
+},
+{
+"n": 72,
+"h": "4da30a76",
+"en_raw": "Um, you're Jelly-chan"
+},
+{
+"n": 73,
+"h": "b550a4bd",
+"en_raw": "Correct"
+},
+{
+"n": 74,
+"h": "ff3455df",
+"en_raw": "Amore, Pez"
+},
+{
+"n": 75,
+"h": "11fc0cb8",
+"en_raw": "Who am I?"
+},
+{
+"n": 76,
+"h": "4f026046",
+"en_raw": "You're Cookie-chan"
+},
+{
+"n": 77,
+"h": "b550a4bd",
+"en_raw": "Correct"
+},
+{
+"n": 78,
+"h": "3c9f2827",
+"en_raw": "We're best friends, right?"
+},
+{
+"n": 79,
+"h": "a058589a",
+"en_raw": "...Right?"
+},
+{
+"n": 80,
+"h": "2c7a30cf",
+"en_raw": "Yeah, best friends!"
+},
+{
+"n": 81,
+"h": "12020a72",
+"en_raw": "I'm here~"
+},
+{
+"n": 82,
+"h": "26de92e1",
+"en_raw": "Hey hey Pez"
+},
+{
+"n": 83,
+"h": "ea3702f6",
+"en_raw": "let's go play at Cookie's house sometime"
+},
+{
+"n": 84,
+"h": "74664aa0",
+"en_raw": "Come, come~"
+},
+{
+"n": 85,
+"h": "adcb59dc",
+"en_raw": "Cookie's house, you know"
+},
+{
+"n": 86,
+"h": "e5c666e2",
+"en_raw": "is super rich"
+},
+{
+"n": 87,
+"h": "fd9fac2d",
+"en_raw": "The ceilings in the rooms are so high"
+},
+{
+"n": 88,
+"h": "868f43bf",
+"en_raw": "there's a grand piano"
+},
+{
+"n": 89,
+"h": "e626589c",
+"en_raw": "and in the yard there are"
+},
+{
+"n": 90,
+"h": "2404fbf8",
+"en_raw": "three big white dogs"
+},
+{
+"n": 91,
+"h": "b26b3180",
+"en_raw": "So what do you do there?"
+},
+{
+"n": 92,
+"h": "73c3ec20",
+"en_raw": "Um..."
+},
+{
+"n": 93,
+"h": "f15e84af",
+"en_raw": "Bounce on the bed"
+},
+{
+"n": 94,
+"h": "6d9e0992",
+"en_raw": "play Flea Waltz"
+},
+{
+"n": 95,
+"h": "835d730c",
+"en_raw": "ride the swing in the yard"
+},
+{
+"n": 96,
+"h": "d40c0e15",
+"en_raw": "and then~"
+},
+{
+"n": 97,
+"h": "bee20e31",
+"en_raw": "And then, and then?"
+},
+{
+"n": 98,
+"h": "aea3f899",
+"en_raw": "Finally we play the Jinsen Game"
+},
+{
+"n": 99,
+"h": "9e3106b5",
+"en_raw": "...The Jinsen Game?"
+},
+{
+"n": 100,
+"h": "0774ffcc",
+"en_raw": "Yeah"
+},
+{
+"n": 101,
+"h": "6396d418",
+"en_raw": "Yes"
+},
+{
+"n": 102,
+"h": "78a32426",
+"en_raw": "Oh, sounds fun~"
+},
+{
+"n": 103,
+"h": "a8d81aba",
+"en_raw": "Right, isn't it great?"
+},
+{
+"n": 104,
+"h": "a7ebf24c",
+"en_raw": "Hmm~"
+},
+{
+"n": 105,
+"h": "8eb93880",
+"en_raw": "Kurumi wants to go, but~"
+},
+{
+"n": 106,
+"h": "c26b2730",
+"en_raw": "Huh, you can't, Pez?"
+},
+{
+"n": 107,
+"h": "fd5510f6",
+"en_raw": "Sorry, Jelly-chan"
+},
+{
+"n": 108,
+"h": "8db4856e",
+"en_raw": "I have to walk Melos"
+},
+{
+"n": 109,
+"h": "4b5f2fbb",
+"en_raw": "Let's definitely go next time"
+},
+{
+"n": 110,
+"h": "01fcf007",
+"en_raw": "Please definitely come"
+}
+]
+}

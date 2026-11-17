@@ -1,0 +1,368 @@
+{
+"file": 948,
+"paths": [
+"d008/d107/f018"
+],
+"lines": [
+{
+"n": 0,
+"h": "a2a3cc8a",
+"en_raw": "Room 201..."
+},
+{
+"n": 1,
+"h": "179f9fe3",
+"en_raw": "Room 202..."
+},
+{
+"n": 2,
+"h": "16804948",
+"en_raw": "Room 203..."
+},
+{
+"n": 3,
+"h": "fb0c81d0",
+"en_raw": "This one's Room 205..."
+},
+{
+"n": 4,
+"h": "f5710520",
+"en_raw": "Need something from my room?"
+},
+{
+"n": 5,
+"h": "0bce6ee0",
+"en_raw": "Room 204... this is it"
+},
+{
+"n": 6,
+"h": "d186c5d7",
+"en_raw": "Shall I press the chime..."
+},
+{
+"n": 7,
+"h": "b123c7c9",
+"en_raw": "Press / Scary...  Nobody seems to be in..."
+},
+{
+"n": 8,
+"h": "7abdea3b",
+"en_raw": "Do it again / Stop  Hmm..."
+},
+{
+"n": 9,
+"h": "b11b594f",
+"en_raw": "Just one more time..."
+},
+{
+"n": 10,
+"h": "808f51a8",
+"en_raw": "Press / Pushy, huh  Need something next door?"
+},
+{
+"n": 11,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 12,
+"h": "ff5dc344",
+"en_raw": "What's your relationship"
+},
+{
+"n": 13,
+"h": "7482ce21",
+"en_raw": "with the guy next door?"
+},
+{
+"n": 14,
+"h": "91c0abb2",
+"en_raw": "Oh, no, um..."
+},
+{
+"n": 15,
+"h": "a19189e7",
+"en_raw": "Sorry"
+},
+{
+"n": 16,
+"h": "9c5d315f",
+"en_raw": "Somehow, in this world"
+},
+{
+"n": 17,
+"h": "f8f9a1cf",
+"en_raw": "everything is becoming suspicious"
+},
+{
+"n": 18,
+"h": "9e50f835",
+"en_raw": "Maybe it's the lack of sleep..."
+},
+{
+"n": 19,
+"h": "b800c9c4",
+"en_raw": "Shall I press the chime...?"
+},
+{
+"n": 20,
+"h": "7508d1c4",
+"en_raw": "Press / Stop  Nobody's here after all..."
+},
+{
+"n": 21,
+"h": "3f71258c",
+"en_raw": "Maybe I'll try once more"
+},
+{
+"n": 22,
+"h": "cd511030",
+"en_raw": "Do it again / Stop  Hmm..."
+},
+{
+"n": 23,
+"h": "5a15462c",
+"en_raw": "Try once more?"
+},
+{
+"n": 24,
+"h": "399ebe51",
+"en_raw": "Do it again / Stop  Is that guy in..."
+},
+{
+"n": 25,
+"h": "ea6ab400",
+"en_raw": "Try calling out...?"
+},
+{
+"n": 26,
+"h": "15d6ad89",
+"en_raw": "Try / Can't  Room 205, Yumoto..."
+},
+{
+"n": 27,
+"h": "f04a42d3",
+"en_raw": "This must be it"
+},
+{
+"n": 28,
+"h": "bbea2353",
+"en_raw": "...Can I fake it well?"
+},
+{
+"n": 29,
+"h": "ea6ab400",
+"en_raw": "Try calling out...?"
+},
+{
+"n": 30,
+"h": "bad63042",
+"en_raw": "Try / Can't  ...I'm not confident I can talk well"
+},
+{
+"n": 31,
+"h": "9eb65934",
+"en_raw": "in talking well..."
+},
+{
+"n": 32,
+"h": "5b6bb394",
+"en_raw": "This kind of thing..."
+},
+{
+"n": 33,
+"h": "12a1ea43",
+"en_raw": "is Sango's kind of job"
+},
+{
+"n": 34,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 35,
+"h": "6396cbe3",
+"en_raw": "Huh, out...?"
+},
+{
+"n": 36,
+"h": "5bbc43cd",
+"en_raw": "Shall we wait?"
+},
+{
+"n": 37,
+"h": "3aa3d2d9",
+"en_raw": "Wait / Look around  Nobody seems to be here..."
+},
+{
+"n": 38,
+"h": "a7ec266f",
+"en_raw": "Shall we wait a bit"
+},
+{
+"n": 39,
+"h": "bfd9974d",
+"en_raw": "...He's not coming"
+},
+{
+"n": 40,
+"h": "8f8d9586",
+"en_raw": "Hmm..."
+},
+{
+"n": 41,
+"h": "57ec16d2",
+"en_raw": "Wait longer / Look around  No point staying here"
+},
+{
+"n": 42,
+"h": "8c062349",
+"en_raw": "when he's not in"
+},
+{
+"n": 43,
+"h": "b2f5009f",
+"en_raw": "Let's look around the neighborhood"
+},
+{
+"n": 44,
+"h": "6989dc70",
+"en_raw": "...Let's wait a bit more"
+},
+{
+"n": 45,
+"h": "1d44f592",
+"en_raw": "He'll surely come back"
+},
+{
+"n": 46,
+"h": "6e088b85",
+"en_raw": "...He's not coming"
+},
+{
+"n": 47,
+"h": "59eae8dc",
+"en_raw": "....."
+},
+{
+"n": 48,
+"h": "5bb7516f",
+"en_raw": "Wait / Look around  Even if I find him, I'm not"
+},
+{
+"n": 49,
+"h": "331d6882",
+"en_raw": "confident I can talk well..."
+},
+{
+"n": 50,
+"h": "b800c9c4",
+"en_raw": "Shall I press the chime...?"
+},
+{
+"n": 51,
+"h": "7508d1c4",
+"en_raw": "Press / Stop  Nobody's here after all..."
+},
+{
+"n": 52,
+"h": "3f71258c",
+"en_raw": "Maybe I'll try once more"
+},
+{
+"n": 53,
+"h": "cd511030",
+"en_raw": "Do it again / Stop  Hmm..."
+},
+{
+"n": 54,
+"h": "5a15462c",
+"en_raw": "Try once more?"
+},
+{
+"n": 55,
+"h": "dc39cc87",
+"en_raw": "Do it again / Stop  Something next door..."
+},
+{
+"n": 56,
+"h": "f06bfbe7",
+"en_raw": "Oh, it's you kids"
+},
+{
+"n": 57,
+"h": "f572dd10",
+"en_raw": "Oh, hello..."
+},
+{
+"n": 58,
+"h": "ad8a3234",
+"en_raw": "Wasn't there nothing?"
+},
+{
+"n": 59,
+"h": "b68d23a2",
+"en_raw": "Ah, yes..."
+},
+{
+"n": 60,
+"h": "53185f05",
+"en_raw": "That's right, but..."
+},
+{
+"n": 61,
+"h": "3188106f",
+"en_raw": "Is there something bothering you?"
+},
+{
+"n": 62,
+"h": "eaa183e6",
+"en_raw": "Ah, yes."
+},
+{
+"n": 63,
+"h": "4ffbb210",
+"en_raw": "Okay, go check again"
+},
+{
+"n": 64,
+"h": "2bc36cf0",
+"en_raw": "Need something from my room?"
+},
+{
+"n": 65,
+"h": "d495e8a5",
+"en_raw": "Ask him once more?"
+},
+{
+"n": 66,
+"h": "9d0cbb97",
+"en_raw": "Ask / Don't  Okay..."
+},
+{
+"n": 67,
+"h": "0e87675e",
+"en_raw": "Excuse me"
+},
+{
+"n": 68,
+"h": "db33f24e",
+"en_raw": "About the thing from before..."
+},
+{
+"n": 69,
+"h": "f85f2b5e",
+"en_raw": "I'd like to check"
+},
+{
+"n": 70,
+"h": "7839bab9",
+"en_raw": "next door again..."
+},
+{
+"n": 71,
+"h": "93fd5591",
+"en_raw": "Sure, wait a moment..."
+}
+]
+}

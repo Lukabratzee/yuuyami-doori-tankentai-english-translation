@@ -1,0 +1,643 @@
+{
+"file": 38,
+"paths": [
+"d002/f655"
+],
+"lines": [
+{
+"n": 0,
+"h": "058bcc43",
+"en_raw": "A couple whose parents opposed their marriage"
+},
+{
+"n": 1,
+"h": "1d82ec2b",
+"en_raw": "jumps off Takadai Street"
+},
+{
+"n": 2,
+"h": "da9de04a",
+"en_raw": "The last thing remembered"
+},
+{
+"n": 3,
+"h": "df315035",
+"en_raw": "is the juice they shared"
+},
+{
+"n": 4,
+"h": "fa651913",
+"en_raw": "just before the suicide"
+},
+{
+"n": 5,
+"h": "c6f55eef",
+"en_raw": "So that vending machine"
+},
+{
+"n": 6,
+"h": "53f2185e",
+"en_raw": "is cursed, you see"
+},
+{
+"n": 7,
+"h": "15bc11b1",
+"en_raw": "...How's that?"
+},
+{
+"n": 8,
+"h": "b35034f0",
+"en_raw": "How's what, what do you mean?"
+},
+{
+"n": 9,
+"h": "9ce52f16",
+"en_raw": "I mean, did it get"
+},
+{
+"n": 10,
+"h": "92ae8356",
+"en_raw": "a little scary?"
+},
+{
+"n": 11,
+"h": "eb301a2c",
+"en_raw": "It's not really a scary story"
+},
+{
+"n": 12,
+"h": "044e614e",
+"en_raw": "And honestly, that"
+},
+{
+"n": 13,
+"h": "c7e8a1c3",
+"en_raw": "doesn't matter"
+},
+{
+"n": 14,
+"h": "4b5512e6",
+"en_raw": "Where did you get"
+},
+{
+"n": 15,
+"h": "a44623b0",
+"en_raw": "that dumb-sounding rumor?"
+},
+{
+"n": 16,
+"h": "825e42f8",
+"en_raw": "Where from?"
+},
+{
+"n": 17,
+"h": "3cbdde96",
+"en_raw": "I mean, which Yuasa"
+},
+{
+"n": 18,
+"h": "c922db8d",
+"en_raw": "did you hear it from"
+},
+{
+"n": 19,
+"h": "ca423fcc",
+"en_raw": "It wasn't Yuasa"
+},
+{
+"n": 20,
+"h": "fef02d6d",
+"en_raw": "I heard it from... Nishi"
+},
+{
+"n": 21,
+"h": "fac75b34",
+"en_raw": "Takayuki Nishi?!"
+},
+{
+"n": 22,
+"h": "32edbd50",
+"en_raw": "Wait a sec, hey"
+},
+{
+"n": 23,
+"h": "43d32142",
+"en_raw": "Takayuki Nishi, as in"
+},
+{
+"n": 24,
+"h": "de27cd3e",
+"en_raw": "the one I know"
+},
+{
+"n": 25,
+"h": "bf99acd3",
+"en_raw": "top grades, great at sports"
+},
+{
+"n": 26,
+"h": "bb9fe157",
+"en_raw": "super popular..."
+},
+{
+"n": 27,
+"h": "8385884e",
+"en_raw": "That Takayuki Nishi, right?"
+},
+{
+"n": 28,
+"h": "524fc0f0",
+"en_raw": "Yes"
+},
+{
+"n": 29,
+"h": "02598ab8",
+"en_raw": "Hmm... all right"
+},
+{
+"n": 30,
+"h": "8a87a90c",
+"en_raw": "Today it's the vending machine on Takadai Street"
+},
+{
+"n": 31,
+"h": "6a49cab6",
+"en_raw": "What, all of a sudden?"
+},
+{
+"n": 32,
+"h": "0562420c",
+"en_raw": "The source of a rumor"
+},
+{
+"n": 33,
+"h": "7e6314f7",
+"en_raw": "is that important"
+},
+{
+"n": 34,
+"h": "78d3077b",
+"en_raw": "...Get it?"
+},
+{
+"n": 35,
+"h": "ff6a7977",
+"en_raw": "When it's Takayuki Nishi's story"
+},
+{
+"n": 36,
+"h": "a90f5e75",
+"en_raw": "credibility goes up 200%!"
+},
+{
+"n": 37,
+"h": "45dacd17",
+"en_raw": "And if, hypothetically"
+},
+{
+"n": 38,
+"h": "a82349f3",
+"en_raw": "nothing happens"
+},
+{
+"n": 39,
+"h": "36ac0d14",
+"en_raw": "I feel like I'll find"
+},
+{
+"n": 40,
+"h": "490b413b",
+"en_raw": "that guy's weak point"
+},
+{
+"n": 41,
+"h": "8ad8194f",
+"en_raw": "It's not such a big deal"
+},
+{
+"n": 42,
+"h": "650b4163",
+"en_raw": "Anyway, let's go to Takadai Street"
+},
+{
+"n": 43,
+"h": "415a3f3d",
+"en_raw": "Hey, Kurumi Shiina"
+},
+{
+"n": 44,
+"h": "6faa7a3c",
+"en_raw": "Yeees?"
+},
+{
+"n": 45,
+"h": "a3cb0aae",
+"en_raw": "About that juice!"
+},
+{
+"n": 46,
+"h": "9f17d334",
+"en_raw": "Why did you drink it all"
+},
+{
+"n": 47,
+"h": "8af18b23",
+"en_raw": "by yourself?"
+},
+{
+"n": 48,
+"h": "5c867a11",
+"en_raw": "Because it was tasty"
+},
+{
+"n": 49,
+"h": "dc3850cd",
+"en_raw": "'Tasty' alone"
+},
+{
+"n": 50,
+"h": "94095342",
+"en_raw": "doesn't tell us what's mysterious"
+},
+{
+"n": 51,
+"h": "f6f8f953",
+"en_raw": "about the juice at all"
+},
+{
+"n": 52,
+"h": "98ea67e9",
+"en_raw": "But it was tasty"
+},
+{
+"n": 53,
+"h": "1e13c353",
+"en_raw": "So how, exactly?"
+},
+{
+"n": 54,
+"h": "2d8ced48",
+"en_raw": "Like the world turning rainbow"
+},
+{
+"n": 55,
+"h": "2c7e5cfd",
+"en_raw": "time feeling strangely slow"
+},
+{
+"n": 56,
+"h": "4c33e71f",
+"en_raw": "getting abnormally hooked..."
+},
+{
+"n": 57,
+"h": "947a53ba",
+"en_raw": "Um, well"
+},
+{
+"n": 58,
+"h": "3d310b66",
+"en_raw": "it was a squirmy kind of tasty"
+},
+{
+"n": 59,
+"h": "b3e204d6",
+"en_raw": "Tch, I should've been the one to drink it"
+},
+{
+"n": 60,
+"h": "2f17cd07",
+"en_raw": "Then let's go"
+},
+{
+"n": 61,
+"h": "cd250576",
+"en_raw": "to the vending machine again"
+},
+{
+"n": 62,
+"h": "c78d4a77",
+"en_raw": "This time for sure"
+},
+{
+"n": 63,
+"h": "9b30765e",
+"en_raw": "I'll try drinking it"
+},
+{
+"n": 64,
+"h": "2df85d2c",
+"en_raw": "Secret trick! Secret trick!"
+},
+{
+"n": 65,
+"h": "04db4f55",
+"en_raw": "Hey, Sango"
+},
+{
+"n": 66,
+"h": "44c226fd",
+"en_raw": "Let's go buy"
+},
+{
+"n": 67,
+"h": "ba9bd2cc",
+"en_raw": "that juice again today!"
+},
+{
+"n": 68,
+"h": "4ffe666f",
+"en_raw": "...Shiina, you"
+},
+{
+"n": 69,
+"h": "27d4489c",
+"en_raw": "can chug down something"
+},
+{
+"n": 70,
+"h": "1e714f11",
+"en_raw": "someone else drank from"
+},
+{
+"n": 71,
+"h": "2e9579b7",
+"en_raw": "It was tasty"
+},
+{
+"n": 72,
+"h": "8809f3b1",
+"en_raw": "Nao's juice"
+},
+{
+"n": 73,
+"h": "d64a98e8",
+"en_raw": "I don't mind either"
+},
+{
+"n": 74,
+"h": "202e079a",
+"en_raw": "It didn't taste special to me"
+},
+{
+"n": 75,
+"h": "54948d02",
+"en_raw": "That's not what I'm"
+},
+{
+"n": 76,
+"h": "9e9cc5cd",
+"en_raw": "talking about"
+},
+{
+"n": 77,
+"h": "d3986b11",
+"en_raw": "Shiina is, how to put it"
+},
+{
+"n": 78,
+"h": "9071d549",
+"en_raw": "too defenseless"
+},
+{
+"n": 79,
+"h": "2bf0bfbe",
+"en_raw": "Why is drinking my juice"
+},
+{
+"n": 80,
+"h": "b866aa8b",
+"en_raw": "defenseless?"
+},
+{
+"n": 81,
+"h": "831fc79f",
+"en_raw": "Even if there were poison"
+},
+{
+"n": 82,
+"h": "5bbd1494",
+"en_raw": "it's safe, right?"
+},
+{
+"n": 83,
+"h": "9240d213",
+"en_raw": "Because I drank first"
+},
+{
+"n": 84,
+"h": "9825a71f",
+"en_raw": "That's why!"
+},
+{
+"n": 85,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 86,
+"h": "d6fc2c89",
+"en_raw": "Then we can't verify"
+},
+{
+"n": 87,
+"h": "07beab25",
+"en_raw": "what's mysterious about it at all"
+},
+{
+"n": 88,
+"h": "a580a4fb",
+"en_raw": "Then we should just"
+},
+{
+"n": 89,
+"h": "3ab1422d",
+"en_raw": "go buy it again"
+},
+{
+"n": 90,
+"h": "c78d4a77",
+"en_raw": "This time for sure"
+},
+{
+"n": 91,
+"h": "9b30765e",
+"en_raw": "I'll try drinking it"
+},
+{
+"n": 92,
+"h": "2df85d2c",
+"en_raw": "Secret trick! Secret trick!"
+},
+{
+"n": 93,
+"h": "8178a5b7",
+"en_raw": "I looked up the vulture-logo"
+},
+{
+"n": 94,
+"h": "42ac6012",
+"en_raw": "Yamakagashi Pharmaceutical"
+},
+{
+"n": 95,
+"h": "91f0f849",
+"en_raw": "and that company"
+},
+{
+"n": 96,
+"h": "52c049a5",
+"en_raw": "went bankrupt 18 years ago"
+},
+{
+"n": 97,
+"h": "0e37fc48",
+"en_raw": "...So that was"
+},
+{
+"n": 98,
+"h": "bc481ce2",
+"en_raw": "18-year-old juice?"
+},
+{
+"n": 99,
+"h": "bbc8a6d0",
+"en_raw": "Eighteen-year-old juice?"
+},
+{
+"n": 100,
+"h": "0ff24ec9",
+"en_raw": "Right..."
+},
+{
+"n": 101,
+"h": "0467ce92",
+"en_raw": "The unidentifiable liquid"
+},
+{
+"n": 102,
+"h": "97c3e10f",
+"en_raw": "left behind by that bankrupt company"
+},
+{
+"n": 103,
+"h": "5d354a40",
+"en_raw": "matured in the can"
+},
+{
+"n": 104,
+"h": "b8dcba66",
+"en_raw": "and became a mysterious life form..."
+},
+{
+"n": 105,
+"h": "1bfc0e21",
+"en_raw": "...Blech"
+},
+{
+"n": 106,
+"h": "81b822e5",
+"en_raw": "...Ugh"
+},
+{
+"n": 107,
+"h": "c11245a8",
+"en_raw": "Vending machines are so familiar"
+},
+{
+"n": 108,
+"h": "795fd092",
+"en_raw": "but honestly"
+},
+{
+"n": 109,
+"h": "3b39fd9d",
+"en_raw": "they're black boxes"
+},
+{
+"n": 110,
+"h": "8f0ef26e",
+"en_raw": "Yeah..."
+},
+{
+"n": 111,
+"h": "d3e6368a",
+"en_raw": "But more than that, why"
+},
+{
+"n": 112,
+"h": "b81a7b26",
+"en_raw": "did Nishi know"
+},
+{
+"n": 113,
+"h": "b1e3690c",
+"en_raw": "this rumor?"
+},
+{
+"n": 114,
+"h": "97143844",
+"en_raw": "Somehow, I think Nishi is..."
+},
+{
+"n": 115,
+"h": "6d74bf43",
+"en_raw": "...the real black box"
+},
+{
+"n": 116,
+"h": "c8b53666",
+"en_raw": "Solved the rumor of the Secret Trick"
+},
+{
+"n": 117,
+"h": "c8152b06",
+"en_raw": "After that"
+},
+{
+"n": 118,
+"h": "835b2564",
+"en_raw": "I asked Nishi again"
+},
+{
+"n": 119,
+"h": "bacae084",
+"en_raw": "about the vending machine"
+},
+{
+"n": 120,
+"h": "99d74503",
+"en_raw": "secret trick"
+},
+{
+"n": 121,
+"h": "47d84bc2",
+"en_raw": "But what do you think"
+},
+{
+"n": 122,
+"h": "74e2c385",
+"en_raw": "Nishi said?"
+},
+{
+"n": 123,
+"h": "9d8eecac",
+"en_raw": "...I don't remember saying that"
+},
+{
+"n": 124,
+"h": "2f8311cd",
+"en_raw": "he said!"
+},
+{
+"n": 125,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 126,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

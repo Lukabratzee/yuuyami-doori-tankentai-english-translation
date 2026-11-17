@@ -1,0 +1,368 @@
+{
+"file": 832,
+"paths": [
+"d008/d074/f016"
+],
+"lines": [
+{
+"n": 0,
+"h": "1dd1b48d",
+"en_raw": "Me-e-los, no!"
+},
+{
+"n": 1,
+"h": "f526052d",
+"en_raw": "Oh, oh"
+},
+{
+"n": 2,
+"h": "5e5e9c68",
+"en_raw": "You've made a fine decision"
+},
+{
+"n": 3,
+"h": "91b904d8",
+"en_raw": "Princess Bon"
+},
+{
+"n": 4,
+"h": "ead34963",
+"en_raw": "Thanks also to everyone else for seeing us off"
+},
+{
+"n": 5,
+"h": "8966fdc1",
+"en_raw": "It'll be here shortly,"
+},
+{
+"n": 6,
+"h": "130d9cf5",
+"en_raw": "so please wait"
+},
+{
+"n": 7,
+"h": "05e40b35",
+"en_raw": "Hey hey, mister?"
+},
+{
+"n": 8,
+"h": "f55968ef",
+"en_raw": "Oh..."
+},
+{
+"n": 9,
+"h": "0859b3d3",
+"en_raw": "There seems to be some trouble with the orbit"
+},
+{
+"n": 10,
+"h": "e4b74f9e",
+"en_raw": "Wait a little longer..."
+},
+{
+"n": 11,
+"h": "05e40b35",
+"en_raw": "Hey hey, mister?"
+},
+{
+"n": 12,
+"h": "24faccd8",
+"en_raw": "Not yet?"
+},
+{
+"n": 13,
+"h": "f55968ef",
+"en_raw": "Oh..."
+},
+{
+"n": 14,
+"h": "9834cbd4",
+"en_raw": "Trouble seems to have occurred"
+},
+{
+"n": 15,
+"h": "71a5cc9d",
+"en_raw": "with the landing gear"
+},
+{
+"n": 16,
+"h": "e4b74f9e",
+"en_raw": "Wait a little longer..."
+},
+{
+"n": 17,
+"h": "05e40b35",
+"en_raw": "Hey hey, mister?"
+},
+{
+"n": 18,
+"h": "24faccd8",
+"en_raw": "Not yet?"
+},
+{
+"n": 19,
+"h": "8d7dc7e4",
+"en_raw": "Ah, ah... no!"
+},
+{
+"n": 20,
+"h": "d20e1384",
+"en_raw": "The US military investigation agency"
+},
+{
+"n": 21,
+"h": "142f2faf",
+"en_raw": "is already at the landing point!"
+},
+{
+"n": 22,
+"h": "0b1e07fe",
+"en_raw": "Change the point... roger"
+},
+{
+"n": 23,
+"h": "e4b74f9e",
+"en_raw": "Wait a little longer..."
+},
+{
+"n": 24,
+"h": "b5cbbff3",
+"en_raw": "Mister, Kurumi's going home"
+},
+{
+"n": 25,
+"h": "68607162",
+"en_raw": "The atmospheric entry route"
+},
+{
+"n": 26,
+"h": "e5d44317",
+"en_raw": "shifted by 0.1 due to a bug"
+},
+{
+"n": 27,
+"h": "472b6908",
+"en_raw": "Arrival 2000 km past the plan"
+},
+{
+"n": 28,
+"h": "ba9e2515",
+"en_raw": "...Roger"
+},
+{
+"n": 29,
+"h": "654f4daf",
+"en_raw": "Wait a little longer..."
+},
+{
+"n": 30,
+"h": "c5734c98",
+"en_raw": "Mister!!!"
+},
+{
+"n": 31,
+"h": "5ad49ef0",
+"en_raw": "Word from Quasar"
+},
+{
+"n": 32,
+"h": "bd1f83d3",
+"en_raw": "Some problems with the Earth landing approval"
+},
+{
+"n": 33,
+"h": "dbdcacfc",
+"en_raw": "Return to orbit for now...?"
+},
+{
+"n": 34,
+"h": "99e30820",
+"en_raw": "That's bureaucracy for you..."
+},
+{
+"n": 35,
+"h": "e4b74f9e",
+"en_raw": "Wait a little longer..."
+},
+{
+"n": 36,
+"h": "c5734c98",
+"en_raw": "Mister!!!"
+},
+{
+"n": 37,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 38,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 39,
+"h": "d2d694ba",
+"en_raw": "It's not coming"
+},
+{
+"n": 40,
+"h": "76b67ede",
+"en_raw": "No way..."
+},
+{
+"n": 41,
+"h": "b957e087",
+"en_raw": "That the rescue craft would abandon us"
+},
+{
+"n": 42,
+"h": "2dbd118a",
+"en_raw": "Mister, were you abandoned?"
+},
+{
+"n": 43,
+"h": "cba47113",
+"en_raw": "Ah, ah, I see, I understand"
+},
+{
+"n": 44,
+"h": "cd8629ce",
+"en_raw": "Comrades of Kapras racing the galaxy"
+},
+{
+"n": 45,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 46,
+"h": "af02617c",
+"en_raw": "Ah, ah, yes indeed"
+},
+{
+"n": 47,
+"h": "a727e440",
+"en_raw": "This is a trial..."
+},
+{
+"n": 48,
+"h": "df424d54",
+"en_raw": "It means I should stay with the Princess"
+},
+{
+"n": 49,
+"h": "6b2f8544",
+"en_raw": "There's still hope on this planet, it says"
+},
+{
+"n": 50,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 51,
+"h": "9b48b38c",
+"en_raw": "Princess"
+},
+{
+"n": 52,
+"h": "fe6f70f1",
+"en_raw": "I'm not a princess, I'm Kurumi"
+},
+{
+"n": 53,
+"h": "fbc761d6",
+"en_raw": "That's right"
+},
+{
+"n": 54,
+"h": "d18ed1c7",
+"en_raw": "It isn't decided that we've lost"
+},
+{
+"n": 55,
+"h": "e691ffbb",
+"en_raw": "A battle is never lost"
+},
+{
+"n": 56,
+"h": "b2505c8a",
+"en_raw": "unless you throw it away"
+},
+{
+"n": 57,
+"h": "fce056a8",
+"en_raw": "And probably"
+},
+{
+"n": 58,
+"h": "76abc377",
+"en_raw": "Earthlings will notice someday"
+},
+{
+"n": 59,
+"h": "9b48b38c",
+"en_raw": "Princess"
+},
+{
+"n": 60,
+"h": "5a9e188b",
+"en_raw": "Your wish for me to be here"
+},
+{
+"n": 61,
+"h": "3eedfff5",
+"en_raw": "is the proof"
+},
+{
+"n": 62,
+"h": "af031fd4",
+"en_raw": "Hmm..."
+},
+{
+"n": 63,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 64,
+"h": "9e5ee25b",
+"en_raw": "Mister, what's wrong?"
+},
+{
+"n": 65,
+"h": "0a21f355",
+"en_raw": "...My stomach growled"
+},
+{
+"n": 66,
+"h": "cfcd3cd1",
+"en_raw": "Let's call it a day"
+},
+{
+"n": 67,
+"h": "19d1998a",
+"en_raw": "Until again, somewhere!"
+},
+{
+"n": 68,
+"h": "0b85e066",
+"en_raw": "...What was that about"
+},
+{
+"n": 69,
+"h": "1f053bf2",
+"en_raw": "Princess, please wait a little longer"
+},
+{
+"n": 70,
+"h": "09fd9fb3",
+"en_raw": "Soon..."
+},
+{
+"n": 71,
+"h": "c9683788",
+"en_raw": "The rescue craft will arrive soon!"
+}
+]
+}

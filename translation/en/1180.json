@@ -1,0 +1,298 @@
+{
+"file": 1180,
+"paths": [
+"d010/d001/f019"
+],
+"lines": [
+{
+"n": 0,
+"h": "263d1f92",
+"en_raw": "Hey hey, stranger?"
+},
+{
+"n": 1,
+"h": "07260cc6",
+"en_raw": "Which way should I go?"
+},
+{
+"n": 2,
+"h": "cbaae390",
+"en_raw": "Which way do you want to go?"
+},
+{
+"n": 3,
+"h": "9c6b5613",
+"en_raw": "Huh?!"
+},
+{
+"n": 4,
+"h": "24f85291",
+"en_raw": "I guess"
+},
+{
+"n": 5,
+"h": "df49b968",
+"en_raw": "Hmm, um"
+},
+{
+"n": 6,
+"h": "3b0d1b39",
+"en_raw": "Kurumi doesn't know"
+},
+{
+"n": 7,
+"h": "751db3b9",
+"en_raw": "If you go on like this..."
+},
+{
+"n": 8,
+"h": "2c72840e",
+"en_raw": "If this continues..."
+},
+{
+"n": 9,
+"h": "fdcb082d",
+"en_raw": "If this continues?"
+},
+{
+"n": 10,
+"h": "9ff06edc",
+"en_raw": "...you'll die"
+},
+{
+"n": 11,
+"h": "6acd1e0d",
+"en_raw": "Ahaha, die?"
+},
+{
+"n": 12,
+"h": "02a7d03f",
+"en_raw": "Yes, you'll die"
+},
+{
+"n": 13,
+"h": "8c09d579",
+"en_raw": "Hey, let's play, hat sister"
+},
+{
+"n": 14,
+"h": "46186c5a",
+"en_raw": "Play with me"
+},
+{
+"n": 15,
+"h": "fe4d16a9",
+"en_raw": "Let's play tag"
+},
+{
+"n": 16,
+"h": "09195fc4",
+"en_raw": "Play / Don't  Huh, stranger, where?"
+},
+{
+"n": 17,
+"h": "1e1e8173",
+"en_raw": "Kurumi hates tag"
+},
+{
+"n": 18,
+"h": "d98da645",
+"en_raw": "Everyone leaves her behind"
+},
+{
+"n": 19,
+"h": "96b55730",
+"en_raw": "...Then shall we play hide-and-seek?"
+},
+{
+"n": 20,
+"h": "03618143",
+"en_raw": "Sis is it"
+},
+{
+"n": 21,
+"h": "09195fc4",
+"en_raw": "Play / Don't  Huh, stranger, where?"
+},
+{
+"n": 22,
+"h": "4ef91544",
+"en_raw": "No, Kurumi doesn't know this place"
+},
+{
+"n": 23,
+"h": "b923913a",
+"en_raw": "Strangers have the advantage"
+},
+{
+"n": 24,
+"h": "9aa62ae4",
+"en_raw": "...Then what shall we play?"
+},
+{
+"n": 25,
+"h": "e43484f1",
+"en_raw": "Show me the stranger's"
+},
+{
+"n": 26,
+"h": "5bc758f6",
+"en_raw": "drawing!"
+},
+{
+"n": 27,
+"h": "3967ca68",
+"en_raw": "What's that?"
+},
+{
+"n": 28,
+"h": "52abea72",
+"en_raw": "A crow"
+},
+{
+"n": 29,
+"h": "45b0b54b",
+"en_raw": "That's not a crow"
+},
+{
+"n": 30,
+"h": "f617aa51",
+"en_raw": "Kurumi knows crows"
+},
+{
+"n": 31,
+"h": "f2d282dd",
+"en_raw": "A crow goes"
+},
+{
+"n": 32,
+"h": "20add7a2",
+"en_raw": "...Lend me chalk..."
+},
+{
+"n": 33,
+"h": "def5fb20",
+"en_raw": "Like this, caw caw!"
+},
+{
+"n": 34,
+"h": "4b18686a",
+"en_raw": "Giggle, giggle"
+},
+{
+"n": 35,
+"h": "ea8e1550",
+"en_raw": "Hat sister is funny"
+},
+{
+"n": 36,
+"h": "bfbf27b3",
+"en_raw": "Then I'll forgive you today"
+},
+{
+"n": 37,
+"h": "ce11f0f2",
+"en_raw": "Let's play again next time?"
+},
+{
+"n": 38,
+"h": "ea081bce",
+"en_raw": "Hey, stranger~"
+},
+{
+"n": 39,
+"h": "6262bb7f",
+"en_raw": "The stranger's name"
+},
+{
+"n": 40,
+"h": "1deea059",
+"en_raw": "what is it?"
+},
+{
+"n": 41,
+"h": "5b911705",
+"en_raw": "Kasuka..."
+},
+{
+"n": 42,
+"h": "4fa84819",
+"en_raw": "Hey! No fair"
+},
+{
+"n": 43,
+"h": "0fe54fd2",
+"en_raw": "Where did the stranger go?"
+},
+{
+"n": 44,
+"h": "d1cb5488",
+"en_raw": "Hat sister"
+},
+{
+"n": 45,
+"h": "1baab8f2",
+"en_raw": "can't catch me"
+},
+{
+"n": 46,
+"h": "1c0d8e53",
+"en_raw": "Do you really want to play tag?"
+},
+{
+"n": 47,
+"h": "ed970a8d",
+"en_raw": "...Then stop / Still  Kurumi is"
+},
+{
+"n": 48,
+"h": "13b5f598",
+"en_raw": "faster at dashing!"
+},
+{
+"n": 49,
+"h": "5d047f59",
+"en_raw": "Then try to find me"
+},
+{
+"n": 50,
+"h": "67d3ca4a",
+"en_raw": "hat sister"
+},
+{
+"n": 51,
+"h": "71fad7f4",
+"en_raw": "Then let's do something else"
+},
+{
+"n": 52,
+"h": "c5f29a93",
+"en_raw": "...Then hide-and-seek?"
+},
+{
+"n": 53,
+"h": "71e7966e",
+"en_raw": "Play / Don't  Hey! No fair"
+},
+{
+"n": 54,
+"h": "0fe54fd2",
+"en_raw": "Where did the stranger go?"
+},
+{
+"n": 55,
+"h": "c6a9c3e8",
+"en_raw": "I'll catch you! / ...Then stop  Who's it?"
+},
+{
+"n": 56,
+"h": "82a3a34f",
+"en_raw": "Sis is it!"
+},
+{
+"n": 57,
+"h": "b0c8624e",
+"en_raw": "Hey, let's play!"
+}
+]
+}

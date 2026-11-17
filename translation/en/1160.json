@@ -1,0 +1,723 @@
+{
+"file": 1160,
+"paths": [
+"d009/d040/f053"
+],
+"lines": [
+{
+"n": 0,
+"h": "199be14e",
+"en_raw": "She still hasn't regained consciousness"
+},
+{
+"n": 1,
+"h": "162ff250",
+"en_raw": "Even though you came all this way"
+},
+{
+"n": 2,
+"h": "1efb3f74",
+"en_raw": "I'm sorry"
+},
+{
+"n": 3,
+"h": "cb269914",
+"en_raw": "Um, this is the summer vacation handout"
+},
+{
+"n": 4,
+"h": "ed0c6e6c",
+"en_raw": "Oh, you went out of your way"
+},
+{
+"n": 5,
+"h": "a74407b1",
+"en_raw": "Thank you so much, truly"
+},
+{
+"n": 6,
+"h": "8f0b193f",
+"en_raw": "Oh right, I'll go buy some drinks"
+},
+{
+"n": 7,
+"h": "8fa5d66a",
+"en_raw": "Hey, Nao"
+},
+{
+"n": 8,
+"h": "fd2bfbca",
+"en_raw": "Hm?"
+},
+{
+"n": 9,
+"h": "5e77e236",
+"en_raw": "What are you going to do?"
+},
+{
+"n": 10,
+"h": "d81352a8",
+"en_raw": "What am I going to do..."
+},
+{
+"n": 11,
+"h": "41b03373",
+"en_raw": "...I'll wait"
+},
+{
+"n": 12,
+"h": "1ee3eaa9",
+"en_raw": "Suit yourself"
+},
+{
+"n": 13,
+"h": "23fd4274",
+"en_raw": "Then I'm going home first"
+},
+{
+"n": 14,
+"h": "d4a10741",
+"en_raw": "Ah, I'm hungry~"
+},
+{
+"n": 15,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 16,
+"h": "e4ac8066",
+"en_raw": "Hey, still planning to stay?"
+},
+{
+"n": 17,
+"h": "2d5265b3",
+"en_raw": "You're a bit persistent"
+},
+{
+"n": 18,
+"h": "e0d07dd3",
+"en_raw": "That's why I said Sango can go home"
+},
+{
+"n": 19,
+"h": "947e13b3",
+"en_raw": "Is that how you put it?"
+},
+{
+"n": 20,
+"h": "929781fd",
+"en_raw": "I'm being kind"
+},
+{
+"n": 21,
+"h": "ee086b66",
+"en_raw": "and keeping you company..."
+},
+{
+"n": 22,
+"h": "bcd1d686",
+"en_raw": "Sorry."
+},
+{
+"n": 23,
+"h": "e1c1fe1e",
+"en_raw": "It's fine, I'm free anyway..."
+},
+{
+"n": 24,
+"h": "79feba02",
+"en_raw": "...Where are you going?"
+},
+{
+"n": 25,
+"h": "080ad433",
+"en_raw": "Just the toilet"
+},
+{
+"n": 26,
+"h": "71ee72c9",
+"en_raw": "I'm sure even I"
+},
+{
+"n": 27,
+"h": "93393b28",
+"en_raw": "know this illness"
+},
+{
+"n": 28,
+"h": "d1cc0894",
+"en_raw": "Something like"
+},
+{
+"n": 29,
+"h": "94153990",
+"en_raw": "appendicitis..."
+},
+{
+"n": 30,
+"h": "7a58232b",
+"en_raw": "When she wakes up, Shiina"
+},
+{
+"n": 31,
+"h": "2a6186b6",
+"en_raw": "will surely laugh at us"
+},
+{
+"n": 32,
+"h": "b227e739",
+"en_raw": "And then I'll tell her"
+},
+{
+"n": 33,
+"h": "c1ebe720",
+"en_raw": "about summer vacation"
+},
+{
+"n": 34,
+"h": "283e0a55",
+"en_raw": "about the festival"
+},
+{
+"n": 35,
+"h": "975afdcb",
+"en_raw": "and what I couldn't say"
+},
+{
+"n": 36,
+"h": "fa070cd8",
+"en_raw": "at the start of the term..."
+},
+{
+"n": 37,
+"h": "356b4d6c",
+"en_raw": "Ugh, what time is it now?"
+},
+{
+"n": 38,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 39,
+"h": "eecc5755",
+"en_raw": "Nao, didn't you say"
+},
+{
+"n": 40,
+"h": "b1388823",
+"en_raw": "you had plans today?"
+},
+{
+"n": 41,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 42,
+"h": "840c01f1",
+"en_raw": "It's okay now, Nao"
+},
+{
+"n": 43,
+"h": "558429a7",
+"en_raw": "You're cool enough"
+},
+{
+"n": 44,
+"h": "8c973453",
+"en_raw": "Shiina!"
+},
+{
+"n": 45,
+"h": "f012871d",
+"en_raw": "Sango, Nao..."
+},
+{
+"n": 46,
+"h": "8aeb8373",
+"en_raw": "What's wrong, Shiina?"
+},
+{
+"n": 47,
+"h": "c4df8268",
+"en_raw": "Why?"
+},
+{
+"n": 48,
+"h": "8948698b",
+"en_raw": "Don't cry, Shiina"
+},
+{
+"n": 49,
+"h": "07cebe58",
+"en_raw": "...Kurumi isn't scared of anything"
+},
+{
+"n": 50,
+"h": "24fd8d33",
+"en_raw": "But you know, I hate it"
+},
+{
+"n": 51,
+"h": "e3113784",
+"en_raw": "Because of Kurumi"
+},
+{
+"n": 52,
+"h": "d5e9ce76",
+"en_raw": "everyone makes sad faces"
+},
+{
+"n": 53,
+"h": "e3113784",
+"en_raw": "Because of Kurumi"
+},
+{
+"n": 54,
+"h": "8210660e",
+"en_raw": "Everyone stops smiling"
+},
+{
+"n": 55,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 56,
+"h": "4aa92a7f",
+"en_raw": "...Thank you for coming"
+},
+{
+"n": 57,
+"h": "3cd1b61b",
+"en_raw": "How is Shiina?"
+},
+{
+"n": 58,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 59,
+"h": "f63a3d15",
+"en_raw": "Um, can I talk with Shiina..."
+},
+{
+"n": 60,
+"h": "4816fab3",
+"en_raw": "...Then, um"
+},
+{
+"n": 61,
+"h": "984ca167",
+"en_raw": "when will she wake up?"
+},
+{
+"n": 62,
+"h": "548d44d9",
+"en_raw": "That child"
+},
+{
+"n": 63,
+"h": "0e2a34a2",
+"en_raw": "won't wake up anymore..."
+},
+{
+"n": 64,
+"h": "78745a75",
+"en_raw": "Huh?"
+},
+{
+"n": 65,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 66,
+"h": "548d6ccf",
+"en_raw": "Right, surely"
+},
+{
+"n": 67,
+"h": "ae6196ee",
+"en_raw": "I... got the wrong room..."
+},
+{
+"n": 68,
+"h": "0c248681",
+"en_raw": "It's not a mistake..."
+},
+{
+"n": 69,
+"h": "ab26c189",
+"en_raw": "Sadly, Kurumi is already..."
+},
+{
+"n": 70,
+"h": "97248143",
+"en_raw": "Wait a moment, please!"
+},
+{
+"n": 71,
+"h": "fb69938a",
+"en_raw": "Please stop..."
+},
+{
+"n": 72,
+"h": "6ca5152c",
+"en_raw": "But, but it's weird, isn't it?"
+},
+{
+"n": 73,
+"h": "41f35e9e",
+"en_raw": "The curse was broken, right?"
+},
+{
+"n": 74,
+"h": "6f999d86",
+"en_raw": "The curse is already..."
+},
+{
+"n": 75,
+"h": "48401245",
+"en_raw": "It's some kind of mistake, right?"
+},
+{
+"n": 76,
+"h": "bc352f5a",
+"en_raw": "...A dream, yes, this is a dream"
+},
+{
+"n": 77,
+"h": "bed56c00",
+"en_raw": "I just have to wait"
+},
+{
+"n": 78,
+"h": "b6f202dd",
+"en_raw": "until I wake up and the real reality"
+},
+{
+"n": 79,
+"h": "6aaac50b",
+"en_raw": "starts moving"
+},
+{
+"n": 80,
+"h": "3743a423",
+"en_raw": "...We couldn't"
+},
+{
+"n": 81,
+"h": "bd246d68",
+"en_raw": "understand that child"
+},
+{
+"n": 82,
+"h": "198b1796",
+"en_raw": "That's our regret"
+},
+{
+"n": 83,
+"h": "851ce435",
+"en_raw": "That ventilator is running"
+},
+{
+"n": 84,
+"h": "0cc05dce",
+"en_raw": "her heartbeat..."
+},
+{
+"n": 85,
+"h": "405d7fc3",
+"en_raw": "For us now"
+},
+{
+"n": 86,
+"h": "d00f6c55",
+"en_raw": "that's the only comfort..."
+},
+{
+"n": 87,
+"h": "66e2e56b",
+"en_raw": "Empty words"
+},
+{
+"n": 88,
+"h": "d9576b7d",
+"en_raw": "where are they echoing from..."
+},
+{
+"n": 89,
+"h": "87a79bc8",
+"en_raw": "Look, any moment now the bad dream"
+},
+{
+"n": 90,
+"h": "03f506b8",
+"en_raw": "will vanish"
+},
+{
+"n": 91,
+"h": "35751c6d",
+"en_raw": "Surely it will vanish..."
+},
+{
+"n": 92,
+"h": "dd55268e",
+"en_raw": "It's this late, night is late"
+},
+{
+"n": 93,
+"h": "ea68e933",
+"en_raw": "We're glad for your feelings but"
+},
+{
+"n": 94,
+"h": "b6c1b0d1",
+"en_raw": "your parents will worry..."
+},
+{
+"n": 95,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 96,
+"h": "3058aa17",
+"en_raw": "...Please, go home now"
+},
+{
+"n": 97,
+"h": "b8c6fae5",
+"en_raw": "No!"
+},
+{
+"n": 98,
+"h": "686e75b6",
+"en_raw": "...Nao"
+},
+{
+"n": 99,
+"h": "362735d1",
+"en_raw": "...When I came to visit last time"
+},
+{
+"n": 100,
+"h": "d2bd874b",
+"en_raw": "I saw it for the first time"
+},
+{
+"n": 101,
+"h": "319054cd",
+"en_raw": "...Shiina cried"
+},
+{
+"n": 102,
+"h": "c62e9cf9",
+"en_raw": "At the time, I had no idea"
+},
+{
+"n": 103,
+"h": "c35eb9cf",
+"en_raw": "what she was sad about..."
+},
+{
+"n": 104,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 105,
+"h": "e7a40a72",
+"en_raw": "But now I understand"
+},
+{
+"n": 106,
+"h": "c55b99f7",
+"en_raw": "And in truth, everyone"
+},
+{
+"n": 107,
+"h": "eca306c9",
+"en_raw": "must know"
+},
+{
+"n": 108,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 109,
+"h": "6dd9ba9e",
+"en_raw": "Because, right?"
+},
+{
+"n": 110,
+"h": "440da18f",
+"en_raw": "Shiina hates this"
+},
+{
+"n": 111,
+"h": "ac544528",
+"en_raw": "heavy mood"
+},
+{
+"n": 112,
+"h": "7a4c4043",
+"en_raw": "Everyone smiling"
+},
+{
+"n": 113,
+"h": "8a3ecafa",
+"en_raw": "is what she likes"
+},
+{
+"n": 114,
+"h": "d5bf0589",
+"en_raw": "...Right? Let's stop now"
+},
+{
+"n": 115,
+"h": "cfca2cc1",
+"en_raw": "If you put down the burden"
+},
+{
+"n": 116,
+"h": "51eb9085",
+"en_raw": "then surely..."
+},
+{
+"n": 117,
+"h": "f663f359",
+"en_raw": "...You came"
+},
+{
+"n": 118,
+"h": "d6375134",
+"en_raw": "I... couldn't do anything"
+},
+{
+"n": 119,
+"h": "5ff073df",
+"en_raw": "How's Shiina?"
+},
+{
+"n": 120,
+"h": "76b67ede",
+"en_raw": "No way..."
+},
+{
+"n": 121,
+"h": "3f8ace82",
+"en_raw": "I couldn't save Shiina"
+},
+{
+"n": 122,
+"h": "0e6d72c0",
+"en_raw": "(...The curse was real"
+},
+{
+"n": 123,
+"h": "d6e7c02a",
+"en_raw": "No, no way...)"
+},
+{
+"n": 124,
+"h": "4aa92a7f",
+"en_raw": "...Thank you for coming"
+},
+{
+"n": 125,
+"h": "3cd1b61b",
+"en_raw": "How is Shiina?"
+},
+{
+"n": 126,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 127,
+"h": "f63a3d15",
+"en_raw": "Um, can I talk with Shiina..."
+},
+{
+"n": 128,
+"h": "4816fab3",
+"en_raw": "...Then, um"
+},
+{
+"n": 129,
+"h": "984ca167",
+"en_raw": "when will she wake up?"
+},
+{
+"n": 130,
+"h": "548d44d9",
+"en_raw": "That child"
+},
+{
+"n": 131,
+"h": "0e2a34a2",
+"en_raw": "won't wake up anymore..."
+},
+{
+"n": 132,
+"h": "78745a75",
+"en_raw": "Huh?"
+},
+{
+"n": 133,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 134,
+"h": "548d6ccf",
+"en_raw": "Right, surely"
+},
+{
+"n": 135,
+"h": "ae6196ee",
+"en_raw": "I... got the wrong room..."
+},
+{
+"n": 136,
+"h": "0c248681",
+"en_raw": "It's not a mistake..."
+},
+{
+"n": 137,
+"h": "ab26c189",
+"en_raw": "Sadly, Kurumi is already..."
+},
+{
+"n": 138,
+"h": "97a06cfd",
+"en_raw": "Wait a moment, please!"
+},
+{
+"n": 139,
+"h": "fb69938a",
+"en_raw": "Please stop..."
+},
+{
+"n": 140,
+"h": "35cead1d",
+"en_raw": "No way"
+},
+{
+"n": 141,
+"h": "bc453a90",
+"en_raw": "the curse is really real"
+},
+{
+"n": 142,
+"h": "48401245",
+"en_raw": "It's some kind of mistake, right?"
+}
+]
+}

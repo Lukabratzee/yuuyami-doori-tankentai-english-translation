@@ -1,0 +1,2204 @@
+{
+ "d004/f000": {
+  "12": "New Game",
+  "13": "Left",
+  "30": "Yes",
+  "31": "No",
+  "14": "/",
+  "15": " ",
+  "16": "Day 100",
+  "17": "Retry",
+  "32": {
+   "t": "Checking the memory card...|Do not remove the memory card",
+   "style": "msg"
+  },
+  "33": {
+   "t": "No memory card inserted",
+   "style": "msg"
+  },
+  "34": {
+   "t": "Insert a memory card in slot 1|and press the O button",
+   "style": "msgdark"
+  },
+  "35": {
+   "t": "No save data",
+   "style": "msg"
+  },
+  "36": {
+   "t": "The memory card is not formatted",
+   "style": "msg"
+  },
+  "37": {
+   "t": "Formatting...",
+   "style": "msg"
+  },
+  "38": {
+   "t": "Already formatted",
+   "style": "msg"
+  },
+  "39": {
+   "t": "Formatting failed",
+   "style": "msg"
+  },
+  "40": {
+   "t": "Loading failed",
+   "style": "msg"
+  },
+  "41": {
+   "t": "No memory card, so you cannot save.|Continue anyway?",
+   "style": "msg"
+  },
+  "42": {
+   "t": "The memory card is full, so you cannot save.|Continue anyway?",
+   "style": "msg"
+  },
+  "43": {
+   "t": "Loading...|Do not remove the memory card",
+   "style": "msg"
+  },
+  "44": {
+   "t": "Loading complete",
+   "style": "msg"
+  },
+  "45": {
+   "t": "Not enough free blocks on the memory card.|Saving needs 2 blocks.|Continue anyway?",
+   "style": "msg"
+  },
+  "46": {
+   "t": "The memory card is not formatted.|Continue anyway?",
+   "style": "msg"
+  }
+ },
+ "d002/f542": {
+  "28": {
+   "t": "Crow's Curse",
+   "style": "hand"
+  },
+  "29": {
+   "t": "Others",
+   "style": "hand"
+  },
+  "30": {
+   "t": "Where?",
+   "style": "hand"
+  },
+  "31": {
+   "t": "Go home?",
+   "style": "hand"
+  },
+  "32": {
+   "t": "Settings",
+   "style": "hand"
+  },
+  "33": {
+   "t": "Human-Faced Crow",
+   "style": "hand"
+  },
+  "34": {
+   "t": "Killer Clown",
+   "style": "hand"
+  },
+  "35": {
+   "t": "Floating Spirit",
+   "style": "hand"
+  },
+  "36": {
+   "t": "Hanako's Grave",
+   "style": "hand"
+  },
+  "37": {
+   "t": "Maze Street",
+   "style": "hand"
+  },
+  "38": {
+   "t": "Construction Site",
+   "style": "hand"
+  },
+  "39": {
+   "t": "Cat Gathering",
+   "style": "hand"
+  },
+  "40": {
+   "t": "Secret Thing",
+   "style": "hand"
+  },
+  "41": {
+   "t": "Forest Treasure",
+   "style": "hand"
+  },
+  "42": {
+   "t": "Staircase Ghost",
+   "style": "hand"
+  },
+  "43": {
+   "t": "Black Dog",
+   "style": "hand"
+  },
+  "44": {
+   "t": "Underpass Ghost",
+   "style": "hand"
+  },
+  "45": {
+   "t": "Soy Sauce Granny",
+   "style": "hand"
+  },
+  "46": {
+   "t": "Shin-Oji Line Curse",
+   "style": "hand"
+  },
+  "47": {
+   "t": "Burnt Ruins",
+   "style": "hand"
+  },
+  "48": {
+   "t": "Double Suicide",
+   "style": "hand"
+  },
+  "49": {
+   "t": "Riverbank Ghost",
+   "style": "hand"
+  },
+  "50": {
+   "t": "Mizuko",
+   "style": "hand"
+  },
+  "51": {
+   "t": "Walking Old Man",
+   "style": "hand"
+  },
+  "52": {
+   "t": "Redevelopment",
+   "style": "hand"
+  },
+  "53": {
+   "t": "Park Triplets",
+   "style": "hand"
+  },
+  "54": {
+   "t": "Peeping Old Man",
+   "style": "hand"
+  },
+  "55": {
+   "t": "Closed Pachinko Parlor",
+   "style": "hand"
+  },
+  "56": {
+   "t": "White Will",
+   "style": "hand"
+  },
+  "57": {
+   "t": "Yellow Umbrella",
+   "style": "hand"
+  },
+  "58": {
+   "t": "Rasen-sama",
+   "style": "hand"
+  },
+  "59": {
+   "t": "Fox Spirit",
+   "style": "hand"
+  },
+  "60": {
+   "t": "Corpse",
+   "style": "hand"
+  },
+  "61": {
+   "t": "Parasite",
+   "style": "hand"
+  },
+  "62": {
+   "t": "Sakaue Jizo",
+   "style": "hand"
+  },
+  "63": {
+   "t": "Narusawa Estate",
+   "style": "hand"
+  },
+  "64": {
+   "t": "Cat Sacrifice",
+   "style": "hand"
+  },
+  "65": {
+   "t": "Wishing Camphor Tree",
+   "style": "inv"
+  },
+  "66": {
+   "t": "Lizard Hand",
+   "style": "hand"
+  },
+  "67": {
+   "t": "Snake Spot",
+   "style": "hand"
+  },
+  "68": {
+   "t": "Cursed Antiques",
+   "style": "hand"
+  },
+  "69": {
+   "t": "Park Friend",
+   "style": "hand"
+  },
+  "70": {
+   "t": "Portrait Artist",
+   "style": "hand"
+  },
+  "71": {
+   "t": "Secret Trick",
+   "style": "hand"
+  },
+  "72": {
+   "t": "Words of Death",
+   "style": "hand"
+  },
+  "73": {
+   "t": "Kurumi's Lost Item",
+   "style": "hand"
+  },
+  "74": {
+   "t": "Will-o'-the-Wisp",
+   "style": "hand"
+  },
+  "75": {
+   "t": "Courage Test",
+   "style": "hand"
+  },
+  "76": {
+   "t": "Hirumi 7 Gods",
+   "style": "hand"
+  },
+  "97": {
+   "t": "Settings",
+   "style": "hand",
+   "keep_left": 12
+  },
+  "98": {
+   "t": "Controls",
+   "style": "hand"
+  },
+  "99": {
+   "t": "Basic/Right/Left",
+   "style": "hand",
+   "segs": [
+    [
+     "Basic",
+     2
+    ],
+    [
+     "/",
+     1
+    ],
+    [
+     "Right",
+     2
+    ],
+    [
+     "/",
+     1
+    ],
+    [
+     "Left",
+     2
+    ]
+   ]
+  },
+  "100": {
+   "t": "Search Sign",
+   "style": "hand"
+  },
+  "101": {
+   "t": "Sound/Mark",
+   "style": "hand",
+   "segs": [
+    [
+     "Sound",
+     2
+    ],
+    [
+     "/",
+     1
+    ],
+    [
+     "Mark",
+     3
+    ]
+   ]
+  },
+  "102": {
+   "t": "Text Speed",
+   "style": "hand"
+  },
+  "103": {
+   "t": "Fast/Normal/Slow",
+   "style": "hand",
+   "segs": [
+    [
+     "Fast",
+     3
+    ],
+    [
+     "/",
+     1
+    ],
+    [
+     "Normal",
+     3
+    ],
+    [
+     "/",
+     1
+    ],
+    [
+     "Slow",
+     3
+    ]
+   ]
+  },
+  "104": {
+   "t": "Vibration",
+   "style": "hand"
+  },
+  "106": {
+   "t": "Sound",
+   "style": "hand"
+  },
+  "107": {
+   "t": "Mono/Stereo",
+   "style": "hand",
+   "segs": [
+    [
+     "Mono",
+     4
+    ],
+    [
+     "/",
+     1
+    ],
+    [
+     "Stereo",
+     4
+    ]
+   ]
+  },
+  "108": {
+   "t": "Volume",
+   "style": "hand"
+  },
+  "109": {
+   "t": "Save Icon",
+   "style": "hand"
+  },
+  "110": {
+   "t": "Back to Notebook",
+   "style": "hand"
+  },
+  "129": {
+   "t": "< Normal >",
+   "style": "help"
+  },
+  "130": {
+   "t": "< Left Hand >",
+   "style": "help"
+  },
+  "131": {
+   "t": "< Right Hand >",
+   "style": "help"
+  },
+  "136": {
+   "t": "Move (tap twice: dash / big action)",
+   "style": "help"
+  },
+  "137": {
+   "t": "Look far",
+   "style": "help"
+  },
+  "138": {
+   "t": "Look down",
+   "style": "help"
+  },
+  "143": {
+   "t": "Search / Talk / OK",
+   "style": "help"
+  },
+  "144": {
+   "t": "Cancel",
+   "style": "help"
+  },
+  "145": {
+   "t": "Open notebook",
+   "style": "help"
+  },
+  "146": {
+   "t": "Dash / Big action",
+   "style": "help"
+  },
+  "149": {
+   "t": "Pause",
+   "style": "help"
+  },
+  "154": {
+   "t": "Open map",
+   "style": "help"
+  },
+  "155": {
+   "t": "Zoom map out",
+   "style": "help"
+  },
+  "156": {
+   "t": "Zoom map in",
+   "style": "help"
+  },
+  "157": {
+   "t": "Move right (tap twice: dash / big action)",
+   "style": "help"
+  },
+  "158": {
+   "t": "Move left (tap twice: dash / big action)",
+   "style": "help"
+  },
+  "159": {
+   "t": "Human-Faced Crow",
+   "style": "cap"
+  },
+  "160": {
+   "t": "Killer Clown",
+   "style": "cap"
+  },
+  "161": {
+   "t": "Floating Spirit",
+   "style": "cap"
+  },
+  "162": {
+   "t": "Hanako's Grave",
+   "style": "cap"
+  },
+  "163": {
+   "t": "Maze Street",
+   "style": "cap"
+  },
+  "164": {
+   "t": "Construction Site",
+   "style": "cap"
+  },
+  "165": {
+   "t": "Cat Gathering",
+   "style": "cap"
+  },
+  "166": {
+   "t": "Secret Thing",
+   "style": "cap"
+  },
+  "167": {
+   "t": "Forest Treasure",
+   "style": "cap"
+  },
+  "168": {
+   "t": "Staircase Ghost",
+   "style": "cap"
+  },
+  "169": {
+   "t": "Black Dog",
+   "style": "cap"
+  },
+  "170": {
+   "t": "Underpass Ghost",
+   "style": "cap"
+  },
+  "171": {
+   "t": "Soy Sauce Granny",
+   "style": "cap"
+  },
+  "172": {
+   "t": "Shin-Oji Line Curse",
+   "style": "cap"
+  },
+  "173": {
+   "t": "Burnt Ruins",
+   "style": "cap"
+  },
+  "174": {
+   "t": "Double Suicide",
+   "style": "cap"
+  },
+  "175": {
+   "t": "Riverbank Ghost",
+   "style": "cap"
+  },
+  "176": {
+   "t": "Mizuko",
+   "style": "cap"
+  },
+  "177": {
+   "t": "Walking Old Man",
+   "style": "cap"
+  },
+  "178": {
+   "t": "Redevelopment",
+   "style": "cap"
+  },
+  "179": {
+   "t": "Park Triplets",
+   "style": "cap"
+  },
+  "180": {
+   "t": "Peeping Old Man",
+   "style": "cap"
+  },
+  "181": {
+   "t": "Closed Pachinko Parlor",
+   "style": "cap"
+  },
+  "182": {
+   "t": "White Will",
+   "style": "cap"
+  },
+  "183": {
+   "t": "Yellow Umbrella",
+   "style": "cap"
+  },
+  "184": {
+   "t": "Rasen-sama",
+   "style": "cap"
+  },
+  "185": {
+   "t": "Fox Spirit",
+   "style": "cap"
+  },
+  "186": {
+   "t": "Corpse",
+   "style": "cap"
+  },
+  "187": {
+   "t": "Parasite",
+   "style": "cap"
+  },
+  "188": {
+   "t": "Sakaue Jizo",
+   "style": "cap"
+  },
+  "189": {
+   "t": "Narusawa Estate",
+   "style": "cap"
+  },
+  "190": {
+   "t": "Cat Sacrifice",
+   "style": "cap"
+  },
+  "191": {
+   "t": "Wishing Camphor Tree",
+   "style": "cap"
+  },
+  "192": {
+   "t": "Lizard Hand",
+   "style": "cap"
+  },
+  "193": {
+   "t": "Snake Spot",
+   "style": "cap"
+  },
+  "194": {
+   "t": "Cursed Antiques",
+   "style": "cap"
+  },
+  "195": {
+   "t": "Park Friend",
+   "style": "cap"
+  },
+  "196": {
+   "t": "Portrait Artist",
+   "style": "cap"
+  },
+  "197": {
+   "t": "Secret Trick",
+   "style": "cap"
+  },
+  "198": {
+   "t": "Words of Death",
+   "style": "cap"
+  },
+  "199": {
+   "t": "Kurumi's Lost Item",
+   "style": "cap"
+  },
+  "200": {
+   "t": "Will-o'-the-Wisp",
+   "style": "cap"
+  },
+  "201": {
+   "t": "Courage Test",
+   "style": "cap"
+  },
+  "202": {
+   "t": "Hirumi 7 Gods",
+   "style": "cap"
+  },
+  "203": {
+   "t": "Crow's Curse",
+   "style": "cap"
+  },
+  "204": {
+   "t": "Other Rumors",
+   "style": "cap"
+  },
+  "205": {
+   "t": "Controller setup",
+   "style": "help"
+  },
+  "206": {
+   "t": "Basic",
+   "style": "help"
+  },
+  "207": {
+   "t": "Right-hand",
+   "style": "help"
+  },
+  "208": {
+   "t": "Left-hand",
+   "style": "help"
+  },
+  "209": {
+   "t": "How search points are signaled",
+   "style": "help"
+  },
+  "210": {
+   "t": "Signal by sound",
+   "style": "help"
+  },
+  "211": {
+   "t": "Signal by mark",
+   "style": "help"
+  },
+  "212": {
+   "t": "Change the message speed",
+   "style": "help"
+  },
+  "213": {
+   "t": "Fast speed",
+   "style": "help"
+  },
+  "214": {
+   "t": "Normal speed",
+   "style": "help"
+  },
+  "215": {
+   "t": "Slow speed",
+   "style": "help"
+  },
+  "216": {
+   "t": "Turn vibration on or off",
+   "style": "help"
+  },
+  "217": {
+   "t": "Vibration on",
+   "style": "help"
+  },
+  "218": {
+   "t": "Vibration off",
+   "style": "help"
+  },
+  "219": {
+   "t": "Choose mono or stereo sound output",
+   "style": "help"
+  },
+  "220": {
+   "t": "Mono output",
+   "style": "help"
+  },
+  "221": {
+   "t": "Stereo output",
+   "style": "help"
+  },
+  "222": {
+   "t": "Adjust the volume",
+   "style": "help"
+  },
+  "223": {
+   "t": "Sound effect volume",
+   "style": "help"
+  },
+  "224": {
+   "t": "Music volume",
+   "style": "help"
+  },
+  "225": {
+   "t": "Choose the save data icon",
+   "style": "help"
+  },
+  "256": {
+   "t": "OK",
+   "style": "help"
+  },
+  "257": {
+   "t": "Cancel",
+   "style": "help"
+  }
+ },
+ "d002/f541": {
+  "120": {
+   "t": "Switch view",
+   "style": "help"
+  },
+  "121": {
+   "t": "Zoom +",
+   "style": "help"
+  },
+  "122": {
+   "t": "Zoom -",
+   "style": "help"
+  },
+  "123": {
+   "t": "Cancel",
+   "style": "help"
+  },
+  "1": {
+   "t": "Old Narusawa",
+   "style": "auto"
+  },
+  "2": {
+   "t": "Narusawadai",
+   "style": "auto"
+  },
+  "3": {
+   "t": "Gas Station",
+   "style": "auto"
+  },
+  "4": {
+   "t": "Asahi Truck Plant",
+   "style": "auto"
+  },
+  "7": {
+   "t": "Hirumidai High",
+   "style": "auto"
+  },
+  "9": {
+   "t": "Hirumidai JHS",
+   "style": "auto"
+  },
+  "11": {
+   "t": "Police Box",
+   "style": "auto"
+  },
+  "12": {
+   "t": "Yomogi Nursery",
+   "style": "auto"
+  },
+  "13": {
+   "t": "Koshu Kaido",
+   "style": "auto"
+  },
+  "14": {
+   "t": "Hirumidai",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Hirumidai Estate",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Sakanoue Shops",
+   "style": "auto"
+  },
+  "19": {
+   "t": "Seitokuin Univ.",
+   "style": "auto"
+  },
+  "20": {
+   "t": "New Hirumidai|Estate (planned)",
+   "style": "auto"
+  },
+  "22": {
+   "t": "Karikiri Jizo",
+   "style": "auto"
+  },
+  "23": {
+   "t": "Shin-Oji Line",
+   "style": "auto"
+  },
+  "24": {
+   "t": "Concrete Moat St.",
+   "style": "auto"
+  },
+  "25": {
+   "t": "Hirumidaira Homes",
+   "style": "auto"
+  },
+  "26": {
+   "t": "Hodo St.",
+   "style": "auto"
+  },
+  "27": {
+   "t": "Kariin New Homes",
+   "style": "auto"
+  },
+  "29": {
+   "t": "Wasaka Shrine",
+   "style": "auto"
+  },
+  "30": {
+   "t": "Water Bureau",
+   "style": "auto"
+  },
+  "31": {
+   "t": "Kariin Green No.2",
+   "style": "auto"
+  },
+  "32": {
+   "t": "Kariin",
+   "style": "auto"
+  },
+  "34": {
+   "t": "Kariin Elementary",
+   "style": "auto"
+  },
+  "35": {
+   "t": "Kariin Park",
+   "style": "auto"
+  },
+  "37": {
+   "t": "Hirumi Health Bureau",
+   "style": "auto"
+  },
+  "39": {
+   "t": "Post Office",
+   "style": "auto"
+  },
+  "41": {
+   "t": "Hirumi City Hall",
+   "style": "auto"
+  },
+  "42": {
+   "t": "Bowling Alley",
+   "style": "auto"
+  },
+  "43": {
+   "t": "Mukaibashi Ave.",
+   "style": "auto"
+  },
+  "44": {
+   "t": "City Hall St.",
+   "style": "auto",
+   "angle": 28
+  },
+  "45": {
+   "t": "Wildflower Garden",
+   "style": "auto"
+  },
+  "46": {
+   "t": "Civic Hall",
+   "style": "auto"
+  },
+  "47": {
+   "t": "Women's U. St.",
+   "style": "auto"
+  },
+  "48": {
+   "t": "Station Shops",
+   "style": "auto"
+  },
+  "49": {
+   "t": "Yokocho St.",
+   "style": "auto"
+  },
+  "51": {
+   "t": "Police Box",
+   "style": "auto"
+  },
+  "52": {
+   "t": "NR Hirumi Stn",
+   "style": "auto"
+  },
+  "53": {
+   "t": "Bus Terminal",
+   "style": "auto"
+  },
+  "55": {
+   "t": "Cemetery",
+   "style": "auto"
+  },
+  "56": {
+   "t": "Honmachi",
+   "style": "auto"
+  },
+  "58": {
+   "t": "Fire Station",
+   "style": "auto"
+  },
+  "59": {
+   "t": "Promenade",
+   "style": "auto"
+  },
+  "61": {
+   "t": "Ito Maternity|Clinic",
+   "style": "auto"
+  },
+  "63": {
+   "t": "Eida Hospital",
+   "style": "auto"
+  },
+  "64": {
+   "t": "Under the Bridge",
+   "style": "auto"
+  },
+  "65": {
+   "t": "Hirumi-sama",
+   "style": "auto"
+  },
+  "66": {
+   "t": "Embankment",
+   "style": "auto"
+  },
+  "67": {
+   "t": "Dobugawa Lane",
+   "style": "auto"
+  },
+  "69": {
+   "t": "Redevelopment",
+   "style": "auto"
+  },
+  "70": {
+   "t": "Tama River",
+   "style": "auto"
+  },
+  "71": {
+   "t": "Tsukazato Inari",
+   "style": "auto"
+  },
+  "72": {
+   "t": "Asakawa Canal",
+   "style": "auto"
+  },
+  "73": {
+   "t": "Hirumi Tsukazato",
+   "style": "auto"
+  },
+  "74": {
+   "t": "Reservoir",
+   "style": "auto"
+  },
+  "75": {
+   "t": "Water Office",
+   "style": "auto"
+  },
+  "76": {
+   "t": "Tsukazato Golf Center",
+   "style": "auto"
+  },
+  "78": {
+   "t": "Sakanoue",
+   "style": "auto"
+  },
+  "79": {
+   "t": "Kurabone St.",
+   "style": "auto"
+  },
+  "81": {
+   "t": "Sky Garden",
+   "style": "auto"
+  },
+  "83": {
+   "t": "Convent",
+   "style": "auto"
+  },
+  "84": {
+   "t": "Overpass Park",
+   "style": "auto"
+  },
+  "86": {
+   "t": "Six Jizo",
+   "style": "auto"
+  },
+  "88": {
+   "t": "Sakaue Jizo",
+   "style": "auto"
+  },
+  "90": {
+   "t": "Kusumigahara|Sanatorium",
+   "style": "auto"
+  }
+ },
+ "d002/f543": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Far End Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Police Box Rd",
+   "style": "auto"
+  },
+  "17": {
+   "t": "School Gate Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "School Back Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f544": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Miyama Hill Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Golf Center Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f545": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Golf Center Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Hango Hill",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Tsukazato Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Tsukazato Woods",
+   "style": "auto"
+  }
+ },
+ "d002/f546": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Redevelopment / Stn Back Shops",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Path to Inari",
+   "style": "auto"
+  }
+ },
+ "d002/f547": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Hirumi Stn North",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Underpass / Stn West",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Ditch Back Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Redevelopment / Stn Back Shops",
+   "style": "auto"
+  }
+ },
+ "d002/f548": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Hirumi Stn South",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Hospital Rd",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Tamagawa Shortcut",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Underpass / Stn West",
+   "style": "auto"
+  }
+ },
+ "d002/f549": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Tamagawa Bank Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Reed Field",
+   "style": "auto"
+  }
+ },
+ "d002/f550": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "16": {
+   "t": "Hospital Rd",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Fire Station Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Hirumi Bridge",
+   "style": "auto"
+  }
+ },
+ "d002/f551": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Office District Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Fire Station Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f552": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "City Hall Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Bowling Alley Rd",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Office District Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Wildflower Park",
+   "style": "auto"
+  }
+ },
+ "d002/f553": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Kariin Housing Dev.",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Horidome Rd",
+   "style": "auto"
+  },
+  "17": {
+   "t": "City Hall Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Post Office Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f554": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Health Center Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Kariin Elem. Back Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f555": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Shopping St. Side Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Wildflower Park",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Temple Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Station Shops",
+   "style": "auto"
+  }
+ },
+ "d002/f556": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "New Housing Area",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Post Office Rd",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Shopping St. Side Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Viaduct Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f557": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Waterworks",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Wa Hill Alley",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Kariin Elem. Back Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Kariin Housing Dev.",
+   "style": "auto"
+  }
+ },
+ "d002/f558": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Wa Hill Alley",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Wa Hill",
+   "style": "auto"
+  }
+ },
+ "d002/f559": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Hirumidaira Housing",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Wa Hill",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Waterworks",
+   "style": "auto"
+  },
+  "18": {
+   "t": "New Housing Area",
+   "style": "auto"
+  }
+ },
+ "d002/f560": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Railway Hill",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Crossing Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f561": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Railway Hill",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Hirumidaira Housing",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Railway Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Yazu Bridge",
+   "style": "auto"
+  }
+ },
+ "d002/f562": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Railway Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Kurumi's House Rd",
+   "style": "auto"
+  },
+  "17": {
+   "t": "X Hill",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Yazu Bridge",
+   "style": "auto"
+  }
+ },
+ "d002/f563": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Viaduct Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Women's Univ. Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f564": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Women's Univ. Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Station Shops",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Hirumi Stn South",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Underpass / Stn East",
+   "style": "auto"
+  }
+ },
+ "d002/f565": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "16": {
+   "t": "Twilight Hill",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Foot of Hirumi Hill",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Underpass / Stn East",
+   "style": "auto"
+  }
+ },
+ "d002/f566": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Nameless Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Police Box Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f567": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Nameless Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Construction Site Rd",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Women's Univ. Back Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Nao's House Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f568": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Women's Univ. Back Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Yazu Bridge",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Foot of Hirumi Hill",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Campus Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f569": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "16": {
+   "t": "School Gate Rd",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Nao's House Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Hirumidai Estate",
+   "style": "auto"
+  }
+ },
+ "d002/f570": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Hilltop Shops",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Campus Rd",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Twilight Hill",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Stairs by Viaduct",
+   "style": "auto"
+  }
+ },
+ "d002/f571": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Shabby Apt Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Stairs by Viaduct",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Convent Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Miyama Hill Rd",
+   "style": "auto"
+  }
+ },
+ "d002/f572": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Convent Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Hilltop Jizo",
+   "style": "auto"
+  },
+  "17": {
+   "t": "Heights Rd",
+   "style": "auto"
+  },
+  "18": {
+   "t": "Hango Hill",
+   "style": "auto"
+  }
+ },
+ "d002/f573": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Reservoir N.",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Tsukazato Woods",
+   "style": "auto"
+  }
+ },
+ "d002/f574": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  }
+ },
+ "d002/f575": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  }
+ },
+ "d002/f576": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  }
+ },
+ "d002/f577": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  }
+ },
+ "d002/f578": {
+  "9": {
+   "t": "Map",
+   "style": "help"
+  },
+  "10": {
+   "t": "OK",
+   "style": "help"
+  },
+  "15": {
+   "t": "Bowling Alley Rd",
+   "style": "auto"
+  },
+  "16": {
+   "t": "Horidome Rd",
+   "style": "auto"
+  }
+ },
+ "d006/f000": {
+  "26": {
+   "t": "OK",
+   "style": "help"
+  },
+  "27": {
+   "t": "Cancel",
+   "style": "help"
+  }
+ },
+ "d006/f004": {
+  "26": {
+   "t": "OK",
+   "style": "help"
+  },
+  "27": {
+   "t": "Cancel",
+   "style": "help"
+  }
+ },
+ "d006/f008": {
+  "27": {
+   "t": "Cancel",
+   "style": "help"
+  },
+  "31": {
+   "t": "Nao's house",
+   "style": "msg"
+  },
+  "32": {
+   "t": "Kurumi's house",
+   "style": "msg"
+  },
+  "33": {
+   "t": "Torizuka gate",
+   "style": "msg"
+  },
+  "34": {
+   "t": "Hirumi Tsukazato",
+   "style": "msg"
+  },
+  "35": {
+   "t": "Hirumi Stn South",
+   "style": "msg"
+  },
+  "36": {
+   "t": "...start the walk from",
+   "style": "msg"
+  },
+  "37": {
+   "t": "Hirumi City Hall",
+   "style": "msg"
+  },
+  "26": {
+   "t": "OK",
+   "style": "help"
+  }
+ },
+ "d006/f012": {
+  "26": {
+   "t": "OK",
+   "style": "help"
+  },
+  "27": {
+   "t": "Cancel",
+   "style": "help"
+  }
+ },
+ "d006/f016": {
+  "26": {
+   "t": "OK",
+   "style": "help"
+  },
+  "27": {
+   "t": "Cancel",
+   "style": "help"
+  }
+ },
+ "d006/f020": {
+  "26": {
+   "t": "OK",
+   "style": "help"
+  },
+  "27": {
+   "t": "Cancel",
+   "style": "help"
+  }
+ },
+ "d012/f000": {
+  "68": {
+   "t": "OK",
+   "style": "help"
+  },
+  "69": {
+   "t": "Cancel",
+   "style": "help"
+  },
+  "11": {
+   "t": "Save",
+   "style": "hand",
+   "keep_left": 12
+  },
+  "12": {
+   "t": "/",
+   "style": "hand"
+  },
+  "13": {
+   "t": " ",
+   "style": "hand"
+  },
+  "14": {
+   "t": "Day 100",
+   "style": "hand",
+   "bg": 14
+  },
+  "16": {
+   "t": "Left",
+   "style": "hand"
+  },
+  "17": {
+   "t": "Back to Title",
+   "style": "hand"
+  },
+  "18": {
+   "t": "Back",
+   "style": "hand",
+   "bg": 14
+  },
+  "19": {
+   "t": "Retry",
+   "style": "hand"
+  },
+  "52": {
+   "t": "Checking the memory card...|Do not remove the memory card",
+   "style": "save"
+  },
+  "53": {
+   "t": "No memory card inserted",
+   "style": "save"
+  },
+  "54": {
+   "t": "Insert a memory card|in slot 1 and|press the button",
+   "style": "msgdark",
+   "bg": 13
+  },
+  "55": {
+   "t": "Overwrite this save?",
+   "style": "save"
+  },
+  "56": {
+   "t": "Not enough free blocks on the card.|Saving needs 2 blocks.",
+   "style": "save"
+  },
+  "57": {
+   "t": "Saving...|Do not remove the memory card",
+   "style": "save"
+  },
+  "58": {
+   "t": "Saving failed",
+   "style": "save"
+  },
+  "59": {
+   "t": "Continue without saving?",
+   "style": "save"
+  },
+  "60": {
+   "t": "The memory card is not formatted.|Format it now?",
+   "style": "save"
+  },
+  "61": {
+   "t": "Formatting...|Do not remove the memory card",
+   "style": "save"
+  },
+  "62": {
+   "t": "Already formatted",
+   "style": "save"
+  },
+  "63": {
+   "t": "Formatting failed",
+   "style": "save"
+  },
+  "64": {
+   "t": "Saving complete",
+   "style": "save"
+  },
+  "65": {
+   "t": "Yes (OK) / No (Cancel)",
+   "style": "save"
+  },
+  "66": {
+   "t": "(OK)",
+   "style": "save"
+  },
+  "67": {
+   "t": "(OK) / (Cancel)",
+   "style": "save"
+  }
+ },
+ "d013/f000": {
+  "7": {
+   "t": "This data is cursed.|Purify it?",
+   "style": "save"
+  },
+  "8": {
+   "t": "Purify",
+   "style": "btn"
+  },
+  "9": {
+   "t": "Don't purify",
+   "style": "btn"
+  },
+  "10": {
+   "t": "Purifying...",
+   "style": "save"
+  },
+  "11": {
+   "t": "Purification complete",
+   "style": "save"
+  },
+  "12": {
+   "t": "Save the purified data?",
+   "style": "save"
+  },
+  "13": {
+   "t": "Save",
+   "style": "btn"
+  },
+  "14": {
+   "t": "Don't save",
+   "style": "btn"
+  }
+ },
+ "d005/f000": {
+  "10": {
+   "t": "Su",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    14,
+    14,
+    14
+   ],
+   "size": 14
+  },
+  "11": {
+   "t": "Mo",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    14,
+    14,
+    14
+   ],
+   "size": 14
+  },
+  "12": {
+   "t": "Tu",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    14,
+    14,
+    14
+   ],
+   "size": 14
+  },
+  "13": {
+   "t": "We",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    14,
+    14,
+    14
+   ],
+   "size": 14
+  },
+  "14": {
+   "t": "Th",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    14,
+    14,
+    14
+   ],
+   "size": 14
+  },
+  "15": {
+   "t": "Fr",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    14,
+    14,
+    14
+   ],
+   "size": 14
+  },
+  "16": {
+   "t": "Sa",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    14,
+    14,
+    14
+   ],
+   "size": 14
+  },
+  "17": {
+   "t": "/",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    14,
+    14,
+    14
+   ],
+   "size": 18
+  },
+  "18": {
+   "t": " ",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    14,
+    14,
+    14
+   ],
+   "size": 14
+  },
+  "31": {
+   "t": "Left",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    7,
+    10,
+    13
+   ],
+   "size": 20
+  },
+  "32": {
+   "t": "d",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    7,
+    10,
+    13
+   ],
+   "size": 20
+  },
+  "33": {
+   "t": ":",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    7,
+    10,
+    13
+   ],
+   "size": 20
+  },
+  "34": {
+   "t": " ",
+   "style": "ramp",
+   "bg": 15,
+   "ramp": [
+    7,
+    10,
+    13
+   ],
+   "size": 20
+  },
+  "35": {
+   "t": "Day 100",
+   "style": "ramp",
+   "bg": 14,
+   "ramp": [
+    7,
+    4,
+    1
+   ],
+   "size": 30
+  }
+ },
+ "d011/f000": {
+  "0": {
+   "t": "Save today's events?",
+   "style": "save"
+  },
+  "1": {
+   "t": "Save",
+   "style": "btn"
+  },
+  "2": {
+   "t": "Don't save",
+   "style": "btn"
+  },
+  "4": {
+   "t": "Save your clear data?",
+   "style": "save"
+  }
+ },
+ "d003/f000": {
+  "_disclaimer": [
+   "This game is a work of fiction.",
+   "Any resemblance to real people",
+   "or organizations",
+   "is purely coincidental."
+  ]
+ }
+}

@@ -1,0 +1,1523 @@
+{
+"file": 1020,
+"paths": [
+"d008/d133/f018"
+],
+"lines": [
+{
+"n": 0,
+"h": "139c95df",
+"en_raw": "Thanks for coming, Murase"
+},
+{
+"n": 1,
+"h": "0f659619",
+"en_raw": "Murase?"
+},
+{
+"n": 2,
+"h": "3d5b8aae",
+"en_raw": "...Where's Segawa?"
+},
+{
+"n": 3,
+"h": "4d3ca93a",
+"en_raw": "That guy is a traitor"
+},
+{
+"n": 4,
+"h": "12127777",
+"en_raw": "Traitors"
+},
+{
+"n": 5,
+"h": "687ebf32",
+"en_raw": "must receive their due punishment"
+},
+{
+"n": 6,
+"h": "45d835e4",
+"en_raw": "...Though I'm not keen on it"
+},
+{
+"n": 7,
+"h": "5691f09f",
+"en_raw": "Hey, Kume"
+},
+{
+"n": 8,
+"h": "de9e4b37",
+"en_raw": "I should have told you this"
+},
+{
+"n": 9,
+"h": "296b9004",
+"en_raw": "earlier, I guess..."
+},
+{
+"n": 10,
+"h": "d6e25e0f",
+"en_raw": "Murase"
+},
+{
+"n": 11,
+"h": "60a3dfc7",
+"en_raw": "I think of you as a friend"
+},
+{
+"n": 12,
+"h": "31a0129e",
+"en_raw": "so I've told you many things"
+},
+{
+"n": 13,
+"h": "1af2cdc4",
+"en_raw": "and I plan to keep doing so"
+},
+{
+"n": 14,
+"h": "edc61caf",
+"en_raw": "But this story"
+},
+{
+"n": 15,
+"h": "ac68e50a",
+"en_raw": "isn't for just anyone to hear"
+},
+{
+"n": 16,
+"h": "1b6b57de",
+"en_raw": "Just telling it"
+},
+{
+"n": 17,
+"h": "eba7f840",
+"en_raw": "is a very dangerous act"
+},
+{
+"n": 18,
+"h": "c48a0a7b",
+"en_raw": "Wait a second"
+},
+{
+"n": 19,
+"h": "35149856",
+"en_raw": "Kume, my story too..."
+},
+{
+"n": 20,
+"h": "98602ca3",
+"en_raw": "This universe has rules"
+},
+{
+"n": 21,
+"h": "cf41fb32",
+"en_raw": "you know"
+},
+{
+"n": 22,
+"h": "afbbfa2d",
+"en_raw": "For better or worse"
+},
+{
+"n": 23,
+"h": "88d2ce2d",
+"en_raw": "so energy doesn't become lopsided"
+},
+{
+"n": 24,
+"h": "9b19f385",
+"en_raw": "it manipulates events by fate"
+},
+{
+"n": 25,
+"h": "bd059abc",
+"en_raw": "you could call it God's invisible hand"
+},
+{
+"n": 26,
+"h": "793a860c",
+"en_raw": "...Karma"
+},
+{
+"n": 27,
+"h": "90629815",
+"en_raw": "But summoning that truth"
+},
+{
+"n": 28,
+"h": "bd9cf437",
+"en_raw": "takes a bit of"
+},
+{
+"n": 29,
+"h": "082e2c4b",
+"en_raw": "technique"
+},
+{
+"n": 30,
+"h": "ce2456a5",
+"en_raw": "Aleister Crowley, you know"
+},
+{
+"n": 31,
+"h": "b0887d9b",
+"en_raw": "that NM and KS are an item?"
+},
+{
+"n": 32,
+"h": "caa4c736",
+"en_raw": "is what he used"
+},
+{
+"n": 33,
+"h": "fc343177",
+"en_raw": "Foolish scum"
+},
+{
+"n": 34,
+"h": "c618b4f5",
+"en_raw": "call it magic"
+},
+{
+"n": 35,
+"h": "c8123ff7",
+"en_raw": "but really it's just bringing it"
+},
+{
+"n": 36,
+"h": "a7bd70f4",
+"en_raw": "into this world according to"
+},
+{
+"n": 37,
+"h": "ffd44a14",
+"en_raw": "proper rules, that's all"
+},
+{
+"n": 38,
+"h": "193db598",
+"en_raw": "...True judgment, you see"
+},
+{
+"n": 39,
+"h": "7114c461",
+"en_raw": "You don't seem like"
+},
+{
+"n": 40,
+"h": "8f6afe0c",
+"en_raw": "your usual self, Kume"
+},
+{
+"n": 41,
+"h": "5813e80d",
+"en_raw": "...Everything irritates me"
+},
+{
+"n": 42,
+"h": "788071c8",
+"en_raw": "Then what is my"
+},
+{
+"n": 43,
+"h": "df29a606",
+"en_raw": "usual self supposed to be!"
+},
+{
+"n": 44,
+"h": "d3c10fce",
+"en_raw": "...N-nothing like that"
+},
+{
+"n": 45,
+"h": "d39c138d",
+"en_raw": "I didn't mean that"
+},
+{
+"n": 46,
+"h": "ff3deaea",
+"en_raw": "I just thought, you know"
+},
+{
+"n": 47,
+"h": "c64b067b",
+"en_raw": "some hard words"
+},
+{
+"n": 48,
+"h": "54f67fe6",
+"en_raw": "Of course!"
+},
+{
+"n": 49,
+"h": "6b1471d9",
+"en_raw": "You just keep quiet"
+},
+{
+"n": 50,
+"h": "15396beb",
+"en_raw": "and listen"
+},
+{
+"n": 51,
+"h": "4d64dab2",
+"en_raw": "When you say pointless things,"
+},
+{
+"n": 52,
+"h": "b855c310",
+"en_raw": "I lose the will to talk!"
+},
+{
+"n": 53,
+"h": "542d60d0",
+"en_raw": "...Y-yeah"
+},
+{
+"n": 54,
+"h": "ce149ac6",
+"en_raw": "They're all irritating"
+},
+{
+"n": 55,
+"h": "6b728642",
+"en_raw": "Yuasa, Itsumi,"
+},
+{
+"n": 56,
+"h": "aa28743b",
+"en_raw": "Okochi..."
+},
+{
+"n": 57,
+"h": "cd951b62",
+"en_raw": "They're truly worthless"
+},
+{
+"n": 58,
+"h": "7fceeb0d",
+"en_raw": "Yamazaki, Nishi,"
+},
+{
+"n": 59,
+"h": "2ea7c2fc",
+"en_raw": "Sanjo..."
+},
+{
+"n": 60,
+"h": "eede7bfd",
+"en_raw": "and then Shinta Segawa!"
+},
+{
+"n": 61,
+"h": "3d1894c7",
+"en_raw": "Betrayal is the worst act!"
+},
+{
+"n": 62,
+"h": "b3099971",
+"en_raw": "I... I, you see..."
+},
+{
+"n": 63,
+"h": "92959214",
+"en_raw": "I've put up with a lot anyway"
+},
+{
+"n": 64,
+"h": "d6e25e0f",
+"en_raw": "Murase"
+},
+{
+"n": 65,
+"h": "19e76c9e",
+"en_raw": "You understand, don't you?"
+},
+{
+"n": 66,
+"h": "42f6d6c8",
+"en_raw": "I get it, I totally get it"
+},
+{
+"n": 67,
+"h": "58c4224c",
+"en_raw": "...Kids these days"
+},
+{
+"n": 68,
+"h": "c3c51566",
+"en_raw": "it starts with their parents"
+},
+{
+"n": 69,
+"h": "16ef44ba",
+"en_raw": "It's really pitiful"
+},
+{
+"n": 70,
+"h": "7da887b7",
+"en_raw": "Spoiled like elementary schoolers"
+},
+{
+"n": 71,
+"h": "565e69b8",
+"en_raw": "from the start"
+},
+{
+"n": 72,
+"h": "344f5b08",
+"en_raw": "Mount Fuji"
+},
+{
+"n": 73,
+"h": "49be40e8",
+"en_raw": "will erupt eventually"
+},
+{
+"n": 74,
+"h": "74933cc8",
+"en_raw": "and then it's over"
+},
+{
+"n": 75,
+"h": "e26759fb",
+"en_raw": "If it comes to that"
+},
+{
+"n": 76,
+"h": "ceabdb04",
+"en_raw": "crime is an everyday thing"
+},
+{
+"n": 77,
+"h": "c92e36d6",
+"en_raw": "and before that, they can't do"
+},
+{
+"n": 78,
+"h": "09cc6fab",
+"en_raw": "anything alone"
+},
+{
+"n": 79,
+"h": "b5dd2972",
+"en_raw": "Either way"
+},
+{
+"n": 80,
+"h": "5fd2019c",
+"en_raw": "none of them will be saved"
+},
+{
+"n": 81,
+"h": "7ced355d",
+"en_raw": "...But only you and I will be saved"
+},
+{
+"n": 82,
+"h": "64f70082",
+"en_raw": "You'll cooperate, right?"
+},
+{
+"n": 83,
+"h": "7109388a",
+"en_raw": "In offering the final sacrifice"
+},
+{
+"n": 84,
+"h": "b9d9c18c",
+"en_raw": "...The final sacrifice?"
+},
+{
+"n": 85,
+"h": "47451ffe",
+"en_raw": "I carefully checked the horoscope"
+},
+{
+"n": 86,
+"h": "95291c25",
+"en_raw": "and searched the roster for someone"
+},
+{
+"n": 87,
+"h": "ce2663d8",
+"en_raw": "with the matching birth date"
+},
+{
+"n": 88,
+"h": "d98c9483",
+"en_raw": "That's the sacrifice"
+},
+{
+"n": 89,
+"h": "2bfb89d9",
+"en_raw": "...The name?"
+},
+{
+"n": 90,
+"h": "849a8ad5",
+"en_raw": "Class 2-3..."
+},
+{
+"n": 91,
+"h": "6091b53a",
+"en_raw": "Kurumi Shiina"
+},
+{
+"n": 92,
+"h": "2d57f8e9",
+"en_raw": "Stop it already, it's a bad joke"
+},
+{
+"n": 93,
+"h": "2718e094",
+"en_raw": "...I can't blame you for thinking so"
+},
+{
+"n": 94,
+"h": "2efd8b54",
+"en_raw": "This time, all the curses"
+},
+{
+"n": 95,
+"h": "ee118015",
+"en_raw": "were ruined by you"
+},
+{
+"n": 96,
+"h": "87dc45d9",
+"en_raw": "But this time, I'll prove it"
+},
+{
+"n": 97,
+"h": "77cb48cb",
+"en_raw": "No way..."
+},
+{
+"n": 98,
+"h": "d97bc442",
+"en_raw": "You're my friend, right?"
+},
+{
+"n": 99,
+"h": "0cbfde97",
+"en_raw": "You won't say"
+},
+{
+"n": 100,
+"h": "1a59879a",
+"en_raw": "you deny everything now?"
+},
+{
+"n": 101,
+"h": "9cb2d5b2",
+"en_raw": "or something..."
+},
+{
+"n": 102,
+"h": "a3d78b2c",
+"en_raw": "But..."
+},
+{
+"n": 103,
+"h": "5a96260e",
+"en_raw": "But, what?"
+},
+{
+"n": 104,
+"h": "6938b6e7",
+"en_raw": "N-no"
+},
+{
+"n": 105,
+"h": "2df4390a",
+"en_raw": "I can't do it..."
+},
+{
+"n": 106,
+"h": "5f4018de",
+"en_raw": "Hmm"
+},
+{
+"n": 107,
+"h": "9e0a26c1",
+"en_raw": "People really are lonely, huh"
+},
+{
+"n": 108,
+"h": "2592d8f8",
+"en_raw": "Well, I knew that"
+},
+{
+"n": 109,
+"h": "f50e447a",
+"en_raw": "But Murase"
+},
+{
+"n": 110,
+"h": "da26cd97",
+"en_raw": "listen"
+},
+{
+"n": 111,
+"h": "f459a428",
+"en_raw": "You made me say this much"
+},
+{
+"n": 112,
+"h": "2bb49223",
+"en_raw": "you don't think you can go home free, do you"
+},
+{
+"n": 113,
+"h": "2130dd77",
+"en_raw": "...Right?"
+},
+{
+"n": 114,
+"h": "cd6bdddf",
+"en_raw": "What do you mean, free?"
+},
+{
+"n": 115,
+"h": "c35b065d",
+"en_raw": "You've always thought"
+},
+{
+"n": 116,
+"h": "0ce30336",
+"en_raw": "I was a weak, cowardly fighter"
+},
+{
+"n": 117,
+"h": "db88d51c",
+"en_raw": "haven't you?"
+},
+{
+"n": 118,
+"h": "212997c2",
+"en_raw": "But"
+},
+{
+"n": 119,
+"h": "6970b88d",
+"en_raw": "that's a huge misunderstanding"
+},
+{
+"n": 120,
+"h": "3a6ceabd",
+"en_raw": "I guess I have to show at least"
+},
+{
+"n": 121,
+"h": "7aebf873",
+"en_raw": "one piece of proof"
+},
+{
+"n": 122,
+"h": "9aa6174e",
+"en_raw": "You're underestimating me"
+},
+{
+"n": 123,
+"h": "3a6ceabd",
+"en_raw": "I guess I have to show at least"
+},
+{
+"n": 124,
+"h": "7aebf873",
+"en_raw": "one piece of proof"
+},
+{
+"n": 125,
+"h": "fdd724f4",
+"en_raw": "At the crucial moment"
+},
+{
+"n": 126,
+"h": "c65a0f7e",
+"en_raw": "you try to run"
+},
+{
+"n": 127,
+"h": "8c9bf748",
+"en_raw": "...Didn't I say before?"
+},
+{
+"n": 128,
+"h": "b0b1f92a",
+"en_raw": "you'd better"
+},
+{
+"n": 129,
+"h": "87389bb0",
+"en_raw": "that I should hold back"
+},
+{
+"n": 130,
+"h": "08ffe8e2",
+"en_raw": "But Kume, you said"
+},
+{
+"n": 131,
+"h": "52e484f0",
+"en_raw": "I could just listen quietly"
+},
+{
+"n": 132,
+"h": "0c9ee702",
+"en_raw": "...So you stayed quiet,"
+},
+{
+"n": 133,
+"h": "6e591dc3",
+"en_raw": "is that what you mean!"
+},
+{
+"n": 134,
+"h": "9cf9b20f",
+"en_raw": "Murase..."
+},
+{
+"n": 135,
+"h": "1f85b1db",
+"en_raw": "You're cockier"
+},
+{
+"n": 136,
+"h": "9f4b984d",
+"en_raw": "than I thought"
+},
+{
+"n": 137,
+"h": "221330b7",
+"en_raw": "Do you act like that"
+},
+{
+"n": 138,
+"h": "7559ebb5",
+"en_raw": "toward others too?"
+},
+{
+"n": 139,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 140,
+"h": "95b410ab",
+"en_raw": "No"
+},
+{
+"n": 141,
+"h": "316f7840",
+"en_raw": "Usually I only say things"
+},
+{
+"n": 142,
+"h": "f4b59703",
+"en_raw": "the other person"
+},
+{
+"n": 143,
+"h": "4f025554",
+"en_raw": "will take well"
+},
+{
+"n": 144,
+"h": "736060e7",
+"en_raw": "That way"
+},
+{
+"n": 145,
+"h": "7c385b7a",
+"en_raw": "I don't have to think much"
+},
+{
+"n": 146,
+"h": "7bb7567e",
+"en_raw": "But today is different"
+},
+{
+"n": 147,
+"h": "dfe4a654",
+"en_raw": "There was something"
+},
+{
+"n": 148,
+"h": "8473acd5",
+"en_raw": "I had to say"
+},
+{
+"n": 149,
+"h": "928815fc",
+"en_raw": "and that... that story..."
+},
+{
+"n": 150,
+"h": "9440fe45",
+"en_raw": "Kume"
+},
+{
+"n": 151,
+"h": "c6ccf310",
+"en_raw": "didn't listen"
+},
+{
+"n": 152,
+"h": "c3d51fa6",
+"en_raw": "Angolmois!"
+},
+{
+"n": 153,
+"h": "c35b065d",
+"en_raw": "You've always thought"
+},
+{
+"n": 154,
+"h": "0ce30336",
+"en_raw": "I was a weak, cowardly fighter"
+},
+{
+"n": 155,
+"h": "db88d51c",
+"en_raw": "haven't you?"
+},
+{
+"n": 156,
+"h": "212997c2",
+"en_raw": "But"
+},
+{
+"n": 157,
+"h": "6970b88d",
+"en_raw": "that's a huge misunderstanding"
+},
+{
+"n": 158,
+"h": "3a6ceabd",
+"en_raw": "I guess I have to show at least"
+},
+{
+"n": 159,
+"h": "7aebf873",
+"en_raw": "one piece of proof"
+},
+{
+"n": 160,
+"h": "9aa6174e",
+"en_raw": "You're underestimating me"
+},
+{
+"n": 161,
+"h": "3a6ceabd",
+"en_raw": "I guess I have to show at least"
+},
+{
+"n": 162,
+"h": "7aebf873",
+"en_raw": "one piece of proof"
+},
+{
+"n": 163,
+"h": "5d0b33f3",
+"en_raw": "Ah!!"
+},
+{
+"n": 164,
+"h": "fcea2bd6",
+"en_raw": "Kume, what you're doing"
+},
+{
+"n": 165,
+"h": "91873dec",
+"en_raw": "Isn't"
+},
+{
+"n": 166,
+"h": "c9ce15b5",
+"en_raw": "the least bit real"
+},
+{
+"n": 167,
+"h": "7b7f44c9",
+"en_raw": "nowadays"
+},
+{
+"n": 168,
+"h": "09c94316",
+"en_raw": "Put that away quickly"
+},
+{
+"n": 169,
+"h": "cc1cabc3",
+"en_raw": "I'll shout"
+},
+{
+"n": 170,
+"h": "6e4534cd",
+"en_raw": "...What is that,"
+},
+{
+"n": 171,
+"h": "09b84cd3",
+"en_raw": "why are you guys here?"
+},
+{
+"n": 172,
+"h": "29f5b02d",
+"en_raw": "...I won't tell anyone,"
+},
+{
+"n": 173,
+"h": "ca3d274d",
+"en_raw": "I promise"
+},
+{
+"n": 174,
+"h": "4f4c22ce",
+"en_raw": "So, Kume"
+},
+{
+"n": 175,
+"h": "128c4337",
+"en_raw": "listen to my story"
+},
+{
+"n": 176,
+"h": "daca13d4",
+"en_raw": "I understand"
+},
+{
+"n": 177,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 178,
+"h": "14b5eab2",
+"en_raw": "most of the reason"
+},
+{
+"n": 179,
+"h": "e15bb4da",
+"en_raw": "I didn't come here"
+},
+{
+"n": 180,
+"h": "0169832e",
+"en_raw": "to make Kume"
+},
+{
+"n": 181,
+"h": "82870be0",
+"en_raw": "the bad guy"
+},
+{
+"n": 182,
+"h": "1c4eb3bf",
+"en_raw": "That feeling hasn't changed"
+},
+{
+"n": 183,
+"h": "d2744677",
+"en_raw": "Do you think I can trust you"
+},
+{
+"n": 184,
+"h": "55891690",
+"en_raw": "Hey, Murase"
+},
+{
+"n": 185,
+"h": "8e25bdbd",
+"en_raw": "now?"
+},
+{
+"n": 186,
+"h": "5f714571",
+"en_raw": "I never meant"
+},
+{
+"n": 187,
+"h": "1526c62c",
+"en_raw": "to deceive you"
+},
+{
+"n": 188,
+"h": "540c460f",
+"en_raw": "You can't answer that, can you"
+},
+{
+"n": 189,
+"h": "a30163da",
+"en_raw": "Yeah"
+},
+{
+"n": 190,
+"h": "773e6d46",
+"en_raw": "We just happened"
+},
+{
+"n": 191,
+"h": "df263549",
+"en_raw": "to be passing by"
+},
+{
+"n": 192,
+"h": "0b36602a",
+"en_raw": "and overheard a weird story"
+},
+{
+"n": 193,
+"h": "289ac2d2",
+"en_raw": "...Karma and"
+},
+{
+"n": 194,
+"h": "b78345a5",
+"en_raw": "the rules of the universe"
+},
+{
+"n": 195,
+"h": "8b7f0153",
+"en_raw": "Sango, be quiet"
+},
+{
+"n": 196,
+"h": "52d4b2ec",
+"en_raw": "Hey, Kume,"
+},
+{
+"n": 197,
+"h": "8dc39270",
+"en_raw": "that everything you do is a lie"
+},
+{
+"n": 198,
+"h": "e20e18ea",
+"en_raw": "I don't think that"
+},
+{
+"n": 199,
+"h": "5218ee7c",
+"en_raw": "at all"
+},
+{
+"n": 200,
+"h": "c88513aa",
+"en_raw": "Honestly, I'm scared"
+},
+{
+"n": 201,
+"h": "3f669a69",
+"en_raw": "What if what Kume did"
+},
+{
+"n": 202,
+"h": "38312954",
+"en_raw": "becomes real..."
+},
+{
+"n": 203,
+"h": "eb3ae179",
+"en_raw": "...Do you really think so?"
+},
+{
+"n": 204,
+"h": "63d0e9cd",
+"en_raw": "I do"
+},
+{
+"n": 205,
+"h": "3d9a8916",
+"en_raw": "But even so, I don't think"
+},
+{
+"n": 206,
+"h": "87ab8cb9",
+"en_raw": "doing such things is right"
+},
+{
+"n": 207,
+"h": "08d9754d",
+"en_raw": "I'm not without frustration"
+},
+{
+"n": 208,
+"h": "92b61ce2",
+"en_raw": "myself"
+},
+{
+"n": 209,
+"h": "1cffbe17",
+"en_raw": "Yuasa and the others"
+},
+{
+"n": 210,
+"h": "1b15f6b6",
+"en_raw": "irritate me"
+},
+{
+"n": 211,
+"h": "4639a00c",
+"en_raw": "Same for me"
+},
+{
+"n": 212,
+"h": "52386929",
+"en_raw": "...K-Kume, calm down"
+},
+{
+"n": 213,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 214,
+"h": "b65e79b4",
+"en_raw": "...Are you serious, you guys"
+},
+{
+"n": 215,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 216,
+"h": "8e5722ef",
+"en_raw": "Hey, Hirauchi the ugly,"
+},
+{
+"n": 217,
+"h": "c3c7038f",
+"en_raw": "stop these guys"
+},
+{
+"n": 218,
+"h": "ca8155dc",
+"en_raw": "out of pity"
+},
+{
+"n": 219,
+"h": "964fe859",
+"en_raw": "You"
+},
+{
+"n": 220,
+"h": "103d22a2",
+"en_raw": "can get stabbed, fine"
+},
+{
+"n": 221,
+"h": "be064f1c",
+"en_raw": "So Kume really is the culprit..."
+},
+{
+"n": 222,
+"h": "ddfc5261",
+"en_raw": "I suspected so from the start,"
+},
+{
+"n": 223,
+"h": "f01c665f",
+"en_raw": "but I never thought"
+},
+{
+"n": 224,
+"h": "c7e3baf4",
+"en_raw": "I was the target"
+},
+{
+"n": 225,
+"h": "f6ca5f79",
+"en_raw": "Segawa"
+},
+{
+"n": 226,
+"h": "54d79846",
+"en_raw": "told us everything"
+},
+{
+"n": 227,
+"h": "70d3168a",
+"en_raw": "What a troublesome"
+},
+{
+"n": 228,
+"h": "ff787c83",
+"en_raw": "curse maniac"
+},
+{
+"n": 229,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 230,
+"h": "46ff2b6a",
+"en_raw": "But I learned something"
+},
+{
+"n": 231,
+"h": "df6de260",
+"en_raw": "I wondered if you"
+},
+{
+"n": 232,
+"h": "d2c8f539",
+"en_raw": "had such courage"
+},
+{
+"n": 233,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 234,
+"h": "2098dcb8",
+"en_raw": "You really..."
+},
+{
+"n": 235,
+"h": "94968dcf",
+"en_raw": "want to die...?"
+},
+{
+"n": 236,
+"h": "572ca2bd",
+"en_raw": "Huh? I can't hear you"
+},
+{
+"n": 237,
+"h": "3224cc55",
+"en_raw": "...Apologize to Kume"
+},
+{
+"n": 238,
+"h": "66c43a1e",
+"en_raw": "Whoa, an unexpected turn"
+},
+{
+"n": 239,
+"h": "333dacff",
+"en_raw": "Hey, isn't this weird?"
+},
+{
+"n": 240,
+"h": "4b750b19",
+"en_raw": "Did I do something?"
+},
+{
+"n": 241,
+"h": "90b5419f",
+"en_raw": "Who's the cause"
+},
+{
+"n": 242,
+"h": "ffcea881",
+"en_raw": "I now understand well"
+},
+{
+"n": 243,
+"h": "f00aa640",
+"en_raw": "I had no intention"
+},
+{
+"n": 244,
+"h": "9b5f5897",
+"en_raw": "of fighting at all, but..."
+},
+{
+"n": 245,
+"h": "189e842e",
+"en_raw": "Do you want to?"
+},
+{
+"n": 246,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 247,
+"h": "e4dc88f2",
+"en_raw": "...Murase, it's okay"
+},
+{
+"n": 248,
+"h": "9a00d8a5",
+"en_raw": "I'll handle this guy"
+},
+{
+"n": 249,
+"h": "8e97e0fd",
+"en_raw": "I was going to anyway"
+},
+{
+"n": 250,
+"h": "e0f8ac4e",
+"en_raw": "No hangers-on today"
+},
+{
+"n": 251,
+"h": "ba05ff20",
+"en_raw": "perfect timing"
+},
+{
+"n": 252,
+"h": "f5cca779",
+"en_raw": "Kume, I'm rooting for you"
+},
+{
+"n": 253,
+"h": "017ad828",
+"en_raw": "This idiot, short as he is,"
+},
+{
+"n": 254,
+"h": "8ea33dea",
+"en_raw": "is fast on his feet"
+},
+{
+"n": 255,
+"h": "9c69a594",
+"en_raw": "so don't let him escape"
+},
+{
+"n": 256,
+"h": "4782945f",
+"en_raw": "Shut up, ugly!"
+},
+{
+"n": 257,
+"h": "bb1c47f5",
+"en_raw": "You guys are the worst"
+},
+{
+"n": 258,
+"h": "12f37d69",
+"en_raw": "Gloomy, nasty..."
+},
+{
+"n": 259,
+"h": "3bbc41c3",
+"en_raw": "I'm starting to pity you"
+},
+{
+"n": 260,
+"h": "355859b3",
+"en_raw": "...Heh,"
+},
+{
+"n": 261,
+"h": "44909886",
+"en_raw": "but the pitiful one now"
+},
+{
+"n": 262,
+"h": "58831429",
+"en_raw": "is you, Yuasa"
+},
+{
+"n": 263,
+"h": "9d520e20",
+"en_raw": "Today, there's no"
+},
+{
+"n": 264,
+"h": "8e5ba55c",
+"en_raw": "yes-man, no"
+},
+{
+"n": 265,
+"h": "328142a8",
+"en_raw": "reliable big guy"
+},
+{
+"n": 266,
+"h": "e72d49c8",
+"en_raw": "...Kume, did you even have"
+},
+{
+"n": 267,
+"h": "e748d465",
+"en_raw": "the feeling to call someone pitiful?"
+},
+{
+"n": 268,
+"h": "d7169203",
+"en_raw": "Strange, whatever you say today"
+},
+{
+"n": 269,
+"h": "2a984d02",
+"en_raw": "I'm not frustrated"
+},
+{
+"n": 270,
+"h": "eb81e89f",
+"en_raw": "...Y-you're doing it?"
+},
+{
+"n": 271,
+"h": "e4e14aa0",
+"en_raw": "It's a crime"
+},
+{
+"n": 272,
+"h": "de11bc52",
+"en_raw": "Even having a knife like that"
+},
+{
+"n": 273,
+"h": "3fc6f8c5",
+"en_raw": "is..."
+},
+{
+"n": 274,
+"h": "e7638fd2",
+"en_raw": "Say what you like!"
+},
+{
+"n": 275,
+"h": "4229e79d",
+"en_raw": "Ah"
+},
+{
+"n": 276,
+"h": "9960bd0f",
+"en_raw": "Super skunk"
+},
+{
+"n": 277,
+"h": "513c9831",
+"en_raw": "amazing speed!"
+},
+{
+"n": 278,
+"h": "8cdc4ed4",
+"en_raw": "The worst!! So uncool!!"
+},
+{
+"n": 279,
+"h": "4db0672c",
+"en_raw": "Never come to school again!!"
+},
+{
+"n": 280,
+"h": "e05d1a92",
+"en_raw": "Murase..."
+},
+{
+"n": 281,
+"h": "59eae8dc",
+"en_raw": "....."
+},
+{
+"n": 282,
+"h": "992ceb2c",
+"en_raw": "...Murase, I'm going home"
+},
+{
+"n": 283,
+"h": "df72d7f3",
+"en_raw": "Sorry to ask"
+},
+{
+"n": 284,
+"h": "6a980eca",
+"en_raw": "Apologize to Segawa for me"
+},
+{
+"n": 285,
+"h": "c98349f5",
+"en_raw": "...Okay,"
+},
+{
+"n": 286,
+"h": "5a02be2f",
+"en_raw": "I'll call him"
+},
+{
+"n": 287,
+"h": "e9b53a73",
+"en_raw": "Then"
+},
+{
+"n": 288,
+"h": "1717d26c",
+"en_raw": "...See you"
+},
+{
+"n": 289,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 290,
+"h": "ce6dfb69",
+"en_raw": "...Good night, Kume"
+},
+{
+"n": 291,
+"h": "09b3e2f2",
+"en_raw": "There, that attitude!"
+},
+{
+"n": 292,
+"h": "875b956b",
+"en_raw": "You too make me"
+},
+{
+"n": 293,
+"h": "dc70b932",
+"en_raw": "endure even more..."
+},
+{
+"n": 294,
+"h": "93ebfbca",
+"en_raw": "Like those guys, you too"
+},
+{
+"n": 295,
+"h": "647eba5c",
+"en_raw": "can't understand my feelings?"
+},
+{
+"n": 296,
+"h": "9d79722e",
+"en_raw": "You come this far and go home?"
+},
+{
+"n": 297,
+"h": "8a031c3a",
+"en_raw": "Sure enough"
+},
+{
+"n": 298,
+"h": "e25491a3",
+"en_raw": "...That's just like you, maybe"
+},
+{
+"n": 299,
+"h": "eeb407a0",
+"en_raw": "Really, I'm disappointed..."
+},
+{
+"n": 300,
+"h": "9ed8cfe6",
+"en_raw": "Seems I didn't even need to"
+},
+{
+"n": 301,
+"h": "f4261565",
+"en_raw": "lay a hand on you"
+},
+{
+"n": 302,
+"h": "ce0dcd31",
+"en_raw": "...Coward"
+}
+]
+}

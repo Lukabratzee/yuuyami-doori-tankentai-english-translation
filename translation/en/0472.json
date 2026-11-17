@@ -1,0 +1,889 @@
+{
+"file": 472,
+"paths": [
+"d008/d024/f014",
+"d008/d024/f038"
+],
+"lines": [
+{
+"n": 0,
+"h": "07c40cbe",
+"en_raw": "Sorry to bother you"
+},
+{
+"n": 1,
+"h": "ed42cc0c",
+"en_raw": "Hey, is that of yours a performance?"
+},
+{
+"n": 2,
+"h": "461c6148",
+"en_raw": "Does it look like one?"
+},
+{
+"n": 3,
+"h": "e5d1aa6d",
+"en_raw": "Illness, right"
+},
+{
+"n": 4,
+"h": "2a480d6d",
+"en_raw": "Then I suppose it is"
+},
+{
+"n": 5,
+"h": "28c2fb88",
+"en_raw": "May I give my impression?"
+},
+{
+"n": 6,
+"h": "cf30ffeb",
+"en_raw": "Go ahead"
+},
+{
+"n": 7,
+"h": "e2caad0e",
+"en_raw": "Unchanging, boring"
+},
+{
+"n": 8,
+"h": "25fd71c4",
+"en_raw": "Thank you"
+},
+{
+"n": 9,
+"h": "2aa18f4e",
+"en_raw": "Hey"
+},
+{
+"n": 10,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 11,
+"h": "d4ac48d0",
+"en_raw": "Every day, every day, every day"
+},
+{
+"n": 12,
+"h": "a3d0b061",
+"en_raw": "you do nothing but the same thing"
+},
+{
+"n": 13,
+"h": "6e88504b",
+"en_raw": "though nobody is watching anymore"
+},
+{
+"n": 14,
+"h": "4e0ecdca",
+"en_raw": "like flowing water"
+},
+{
+"n": 15,
+"h": "186232f6",
+"en_raw": "you waste your life"
+},
+{
+"n": 16,
+"h": "40fd8d29",
+"en_raw": "That's what you think now, isn't it?"
+},
+{
+"n": 17,
+"h": "71440534",
+"en_raw": "...A super-power user?"
+},
+{
+"n": 18,
+"h": "2aa18f4e",
+"en_raw": "Hey"
+},
+{
+"n": 19,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 20,
+"h": "a19189e7",
+"en_raw": "Sorry"
+},
+{
+"n": 21,
+"h": "a5975641",
+"en_raw": "about the Hime Grove"
+},
+{
+"n": 22,
+"h": "db6468a5",
+"en_raw": "Are you and I"
+},
+{
+"n": 23,
+"h": "f155a901",
+"en_raw": "acquaintances?"
+},
+{
+"n": 24,
+"h": "8deb2f08",
+"en_raw": "I think I can say we are"
+},
+{
+"n": 25,
+"h": "f8f15212",
+"en_raw": "I don't know your name, though"
+},
+{
+"n": 26,
+"h": "b575ae92",
+"en_raw": "...Sango, that's my name"
+},
+{
+"n": 27,
+"h": "212493a0",
+"en_raw": "Sango, do you need something?"
+},
+{
+"n": 28,
+"h": "cd3ab834",
+"en_raw": "Since we're acquaintances"
+},
+{
+"n": 29,
+"h": "14e80e43",
+"en_raw": "can I vent?"
+},
+{
+"n": 30,
+"h": "cf30ffeb",
+"en_raw": "Go ahead"
+},
+{
+"n": 31,
+"h": "6ccb391d",
+"en_raw": "There's a guy who pisses me off"
+},
+{
+"n": 32,
+"h": "f76563fa",
+"en_raw": "so much I want to kill him"
+},
+{
+"n": 33,
+"h": "a63e7ba2",
+"en_raw": "You know what the word"
+},
+{
+"n": 34,
+"h": "0e214880",
+"en_raw": "'kill' means, right?"
+},
+{
+"n": 35,
+"h": "dcda4fdc",
+"en_raw": "Do you want to be angry?"
+},
+{
+"n": 36,
+"h": "191b3847",
+"en_raw": "No"
+},
+{
+"n": 37,
+"h": "e29602f2",
+"en_raw": "Then listen seriously"
+},
+{
+"n": 38,
+"h": "3176c7ad",
+"en_raw": "Then I won't"
+},
+{
+"n": 39,
+"h": "11998dd0",
+"en_raw": "recommend killing"
+},
+{
+"n": 40,
+"h": "da97ac1b",
+"en_raw": "Murder doesn't scare me"
+},
+{
+"n": 41,
+"h": "ac166af0",
+"en_raw": "but he's someone I absolutely can't kill"
+},
+{
+"n": 42,
+"h": "fe04d518",
+"en_raw": "And why is that?"
+},
+{
+"n": 43,
+"h": "fe41a5f8",
+"en_raw": "...Don't you get it?"
+},
+{
+"n": 44,
+"h": "a85d797e",
+"en_raw": "You're not a super-power user, after all"
+},
+{
+"n": 45,
+"h": "b511cc2d",
+"en_raw": "I was hoping"
+},
+{
+"n": 46,
+"h": "02aa0b74",
+"en_raw": "Well, if one thing is clear"
+},
+{
+"n": 47,
+"h": "a37277d8",
+"en_raw": "it's that Sango is"
+},
+{
+"n": 48,
+"h": "7a8fdd81",
+"en_raw": "sleeping normally"
+},
+{
+"n": 49,
+"h": "178b70b3",
+"en_raw": "What do you mean, normally!"
+},
+{
+"n": 50,
+"h": "1817e65d",
+"en_raw": "Day after day"
+},
+{
+"n": 51,
+"h": "08b07326",
+"en_raw": "all you do is spin a stick"
+},
+{
+"n": 52,
+"h": "b9002bb1",
+"en_raw": "where does your sense of normal"
+},
+{
+"n": 53,
+"h": "e14e24d1",
+"en_raw": "even come from!"
+},
+{
+"n": 54,
+"h": "a8f3c3e5",
+"en_raw": "You're right"
+},
+{
+"n": 55,
+"h": "7f8a338f",
+"en_raw": "I'm..."
+},
+{
+"n": 56,
+"h": "995f331a",
+"en_raw": "Anyway, you shouldn't"
+},
+{
+"n": 57,
+"h": "bb8d6d99",
+"en_raw": "show emotion in a place like this"
+},
+{
+"n": 58,
+"h": "b95323a3",
+"en_raw": "This is a public place"
+},
+{
+"n": 59,
+"h": "71019ede",
+"en_raw": "you see"
+},
+{
+"n": 60,
+"h": "08e171c4",
+"en_raw": "And before you kill"
+},
+{
+"n": 61,
+"h": "6bbe6fa8",
+"en_raw": "it's better to think carefully"
+},
+{
+"n": 62,
+"h": "5a320a91",
+"en_raw": "So who I want to kill is..."
+},
+{
+"n": 63,
+"h": "174bd408",
+"en_raw": "Sango is a strong kid"
+},
+{
+"n": 64,
+"h": "6a84a9c5",
+"en_raw": "If you can kill with that strength"
+},
+{
+"n": 65,
+"h": "b408f9c6",
+"en_raw": "then kill"
+},
+{
+"n": 66,
+"h": "79c10599",
+"en_raw": "But you must remember"
+},
+{
+"n": 67,
+"h": "af7e76f2",
+"en_raw": "that person is also an important"
+},
+{
+"n": 68,
+"h": "5159fc71",
+"en_raw": "part of Sango"
+},
+{
+"n": 69,
+"h": "84d93507",
+"en_raw": "I was wrong to meet you..."
+},
+{
+"n": 70,
+"h": "9740fa07",
+"en_raw": "That was a terrible thing to say"
+},
+{
+"n": 71,
+"h": "71e1fc1a",
+"en_raw": "Hey..."
+},
+{
+"n": 72,
+"h": "55e12497",
+"en_raw": "......."
+},
+{
+"n": 73,
+"h": "2c1b0330",
+"en_raw": "Hey, may I ask something?"
+},
+{
+"n": 74,
+"h": "ab31ff8a",
+"en_raw": "Hey, I said"
+},
+{
+"n": 75,
+"h": "4ca11e5f",
+"en_raw": "You're noisy"
+},
+{
+"n": 76,
+"h": "62423e0d",
+"en_raw": "I'll bury you, damn it!"
+},
+{
+"n": 77,
+"h": "ccffcd45",
+"en_raw": "That's a harsh thing to say"
+},
+{
+"n": 78,
+"h": "b6b3301e",
+"en_raw": "...Oh, looking closely"
+},
+{
+"n": 79,
+"h": "3aa5a47f",
+"en_raw": "you're a girl"
+},
+{
+"n": 80,
+"h": "6296302d",
+"en_raw": "If it looks that way to you"
+},
+{
+"n": 81,
+"h": "8c9d7a2d",
+"en_raw": "is probably it, right?"
+},
+{
+"n": 82,
+"h": "45bdc0c1",
+"en_raw": "Sorry, sorry"
+},
+{
+"n": 83,
+"h": "fe26d890",
+"en_raw": "I'm not angry, I'm not angry"
+},
+{
+"n": 84,
+"h": "b548905c",
+"en_raw": "Lately middle school brats"
+},
+{
+"n": 85,
+"h": "8b7f3b61",
+"en_raw": "keep bothering me"
+},
+{
+"n": 86,
+"h": "7a0982f8",
+"en_raw": "so I decided to ignore them"
+},
+{
+"n": 87,
+"h": "135f4cfa",
+"en_raw": "Girls are fine"
+},
+{
+"n": 88,
+"h": "94450f40",
+"en_raw": "Girls have to help each other"
+},
+{
+"n": 89,
+"h": "2db83887",
+"en_raw": "right?"
+},
+{
+"n": 90,
+"h": "b2f687a2",
+"en_raw": "Even so, at first"
+},
+{
+"n": 91,
+"h": "3bcc9799",
+"en_raw": "you said something harsh"
+},
+{
+"n": 92,
+"h": "cfdc8f0b",
+"en_raw": "That's why, I said I was bad"
+},
+{
+"n": 93,
+"h": "5f72aa1b",
+"en_raw": "As an apology, here's advice"
+},
+{
+"n": 94,
+"h": "ce01951f",
+"en_raw": "for getting rid of misunderstandings"
+},
+{
+"n": 95,
+"h": "21bf3e73",
+"en_raw": "...What is it?"
+},
+{
+"n": 96,
+"h": "95b894f3",
+"en_raw": "LV1"
+},
+{
+"n": 97,
+"h": "81dc55eb",
+"en_raw": "Don't forget your sex appeal"
+},
+{
+"n": 98,
+"h": "9b6294e8",
+"en_raw": "LV2"
+},
+{
+"n": 99,
+"h": "d5389eeb",
+"en_raw": "Make full use of being a woman"
+},
+{
+"n": 100,
+"h": "3b1079cc",
+"en_raw": "LV3..."
+},
+{
+"n": 101,
+"h": "f2e98d76",
+"en_raw": "It's a little dangerous from here"
+},
+{
+"n": 102,
+"h": "ba529fa7",
+"en_raw": "so I can't teach you yet"
+},
+{
+"n": 103,
+"h": "caa28add",
+"en_raw": "That"
+},
+{
+"n": 104,
+"h": "359ebee1",
+"en_raw": "and"
+},
+{
+"n": 105,
+"h": "5d2d59a6",
+"en_raw": "corrections too"
+},
+{
+"n": 106,
+"h": "6d007a9e",
+"en_raw": "will be done in no time"
+},
+{
+"n": 107,
+"h": "960715a7",
+"en_raw": "Right, do your best!"
+},
+{
+"n": 108,
+"h": "1c95e5eb",
+"en_raw": "Right?"
+},
+{
+"n": 109,
+"h": "7997fb28",
+"en_raw": "For girls, experience points are what count"
+},
+{
+"n": 110,
+"h": "1c95e5eb",
+"en_raw": "Right?"
+},
+{
+"n": 111,
+"h": "64ba72b4",
+"en_raw": "Yahoo, girl!"
+},
+{
+"n": 112,
+"h": "71bd41af",
+"en_raw": "Experience points,"
+},
+{
+"n": 113,
+"h": "6e3e6292",
+"en_raw": "are you earning?"
+},
+{
+"n": 114,
+"h": "1c95e5eb",
+"en_raw": "Right?"
+},
+{
+"n": 115,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 116,
+"h": "442b894b",
+"en_raw": "What are you doing?"
+},
+{
+"n": 117,
+"h": "4eecda24",
+"en_raw": "Sorry about that"
+},
+{
+"n": 118,
+"h": "76ae126f",
+"en_raw": "I'm busy right now"
+},
+{
+"n": 119,
+"h": "30b8bd4d",
+"en_raw": "Busy..."
+},
+{
+"n": 120,
+"h": "8bec56e0",
+"en_raw": "Listen, I'm, uh,"
+},
+{
+"n": 121,
+"h": "5d527989",
+"en_raw": "maybe pregnant"
+},
+{
+"n": 122,
+"h": "3764adad",
+"en_raw": "so I have no time for that"
+},
+{
+"n": 123,
+"h": "ddfb7080",
+"en_raw": "My party is in big trouble"
+},
+{
+"n": 124,
+"h": "b8ec8816",
+"en_raw": "Are you okay?"
+},
+{
+"n": 125,
+"h": "9b219807",
+"en_raw": "...Stuck inside a rock!?"
+},
+{
+"n": 126,
+"h": "44a2b4d9",
+"en_raw": "...What's that?"
+},
+{
+"n": 127,
+"h": "957f52c7",
+"en_raw": "...Wiped out"
+},
+{
+"n": 128,
+"h": "2ce4c311",
+"en_raw": "Feeling down?"
+},
+{
+"n": 129,
+"h": "22ce61e8",
+"en_raw": "...Is that what they call being dumbstruck?"
+},
+{
+"n": 130,
+"h": "1a5bb070",
+"en_raw": "It's sudden, but"
+},
+{
+"n": 131,
+"h": "33bf4542",
+"en_raw": "will you listen to my story?"
+},
+{
+"n": 132,
+"h": "60779806",
+"en_raw": "Hey, what's wrong?"
+},
+{
+"n": 133,
+"h": "6ffef303",
+"en_raw": "Sure?"
+},
+{
+"n": 134,
+"h": "407f36a1",
+"en_raw": "Next-gen hardware, say,"
+},
+{
+"n": 135,
+"h": "2e22ed07",
+"en_raw": "the new"
+},
+{
+"n": 136,
+"h": "b51c457a",
+"en_raw": "bullet train, say,"
+},
+{
+"n": 137,
+"h": "e19b28c2",
+"en_raw": "electronic money, say,"
+},
+{
+"n": 138,
+"h": "c5420efb",
+"en_raw": "cloning"
+},
+{
+"n": 139,
+"h": "b90b5506",
+"en_raw": "technology, say,"
+},
+{
+"n": 140,
+"h": "ab18e30c",
+"en_raw": "all"
+},
+{
+"n": 141,
+"h": "20cd78c9",
+"en_raw": "welcome, I tell you"
+},
+{
+"n": 142,
+"h": "6053314d",
+"en_raw": "...When I was little"
+},
+{
+"n": 143,
+"h": "7c6271db",
+"en_raw": "Super-conduct-"
+},
+{
+"n": 144,
+"h": "a441ada2",
+"en_raw": "-ing, that sound"
+},
+{
+"n": 145,
+"h": "00ed9caf",
+"en_raw": "I was drawn to, you see~"
+},
+{
+"n": 146,
+"h": "30e8cc25",
+"en_raw": "What about it?"
+},
+{
+"n": 147,
+"h": "ff25f3e4",
+"en_raw": "I, you see"
+},
+{
+"n": 148,
+"h": "8090a5b9",
+"en_raw": "deeply respect master-grade human"
+},
+{
+"n": 149,
+"h": "233187b8",
+"en_raw": "technology"
+},
+{
+"n": 150,
+"h": "9375e206",
+"en_raw": "I respect it a lot, you see"
+},
+{
+"n": 151,
+"h": "e219ab89",
+"en_raw": "...Nuclear tests and nuclear plants"
+},
+{
+"n": 152,
+"h": "afa6026a",
+"en_raw": "seem a bit risky, but"
+},
+{
+"n": 153,
+"h": "04e9e04b",
+"en_raw": "What's this about, in short?"
+},
+{
+"n": 154,
+"h": "1abd4a4c",
+"en_raw": "And then, along with that"
+},
+{
+"n": 155,
+"h": "25e84bf5",
+"en_raw": "what pops up"
+},
+{
+"n": 156,
+"h": "d84b358a",
+"en_raw": "is that humanity will perish"
+},
+{
+"n": 157,
+"h": "ef3ce363",
+"en_raw": "that negative story"
+},
+{
+"n": 158,
+"h": "b36b3416",
+"en_raw": "Just hearing someone in a bar"
+},
+{
+"n": 159,
+"h": "34960298",
+"en_raw": "talk about that"
+},
+{
+"n": 160,
+"h": "7054ad58",
+"en_raw": "my heart pounds"
+},
+{
+"n": 161,
+"h": "c5f8936b",
+"en_raw": "and I can't sleep..."
+},
+{
+"n": 162,
+"h": "8017ebf3",
+"en_raw": "So you want to ask what I think?"
+},
+{
+"n": 163,
+"h": "9b1a554d",
+"en_raw": "Yes, I want to ask"
+},
+{
+"n": 164,
+"h": "5b9225a5",
+"en_raw": "...I mean"
+},
+{
+"n": 165,
+"h": "349093d3",
+"en_raw": "It's the kind of thing"
+},
+{
+"n": 166,
+"h": "b9ef6711",
+"en_raw": "adults agonize over"
+},
+{
+"n": 167,
+"h": "98b96712",
+"en_raw": "Great, the best"
+},
+{
+"n": 168,
+"h": "b369e783",
+"en_raw": "Thanks, I feel better"
+},
+{
+"n": 169,
+"h": "1c95e5eb",
+"en_raw": "Right?"
+},
+{
+"n": 170,
+"h": "545b8bf8",
+"en_raw": "The 21st"
+},
+{
+"n": 171,
+"h": "b1115cf2",
+"en_raw": "century is Egypt, after all"
+},
+{
+"n": 172,
+"h": "02df979b",
+"en_raw": "Sorry"
+},
+{
+"n": 173,
+"h": "08b74980",
+"en_raw": "You're a middle schooler?"
+},
+{
+"n": 174,
+"h": "c3fa3b00",
+"en_raw": "A portrait is 500 yen"
+},
+{
+"n": 175,
+"h": "25a089c6",
+"en_raw": "Oh, no thanks"
+}
+]
+}

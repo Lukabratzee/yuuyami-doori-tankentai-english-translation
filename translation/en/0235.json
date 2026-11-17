@@ -1,0 +1,653 @@
+{
+"file": 235,
+"paths": [
+"d007/d010/f135"
+],
+"lines": [
+{
+"n": 0,
+"h": "9994a7ef",
+"en_raw": "The red one is blood red..."
+},
+{
+"n": 1,
+"h": "7d86867a",
+"en_raw": "dying covered in blood"
+},
+{
+"n": 2,
+"h": "b2446ae3",
+"en_raw": "The blue one, on the contrary"
+},
+{
+"n": 3,
+"h": "6d5045cb",
+"en_raw": "has blood drained out, deathly blue"
+},
+{
+"n": 4,
+"h": "d92c3c5e",
+"en_raw": "The yellow one is yellow from fear"
+},
+{
+"n": 5,
+"h": "57a45b12",
+"en_raw": "going mad..."
+},
+{
+"n": 6,
+"h": "9fa04dd4",
+"en_raw": "I'm scared, Jelly"
+},
+{
+"n": 7,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 8,
+"h": "34eb200f",
+"en_raw": "Kurumi's here~"
+},
+{
+"n": 9,
+"h": "f31c9b65",
+"en_raw": "Hey, Pez, I'm scared"
+},
+{
+"n": 10,
+"h": "02d47437",
+"en_raw": "Hee hee, Cookie-chan"
+},
+{
+"n": 11,
+"h": "adffa942",
+"en_raw": "is so cute when scared"
+},
+{
+"n": 12,
+"h": "937ec3d0",
+"en_raw": "No, it's a really, truly"
+},
+{
+"n": 13,
+"h": "f34a10e0",
+"en_raw": "true story"
+},
+{
+"n": 14,
+"h": "5bf02501",
+"en_raw": "You know, Pez, do you know"
+},
+{
+"n": 15,
+"h": "30116671",
+"en_raw": "the scary story of Underpass Park?"
+},
+{
+"n": 16,
+"h": "9b69480e",
+"en_raw": "The place with the sandbox"
+},
+{
+"n": 17,
+"h": "a44f0ddb",
+"en_raw": "Kurumi wants to play~"
+},
+{
+"n": 18,
+"h": "49950cca",
+"en_raw": "Pez, no~!"
+},
+{
+"n": 19,
+"h": "7cec4e8a",
+"en_raw": "That's a forbidden place"
+},
+{
+"n": 20,
+"h": "e857ad28",
+"en_raw": "If you go in, you'll die"
+},
+{
+"n": 21,
+"h": "26e73aaa",
+"en_raw": "Why?"
+},
+{
+"n": 22,
+"h": "e85f796f",
+"en_raw": "My little sister said"
+},
+{
+"n": 23,
+"h": "398b2783",
+"en_raw": "that park is haunted by"
+},
+{
+"n": 24,
+"h": "95ba5f77",
+"en_raw": "triplet ghosts"
+},
+{
+"n": 25,
+"h": "2ec35b46",
+"en_raw": "Stop, I don't want to hear"
+},
+{
+"n": 26,
+"h": "d4e6195f",
+"en_raw": "They're called the Red One, Blue One"
+},
+{
+"n": 27,
+"h": "988f5564",
+"en_raw": "and Yellow One"
+},
+{
+"n": 28,
+"h": "9aa574db",
+"en_raw": "When you enter that park"
+},
+{
+"n": 29,
+"h": "b5e4cc40",
+"en_raw": "you hear a voice"
+},
+{
+"n": 30,
+"h": "ca8796e3",
+"en_raw": "saying, who'll play with me..."
+},
+{
+"n": 31,
+"h": "f68deef1",
+"en_raw": "But you mustn't answer"
+},
+{
+"n": 32,
+"h": "5b9bf9cb",
+"en_raw": "I mustn't?"
+},
+{
+"n": 33,
+"h": "9994a7ef",
+"en_raw": "The red one is blood red..."
+},
+{
+"n": 34,
+"h": "7d86867a",
+"en_raw": "dying covered in blood"
+},
+{
+"n": 35,
+"h": "b2446ae3",
+"en_raw": "The blue one, on the contrary"
+},
+{
+"n": 36,
+"h": "6d5045cb",
+"en_raw": "has blood drained out, deathly blue"
+},
+{
+"n": 37,
+"h": "d92c3c5e",
+"en_raw": "The yellow one is yellow from fear"
+},
+{
+"n": 38,
+"h": "57a45b12",
+"en_raw": "going mad..."
+},
+{
+"n": 39,
+"h": "e9ce2798",
+"en_raw": "Hmm, sounds fun"
+},
+{
+"n": 40,
+"h": "caab78b0",
+"en_raw": "Obtained the rumor of the Park Triplets"
+},
+{
+"n": 41,
+"h": "598efcbb",
+"en_raw": "Pez, aren't you scared?"
+},
+{
+"n": 42,
+"h": "f6b9d326",
+"en_raw": "Sounds fun"
+},
+{
+"n": 43,
+"h": "1a9e3eaa",
+"en_raw": "Don't go"
+},
+{
+"n": 44,
+"h": "845e7eca",
+"en_raw": "Pez, we won't"
+},
+{
+"n": 45,
+"h": "ba2a4469",
+"en_raw": "be able to see you again"
+},
+{
+"n": 46,
+"h": "4d7fef33",
+"en_raw": "No, no"
+},
+{
+"n": 47,
+"h": "5377ef4b",
+"en_raw": "I don't want to hear it"
+},
+{
+"n": 48,
+"h": "fa7eba43",
+"en_raw": "...E-I~"
+},
+{
+"n": 49,
+"h": "05661cab",
+"en_raw": "E-I, O~"
+},
+{
+"n": 50,
+"h": "4ade2f18",
+"en_raw": "Green pasture!"
+},
+{
+"n": 51,
+"h": "368f239b",
+"en_raw": "Wrong, it's the Merry Pasture"
+},
+{
+"n": 52,
+"h": "8639080e",
+"en_raw": "Oh, Jelly"
+},
+{
+"n": 53,
+"h": "302ac458",
+"en_raw": "That's right, Cookie"
+},
+{
+"n": 54,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 55,
+"h": "ffcd599d",
+"en_raw": "Hey, what's E-I-O?"
+},
+{
+"n": 56,
+"h": "fbc1ff37",
+"en_raw": "Hey, Jelly"
+},
+{
+"n": 57,
+"h": "68810be3",
+"en_raw": "Should we ignore her?"
+},
+{
+"n": 58,
+"h": "051dcc21",
+"en_raw": "We should ignore her"
+},
+{
+"n": 59,
+"h": "e3700268",
+"en_raw": "Then let's ignore her"
+},
+{
+"n": 60,
+"h": "cb40a747",
+"en_raw": "Yeah, let's ignore her"
+},
+{
+"n": 61,
+"h": "e6b36ec0",
+"en_raw": "Hey hey, what are you doing?"
+},
+{
+"n": 62,
+"h": "c8e16e3f",
+"en_raw": "Spread butter..."
+},
+{
+"n": 63,
+"h": "67bfb448",
+"en_raw": "Add lettuce..."
+},
+{
+"n": 64,
+"h": "5552c888",
+"en_raw": "Add ham too..."
+},
+{
+"n": 65,
+"h": "9dd1a5d3",
+"en_raw": "Put it in the basket..."
+},
+{
+"n": 66,
+"h": "5717e6e6",
+"en_raw": "And then, and then, Cookie"
+},
+{
+"n": 67,
+"h": "1da8d925",
+"en_raw": "bring tea too..."
+},
+{
+"n": 68,
+"h": "9f654048",
+"en_raw": "Hey hey"
+},
+{
+"n": 69,
+"h": "db040bd4",
+"en_raw": "What's that about?"
+},
+{
+"n": 70,
+"h": "2017102d",
+"en_raw": "...Kurumi wants to join too"
+},
+{
+"n": 71,
+"h": "974a8018",
+"en_raw": "Hey, Jelly?"
+},
+{
+"n": 72,
+"h": "fe7978fc",
+"en_raw": "What is it, Cookie?"
+},
+{
+"n": 73,
+"h": "68810be3",
+"en_raw": "Should we ignore her?"
+},
+{
+"n": 74,
+"h": "051dcc21",
+"en_raw": "We should ignore her"
+},
+{
+"n": 75,
+"h": "974a8018",
+"en_raw": "Hey, Jelly?"
+},
+{
+"n": 76,
+"h": "fe7978fc",
+"en_raw": "What is it, Cookie?"
+},
+{
+"n": 77,
+"h": "912f39f7",
+"en_raw": "A weird girl came"
+},
+{
+"n": 78,
+"h": "1c286eba",
+"en_raw": "What do we do?"
+},
+{
+"n": 79,
+"h": "d79659ec",
+"en_raw": "Yeah, what do we do?"
+},
+{
+"n": 80,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 81,
+"h": "214e7bc3",
+"en_raw": "...Giraffe?"
+},
+{
+"n": 82,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 83,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 84,
+"h": "3cc6575a",
+"en_raw": "...Oh, I get it!"
+},
+{
+"n": 85,
+"h": "f33a25b4",
+"en_raw": "It's about food!"
+},
+{
+"n": 86,
+"h": "9c8b5417",
+"en_raw": "Jelly, Cookie, um"
+},
+{
+"n": 87,
+"h": "a68c3757",
+"en_raw": "...Tell me, secretly?"
+},
+{
+"n": 88,
+"h": "37520fde",
+"en_raw": "Kurumi doesn't get it"
+},
+{
+"n": 89,
+"h": "9c3b5b89",
+"en_raw": "Hey, go away!"
+},
+{
+"n": 90,
+"h": "0918fb52",
+"en_raw": "Go away!"
+},
+{
+"n": 91,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 92,
+"h": "6b558282",
+"en_raw": "...Koala?"
+},
+{
+"n": 93,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 94,
+"h": "4f358b5f",
+"en_raw": "...Cola?"
+},
+{
+"n": 95,
+"h": "675ef19a",
+"en_raw": "Something starting with Ko..."
+},
+{
+"n": 96,
+"h": "675ef19a",
+"en_raw": "Something starting with Ko..."
+},
+{
+"n": 97,
+"h": "939233d5",
+"en_raw": "It doesn't have to start with Ko"
+},
+{
+"n": 98,
+"h": "34adaf37",
+"en_raw": "Jelly, Jelly, Cookie, Cookie"
+},
+{
+"n": 99,
+"h": "34adaf37",
+"en_raw": "Jelly, Jelly, Cookie, Cookie"
+},
+{
+"n": 100,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 101,
+"h": "a32757fa",
+"en_raw": "...Match?"
+},
+{
+"n": 102,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 103,
+"h": "bbeb26b1",
+"en_raw": "...Cheese?"
+},
+{
+"n": 104,
+"h": "e51fc466",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 105,
+"h": "da5f6c49",
+"en_raw": "...Pez?"
+},
+{
+"n": 106,
+"h": "775a5822",
+"en_raw": "Pez, I'm Cookie"
+},
+{
+"n": 107,
+"h": "25add41f",
+"en_raw": "Nice to meet you"
+},
+{
+"n": 108,
+"h": "f7d409fe",
+"en_raw": "Pez, I'm Jelly"
+},
+{
+"n": 109,
+"h": "84228bce",
+"en_raw": "...Not Zelly"
+},
+{
+"n": 110,
+"h": "a538af34",
+"en_raw": "It's Jelly, okay?"
+},
+{
+"n": 111,
+"h": "7c3abe94",
+"en_raw": "Jelly, Cookie"
+},
+{
+"n": 112,
+"h": "57da40d5",
+"en_raw": "Pez?"
+},
+{
+"n": 113,
+"h": "0774ffcc",
+"en_raw": "Yeah"
+},
+{
+"n": 114,
+"h": "5ba4bcbd",
+"en_raw": "...That's right"
+},
+{
+"n": 115,
+"h": "1136b586",
+"en_raw": "Nice to meet you, Pez"
+},
+{
+"n": 116,
+"h": "ea53bf7e",
+"en_raw": "Let's be friends, Pez"
+},
+{
+"n": 117,
+"h": "12020a72",
+"en_raw": "I'm here~"
+},
+{
+"n": 118,
+"h": "12acd094",
+"en_raw": "Ni hao, Pez"
+},
+{
+"n": 119,
+"h": "11fc0cb8",
+"en_raw": "Who am I?"
+},
+{
+"n": 120,
+"h": "4da30a76",
+"en_raw": "Um, you're Jelly-chan"
+},
+{
+"n": 121,
+"h": "b550a4bd",
+"en_raw": "Correct"
+},
+{
+"n": 122,
+"h": "ff3455df",
+"en_raw": "Amore, Pez"
+},
+{
+"n": 123,
+"h": "11fc0cb8",
+"en_raw": "Who am I?"
+},
+{
+"n": 124,
+"h": "4f026046",
+"en_raw": "You're Cookie-chan"
+},
+{
+"n": 125,
+"h": "b550a4bd",
+"en_raw": "Correct"
+},
+{
+"n": 126,
+"h": "3c9f2827",
+"en_raw": "We're best friends, right?"
+},
+{
+"n": 127,
+"h": "a058589a",
+"en_raw": "...Right?"
+},
+{
+"n": 128,
+"h": "2c7a30cf",
+"en_raw": "Yeah, best friends!"
+}
+]
+}

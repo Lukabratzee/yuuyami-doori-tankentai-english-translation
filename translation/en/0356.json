@@ -1,0 +1,33 @@
+{
+"file": 356,
+"paths": [
+"d008/d007/f016"
+],
+"lines": [
+{
+"n": 0,
+"h": "55f8316c",
+"en_raw": "Redevelopment area, go in from here?"
+},
+{
+"n": 1,
+"h": "669f2dd0",
+"en_raw": "Go in / Don't  Okay, let's go"
+},
+{
+"n": 2,
+"h": "0357ef1d",
+"en_raw": "Melos!"
+},
+{
+"n": 3,
+"h": "3a88989c",
+"en_raw": "Go into the redevelopment area?"
+},
+{
+"n": 4,
+"h": "f7ce3a79",
+"en_raw": "Go in / Don't  Nope, forget it!"
+}
+]
+}

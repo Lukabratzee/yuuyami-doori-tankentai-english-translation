@@ -1,0 +1,963 @@
+{
+"file": 17,
+"paths": [
+"d002/f613"
+],
+"lines": [
+{
+"n": 0,
+"h": "02dedfca",
+"en_raw": "In the drain hole by the Tama River"
+},
+{
+"n": 1,
+"h": "0fc78d07",
+"en_raw": "there's Mizuko's spirit and a white croc"
+},
+{
+"n": 2,
+"h": "db3fbf61",
+"en_raw": "What do you do about such stupidity?"
+},
+{
+"n": 3,
+"h": "979e439b",
+"en_raw": "What do I do? Nothing"
+},
+{
+"n": 4,
+"h": "8d826165",
+"en_raw": "just ignore it"
+},
+{
+"n": 5,
+"h": "f215b96b",
+"en_raw": "But can you really get into"
+},
+{
+"n": 6,
+"h": "6d1ef316",
+"en_raw": "the Tama River drain hole?"
+},
+{
+"n": 7,
+"h": "f15f250d",
+"en_raw": "Even if you can, it's no good"
+},
+{
+"n": 8,
+"h": "8622cac0",
+"en_raw": "No, I think it'd just stink"
+},
+{
+"n": 9,
+"h": "04430a72",
+"en_raw": "but..."
+},
+{
+"n": 10,
+"h": "4903dd2c",
+"en_raw": "Hey Shiina, what do you think?"
+},
+{
+"n": 11,
+"h": "363310f6",
+"en_raw": "A walk in a narrow dark hole"
+},
+{
+"n": 12,
+"h": "77784cb8",
+"en_raw": "that leads who knows where"
+},
+{
+"n": 13,
+"h": "52870f74",
+"en_raw": "Kurumi wants to see the crocodile"
+},
+{
+"n": 14,
+"h": "535e2c46",
+"en_raw": "I often see it in my dreams"
+},
+{
+"n": 15,
+"h": "664153e7",
+"en_raw": "No exit in sight"
+},
+{
+"n": 16,
+"h": "4a90a20c",
+"en_raw": "Drifting in a pitch-black hole"
+},
+{
+"n": 17,
+"h": "92f3742e",
+"en_raw": "A weird dream..."
+},
+{
+"n": 18,
+"h": "91620ebe",
+"en_raw": "People somehow might have"
+},
+{
+"n": 19,
+"h": "6a92478b",
+"en_raw": "a trait of being drawn to dark holes"
+},
+{
+"n": 20,
+"h": "c1d5fd8d",
+"en_raw": "or something..."
+},
+{
+"n": 21,
+"h": "52870f74",
+"en_raw": "Kurumi wants to see the crocodile"
+},
+{
+"n": 22,
+"h": "003cd7c4",
+"en_raw": "Hey Shiina, shall we go in?"
+},
+{
+"n": 23,
+"h": "195e4b91",
+"en_raw": "Shall we go?"
+},
+{
+"n": 24,
+"h": "df98f8de",
+"en_raw": "So in the end we'll go where"
+},
+{
+"n": 25,
+"h": "a18ffb37",
+"en_raw": "Sango wants to go"
+},
+{
+"n": 26,
+"h": "818f9546",
+"en_raw": "Because the places Nao goes"
+},
+{
+"n": 27,
+"h": "87ecaf57",
+"en_raw": "aren't fun"
+},
+{
+"n": 28,
+"h": "15d4804a",
+"en_raw": "Hey Nao, a sewer,"
+},
+{
+"n": 29,
+"h": "c90a683c",
+"en_raw": "where do you get in?"
+},
+{
+"n": 30,
+"h": "012461a4",
+"en_raw": "The hole under the Tama River bank"
+},
+{
+"n": 31,
+"h": "8c9d7a2d",
+"en_raw": "is probably it, right?"
+},
+{
+"n": 32,
+"h": "88abf1b0",
+"en_raw": "But you can't get in there"
+},
+{
+"n": 33,
+"h": "e5e0a92a",
+"en_raw": "You won't know until you go"
+},
+{
+"n": 34,
+"h": "ab96bfd8",
+"en_raw": "We did get in, but..."
+},
+{
+"n": 35,
+"h": "46262920",
+"en_raw": "It was even worse"
+},
+{
+"n": 36,
+"h": "ddae8f35",
+"en_raw": "than I'd imagined"
+},
+{
+"n": 37,
+"h": "1b4f26be",
+"en_raw": "It was definitely a gross"
+},
+{
+"n": 38,
+"h": "23d7f4d1",
+"en_raw": "place"
+},
+{
+"n": 39,
+"h": "e0a919b3",
+"en_raw": "But I"
+},
+{
+"n": 40,
+"h": "26ad860b",
+"en_raw": "had a weird feeling"
+},
+{
+"n": 41,
+"h": "b4d058b1",
+"en_raw": "No crocodile, huh"
+},
+{
+"n": 42,
+"h": "693bc667",
+"en_raw": "Hey Sango, what's"
+},
+{
+"n": 43,
+"h": "0e9b4ee8",
+"en_raw": "back there, I wonder..."
+},
+{
+"n": 44,
+"h": "349ba4c1",
+"en_raw": "If Nao says he can't go"
+},
+{
+"n": 45,
+"h": "b3becd57",
+"en_raw": "I'll go, but..."
+},
+{
+"n": 46,
+"h": "f37768bd",
+"en_raw": "I don't feel like it..."
+},
+{
+"n": 47,
+"h": "76f923f7",
+"en_raw": "Forget the white crocodile"
+},
+{
+"n": 48,
+"h": "4e603d51",
+"en_raw": "coming back alive was a miracle"
+},
+{
+"n": 49,
+"h": "37d24b36",
+"en_raw": "Sango, didn't you feel"
+},
+{
+"n": 50,
+"h": "d36019a9",
+"en_raw": "anything in that place?"
+},
+{
+"n": 51,
+"h": "774882fc",
+"en_raw": "...Feel what?"
+},
+{
+"n": 52,
+"h": "2ed00555",
+"en_raw": "I don't know, how to put it"
+},
+{
+"n": 53,
+"h": "3f27579e",
+"en_raw": "...a weird feeling"
+},
+{
+"n": 54,
+"h": "7c0d9aa2",
+"en_raw": "What's that?"
+},
+{
+"n": 55,
+"h": "84eed3f4",
+"en_raw": "Sango, you said"
+},
+{
+"n": 56,
+"h": "f32c8608",
+"en_raw": "people are drawn to dark holes..."
+},
+{
+"n": 57,
+"h": "e56e4095",
+"en_raw": "Oh, that was a lie"
+},
+{
+"n": 58,
+"h": "a0c5ebd7",
+"en_raw": "I mean, Nao"
+},
+{
+"n": 59,
+"h": "b5cb08e0",
+"en_raw": "in a life-and-death"
+},
+{
+"n": 60,
+"h": "bd64c0b8",
+"en_raw": "situation like that"
+},
+{
+"n": 61,
+"h": "71105256",
+"en_raw": "where would I have the time"
+},
+{
+"n": 62,
+"h": "7ddca890",
+"en_raw": "to get all sensitive?"
+},
+{
+"n": 63,
+"h": "c81102e0",
+"en_raw": "But that place where the light came in"
+},
+{
+"n": 64,
+"h": "9bbb3cb5",
+"en_raw": "was really strange..."
+},
+{
+"n": 65,
+"h": "165aa208",
+"en_raw": "right... it felt nostalgic"
+},
+{
+"n": 66,
+"h": "7871da88",
+"en_raw": "I felt nostalgic"
+},
+{
+"n": 67,
+"h": "05133fd3",
+"en_raw": "I haven't been this scared since"
+},
+{
+"n": 68,
+"h": "2758c437",
+"en_raw": "the elementary school field trip"
+},
+{
+"n": 69,
+"h": "4c9aa8f9",
+"en_raw": "when I sat on a caterpillar"
+},
+{
+"n": 70,
+"h": "c385d65a",
+"en_raw": "with my backside..."
+},
+{
+"n": 71,
+"h": "771f9015",
+"en_raw": "...Listen"
+},
+{
+"n": 72,
+"h": "fd452c6d",
+"en_raw": "I want to go once more, but"
+},
+{
+"n": 73,
+"h": "3457d205",
+"en_raw": "I've had enough"
+},
+{
+"n": 74,
+"h": "355c33c0",
+"en_raw": "If you want to go so badly"
+},
+{
+"n": 75,
+"h": "5e3bacd2",
+"en_raw": "Nao, you go first"
+},
+{
+"n": 76,
+"h": "fadeb2d5",
+"en_raw": "ahead into that darkness"
+},
+{
+"n": 77,
+"h": "ebb38bb3",
+"en_raw": "Anyway, hey"
+},
+{
+"n": 78,
+"h": "778e76ce",
+"en_raw": "let's go once more"
+},
+{
+"n": 79,
+"h": "bd105dfe",
+"en_raw": "I feel like"
+},
+{
+"n": 80,
+"h": "2843590c",
+"en_raw": "there's something there"
+},
+{
+"n": 81,
+"h": "fa531a1d",
+"en_raw": "Nao, what's gotten into you?"
+},
+{
+"n": 82,
+"h": "6a745f05",
+"en_raw": "Hey, this..."
+},
+{
+"n": 83,
+"h": "1d89b492",
+"en_raw": "It's a face, isn't it?"
+},
+{
+"n": 84,
+"h": "63f15d12",
+"en_raw": "It might look like one"
+},
+{
+"n": 85,
+"h": "58cfef15",
+"en_raw": "A baby's crying voice"
+},
+{
+"n": 86,
+"h": "e589cee7",
+"en_raw": "A stone with a baby's face..."
+},
+{
+"n": 87,
+"h": "dbf52814",
+"en_raw": "You're overthinking it"
+},
+{
+"n": 88,
+"h": "d9b6439f",
+"en_raw": "What should I do with this stone..."
+},
+{
+"n": 89,
+"h": "bac64dd6",
+"en_raw": "What do you mean, throw it away?"
+},
+{
+"n": 90,
+"h": "45d40433",
+"en_raw": "Throw it where?"
+},
+{
+"n": 91,
+"h": "2f8d77ab",
+"en_raw": "Is there a place"
+},
+{
+"n": 92,
+"h": "1affac92",
+"en_raw": "for throwing away stones?"
+},
+{
+"n": 93,
+"h": "9410a134",
+"en_raw": "Leave it on the riverbank?"
+},
+{
+"n": 94,
+"h": "af4e4e44",
+"en_raw": "If that'll satisfy you"
+},
+{
+"n": 95,
+"h": "5407dd9c",
+"en_raw": "You're throwing out that nice stone?"
+},
+{
+"n": 96,
+"h": "99f86293",
+"en_raw": "If you're throwing it, Kurumi"
+},
+{
+"n": 97,
+"h": "e48b60c4",
+"en_raw": "will take it"
+},
+{
+"n": 98,
+"h": "ab2e295a",
+"en_raw": "No"
+},
+{
+"n": 99,
+"h": "e4360720",
+"en_raw": "Then, as a souvenir"
+},
+{
+"n": 100,
+"h": "8ce236e4",
+"en_raw": "for Kasuka-chan?"
+},
+{
+"n": 101,
+"h": "92b2b7bc",
+"en_raw": "Really, no"
+},
+{
+"n": 102,
+"h": "8834a69d",
+"en_raw": "You say that, Shiina, but"
+},
+{
+"n": 103,
+"h": "b288f685",
+"en_raw": "you'll keep it for yourself"
+},
+{
+"n": 104,
+"h": "4151860d",
+"en_raw": "Nao, you're mean!"
+},
+{
+"n": 105,
+"h": "eb962f6b",
+"en_raw": "Just give it to her"
+},
+{
+"n": 106,
+"h": "8339245e",
+"en_raw": "Why are you so fixated?"
+},
+{
+"n": 107,
+"h": "f0487645",
+"en_raw": "I'm not really"
+},
+{
+"n": 108,
+"h": "c948ff8f",
+"en_raw": "fixated"
+},
+{
+"n": 109,
+"h": "a3d78b2c",
+"en_raw": "But..."
+},
+{
+"n": 110,
+"h": "74e97a06",
+"en_raw": "I think maybe I should return it"
+},
+{
+"n": 111,
+"h": "93f56c24",
+"en_raw": "Return Rome's things to Rome, huh"
+},
+{
+"n": 112,
+"h": "76fefa85",
+"en_raw": "But I'm never going"
+},
+{
+"n": 113,
+"h": "dae3495e",
+"en_raw": "in there again"
+},
+{
+"n": 114,
+"h": "6f7a5250",
+"en_raw": "Then at least"
+},
+{
+"n": 115,
+"h": "24669d27",
+"en_raw": "let's put it back in the river"
+},
+{
+"n": 116,
+"h": "c58c802c",
+"en_raw": "We could get down to the riverbank"
+},
+{
+"n": 117,
+"h": "becb5ced",
+"en_raw": "past the embankment road, right?"
+},
+{
+"n": 118,
+"h": "ff27f7c9",
+"en_raw": "How kind of you..."
+},
+{
+"n": 119,
+"h": "6f01a0eb",
+"en_raw": "...What should I do with this stone?"
+},
+{
+"n": 120,
+"h": "f8de8a86",
+"en_raw": "That's why, if you're hesitating"
+},
+{
+"n": 121,
+"h": "2b327300",
+"en_raw": "just give it to Shiina"
+},
+{
+"n": 122,
+"h": "76a8d42a",
+"en_raw": "Kurumi will show it"
+},
+{
+"n": 123,
+"h": "261e5308",
+"en_raw": "to Kasuka-chan"
+},
+{
+"n": 124,
+"h": "0d475bae",
+"en_raw": "Hey, in the end, what was"
+},
+{
+"n": 125,
+"h": "f9e41284",
+"en_raw": "that place..."
+},
+{
+"n": 126,
+"h": "cab01d7d",
+"en_raw": "What, now that the stone"
+},
+{
+"n": 127,
+"h": "7a839900",
+"en_raw": "has been dealt with,"
+},
+{
+"n": 128,
+"h": "fd4f1b09",
+"en_raw": "you are back on that again?"
+},
+{
+"n": 129,
+"h": "7a760052",
+"en_raw": "It was a shiny place"
+},
+{
+"n": 130,
+"h": "21cb2d24",
+"en_raw": "Why was only that spot"
+},
+{
+"n": 131,
+"h": "df024060",
+"en_raw": "glowing..."
+},
+{
+"n": 132,
+"h": "d0b24ed6",
+"en_raw": "Light must have been leaking"
+},
+{
+"n": 133,
+"h": "bdfc9b15",
+"en_raw": "from the manhole above"
+},
+{
+"n": 134,
+"h": "5ef4d137",
+"en_raw": "Then that crying voice or..."
+},
+{
+"n": 135,
+"h": "5abba78f",
+"en_raw": "Stop it, you're not"
+},
+{
+"n": 136,
+"h": "391db3e1",
+"en_raw": "the Toilet Gang"
+},
+{
+"n": 137,
+"h": "472ee991",
+"en_raw": "It's your imagination"
+},
+{
+"n": 138,
+"h": "490f216e",
+"en_raw": "But..."
+},
+{
+"n": 139,
+"h": "e757bd6e",
+"en_raw": "Then, Nao"
+},
+{
+"n": 140,
+"h": "38783f0f",
+"en_raw": "why not check yourself which"
+},
+{
+"n": 141,
+"h": "b845b2b2",
+"en_raw": "manhole it was?"
+},
+{
+"n": 142,
+"h": "4e63cc06",
+"en_raw": "That hole turned right a few times"
+},
+{
+"n": 143,
+"h": "4d74ade4",
+"en_raw": "but was mostly straight, right?"
+},
+{
+"n": 144,
+"h": "786fafd2",
+"en_raw": "I think we walked quite a way..."
+},
+{
+"n": 145,
+"h": "71d83eb2",
+"en_raw": "Don't put much trust in"
+},
+{
+"n": 146,
+"h": "12d8d909",
+"en_raw": "'we walked quite a way'"
+},
+{
+"n": 147,
+"h": "5e7f5a76",
+"en_raw": "By my gut, let's see"
+},
+{
+"n": 148,
+"h": "7d391c9c",
+"en_raw": "at most we reached Hospital Street"
+},
+{
+"n": 149,
+"h": "accf7700",
+"en_raw": "A manhole on Hospital Street..."
+},
+{
+"n": 150,
+"h": "148ed6ac",
+"en_raw": "Don't take it too seriously"
+},
+{
+"n": 151,
+"h": "5f759e2d",
+"en_raw": "So we were..."
+},
+{
+"n": 152,
+"h": "b2076711",
+"en_raw": "crawling under the maternity clinic"
+},
+{
+"n": 153,
+"h": "6420317f",
+"en_raw": "then"
+},
+{
+"n": 154,
+"h": "1906b15d",
+"en_raw": "You know what a maternity clinic"
+},
+{
+"n": 155,
+"h": "7aebf36a",
+"en_raw": "is, right?"
+},
+{
+"n": 156,
+"h": "51e0125b",
+"en_raw": "...Where babies are born?"
+},
+{
+"n": 157,
+"h": "7a4ebde2",
+"en_raw": "Correct"
+},
+{
+"n": 158,
+"h": "e48b4ce9",
+"en_raw": "Which means"
+},
+{
+"n": 159,
+"h": "6343f574",
+"en_raw": "the disinfectant smell I noticed"
+},
+{
+"n": 160,
+"h": "4b4958eb",
+"en_raw": "and the baby crying Nao heard"
+},
+{
+"n": 161,
+"h": "79e38e42",
+"en_raw": "both make sense, right?"
+},
+{
+"n": 162,
+"h": "d1d55943",
+"en_raw": "Yeah, well, that's true, but..."
+},
+{
+"n": 163,
+"h": "991edbe4",
+"en_raw": "But what about"
+},
+{
+"n": 164,
+"h": "a5f4a0ac",
+"en_raw": "that stone..."
+},
+{
+"n": 165,
+"h": "b18476e2",
+"en_raw": "That was just a stone"
+},
+{
+"n": 166,
+"h": "6b1352fb",
+"en_raw": "...Come to think of it"
+},
+{
+"n": 167,
+"h": "f34fbf2c",
+"en_raw": "we should've shown that stone"
+},
+{
+"n": 168,
+"h": "97e019af",
+"en_raw": "to Yuasa instead of throwing it"
+},
+{
+"n": 169,
+"h": "62b14bc3",
+"en_raw": "Dressing up this story"
+},
+{
+"n": 170,
+"h": "d83fdabf",
+"en_raw": "in all sorts of ways"
+},
+{
+"n": 171,
+"h": "98956a01",
+"en_raw": "that little guy might"
+},
+{
+"n": 172,
+"h": "7db1ca90",
+"en_raw": "have fallen for it"
+},
+{
+"n": 173,
+"h": "6266bbbb",
+"en_raw": "Still, it was kind of nice"
+},
+{
+"n": 174,
+"h": "2268bcc6",
+"en_raw": "What was nice?"
+},
+{
+"n": 175,
+"h": "d6311754",
+"en_raw": "That she seems like a good mom"
+},
+{
+"n": 176,
+"h": "3907e5c5",
+"en_raw": "That feeling"
+},
+{
+"n": 177,
+"h": "35a5eb62",
+"en_raw": "I have no idea"
+},
+{
+"n": 178,
+"h": "85568e2d",
+"en_raw": "If you're glad, I'm glad"
+},
+{
+"n": 179,
+"h": "7b6ebce1",
+"en_raw": "Hey hey, Sango"
+},
+{
+"n": 180,
+"h": "6922aea5",
+"en_raw": "What's a Mizuko?"
+},
+{
+"n": 181,
+"h": "fa81f815",
+"en_raw": "...Dunno"
+},
+{
+"n": 182,
+"h": "ec06e43f",
+"en_raw": "Solved the rumor of the Mizuko"
+},
+{
+"n": 183,
+"h": "e89154f9",
+"en_raw": "What shocked me was that"
+},
+{
+"n": 184,
+"h": "6e64f80f",
+"en_raw": "what flows into the Tama River"
+},
+{
+"n": 185,
+"h": "bd5d58ce",
+"en_raw": "isn't sewage"
+},
+{
+"n": 186,
+"h": "6a4b4ade",
+"en_raw": "but household drainage"
+},
+{
+"n": 187,
+"h": "2184b3fd",
+"en_raw": "Not even knowing that"
+},
+{
+"n": 188,
+"h": "4cbb100f",
+"en_raw": "I was totally embarrassed"
+},
+{
+"n": 189,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 190,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

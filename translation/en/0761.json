@@ -1,0 +1,413 @@
+{
+"file": 761,
+"paths": [
+"d008/d061/f030"
+],
+"lines": [
+{
+"n": 0,
+"h": "e02c7383",
+"en_raw": "Welcome!"
+},
+{
+"n": 1,
+"h": "62935e26",
+"en_raw": "Cheap!"
+},
+{
+"n": 2,
+"h": "826e8272",
+"en_raw": "Spinach today!"
+},
+{
+"n": 3,
+"h": "dfd7ec9c",
+"en_raw": "Ma'am, how about it?"
+},
+{
+"n": 4,
+"h": "0e87675e",
+"en_raw": "Excuse me"
+},
+{
+"n": 5,
+"h": "7630ecab",
+"en_raw": "Do you know the old man"
+},
+{
+"n": 6,
+"h": "78ad8779",
+"en_raw": "who used to stroll around here?"
+},
+{
+"n": 7,
+"h": "7d961f3b",
+"en_raw": "Oh, old man Takagiya"
+},
+{
+"n": 8,
+"h": "76a2b36a",
+"en_raw": "Takagiya...?"
+},
+{
+"n": 9,
+"h": "47d255dc",
+"en_raw": "The deli over there"
+},
+{
+"n": 10,
+"h": "e5510675",
+"en_raw": "You probably eat there after school"
+},
+{
+"n": 11,
+"h": "82421e62",
+"en_raw": "Fried chicken and such..."
+},
+{
+"n": 12,
+"h": "6a7cedbe",
+"en_raw": "Ah, snacking on the way"
+},
+{
+"n": 13,
+"h": "97901161",
+"en_raw": "is forbidden for us..."
+},
+{
+"n": 14,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 15,
+"h": "0ca92850",
+"en_raw": "More importantly, that old man"
+},
+{
+"n": 16,
+"h": "cbdb33a1",
+"en_raw": "I haven't seen him lately"
+},
+{
+"n": 17,
+"h": "e86d7d85",
+"en_raw": "Do you know what happened?"
+},
+{
+"n": 18,
+"h": "eca1f293",
+"en_raw": "...What?"
+},
+{
+"n": 19,
+"h": "287b0aef",
+"en_raw": "that old man"
+},
+{
+"n": 20,
+"h": "4ae551a7",
+"en_raw": "Don't you know what happened to him?"
+},
+{
+"n": 21,
+"h": "9a84dfb5",
+"en_raw": "That old man"
+},
+{
+"n": 22,
+"h": "d6a45eb3",
+"en_raw": "passed away"
+},
+{
+"n": 23,
+"h": "528ddf79",
+"en_raw": "The funeral's on the 6th, they say"
+},
+{
+"n": 24,
+"h": "d8501b77",
+"en_raw": "The shop was closed"
+},
+{
+"n": 25,
+"h": "8c340541",
+"en_raw": "Well, it's bad to say, but"
+},
+{
+"n": 26,
+"h": "ff07a2ff",
+"en_raw": "I bet the Takagiya folks"
+},
+{
+"n": 27,
+"h": "3505904d",
+"en_raw": "are relieved now"
+},
+{
+"n": 28,
+"h": "a11c220d",
+"en_raw": "We run a business too"
+},
+{
+"n": 29,
+"h": "638a9063",
+"en_raw": "so I understand"
+},
+{
+"n": 30,
+"h": "8b08b777",
+"en_raw": "Having an old man like that around"
+},
+{
+"n": 31,
+"h": "0985591b",
+"en_raw": "causes all sorts of, well..."
+},
+{
+"n": 32,
+"h": "5c81a5e1",
+"en_raw": "Did I tell a kid"
+},
+{
+"n": 33,
+"h": "97388cd0",
+"en_raw": "something weird..."
+},
+{
+"n": 34,
+"h": "3cc6d970",
+"en_raw": "Um, excuse me..."
+},
+{
+"n": 35,
+"h": "167c2b2a",
+"en_raw": "What a big dog"
+},
+{
+"n": 36,
+"h": "4519011d",
+"en_raw": "Oh, it's fine"
+},
+{
+"n": 37,
+"h": "da75bbc4",
+"en_raw": "he's well behaved..."
+},
+{
+"n": 38,
+"h": "0ac878f0",
+"en_raw": "Um, do you know the old man"
+},
+{
+"n": 39,
+"h": "6dd62aed",
+"en_raw": "who used to stroll around here?"
+},
+{
+"n": 40,
+"h": "f4af4a67",
+"en_raw": "Old man, you say...?"
+},
+{
+"n": 41,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 42,
+"h": "6912c5dd",
+"en_raw": "The one who strolled in the evening..."
+},
+{
+"n": 43,
+"h": "3e1e8f33",
+"en_raw": "Who could that be"
+},
+{
+"n": 44,
+"h": "45246c08",
+"en_raw": "Sorry"
+},
+{
+"n": 45,
+"h": "598d522d",
+"en_raw": "doesn't seem to know"
+},
+{
+"n": 46,
+"h": "c5d2ad86",
+"en_raw": "Takagiya..."
+},
+{
+"n": 47,
+"h": "1f5067dd",
+"en_raw": "Is this the strolling old man's"
+},
+{
+"n": 48,
+"h": "0a57a458",
+"en_raw": "house...?"
+},
+{
+"n": 49,
+"h": "64f44c7f",
+"en_raw": "How should I put it"
+},
+{
+"n": 50,
+"h": "8105fe13",
+"en_raw": "It's hard to bring up..."
+},
+{
+"n": 51,
+"h": "1704f570",
+"en_raw": "The strolling old man"
+},
+{
+"n": 52,
+"h": "9fb81c57",
+"en_raw": "was around here, right?"
+},
+{
+"n": 53,
+"h": "20a60ada",
+"en_raw": "Maybe he'll come"
+},
+{
+"n": 54,
+"h": "d695e1ce",
+"en_raw": "Should I wait here..."
+},
+{
+"n": 55,
+"h": "45e738ad",
+"en_raw": "Wait / Do other things  Rather than search around"
+},
+{
+"n": 56,
+"h": "4430f204",
+"en_raw": "let's wait..."
+},
+{
+"n": 57,
+"h": "795d4d65",
+"en_raw": "...He's not coming"
+},
+{
+"n": 58,
+"h": "6bdcd9ff",
+"en_raw": "...Is he off today?"
+},
+{
+"n": 59,
+"h": "9ad72a84",
+"en_raw": "Wait a bit more / Ask around  If I wait a bit more"
+},
+{
+"n": 60,
+"h": "e387f573",
+"en_raw": "he'll surely come..."
+},
+{
+"n": 61,
+"h": "90dc2960",
+"en_raw": "Waiting around"
+},
+{
+"n": 62,
+"h": "0e12e982",
+"en_raw": "won't get anywhere..."
+},
+{
+"n": 63,
+"h": "3cc6d970",
+"en_raw": "Um, excuse me..."
+},
+{
+"n": 64,
+"h": "55c6084c",
+"en_raw": "Do you know where the deli"
+},
+{
+"n": 65,
+"h": "d3085665",
+"en_raw": "old man used to go?"
+},
+{
+"n": 66,
+"h": "d839b442",
+"en_raw": "Where that old man went?"
+},
+{
+"n": 67,
+"h": "8d9bb16b",
+"en_raw": "I saw him ambling down the slope"
+},
+{
+"n": 68,
+"h": "7c63a76b",
+"en_raw": "but we're busy too"
+},
+{
+"n": 69,
+"h": "0e87675e",
+"en_raw": "Excuse me"
+},
+{
+"n": 70,
+"h": "a14a1a65",
+"en_raw": "The strolling old man"
+},
+{
+"n": 71,
+"h": "d3085665",
+"en_raw": "old man used to go?"
+},
+{
+"n": 72,
+"h": "46e3f8fc",
+"en_raw": "Where the old man went?"
+},
+{
+"n": 73,
+"h": "0e9b94ed",
+"en_raw": "get lost?"
+},
+{
+"n": 74,
+"h": "932af1d2",
+"en_raw": "Whenever I saw him"
+},
+{
+"n": 75,
+"h": "de4d8bf5",
+"en_raw": "he was heading down this slope..."
+},
+{
+"n": 76,
+"h": "44e6596e",
+"en_raw": "Come to think of it, the other day"
+},
+{
+"n": 77,
+"h": "3d538e9a",
+"en_raw": "I saw him in front of"
+},
+{
+"n": 78,
+"h": "0e5dbfcb",
+"en_raw": "Hirumi Station's north exit"
+},
+{
+"n": 79,
+"h": "b24734f8",
+"en_raw": "He was standing right behind me"
+},
+{
+"n": 80,
+"h": "d34458af",
+"en_raw": "so I was startled"
+}
+]
+}

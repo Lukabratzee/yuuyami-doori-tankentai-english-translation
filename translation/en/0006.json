@@ -1,0 +1,533 @@
+{
+"file": 6,
+"paths": [
+"d002/f591"
+],
+"lines": [
+{
+"n": 0,
+"h": "c44600cb",
+"en_raw": "...Lots of cats?"
+},
+{
+"n": 1,
+"h": "eec2bd72",
+"en_raw": "Shiina, you mean"
+},
+{
+"n": 2,
+"h": "6b1e5c60",
+"en_raw": "a cat gathering?"
+},
+{
+"n": 3,
+"h": "24cf05da",
+"en_raw": "get it at all"
+},
+{
+"n": 4,
+"h": "f2aa2d71",
+"en_raw": "So Kurumi is asking"
+},
+{
+"n": 5,
+"h": "3069edae",
+"en_raw": "whether it's bad-bad or happy"
+},
+{
+"n": 6,
+"h": "5fb71095",
+"en_raw": "I have no idea"
+},
+{
+"n": 7,
+"h": "07fcc144",
+"en_raw": "Nao, translate"
+},
+{
+"n": 8,
+"h": "6b6c6fb5",
+"en_raw": "Shiina, what's bad-bad?"
+},
+{
+"n": 9,
+"h": "e4be788d",
+"en_raw": "C-a-t F-o-r-t-u-n-e"
+},
+{
+"n": 10,
+"h": "f02a7986",
+"en_raw": "is what it is"
+},
+{
+"n": 11,
+"h": "9d66ee60",
+"en_raw": "...Cat fortune-telling?"
+},
+{
+"n": 12,
+"h": "986bec0f",
+"en_raw": "Yes, and it tells you"
+},
+{
+"n": 13,
+"h": "fdb02431",
+"en_raw": "how today will go!"
+},
+{
+"n": 14,
+"h": "913ac213",
+"en_raw": "Oh, I've heard of it"
+},
+{
+"n": 15,
+"h": "a7db9cbb",
+"en_raw": "By the color of the first cat"
+},
+{
+"n": 16,
+"h": "07d8939b",
+"en_raw": "you see that day, you tell your luck, right?"
+},
+{
+"n": 17,
+"h": "6ce301bb",
+"en_raw": "Right, right"
+},
+{
+"n": 18,
+"h": "a36ecf36",
+"en_raw": "So basically, if you see several"
+},
+{
+"n": 19,
+"h": "1e552f14",
+"en_raw": "cats at the same time"
+},
+{
+"n": 20,
+"h": "c36d5769",
+"en_raw": "how does the reading turn out?"
+},
+{
+"n": 21,
+"h": "cb37ebf6",
+"en_raw": "...Is that what you mean?"
+},
+{
+"n": 22,
+"h": "25d863c3",
+"en_raw": "Yes... maybe?"
+},
+{
+"n": 23,
+"h": "17c1ca99",
+"en_raw": "How stupid"
+},
+{
+"n": 24,
+"h": "ffd8cd5e",
+"en_raw": "So today Kurumi"
+},
+{
+"n": 25,
+"h": "c03aef9c",
+"en_raw": "is going to meet the kitties"
+},
+{
+"n": 26,
+"h": "3bf9a358",
+"en_raw": "The place is... Kurumazaka?"
+},
+{
+"n": 27,
+"h": "ed818bb5",
+"en_raw": "The street beyond Hirumidaira housing"
+},
+{
+"n": 28,
+"h": "6faae306",
+"en_raw": "with that shrine on it, right?"
+},
+{
+"n": 29,
+"h": "a07daf57",
+"en_raw": "Yeah, around there"
+},
+{
+"n": 30,
+"h": "d7134d2c",
+"en_raw": "Jelly-chan saw them"
+},
+{
+"n": 31,
+"h": "9bfb02ad",
+"en_raw": "lots of cats"
+},
+{
+"n": 32,
+"h": "9754a29f",
+"en_raw": "But if Melos is there"
+},
+{
+"n": 33,
+"h": "e61ffeb5",
+"en_raw": "the cats will run away, won't they?"
+},
+{
+"n": 34,
+"h": "83e2af1a",
+"en_raw": "So, Shiina, what did"
+},
+{
+"n": 35,
+"h": "81727738",
+"en_raw": "the cats say?"
+},
+{
+"n": 36,
+"h": "83fe1dbf",
+"en_raw": "It'll be Cat Hour soon"
+},
+{
+"n": 37,
+"h": "b52f24d8",
+"en_raw": "so it's the Cat Path"
+},
+{
+"n": 38,
+"h": "5bfe400f",
+"en_raw": "...Cat Path, as in a cat's road?"
+},
+{
+"n": 39,
+"h": "7bbb315d",
+"en_raw": "What's Cat Hour supposed to be?"
+},
+{
+"n": 40,
+"h": "817c0a4b",
+"en_raw": "No idea, it comes after Mi"
+},
+{
+"n": 41,
+"h": "51cc4586",
+"en_raw": "...Cat Hour"
+},
+{
+"n": 42,
+"h": "238d9641",
+"en_raw": "Cat's hour... after Mi"
+},
+{
+"n": 43,
+"h": "9c4e1901",
+"en_raw": "Sango, what's Mi?"
+},
+{
+"n": 44,
+"h": "75d03803",
+"en_raw": "Mi is..."
+},
+{
+"n": 45,
+"h": "52566bcd",
+"en_raw": "Rat, Ox, Tiger, Dragon, Mi"
+},
+{
+"n": 46,
+"h": "e54cf72e",
+"en_raw": "It's the 'Mi,' isn't it?"
+},
+{
+"n": 47,
+"h": "48499ceb",
+"en_raw": "You know, 'the hour of Mi'"
+},
+{
+"n": 48,
+"h": "5f4018de",
+"en_raw": "Hmm"
+},
+{
+"n": 49,
+"h": "2ef1ce9e",
+"en_raw": "So what time is the hour of Mi?"
+},
+{
+"n": 50,
+"h": "f7b5dbb3",
+"en_raw": "Ox-three is 2 o'clock, so..."
+},
+{
+"n": 51,
+"h": "0ec9447a",
+"en_raw": "Hey, what's Ox Honey?"
+},
+{
+"n": 52,
+"h": "9e954cdc",
+"en_raw": "Shiina, be quiet"
+},
+{
+"n": 53,
+"h": "f6567731",
+"en_raw": "...Yeah, I guess five o'clock"
+},
+{
+"n": 54,
+"h": "13519780",
+"en_raw": "Then it's after that"
+},
+{
+"n": 55,
+"h": "9de2f667",
+"en_raw": "so if we go a bit late"
+},
+{
+"n": 56,
+"h": "68cb24d7",
+"en_raw": "that should be fine, right?"
+},
+{
+"n": 57,
+"h": "e220b65d",
+"en_raw": "How serious are you, exactly?"
+},
+{
+"n": 58,
+"h": "58dad9a8",
+"en_raw": "...By the way, Nao"
+},
+{
+"n": 59,
+"h": "90d2d849",
+"en_raw": "you're my age"
+},
+{
+"n": 60,
+"h": "fe4fa990",
+"en_raw": "so you were born in the Year of the Cat, right?"
+},
+{
+"n": 61,
+"h": "9d3e82bc",
+"en_raw": "Oh, is that so?"
+},
+{
+"n": 62,
+"h": "a22ea800",
+"en_raw": "You see, the Cat Path"
+},
+{
+"n": 63,
+"h": "15e0c64c",
+"en_raw": "is where the cats go in"
+},
+{
+"n": 64,
+"h": "e4a7940b",
+"en_raw": "So cat gatherings"
+},
+{
+"n": 65,
+"h": "f917670c",
+"en_raw": "really exist"
+},
+{
+"n": 66,
+"h": "6d000df3",
+"en_raw": "Gathering, I mean"
+},
+{
+"n": 67,
+"h": "55f55af5",
+"en_raw": "they're just clustered together"
+},
+{
+"n": 68,
+"h": "59832336",
+"en_raw": "Besides, maybe I really"
+},
+{
+"n": 69,
+"h": "6ff16e29",
+"en_raw": "just hate cats"
+},
+{
+"n": 70,
+"h": "d4c16967",
+"en_raw": "I got goosebumps..."
+},
+{
+"n": 71,
+"h": "99519bba",
+"en_raw": "Meow meow, it's fun though"
+},
+{
+"n": 72,
+"h": "0d98fe12",
+"en_raw": "By the way, Shiina"
+},
+{
+"n": 73,
+"h": "39c0422d",
+"en_raw": "that cat fortune-telling you wanted"
+},
+{
+"n": 74,
+"h": "99e23a93",
+"en_raw": "to know about, did you find out?"
+},
+{
+"n": 75,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 76,
+"h": "39c0422d",
+"en_raw": "that cat fortune-telling you wanted"
+},
+{
+"n": 77,
+"h": "c43011b1",
+"en_raw": "Did you find out?"
+},
+{
+"n": 78,
+"h": "c41c9809",
+"en_raw": "Oh, I forgot!"
+},
+{
+"n": 79,
+"h": "393431b1",
+"en_raw": "Um, right, right!"
+},
+{
+"n": 80,
+"h": "ccb8a6ba",
+"en_raw": "It's a cat god, apparently"
+},
+{
+"n": 81,
+"h": "cc532c69",
+"en_raw": "So did something good happen?"
+},
+{
+"n": 82,
+"h": "7933ed29",
+"en_raw": "No..."
+},
+{
+"n": 83,
+"h": "fd5dc078",
+"en_raw": "You do a sleepy-sleepy charm"
+},
+{
+"n": 84,
+"h": "ad23cf7f",
+"en_raw": "Hmm, what a weird god"
+},
+{
+"n": 85,
+"h": "8f0ef26e",
+"en_raw": "Yeah..."
+},
+{
+"n": 86,
+"h": "00b7a3bc",
+"en_raw": "But Kurumi is Kurumi"
+},
+{
+"n": 87,
+"h": "322c8597",
+"en_raw": "But cat fortunes aside"
+},
+{
+"n": 88,
+"h": "fed75a83",
+"en_raw": "in a place like that"
+},
+{
+"n": 89,
+"h": "91b34cc1",
+"en_raw": "was there such a huge temple?"
+},
+{
+"n": 90,
+"h": "692aa52c",
+"en_raw": "(Maybe it's one of"
+},
+{
+"n": 91,
+"h": "7a8f317b",
+"en_raw": "the gods after all...)"
+},
+{
+"n": 92,
+"h": "cd446d9f",
+"en_raw": "Solved the rumor of the Cat Gathering"
+},
+{
+"n": 93,
+"h": "9f3a30f9",
+"en_raw": "But why do cats"
+},
+{
+"n": 94,
+"h": "417ad687",
+"en_raw": "hold gatherings anyway..."
+},
+{
+"n": 95,
+"h": "85ff66ad",
+"en_raw": "Cats seem selfish"
+},
+{
+"n": 96,
+"h": "57a05846",
+"en_raw": "and lonely, you know"
+},
+{
+"n": 97,
+"h": "20a8e25a",
+"en_raw": "And yet they sometimes just gather"
+},
+{
+"n": 98,
+"h": "484004cc",
+"en_raw": "That's kind of strange"
+},
+{
+"n": 99,
+"h": "7b7eec70",
+"en_raw": "Sango, want to know?"
+},
+{
+"n": 100,
+"h": "51f61957",
+"en_raw": "Then Kurumi will"
+},
+{
+"n": 101,
+"h": "6c025e15",
+"en_raw": "ask them next time"
+},
+{
+"n": 102,
+"h": "a85f7425",
+"en_raw": "Please do"
+},
+{
+"n": 103,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 104,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

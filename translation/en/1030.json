@@ -1,0 +1,443 @@
+{
+"file": 1030,
+"paths": [
+"d008/d138/f020"
+],
+"lines": [
+{
+"n": 0,
+"h": "fa17583a",
+"en_raw": "There's an answering machine message..."
+},
+{
+"n": 1,
+"h": "7d0295e8",
+"en_raw": "Play it / Skip  Nobody's dumb enough"
+},
+{
+"n": 2,
+"h": "5b4bee03",
+"en_raw": "to leave a major secret on an answering machine"
+},
+{
+"n": 3,
+"h": "829b055b",
+"en_raw": "This is Nakamura"
+},
+{
+"n": 4,
+"h": "c4d8f4b6",
+"en_raw": "from Orion Corporation"
+},
+{
+"n": 5,
+"h": "452b0ef3",
+"en_raw": "Mr. Kimura's payment this month"
+},
+{
+"n": 6,
+"h": "2203266d",
+"en_raw": "hasn't been transferred yet"
+},
+{
+"n": 7,
+"h": "b3276fde",
+"en_raw": "5,890 yen, please transfer"
+},
+{
+"n": 8,
+"h": "ce6c2ddd",
+"en_raw": "to the account urgently"
+},
+{
+"n": 9,
+"h": "2677b199",
+"en_raw": "This is Hirumi City Hall"
+},
+{
+"n": 10,
+"h": "3f89ce86",
+"en_raw": "Mr. Kimura's national insurance premium"
+},
+{
+"n": 11,
+"h": "515b40e3",
+"en_raw": "has not been paid"
+},
+{
+"n": 12,
+"h": "fe7f6662",
+"en_raw": "If this continues..."
+},
+{
+"n": 13,
+"h": "35802651",
+"en_raw": "A call from a loan company..."
+},
+{
+"n": 14,
+"h": "b2f91e95",
+"en_raw": "Maybe this debt is the cause"
+},
+{
+"n": 15,
+"h": "023f9eb1",
+"en_raw": "of selling himself to a pharmaceutical company..."
+},
+{
+"n": 16,
+"h": "c3cf049d",
+"en_raw": "I see..."
+},
+{
+"n": 17,
+"h": "70634b9b",
+"en_raw": "The message contents..."
+},
+{
+"n": 18,
+"h": "36c9caf1",
+"en_raw": "Check again / No need  Orion Corporation's"
+},
+{
+"n": 19,
+"h": "c4d8f4b6",
+"en_raw": "from Orion Corporation"
+},
+{
+"n": 20,
+"h": "452b0ef3",
+"en_raw": "Mr. Kimura's payment this month"
+},
+{
+"n": 21,
+"h": "b24ef1e6",
+"en_raw": "..."
+},
+{
+"n": 22,
+"h": "0ba39e80",
+"en_raw": "...Yeah, somehow"
+},
+{
+"n": 23,
+"h": "721451f6",
+"en_raw": "my confidence is stronger"
+},
+{
+"n": 24,
+"h": "0bbf6caa",
+"en_raw": "The facts I learned just now"
+},
+{
+"n": 25,
+"h": "1f73e9a0",
+"en_raw": "are enough for me"
+},
+{
+"n": 26,
+"h": "657ee77a",
+"en_raw": "What's with this door"
+},
+{
+"n": 27,
+"h": "1107c258",
+"en_raw": "wrapped in wire"
+},
+{
+"n": 28,
+"h": "c8af80b8",
+"en_raw": "You can only go in and out"
+},
+{
+"n": 29,
+"h": "09426b25",
+"en_raw": "through the window"
+},
+{
+"n": 30,
+"h": "1c286eba",
+"en_raw": "What do we do?"
+},
+{
+"n": 31,
+"h": "7463611f",
+"en_raw": "Run / Duck  ...Uh-oh, run!"
+},
+{
+"n": 32,
+"h": "4c5c1971",
+"en_raw": "(Sango...)"
+},
+{
+"n": 33,
+"h": "5d67e730",
+"en_raw": "(Shh...)"
+},
+{
+"n": 34,
+"h": "1c286eba",
+"en_raw": "What do we do?"
+},
+{
+"n": 35,
+"h": "a34a1c70",
+"en_raw": "Run / Watch a bit more  (Sango, I'm bored~)"
+},
+{
+"n": 36,
+"h": "3ab13d1c",
+"en_raw": "Excuse me,"
+},
+{
+"n": 37,
+"h": "43ef608c",
+"en_raw": "it's the Mainichi Shimbun"
+},
+{
+"n": 38,
+"h": "e132eed8",
+"en_raw": "I've come to collect the newspaper fee"
+},
+{
+"n": 39,
+"h": "386d728d",
+"en_raw": "...Oh, just the newspaper guy"
+},
+{
+"n": 40,
+"h": "e863fc74",
+"en_raw": "Say so first..."
+},
+{
+"n": 41,
+"h": "e11427cc",
+"en_raw": "I guess I'll go home for now..."
+},
+{
+"n": 42,
+"h": "580451f3",
+"en_raw": "Go home / Not yet  This room still hides"
+},
+{
+"n": 43,
+"h": "0cfd292c",
+"en_raw": "many mysteries..."
+},
+{
+"n": 44,
+"h": "fcbde9d9",
+"en_raw": "My hunch says so..."
+},
+{
+"n": 45,
+"h": "42d4f8bc",
+"en_raw": "With this much of a harvest"
+},
+{
+"n": 46,
+"h": "8c9edd61",
+"en_raw": "it's a decent result"
+},
+{
+"n": 47,
+"h": "e333a75e",
+"en_raw": "Thank you very much"
+},
+{
+"n": 48,
+"h": "f823ce84",
+"en_raw": "Not quite convinced..."
+},
+{
+"n": 49,
+"h": "79b4fc7d",
+"en_raw": "Hmm..."
+},
+{
+"n": 50,
+"h": "3f246130",
+"en_raw": "Go home / Investigate  No guarantee"
+},
+{
+"n": 51,
+"h": "b88425a2",
+"en_raw": "pathogens aren't airborne"
+},
+{
+"n": 52,
+"h": "d9fe6711",
+"en_raw": "This place ahead"
+},
+{
+"n": 53,
+"h": "ea094992",
+"en_raw": "feels suspicious..."
+},
+{
+"n": 54,
+"h": "0eee9b1f",
+"en_raw": "Danger signals are"
+},
+{
+"n": 55,
+"h": "1e5b1ade",
+"en_raw": "tingling in my brain"
+},
+{
+"n": 56,
+"h": "4739cf7f",
+"en_raw": "Shall I go further in...?"
+},
+{
+"n": 57,
+"h": "7b497223",
+"en_raw": "Of course I'll go / Stop  Let me check the room"
+},
+{
+"n": 58,
+"h": "83f6f103",
+"en_raw": "a bit more first"
+},
+{
+"n": 59,
+"h": "9fde7924",
+"en_raw": "Try going once more?"
+},
+{
+"n": 60,
+"h": "7c352afa",
+"en_raw": "Go / Enough  Taking more risks"
+},
+{
+"n": 61,
+"h": "d7007f12",
+"en_raw": "is pointless"
+},
+{
+"n": 62,
+"h": "b02a88da",
+"en_raw": "Wait here"
+},
+{
+"n": 63,
+"h": "0886709f",
+"en_raw": "I'll go check"
+},
+{
+"n": 64,
+"h": "e5d0f989",
+"en_raw": "inside again"
+},
+{
+"n": 65,
+"h": "5dc3023f",
+"en_raw": "Sango, are you okay?"
+},
+{
+"n": 66,
+"h": "b4f8e300",
+"en_raw": "Danger comes with investigations"
+},
+{
+"n": 67,
+"h": "0bce595d",
+"en_raw": "My hunch says"
+},
+{
+"n": 68,
+"h": "25cdae06",
+"en_raw": "it's dangerous ahead"
+},
+{
+"n": 69,
+"h": "15e634b3",
+"en_raw": "Nao, Shiina"
+},
+{
+"n": 70,
+"h": "2daca8a3",
+"en_raw": "Wait here a moment"
+},
+{
+"n": 71,
+"h": "08740775",
+"en_raw": "...What was it like?"
+},
+{
+"n": 72,
+"h": "30056d16",
+"en_raw": "It's something inside"
+},
+{
+"n": 73,
+"h": "669737df",
+"en_raw": "Something definitely"
+},
+{
+"n": 74,
+"h": "6c8f4c90",
+"en_raw": "happened here"
+},
+{
+"n": 75,
+"h": "a85b76a5",
+"en_raw": "That much is certain"
+},
+{
+"n": 76,
+"h": "8ba08f79",
+"en_raw": "Maybe the resident"
+},
+{
+"n": 77,
+"h": "7581b47b",
+"en_raw": "of this room"
+},
+{
+"n": 78,
+"h": "4adc2eb2",
+"en_raw": "breathed their last"
+},
+{
+"n": 79,
+"h": "7148afbe",
+"en_raw": "here..."
+},
+{
+"n": 80,
+"h": "5dd6bf78",
+"en_raw": "Anyway, this really is"
+},
+{
+"n": 81,
+"h": "dad8c22e",
+"en_raw": "a dangerous place"
+},
+{
+"n": 82,
+"h": "b8ec8816",
+"en_raw": "Are you okay?"
+},
+{
+"n": 83,
+"h": "8da62cc9",
+"en_raw": "I'm being careful"
+},
+{
+"n": 84,
+"h": "f31a6dd5",
+"en_raw": "not to touch anything"
+},
+{
+"n": 85,
+"h": "9f97ac98",
+"en_raw": "Still, where is that"
+},
+{
+"n": 86,
+"h": "eeb4e326",
+"en_raw": "fridge in question?"
+}
+]
+}

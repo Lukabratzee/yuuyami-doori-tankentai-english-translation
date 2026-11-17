@@ -1,0 +1,343 @@
+{
+"file": 520,
+"paths": [
+"d008/d029/f018"
+],
+"lines": [
+{
+"n": 0,
+"h": "3f80f260",
+"en_raw": "...Huh?"
+},
+{
+"n": 1,
+"h": "26b55fe9",
+"en_raw": "Could it be... over there?"
+},
+{
+"n": 2,
+"h": "2faa743f",
+"en_raw": "The cat headed this way"
+},
+{
+"n": 3,
+"h": "9e64d461",
+"en_raw": "and went in, right?"
+},
+{
+"n": 4,
+"h": "02bd912a",
+"en_raw": "Go look / Skip it  Oh, it's just time"
+},
+{
+"n": 5,
+"h": "48d539c9",
+"en_raw": "Let's go see"
+},
+{
+"n": 6,
+"h": "fb436316",
+"en_raw": "It's a calico..."
+},
+{
+"n": 7,
+"h": "9f68fbce",
+"en_raw": "It's a black cat..."
+},
+{
+"n": 8,
+"h": "f5aa3aba",
+"en_raw": "It's a white cat..."
+},
+{
+"n": 9,
+"h": "7224816c",
+"en_raw": "It's a tabby..."
+},
+{
+"n": 10,
+"h": "54c94acb",
+"en_raw": "It's a mackerel tabby..."
+},
+{
+"n": 11,
+"h": "62bf35ed",
+"en_raw": "It's a black-and-white cat..."
+},
+{
+"n": 12,
+"h": "3c3d2d0a",
+"en_raw": "It's a white-and-red cat..."
+},
+{
+"n": 13,
+"h": "7a4c41b0",
+"en_raw": "Cat fortune / Skip  Hey, Shiina"
+},
+{
+"n": 14,
+"h": "61b599a1",
+"en_raw": "What does a calico mean?"
+},
+{
+"n": 15,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 16,
+"h": "069b6484",
+"en_raw": "What does a white cat mean?"
+},
+{
+"n": 17,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 18,
+"h": "ea5e3855",
+"en_raw": "What does a tabby mean?"
+},
+{
+"n": 19,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 20,
+"h": "4178ee3d",
+"en_raw": "What does a mackerel tabby mean?"
+},
+{
+"n": 21,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 22,
+"h": "dea9a752",
+"en_raw": "What does a black-and-white cat mean?"
+},
+{
+"n": 23,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 24,
+"h": "935f923a",
+"en_raw": "What does a white-and-red cat mean?"
+},
+{
+"n": 25,
+"h": "00c254f7",
+"en_raw": "People who see that cat"
+},
+{
+"n": 26,
+"h": "2cd6d0a0",
+"en_raw": "Wobbly-kun"
+},
+{
+"n": 27,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 28,
+"h": "155015bb",
+"en_raw": "What does a black cat mean?"
+},
+{
+"n": 29,
+"h": "7247f7b2",
+"en_raw": "Kuro-chan"
+},
+{
+"n": 30,
+"h": "2cd6d0a0",
+"en_raw": "Wobbly-kun"
+},
+{
+"n": 31,
+"h": "b87c9c60",
+"en_raw": "Hmm..."
+},
+{
+"n": 32,
+"h": "08c2d68c",
+"en_raw": "(Same as before...)"
+},
+{
+"n": 33,
+"h": "7224816c",
+"en_raw": "It's a tabby..."
+},
+{
+"n": 34,
+"h": "54c94acb",
+"en_raw": "It's a mackerel tabby..."
+},
+{
+"n": 35,
+"h": "9f68fbce",
+"en_raw": "It's a black cat..."
+},
+{
+"n": 36,
+"h": "f5aa3aba",
+"en_raw": "It's a white cat..."
+},
+{
+"n": 37,
+"h": "62bf35ed",
+"en_raw": "It's a black-and-white cat..."
+},
+{
+"n": 38,
+"h": "3c3d2d0a",
+"en_raw": "It's a white-and-red cat..."
+},
+{
+"n": 39,
+"h": "fb436316",
+"en_raw": "It's a calico..."
+},
+{
+"n": 40,
+"h": "8b42f9c7",
+"en_raw": "Fortune / Skip  A tabby..."
+},
+{
+"n": 41,
+"h": "54c94acb",
+"en_raw": "It's a mackerel tabby..."
+},
+{
+"n": 42,
+"h": "9f68fbce",
+"en_raw": "It's a black cat..."
+},
+{
+"n": 43,
+"h": "f5aa3aba",
+"en_raw": "It's a white cat..."
+},
+{
+"n": 44,
+"h": "62bf35ed",
+"en_raw": "It's a black-and-white cat..."
+},
+{
+"n": 45,
+"h": "3c3d2d0a",
+"en_raw": "It's a white-and-red cat..."
+},
+{
+"n": 46,
+"h": "fb436316",
+"en_raw": "It's a calico..."
+},
+{
+"n": 47,
+"h": "7a4c41b0",
+"en_raw": "Cat fortune / Skip  Hey, Shiina"
+},
+{
+"n": 48,
+"h": "ea5e3855",
+"en_raw": "What does a tabby mean?"
+},
+{
+"n": 49,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 50,
+"h": "4178ee3d",
+"en_raw": "What does a mackerel tabby mean?"
+},
+{
+"n": 51,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 52,
+"h": "155015bb",
+"en_raw": "What does a black cat mean?"
+},
+{
+"n": 53,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 54,
+"h": "069b6484",
+"en_raw": "What does a white cat mean?"
+},
+{
+"n": 55,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 56,
+"h": "dea9a752",
+"en_raw": "What does a black-and-white cat mean?"
+},
+{
+"n": 57,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 58,
+"h": "935f923a",
+"en_raw": "What does a white-and-red cat mean?"
+},
+{
+"n": 59,
+"h": "062458d6",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 60,
+"h": "61b599a1",
+"en_raw": "What does a calico mean?"
+},
+{
+"n": 61,
+"h": "00c254f7",
+"en_raw": "People who see that cat"
+},
+{
+"n": 62,
+"h": "2cd6d0a0",
+"en_raw": "Wobbly-kun"
+},
+{
+"n": 63,
+"h": "7247f7b2",
+"en_raw": "Kuro-chan"
+},
+{
+"n": 64,
+"h": "2cd6d0a0",
+"en_raw": "Wobbly-kun"
+},
+{
+"n": 65,
+"h": "b87c9c60",
+"en_raw": "Hmm..."
+},
+{
+"n": 66,
+"h": "08c2d68c",
+"en_raw": "(Same as before...)"
+}
+]
+}

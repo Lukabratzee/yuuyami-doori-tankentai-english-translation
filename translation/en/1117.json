@@ -1,0 +1,798 @@
+{
+"file": 1117,
+"paths": [
+"d009/d027/f053"
+],
+"lines": [
+{
+"n": 0,
+"h": "2a331c6b",
+"en_raw": "About school"
+},
+{
+"n": 1,
+"h": "482627ad",
+"en_raw": "shall we talk a bit?"
+},
+{
+"n": 2,
+"h": "a6407df1",
+"en_raw": "Sure..."
+},
+{
+"n": 3,
+"h": "9034b38f",
+"en_raw": "Half relieved, half worried"
+},
+{
+"n": 4,
+"h": "d581ce2c",
+"en_raw": "that's how I feel"
+},
+{
+"n": 5,
+"h": "6520f897",
+"en_raw": "as your mother"
+},
+{
+"n": 6,
+"h": "e69b3b06",
+"en_raw": "About today's parent conference?"
+},
+{
+"n": 7,
+"h": "821e8112",
+"en_raw": "No, lots of other things too"
+},
+{
+"n": 8,
+"h": "4bf27e48",
+"en_raw": "Nao, you don't talk"
+},
+{
+"n": 9,
+"h": "c4495d0a",
+"en_raw": "to me much, do you?"
+},
+{
+"n": 10,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 11,
+"h": "65c6c9bf",
+"en_raw": "I have nothing to talk about"
+},
+{
+"n": 12,
+"h": "b2548378",
+"en_raw": "I try not to"
+},
+{
+"n": 13,
+"h": "07f9965f",
+"en_raw": "stand out"
+},
+{
+"n": 14,
+"h": "ec0e5299",
+"en_raw": "I like you, Nao"
+},
+{
+"n": 15,
+"h": "33037f02",
+"en_raw": "It can't be helped"
+},
+{
+"n": 16,
+"h": "06471d02",
+"en_raw": "I'm your mother"
+},
+{
+"n": 17,
+"h": "e94e2a1e",
+"en_raw": "But Nao, you"
+},
+{
+"n": 18,
+"h": "b7fad467",
+"en_raw": "don't always"
+},
+{
+"n": 19,
+"h": "be11fe44",
+"en_raw": "have to be a good boy"
+},
+{
+"n": 20,
+"h": "3ad05f01",
+"en_raw": "just die like that"
+},
+{
+"n": 21,
+"h": "75a018ff",
+"en_raw": "What are you getting at?"
+},
+{
+"n": 22,
+"h": "4d86ed88",
+"en_raw": "Hmm"
+},
+{
+"n": 23,
+"h": "5cb807ce",
+"en_raw": "You're tough for my own child"
+},
+{
+"n": 24,
+"h": "acf2e7f8",
+"en_raw": "What I mean, Mom"
+},
+{
+"n": 25,
+"h": "317612e6",
+"en_raw": "I'd like to hear your honest thoughts sometimes"
+},
+{
+"n": 26,
+"h": "78afa7ce",
+"en_raw": "Isn't there something"
+},
+{
+"n": 27,
+"h": "1a6c9ac8",
+"en_raw": "you want to do yourself?"
+},
+{
+"n": 28,
+"h": "e265242b",
+"en_raw": "You'd probably get angry if I said"
+},
+{
+"n": 29,
+"h": "5e313b3a",
+"en_raw": "I won't, I promise"
+},
+{
+"n": 30,
+"h": "d60fcd06",
+"en_raw": "No, there's nothing in particular"
+},
+{
+"n": 31,
+"h": "78b39f8c",
+"en_raw": "for now"
+},
+{
+"n": 32,
+"h": "1b74a248",
+"en_raw": "Thanks for the meal"
+},
+{
+"n": 33,
+"h": "f9148b60",
+"en_raw": "Nao, aren't you eating anymore?"
+},
+{
+"n": 34,
+"h": "b4e50c6e",
+"en_raw": "Yeah, just..."
+},
+{
+"n": 35,
+"h": "3bab94b1",
+"en_raw": "Fried white fish"
+},
+{
+"n": 36,
+"h": "3586090a",
+"en_raw": "you didn't dislike it, did you?"
+},
+{
+"n": 37,
+"h": "f10f0448",
+"en_raw": "Or did something happen?"
+},
+{
+"n": 38,
+"h": "2a1c7387",
+"en_raw": "Nope"
+},
+{
+"n": 39,
+"h": "a6477521",
+"en_raw": "It's not that"
+},
+{
+"n": 40,
+"h": "144d26ec",
+"en_raw": "Maybe there are worries"
+},
+{
+"n": 41,
+"h": "052f3003",
+"en_raw": "you can't tell Mom..."
+},
+{
+"n": 42,
+"h": "8ac03cdb",
+"en_raw": "Right, you're a middle schooler"
+},
+{
+"n": 43,
+"h": "2735d10e",
+"en_raw": "But I'd like you"
+},
+{
+"n": 44,
+"h": "d4ecdef4",
+"en_raw": "to eat properly"
+},
+{
+"n": 45,
+"h": "9ece5fd2",
+"en_raw": "Worrying won't"
+},
+{
+"n": 46,
+"h": "2bf45a4a",
+"en_raw": "do anything for you"
+},
+{
+"n": 47,
+"h": "20d5dee0",
+"en_raw": "And either way"
+},
+{
+"n": 48,
+"h": "30a9599c",
+"en_raw": "her life isn't in danger"
+},
+{
+"n": 49,
+"h": "cb37a128",
+"en_raw": "Yeah, well, that's"
+},
+{
+"n": 50,
+"h": "0d115979",
+"en_raw": "true but..."
+},
+{
+"n": 51,
+"h": "a9331aa1",
+"en_raw": "She'll be fine tomorrow"
+},
+{
+"n": 52,
+"h": "5e46f500",
+"en_raw": "and show up"
+},
+{
+"n": 53,
+"h": "aa8bb759",
+"en_raw": "Perfect attendance is"
+},
+{
+"n": 54,
+"h": "c35a54dc",
+"en_raw": "her only merit"
+},
+{
+"n": 55,
+"h": "941f565a",
+"en_raw": "Yeah..."
+},
+{
+"n": 56,
+"h": "941f565a",
+"en_raw": "Yeah..."
+},
+{
+"n": 57,
+"h": "bc254e1e",
+"en_raw": "Then..."
+},
+{
+"n": 58,
+"h": "2a5b607c",
+"en_raw": "Shiina"
+},
+{
+"n": 59,
+"h": "b57ec68a",
+"en_raw": "What on earth happened..."
+},
+{
+"n": 60,
+"h": "2ee76d65",
+"en_raw": "That's cruel"
+},
+{
+"n": 61,
+"h": "55e12497",
+"en_raw": "......."
+},
+{
+"n": 62,
+"h": "bbe81368",
+"en_raw": "Mom"
+},
+{
+"n": 63,
+"h": "d858ac60",
+"en_raw": "Shall I contact the school?"
+},
+{
+"n": 64,
+"h": "dc558114",
+"en_raw": "...Someone did it to me?"
+},
+{
+"n": 65,
+"h": "341824b4",
+"en_raw": "I never said that"
+},
+{
+"n": 66,
+"h": "142e26da",
+"en_raw": "But"
+},
+{
+"n": 67,
+"h": "e808a5fb",
+"en_raw": "...It's okay, Mom"
+},
+{
+"n": 68,
+"h": "36a3527e",
+"en_raw": "you don't have to do anything"
+},
+{
+"n": 69,
+"h": "ca0186ee",
+"en_raw": "This is my..."
+},
+{
+"n": 70,
+"h": "bfb14402",
+"en_raw": "my own business..."
+},
+{
+"n": 71,
+"h": "95b294c0",
+"en_raw": "...Thanks for the meal"
+},
+{
+"n": 72,
+"h": "821a5e4c",
+"en_raw": "Ah, Sango?"
+},
+{
+"n": 73,
+"h": "89993c67",
+"en_raw": "...Oh, it's just Nao"
+},
+{
+"n": 74,
+"h": "0a4d624e",
+"en_raw": "Do you remember the rumor"
+},
+{
+"n": 75,
+"h": "8ed0de15",
+"en_raw": "about the crow's curse?"
+},
+{
+"n": 76,
+"h": "50119715",
+"en_raw": "What's that, out of nowhere"
+},
+{
+"n": 77,
+"h": "eb1ffe78",
+"en_raw": "No, um, I thought Sango"
+},
+{
+"n": 78,
+"h": "1382af02",
+"en_raw": "might laugh at it"
+},
+{
+"n": 79,
+"h": "c412c6ad",
+"en_raw": "...What's that supposed to be?"
+},
+{
+"n": 80,
+"h": "b98d9ede",
+"en_raw": "Something even worse"
+},
+{
+"n": 81,
+"h": "7cb852b3",
+"en_raw": "I'd like to say to you but"
+},
+{
+"n": 82,
+"h": "7779d754",
+"en_raw": "I'm not really in the mood"
+},
+{
+"n": 83,
+"h": "b01d1d06",
+"en_raw": "so for now, with this"
+},
+{
+"n": 84,
+"h": "c2c8f862",
+"en_raw": "will you put up with it?"
+},
+{
+"n": 85,
+"h": "05bcd0ba",
+"en_raw": "...Die!"
+},
+{
+"n": 86,
+"h": "379c1367",
+"en_raw": "Then I'll hang up"
+},
+{
+"n": 87,
+"h": "79dba5e2",
+"en_raw": "wait up"
+},
+{
+"n": 88,
+"h": "fe0a404b",
+"en_raw": "Sango's been strange lately"
+},
+{
+"n": 89,
+"h": "b8e18bd9",
+"en_raw": "Seems irritated"
+},
+{
+"n": 90,
+"h": "629aef7e",
+"en_raw": "then suddenly spaced out..."
+},
+{
+"n": 91,
+"h": "fd351663",
+"en_raw": "Just say what you want"
+},
+{
+"n": 92,
+"h": "93c5c9e0",
+"en_raw": "Um, about tomorrow"
+},
+{
+"n": 93,
+"h": "c4743733",
+"en_raw": "want to visit Shiina in the hospital?"
+},
+{
+"n": 94,
+"h": "52593dfc",
+"en_raw": "I'm home..."
+},
+{
+"n": 95,
+"h": "3fbfbe68",
+"en_raw": "Where's Dad...?"
+},
+{
+"n": 96,
+"h": "406c137c",
+"en_raw": "In his room"
+},
+{
+"n": 97,
+"h": "604301cc",
+"en_raw": "Sorry, I today..."
+},
+{
+"n": 98,
+"h": "10bcd342",
+"en_raw": "You must be hungry"
+},
+{
+"n": 99,
+"h": "43ebb171",
+"en_raw": "We already ate"
+},
+{
+"n": 100,
+"h": "79ab362e",
+"en_raw": "I'll reheat yours, Nao"
+},
+{
+"n": 101,
+"h": "9ac8ef1c",
+"en_raw": "That's sudden... I'm in trouble"
+},
+{
+"n": 102,
+"h": "7de8d9f3",
+"en_raw": "The manuscript is stuck"
+},
+{
+"n": 103,
+"h": "5f8e20ff",
+"en_raw": "and the rain is awful"
+},
+{
+"n": 104,
+"h": "17ecfa57",
+"en_raw": "sorry, but you two"
+},
+{
+"n": 105,
+"h": "50dd0720",
+"en_raw": "have fun on your own"
+},
+{
+"n": 106,
+"h": "91e696bd",
+"en_raw": "...Did I sound a bit old-man-ish?"
+},
+{
+"n": 107,
+"h": "64fbb706",
+"en_raw": "Bye, then"
+},
+{
+"n": 108,
+"h": "49d7ff36",
+"en_raw": "Wait, that's..."
+},
+{
+"n": 109,
+"h": "960dbe60",
+"en_raw": "The girl who came today"
+},
+{
+"n": 110,
+"h": "d578ad52",
+"en_raw": "is she the one you walk the dog with?"
+},
+{
+"n": 111,
+"h": "4e7b887c",
+"en_raw": "A bit odd, but"
+},
+{
+"n": 112,
+"h": "87dd2937",
+"en_raw": "she's cute"
+},
+{
+"n": 113,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 114,
+"h": "3e42262f",
+"en_raw": "...Sango"
+},
+{
+"n": 115,
+"h": "859b25a5",
+"en_raw": "Aren't you jealous?"
+},
+{
+"n": 116,
+"h": "82c52961",
+"en_raw": "Sango doesn't care about me"
+},
+{
+"n": 117,
+"h": "85432dd3",
+"en_raw": "Besides, she hates being"
+},
+{
+"n": 118,
+"h": "f9496c58",
+"en_raw": "thought of as a girl"
+},
+{
+"n": 119,
+"h": "d2dda88b",
+"en_raw": "Hm, was Sango"
+},
+{
+"n": 120,
+"h": "e78b6f2a",
+"en_raw": "that kind of girl?"
+},
+{
+"n": 121,
+"h": "e0740434",
+"en_raw": "Sango, Sango"
+},
+{
+"n": 122,
+"h": "893a17e7",
+"en_raw": "It's important!"
+},
+{
+"n": 123,
+"h": "29fda9d3",
+"en_raw": "Don't laugh, listen"
+},
+{
+"n": 124,
+"h": "5a58cb2d",
+"en_raw": "Why so excited..."
+},
+{
+"n": 125,
+"h": "8c888fb6",
+"en_raw": "Tomorrow is day 100!"
+},
+{
+"n": 126,
+"h": "c1050db1",
+"en_raw": "of the curse..."
+},
+{
+"n": 127,
+"h": "1f423cef",
+"en_raw": "the last day of the crow's curse!"
+},
+{
+"n": 128,
+"h": "97f4fea7",
+"en_raw": "What are you talking..."
+},
+{
+"n": 129,
+"h": "27fbc6a3",
+"en_raw": "Just listen"
+},
+{
+"n": 130,
+"h": "71236b87",
+"en_raw": "Shiina collapsed today, right?"
+},
+{
+"n": 131,
+"h": "7f600701",
+"en_raw": "I counted just now"
+},
+{
+"n": 132,
+"h": "d2464630",
+"en_raw": "the crow..."
+},
+{
+"n": 133,
+"h": "d0b8f203",
+"en_raw": "how many days passed"
+},
+{
+"n": 134,
+"h": "6832e84b",
+"en_raw": "since that crow day"
+},
+{
+"n": 135,
+"h": "777fe76a",
+"en_raw": "...So what does that have"
+},
+{
+"n": 136,
+"h": "689eb33d",
+"en_raw": "to do with me?"
+},
+{
+"n": 137,
+"h": "9d041e1a",
+"en_raw": "It was all the curse's fault!"
+},
+{
+"n": 138,
+"h": "2a5b607c",
+"en_raw": "Shiina"
+},
+{
+"n": 139,
+"h": "6b1e5bd3",
+"en_raw": "She might die!"
+},
+{
+"n": 140,
+"h": "345a2a5d",
+"en_raw": "So..."
+},
+{
+"n": 141,
+"h": "41726d0a",
+"en_raw": "I'm asking what that has"
+},
+{
+"n": 142,
+"h": "d3312a8c",
+"en_raw": "to do with me!"
+},
+{
+"n": 143,
+"h": "ad8cfaf1",
+"en_raw": "...Sango?"
+},
+{
+"n": 144,
+"h": "b5a0647c",
+"en_raw": "It's not like I owe"
+},
+{
+"n": 145,
+"h": "6ef13eb0",
+"en_raw": "Kurumi Shiina anything"
+},
+{
+"n": 146,
+"h": "03f6747c",
+"en_raw": "or was her friend"
+},
+{
+"n": 147,
+"h": "2b07d150",
+"en_raw": "Besides"
+},
+{
+"n": 148,
+"h": "f47c9640",
+"en_raw": "I'm busy now"
+},
+{
+"n": 149,
+"h": "65065d4d",
+"en_raw": "Spare me from being dragged"
+},
+{
+"n": 150,
+"h": "2f160084",
+"en_raw": "into stupid talk"
+},
+{
+"n": 151,
+"h": "b2553d14",
+"en_raw": "...And Nao"
+},
+{
+"n": 152,
+"h": "a7c38fa1",
+"en_raw": "it's about time you"
+},
+{
+"n": 153,
+"h": "fb09e747",
+"en_raw": "woke up too"
+},
+{
+"n": 154,
+"h": "4f0e39fc",
+"en_raw": "...What do you mean?"
+},
+{
+"n": 155,
+"h": "84c960fb",
+"en_raw": "Face reality already"
+},
+{
+"n": 156,
+"h": "d1039689",
+"en_raw": "that's what I mean!"
+},
+{
+"n": 157,
+"h": "ca302a66",
+"en_raw": "Sango!!"
+}
+]
+}

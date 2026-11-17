@@ -1,0 +1,933 @@
+{
+"file": 8,
+"paths": [
+"d002/f595"
+],
+"lines": [
+{
+"n": 0,
+"h": "b9b176d7",
+"en_raw": "No matter how much you ask"
+},
+{
+"n": 1,
+"h": "94320660",
+"en_raw": "I can't"
+},
+{
+"n": 2,
+"h": "0f728759",
+"en_raw": "About this"
+},
+{
+"n": 3,
+"h": "a6a39071",
+"en_raw": "I've been told to keep quiet"
+},
+{
+"n": 4,
+"h": "435c38e0",
+"en_raw": "It's fine"
+},
+{
+"n": 5,
+"h": "266fca5f",
+"en_raw": "I won't do anything bad"
+},
+{
+"n": 6,
+"h": "1114f6fb",
+"en_raw": "Because if I tell, Sango"
+},
+{
+"n": 7,
+"h": "75856085",
+"en_raw": "will get mad"
+},
+{
+"n": 8,
+"h": "5f4018de",
+"en_raw": "Hmm"
+},
+{
+"n": 9,
+"h": "a704d6ee",
+"en_raw": "I've kind of lost interest"
+},
+{
+"n": 10,
+"h": "42c29a07",
+"en_raw": "...Shiina, shall we go home together?"
+},
+{
+"n": 11,
+"h": "aa8a731b",
+"en_raw": "Yeah, Sango"
+},
+{
+"n": 12,
+"h": "23a18e2b",
+"en_raw": "If Nao won't tell us"
+},
+{
+"n": 13,
+"h": "289a3b36",
+"en_raw": "shall we go home?"
+},
+{
+"n": 14,
+"h": "b6d3a428",
+"en_raw": "...That's mean, geez"
+},
+{
+"n": 15,
+"h": "097977a3",
+"en_raw": "...It's an absolute secret, okay?"
+},
+{
+"n": 16,
+"h": "328a3bf6",
+"en_raw": "..............."
+},
+{
+"n": 17,
+"h": "f309ecfb",
+"en_raw": "...In Tsukazato Forest"
+},
+{
+"n": 18,
+"h": "71a0f29d",
+"en_raw": "Edo shogunate buried treasure?"
+},
+{
+"n": 19,
+"h": "92184bac",
+"en_raw": "Nao, did you lose your mind?"
+},
+{
+"n": 20,
+"h": "78aa11b0",
+"en_raw": "...That's why"
+},
+{
+"n": 21,
+"h": "ce310f38",
+"en_raw": "I didn't want to tell you"
+},
+{
+"n": 22,
+"h": "962b4d4a",
+"en_raw": "Just kidding, just kidding"
+},
+{
+"n": 23,
+"h": "14e80775",
+"en_raw": "is enough, isn't it?"
+},
+{
+"n": 24,
+"h": "89012c30",
+"en_raw": "It has a dreamy side"
+},
+{
+"n": 25,
+"h": "ff14ef66",
+"en_raw": "You don't believe it at all..."
+},
+{
+"n": 26,
+"h": "bea4adb8",
+"en_raw": "So, Nao"
+},
+{
+"n": 27,
+"h": "1552d610",
+"en_raw": "if you"
+},
+{
+"n": 28,
+"h": "9d723b3b",
+"en_raw": "found the treasure"
+},
+{
+"n": 29,
+"h": "419ba2ac",
+"en_raw": "what would you do?"
+},
+{
+"n": 30,
+"h": "7c304539",
+"en_raw": "...Huh? Um"
+},
+{
+"n": 31,
+"h": "793d2cdd",
+"en_raw": "...I guess I'd save it?"
+},
+{
+"n": 32,
+"h": "7c0d9aa2",
+"en_raw": "What's that?"
+},
+{
+"n": 33,
+"h": "6e262e5c",
+"en_raw": "Can't you say something"
+},
+{
+"n": 34,
+"h": "c4ed5142",
+"en_raw": "more clever?"
+},
+{
+"n": 35,
+"h": "d314f995",
+"en_raw": "...For example"
+},
+{
+"n": 36,
+"h": "fc3042c2",
+"en_raw": "converting it all into lottery tickets"
+},
+{
+"n": 37,
+"h": "726d4bd1",
+"en_raw": "What would you do"
+},
+{
+"n": 38,
+"h": "103cb5e3",
+"en_raw": "Sango?"
+},
+{
+"n": 39,
+"h": "10857698",
+"en_raw": "What's needed these days"
+},
+{
+"n": 40,
+"h": "7d241d87",
+"en_raw": "is just that, right?"
+},
+{
+"n": 41,
+"h": "0701d066",
+"en_raw": "What's that?"
+},
+{
+"n": 42,
+"h": "3b9d2edf",
+"en_raw": "My own personal nuclear shelter"
+},
+{
+"n": 43,
+"h": "6e7c42b9",
+"en_raw": "...I don't get that at all"
+},
+{
+"n": 44,
+"h": "eece1b06",
+"en_raw": "Shiina, what would you buy?"
+},
+{
+"n": 45,
+"h": "48f3b361",
+"en_raw": "Whatever you want"
+},
+{
+"n": 46,
+"h": "b7dd359a",
+"en_raw": "you could buy anything"
+},
+{
+"n": 47,
+"h": "9119a8ed",
+"en_raw": "Kurumi would"
+},
+{
+"n": 48,
+"h": "97339148",
+"en_raw": "get a dog like Nao"
+},
+{
+"n": 49,
+"h": "5a5ed2d2",
+"en_raw": "But not a Melos-type dog"
+},
+{
+"n": 50,
+"h": "11020b7a",
+"en_raw": "You see"
+},
+{
+"n": 51,
+"h": "b2926300",
+"en_raw": "...A green dog!"
+},
+{
+"n": 52,
+"h": "cd56f3cc",
+"en_raw": "As if one exists"
+},
+{
+"n": 53,
+"h": "01fdca36",
+"en_raw": "A dog like that"
+},
+{
+"n": 54,
+"h": "f65ee774",
+"en_raw": "Anyway, the okra in the forest"
+},
+{
+"n": 55,
+"h": "66bf1003",
+"en_raw": "is the landmark, right?"
+},
+{
+"n": 56,
+"h": "a99f9c87",
+"en_raw": "Let's go treasure hunting!"
+},
+{
+"n": 57,
+"h": "4935ec39",
+"en_raw": "Deep in Tsukazato Forest"
+},
+{
+"n": 58,
+"h": "e974ae79",
+"en_raw": "that so-called okra"
+},
+{
+"n": 59,
+"h": "a30a868c",
+"en_raw": "is the landmark, right?"
+},
+{
+"n": 60,
+"h": "87fb5753",
+"en_raw": "Even a small forest"
+},
+{
+"n": 61,
+"h": "2423c036",
+"en_raw": "you can't find that"
+},
+{
+"n": 62,
+"h": "4fcbbfd9",
+"en_raw": "right away"
+},
+{
+"n": 63,
+"h": "8826f595",
+"en_raw": "I know"
+},
+{
+"n": 64,
+"h": "5538a3be",
+"en_raw": "I know"
+},
+{
+"n": 65,
+"h": "08f54ae6",
+"en_raw": "It's just a bit of"
+},
+{
+"n": 66,
+"h": "bade21ff",
+"en_raw": "curiosity"
+},
+{
+"n": 67,
+"h": "6eae29d7",
+"en_raw": "...Serious or lying"
+},
+{
+"n": 68,
+"h": "f3e9cf27",
+"en_raw": "I can't tell at all"
+},
+{
+"n": 69,
+"h": "1ebe6647",
+"en_raw": "Digging tools and bug spray"
+},
+{
+"n": 70,
+"h": "8d9a61e9",
+"en_raw": "...That's about all the gear, I guess"
+},
+{
+"n": 71,
+"h": "5bff5a95",
+"en_raw": "...And Nao!"
+},
+{
+"n": 72,
+"h": "6b69e211",
+"en_raw": "If you tell anyone"
+},
+{
+"n": 73,
+"h": "08bd30f5",
+"en_raw": "I'll kill you"
+},
+{
+"n": 74,
+"h": "b7f9f02e",
+"en_raw": ".........."
+},
+{
+"n": 75,
+"h": "ec7421ce",
+"en_raw": "~Bug-bug spray, smells so nice~"
+},
+{
+"n": 76,
+"h": "a8fda563",
+"en_raw": "...Nao"
+},
+{
+"n": 77,
+"h": "5f23d3fa",
+"en_raw": "Psst-psst on Melos too?"
+},
+{
+"n": 78,
+"h": "e0328918",
+"en_raw": "Melos is fine"
+},
+{
+"n": 79,
+"h": "4a8d98e6",
+"en_raw": "Oh, right!"
+},
+{
+"n": 80,
+"h": "a49da9ee",
+"en_raw": "For this dig"
+},
+{
+"n": 81,
+"h": "360e561a",
+"en_raw": "to be extra careful"
+},
+{
+"n": 82,
+"h": "e6bfb9b8",
+"en_raw": "Shiina"
+},
+{
+"n": 83,
+"h": "67f2abbf",
+"en_raw": "you lead the way"
+},
+{
+"n": 84,
+"h": "42416a55",
+"en_raw": "Why, you ask?"
+},
+{
+"n": 85,
+"h": "96dd1585",
+"en_raw": "Chocobat and"
+},
+{
+"n": 86,
+"h": "5a5b2e79",
+"en_raw": "ice cream"
+},
+{
+"n": 87,
+"h": "5845a72c",
+"en_raw": "you"
+},
+{
+"n": 88,
+"h": "aadc5e3d",
+"en_raw": "win abnormally often, right?"
+},
+{
+"n": 89,
+"h": "2fee01dd",
+"en_raw": "To dig up the treasure"
+},
+{
+"n": 90,
+"h": "087d87dd",
+"en_raw": "we need the help of"
+},
+{
+"n": 91,
+"h": "1ea14b49",
+"en_raw": "that strong luck too"
+},
+{
+"n": 92,
+"h": "dd95b0ad",
+"en_raw": "Aye aye!"
+},
+{
+"n": 93,
+"h": "30c710d6",
+"en_raw": "But it was surprising, wasn't it?"
+},
+{
+"n": 94,
+"h": "e26a8b21",
+"en_raw": "In such a small forest in Hirumi City"
+},
+{
+"n": 95,
+"h": "af71106a",
+"en_raw": "there was a waterfall"
+},
+{
+"n": 96,
+"h": "902eb7d2",
+"en_raw": "A waterfall...?"
+},
+{
+"n": 97,
+"h": "74ad1b14",
+"en_raw": "We're looking for the okra, right?"
+},
+{
+"n": 98,
+"h": "5c3f5ce4",
+"en_raw": "The key landmark"
+},
+{
+"n": 99,
+"h": "59ffdd84",
+"en_raw": "is nowhere to be found"
+},
+{
+"n": 100,
+"h": "c2e2bd26",
+"en_raw": "We must have searched"
+},
+{
+"n": 101,
+"h": "fe906ba1",
+"en_raw": "everywhere we could"
+},
+{
+"n": 102,
+"h": "1081f2af",
+"en_raw": "Yeah, the only possible cause"
+},
+{
+"n": 103,
+"h": "c609cb56",
+"en_raw": "left is one"
+},
+{
+"n": 104,
+"h": "335b7935",
+"en_raw": "Miscasting"
+},
+{
+"n": 105,
+"h": "f8e88218",
+"en_raw": "...Miscasting?"
+},
+{
+"n": 106,
+"h": "871c48f4",
+"en_raw": "Yes, Shiina leading the way"
+},
+{
+"n": 107,
+"h": "90984e6f",
+"en_raw": "was probably the mistake"
+},
+{
+"n": 108,
+"h": "0a443f22",
+"en_raw": "So this time"
+},
+{
+"n": 109,
+"h": "295dda0c",
+"en_raw": "I'll go first"
+},
+{
+"n": 110,
+"h": "3c301c49",
+"en_raw": "It's finally the home stretch"
+},
+{
+"n": 111,
+"h": "aee0e8ea",
+"en_raw": "Almost there!"
+},
+{
+"n": 112,
+"h": "059ed90e",
+"en_raw": "Nao, did you bring something to dig?"
+},
+{
+"n": 113,
+"h": "6eb3893b",
+"en_raw": "...Sango, you want to go again?"
+},
+{
+"n": 114,
+"h": "a42e9679",
+"en_raw": "Nao, even after coming this far"
+},
+{
+"n": 115,
+"h": "cc216ad5",
+"en_raw": "you don't feel anything at all?"
+},
+{
+"n": 116,
+"h": "a88a3823",
+"en_raw": "feel anything?"
+},
+{
+"n": 117,
+"h": "553ba1da",
+"en_raw": "The teacher is sad"
+},
+{
+"n": 118,
+"h": "30fa5b9f",
+"en_raw": "With an attitude like that"
+},
+{
+"n": 119,
+"h": "40e497c1",
+"en_raw": "idiot Yuasa and the others"
+},
+{
+"n": 120,
+"h": "1d625146",
+"en_raw": "will beat us to it"
+},
+{
+"n": 121,
+"h": "64a6b845",
+"en_raw": "Okay, fine..."
+},
+{
+"n": 122,
+"h": "994dd099",
+"en_raw": "Kurumi wants to go again!"
+},
+{
+"n": 123,
+"h": "58d3ddae",
+"en_raw": "Waterfall"
+},
+{
+"n": 124,
+"h": "fea7f251",
+"en_raw": "Hey, that old guy"
+},
+{
+"n": 125,
+"h": "2c0a8998",
+"en_raw": "what do you think he was?"
+},
+{
+"n": 126,
+"h": "d028f283",
+"en_raw": "What do you mean"
+},
+{
+"n": 127,
+"h": "052a56df",
+"en_raw": "Just a normal person, no?"
+},
+{
+"n": 128,
+"h": "5101f148",
+"en_raw": "...'Just a person,' honestly"
+},
+{
+"n": 129,
+"h": "e0c85db8",
+"en_raw": "I'm not asking if he's a"
+},
+{
+"n": 130,
+"h": "89545e64",
+"en_raw": "monster or a human"
+},
+{
+"n": 131,
+"h": "6441ad8e",
+"en_raw": "It's that suspicious behavior"
+},
+{
+"n": 132,
+"h": "14c5dfb1",
+"en_raw": "You saw it too, right?"
+},
+{
+"n": 133,
+"h": "253f227f",
+"en_raw": "So, Sango, you mean"
+},
+{
+"n": 134,
+"h": "20be2165",
+"en_raw": "this rumor and that man"
+},
+{
+"n": 135,
+"h": "e2cef847",
+"en_raw": "are connected somehow"
+},
+{
+"n": 136,
+"h": "2af57395",
+"en_raw": "is that it?"
+},
+{
+"n": 137,
+"h": "bfa98cbc",
+"en_raw": "...Yes"
+},
+{
+"n": 138,
+"h": "a0f079ae",
+"en_raw": "I saw it on TV"
+},
+{
+"n": 139,
+"h": "916e0046",
+"en_raw": "The local treasure hunters"
+},
+{
+"n": 140,
+"h": "34d19d7b",
+"en_raw": "had that same feel, I'm sure"
+},
+{
+"n": 141,
+"h": "d287a082",
+"en_raw": "If the okra gets found out, we're in trouble!"
+},
+{
+"n": 142,
+"h": "cd52b063",
+"en_raw": "We have to hurry!"
+},
+{
+"n": 143,
+"h": "a822e213",
+"en_raw": "In the end, a hoax"
+},
+{
+"n": 144,
+"h": "16e0deb7",
+"en_raw": "Well, I knew from the start"
+},
+{
+"n": 145,
+"h": "08d978ee",
+"en_raw": "...Look at this cut on my arm"
+},
+{
+"n": 146,
+"h": "31ce3f9f",
+"en_raw": "I got it in the forest"
+},
+{
+"n": 147,
+"h": "17377e47",
+"en_raw": "It's not my fault"
+},
+{
+"n": 148,
+"h": "6eb65025",
+"en_raw": "I told you right at the start"
+},
+{
+"n": 149,
+"h": "674ce890",
+"en_raw": "...that Sango would get mad"
+},
+{
+"n": 150,
+"h": "b55447c4",
+"en_raw": "I don't remember!"
+},
+{
+"n": 151,
+"h": "a69160bc",
+"en_raw": "...You did, I'm sure"
+},
+{
+"n": 152,
+"h": "20a87fd7",
+"en_raw": "With hazy memories"
+},
+{
+"n": 153,
+"h": "a9e423b5",
+"en_raw": "you're trying to dodge responsibility?"
+},
+{
+"n": 154,
+"h": "57bb0e70",
+"en_raw": "This isn't the prosecution's"
+},
+{
+"n": 155,
+"h": "3bab4b47",
+"en_raw": "closing argument"
+},
+{
+"n": 156,
+"h": "0ef95dbb",
+"en_raw": "Honestly, because of you"
+},
+{
+"n": 157,
+"h": "6a60cd49",
+"en_raw": "I got covered in mud"
+},
+{
+"n": 158,
+"h": "6a66f310",
+"en_raw": "got bitten by mosquitoes"
+},
+{
+"n": 159,
+"h": "5f4e9a5f",
+"en_raw": "...and on top of that, that old guy"
+},
+{
+"n": 160,
+"h": "5704b0bd",
+"en_raw": "was playing us"
+},
+{
+"n": 161,
+"h": "402c5106",
+"en_raw": "...Geez!"
+},
+{
+"n": 162,
+"h": "dfe4157f",
+"en_raw": "I'm angry just remembering it"
+},
+{
+"n": 163,
+"h": "624f3e65",
+"en_raw": "Sango"
+},
+{
+"n": 164,
+"h": "74447558",
+"en_raw": "That waterfall was amazing!"
+},
+{
+"n": 165,
+"h": "70857ff6",
+"en_raw": "Ha ha... Shiina"
+},
+{
+"n": 166,
+"h": "ea8d2b6f",
+"en_raw": "there's no way there's a waterfall"
+},
+{
+"n": 167,
+"h": "fe16cd7d",
+"en_raw": "in such a small forest"
+},
+{
+"n": 168,
+"h": "959c2080",
+"en_raw": "Don't laugh, you!"
+},
+{
+"n": 169,
+"h": "24ec2f07",
+"en_raw": "I'm never again"
+},
+{
+"n": 170,
+"h": "cdbec8d8",
+"en_raw": "going into a forest!"
+},
+{
+"n": 171,
+"h": "3b0f127d",
+"en_raw": "Solved the rumor of the Forest Treasure"
+},
+{
+"n": 172,
+"h": "b446222a",
+"en_raw": "He's definitely making fools of people"
+},
+{
+"n": 173,
+"h": "9d5b3e95",
+"en_raw": "that old guy!"
+},
+{
+"n": 174,
+"h": "6f351337",
+"en_raw": "...Next time I see him"
+},
+{
+"n": 175,
+"h": "7be9f8af",
+"en_raw": "I'll spray hair remover on his head"
+},
+{
+"n": 176,
+"h": "3cd5445f",
+"en_raw": "You should just forget it already"
+},
+{
+"n": 177,
+"h": "fa8eb9e0",
+"en_raw": "Hey, Nao"
+},
+{
+"n": 178,
+"h": "386d645c",
+"en_raw": "That this rumor is a hoax"
+},
+{
+"n": 179,
+"h": "4abfea12",
+"en_raw": "is absolutely a secret from"
+},
+{
+"n": 180,
+"h": "e7b75127",
+"en_raw": "Yuasa and the others"
+},
+{
+"n": 181,
+"h": "85fc7ddb",
+"en_raw": "Hey hey, let's go again"
+},
+{
+"n": 182,
+"h": "cf6d828b",
+"en_raw": "Waterfall"
+},
+{
+"n": 183,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 184,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

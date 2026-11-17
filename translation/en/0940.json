@@ -1,0 +1,998 @@
+{
+"file": 940,
+"paths": [
+"d008/d106/f026"
+],
+"lines": [
+{
+"n": 0,
+"h": "3f80f260",
+"en_raw": "...Huh?"
+},
+{
+"n": 1,
+"h": "d92525b7",
+"en_raw": "...Nao, Shiina?"
+},
+{
+"n": 2,
+"h": "cd15c534",
+"en_raw": "Where did those two go?"
+},
+{
+"n": 3,
+"h": "a0dd70c1",
+"en_raw": "Well, well, so that's how it is..."
+},
+{
+"n": 4,
+"h": "08c549fb",
+"en_raw": "(Alone together for Lady Rasen, huh...)"
+},
+{
+"n": 5,
+"h": "08aa2475",
+"en_raw": "(That's pretty bold"
+},
+{
+"n": 6,
+"h": "57fb75d7",
+"en_raw": "for Nao...)"
+},
+{
+"n": 7,
+"h": "9dc8d777",
+"en_raw": "What are you doing in front of the classroom?"
+},
+{
+"n": 8,
+"h": "98b24f91",
+"en_raw": "...Takumi Yamazaki!"
+},
+{
+"n": 9,
+"h": "fe0d6bb0",
+"en_raw": "What are you doing at this hour?"
+},
+{
+"n": 10,
+"h": "984cd0d6",
+"en_raw": "That's my line"
+},
+{
+"n": 11,
+"h": "35013cbd",
+"en_raw": "The committee ran long"
+},
+{
+"n": 12,
+"h": "3819434b",
+"en_raw": "I was going to finish prepping"
+},
+{
+"n": 13,
+"h": "14577bd6",
+"en_raw": "for the quiz..."
+},
+{
+"n": 14,
+"h": "51091cd6",
+"en_raw": "Studying in the classroom now?"
+},
+{
+"n": 15,
+"h": "9dcc99f9",
+"en_raw": "I can concentrate better"
+},
+{
+"n": 16,
+"h": "554bf122",
+"en_raw": "in the classroom than at home"
+},
+{
+"n": 17,
+"h": "815875e5",
+"en_raw": "Move away from there"
+},
+{
+"n": 18,
+"h": "72261482",
+"en_raw": "U-um, why not do it in the library"
+},
+{
+"n": 19,
+"h": "d2555105",
+"en_raw": "It's quiet, nice"
+},
+{
+"n": 20,
+"h": "c1196393",
+"en_raw": "The library's already locked"
+},
+{
+"n": 21,
+"h": "fa1baf87",
+"en_raw": "Oh, right..."
+},
+{
+"n": 22,
+"h": "c8807e38",
+"en_raw": "Anyway, move"
+},
+{
+"n": 23,
+"h": "53f2ee96",
+"en_raw": "U-um, listen"
+},
+{
+"n": 24,
+"h": "9ae6db4f",
+"en_raw": "This may be none of my business"
+},
+{
+"n": 25,
+"h": "bea89e10",
+"en_raw": "but take today off"
+},
+{
+"n": 26,
+"h": "9ab75296",
+"en_raw": "You'll die of overwork from studying"
+},
+{
+"n": 27,
+"h": "d46babf9",
+"en_raw": "You don't want to die in middle school, right?"
+},
+{
+"n": 28,
+"h": "718e01c0",
+"en_raw": "What are you talking about?"
+},
+{
+"n": 29,
+"h": "0141ab35",
+"en_raw": "No, really, you're admirable"
+},
+{
+"n": 30,
+"h": "9b59d9a6",
+"en_raw": "doing committee and studying both"
+},
+{
+"n": 31,
+"h": "2a9524a5",
+"en_raw": "Compared to that"
+},
+{
+"n": 32,
+"h": "fbc33a90",
+"en_raw": "Takayuki Nishi"
+},
+{
+"n": 33,
+"h": "47f998bf",
+"en_raw": "is in the go-home club, no committee"
+},
+{
+"n": 34,
+"h": "28ca64c5",
+"en_raw": "takes the world lightly"
+},
+{
+"n": 35,
+"h": "25e604a1",
+"en_raw": "Quit saying"
+},
+{
+"n": 36,
+"h": "03146487",
+"en_raw": "nonsense..."
+},
+{
+"n": 37,
+"h": "cc859973",
+"en_raw": "Sorry, please"
+},
+{
+"n": 38,
+"h": "9635a926",
+"en_raw": "listen to what I say!"
+},
+{
+"n": 39,
+"h": "4d26e262",
+"en_raw": "Like that would convince me"
+},
+{
+"n": 40,
+"h": "c0ea393f",
+"en_raw": "Explain properly, will you?"
+},
+{
+"n": 41,
+"h": "292317c6",
+"en_raw": "If you can't explain"
+},
+{
+"n": 42,
+"h": "c96ca591",
+"en_raw": "I've no reason"
+},
+{
+"n": 43,
+"h": "b3cf628d",
+"en_raw": "to listen to you"
+},
+{
+"n": 44,
+"h": "a152e619",
+"en_raw": "It's not even open"
+},
+{
+"n": 45,
+"h": "67dd8d92",
+"en_raw": "...Right, right"
+},
+{
+"n": 46,
+"h": "c4eadbc9",
+"en_raw": "So you'd better go home quickly!"
+},
+{
+"n": 47,
+"h": "ce31a6a5",
+"en_raw": "Say that first"
+},
+{
+"n": 48,
+"h": "83f24f4e",
+"en_raw": "Honestly..."
+},
+{
+"n": 49,
+"h": "e7c15765",
+"en_raw": "(Come to think of it, it's unreasonable"
+},
+{
+"n": 50,
+"h": "802f6297",
+"en_raw": "Why do I have to"
+},
+{
+"n": 51,
+"h": "e6a965d2",
+"en_raw": "make this pointless effort"
+},
+{
+"n": 52,
+"h": "8d99a3e0",
+"en_raw": "for Nao's sake?)"
+},
+{
+"n": 53,
+"h": "ba33d360",
+"en_raw": "...Right"
+},
+{
+"n": 54,
+"h": "fbc99831",
+"en_raw": "It's none of my business"
+},
+{
+"n": 55,
+"h": "bc68b110",
+"en_raw": "...Go ahead"
+},
+{
+"n": 56,
+"h": "a4d7d647",
+"en_raw": "...It's locked, though"
+},
+{
+"n": 57,
+"h": "ce31a6a5",
+"en_raw": "Say that first"
+},
+{
+"n": 58,
+"h": "83f24f4e",
+"en_raw": "Honestly..."
+},
+{
+"n": 59,
+"h": "4494542a",
+"en_raw": "Please, go home today"
+},
+{
+"n": 60,
+"h": "ab16c2c4",
+"en_raw": "Cool Yamazaki!"
+},
+{
+"n": 61,
+"h": "60bbda87",
+"en_raw": "What's with this girl"
+},
+{
+"n": 62,
+"h": "72f321fd",
+"en_raw": "I can't deal with this"
+},
+{
+"n": 63,
+"h": "02fefcdb",
+"en_raw": "(Damn it, that Nao"
+},
+{
+"n": 64,
+"h": "78312681",
+"en_raw": "I won't forget"
+},
+{
+"n": 65,
+"h": "b0b39644",
+"en_raw": "this humiliation...)"
+},
+{
+"n": 66,
+"h": "6aa32d2b",
+"en_raw": "Hey, what are you doing in street clothes?"
+},
+{
+"n": 67,
+"h": "1a066a88",
+"en_raw": "(The worst person"
+},
+{
+"n": 68,
+"h": "dca34200",
+"en_raw": "showed up at the worst time...)"
+},
+{
+"n": 69,
+"h": "ef00a7ad",
+"en_raw": "Who's the worst, ugly"
+},
+{
+"n": 70,
+"h": "fdd951b7",
+"en_raw": "You are, shorty"
+},
+{
+"n": 71,
+"h": "b8472803",
+"en_raw": "Hee hee hee hee"
+},
+{
+"n": 72,
+"h": "f699485d",
+"en_raw": "W-what, that's creepy"
+},
+{
+"n": 73,
+"h": "449bf3f8",
+"en_raw": "You're hiding something, aren't you?"
+},
+{
+"n": 74,
+"h": "a8756c82",
+"en_raw": "What if I am?"
+},
+{
+"n": 75,
+"h": "8130fa8c",
+"en_raw": "I have the right to see it"
+},
+{
+"n": 76,
+"h": "7b6fdd29",
+"en_raw": "What are you saying, go home, idiot"
+},
+{
+"n": 77,
+"h": "327e5a9b",
+"en_raw": "Is it okay, being in street clothes"
+},
+{
+"n": 78,
+"h": "e910c953",
+"en_raw": "wandering around school"
+},
+{
+"n": 79,
+"h": "95a7f430",
+"en_raw": "if Kamei finds out?"
+},
+{
+"n": 80,
+"h": "a76784fd",
+"en_raw": "I'm going home soon anyway..."
+},
+{
+"n": 81,
+"h": "0d94d0e8",
+"en_raw": "What about you, what are you doing?"
+},
+{
+"n": 82,
+"h": "de806826",
+"en_raw": "Patrolling the school"
+},
+{
+"n": 83,
+"h": "09a172d3",
+"en_raw": "Today we, the baseball club"
+},
+{
+"n": 84,
+"h": "7f59859b",
+"en_raw": "were last"
+},
+{
+"n": 85,
+"h": "bd5f17c9",
+"en_raw": "Making you do the patrol"
+},
+{
+"n": 86,
+"h": "b10c8ff9",
+"en_raw": "the baseball club's messed up"
+},
+{
+"n": 87,
+"h": "d9232d18",
+"en_raw": "Say what you want"
+},
+{
+"n": 88,
+"h": "5b3981b8",
+"en_raw": "But"
+},
+{
+"n": 89,
+"h": "232a4d73",
+"en_raw": "if you don't want it exposed..."
+},
+{
+"n": 90,
+"h": "153eedf6",
+"en_raw": "Is that okay?"
+},
+{
+"n": 91,
+"h": "3170444a",
+"en_raw": "Is it okay?"
+},
+{
+"n": 92,
+"h": "bc9edaa2",
+"en_raw": "...Look forward to tomorrow"
+},
+{
+"n": 93,
+"h": "df522f60",
+"en_raw": "Kamei's lecture..."
+},
+{
+"n": 94,
+"h": "c3b9e507",
+"en_raw": "Why me..."
+},
+{
+"n": 95,
+"h": "890c0939",
+"en_raw": "...Fine, let's make a deal"
+},
+{
+"n": 96,
+"h": "cdf66a9f",
+"en_raw": "If you keep my business"
+},
+{
+"n": 97,
+"h": "2596f898",
+"en_raw": "a secret"
+},
+{
+"n": 98,
+"h": "5d6f9ac2",
+"en_raw": "I'll keep quiet about that too"
+},
+{
+"n": 99,
+"h": "93cbdba5",
+"en_raw": "What do you mean, that?"
+},
+{
+"n": 100,
+"h": "e036eeac",
+"en_raw": "Playing dumb is useless"
+},
+{
+"n": 101,
+"h": "49e5900e",
+"en_raw": "I saw it"
+},
+{
+"n": 102,
+"h": "9f42450f",
+"en_raw": "That won't"
+},
+{
+"n": 103,
+"h": "d6a2faf8",
+"en_raw": "fool me, old man"
+},
+{
+"n": 104,
+"h": "ef94da1e",
+"en_raw": "Oh really, then I'll say it"
+},
+{
+"n": 105,
+"h": "be838f97",
+"en_raw": "Going to buy at the dirty magazine corner"
+},
+{
+"n": 106,
+"h": "e8aeba4f",
+"en_raw": "Diving into the Tama River drain"
+},
+{
+"n": 107,
+"h": "08f80837",
+"en_raw": "Breaking the UFO catcher"
+},
+{
+"n": 108,
+"h": "6c52fa3d",
+"en_raw": "at the arcade"
+},
+{
+"n": 109,
+"h": "cc70d778",
+"en_raw": "Getting scolded by a cop at the vacant lot..."
+},
+{
+"n": 110,
+"h": "b33fd490",
+"en_raw": "There's more, though...?"
+},
+{
+"n": 111,
+"h": "0f9f4a8b",
+"en_raw": "How do you know?"
+},
+{
+"n": 112,
+"h": "c1d01439",
+"en_raw": "Misdeeds get around"
+},
+{
+"n": 113,
+"h": "3e07a6a4",
+"en_raw": "Get lost already"
+},
+{
+"n": 114,
+"h": "d9fca9de",
+"en_raw": "...Well, I'm fine either way"
+},
+{
+"n": 115,
+"h": "fca947e1",
+"en_raw": "What, say it..."
+},
+{
+"n": 116,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 117,
+"h": "f3896692",
+"en_raw": "Remember this!"
+},
+{
+"n": 118,
+"h": "a1ba102e",
+"en_raw": "(Phew..."
+},
+{
+"n": 119,
+"h": "64f300fd",
+"en_raw": "I made that up"
+},
+{
+"n": 120,
+"h": "ec37de30",
+"en_raw": "but did he really"
+},
+{
+"n": 121,
+"h": "9dd87bdc",
+"en_raw": "do all that...)"
+},
+{
+"n": 122,
+"h": "cdcd9695",
+"en_raw": "(...Biggest bad feeling ever)"
+},
+{
+"n": 123,
+"h": "d522d948",
+"en_raw": "...Ugh, Keina Sanjo"
+},
+{
+"n": 124,
+"h": "50ca8ce5",
+"en_raw": "Well, if it isn't"
+},
+{
+"n": 125,
+"h": "ced4e8f0",
+"en_raw": "Hirauchi?"
+},
+{
+"n": 126,
+"h": "958a7993",
+"en_raw": "Shh, not so loud"
+},
+{
+"n": 127,
+"h": "dc2c18f1",
+"en_raw": "What are you doing there?"
+},
+{
+"n": 128,
+"h": "37221165",
+"en_raw": "Do I look like I'm doing something?"
+},
+{
+"n": 129,
+"h": "87efcec9",
+"en_raw": "Yes, very much so"
+},
+{
+"n": 130,
+"h": "209c5aa7",
+"en_raw": "Oh, I see"
+},
+{
+"n": 131,
+"h": "6999763c",
+"en_raw": "That's a big misunderstanding"
+},
+{
+"n": 132,
+"h": "3efccfb8",
+"en_raw": "It's my hobby"
+},
+{
+"n": 133,
+"h": "f58bb92c",
+"en_raw": "What kind of hobby?"
+},
+{
+"n": 134,
+"h": "aa0c96ed",
+"en_raw": "Writing poems themed on"
+},
+{
+"n": 135,
+"h": "bfe6d982",
+"en_raw": "the school hallway in the evening"
+},
+{
+"n": 136,
+"h": "5f4018de",
+"en_raw": "Hmm"
+},
+{
+"n": 137,
+"h": "f7bafcf2",
+"en_raw": "So, when people are around"
+},
+{
+"n": 138,
+"h": "56d9e802",
+"en_raw": "my concentration"
+},
+{
+"n": 139,
+"h": "df11835f",
+"en_raw": "gets disrupted"
+},
+{
+"n": 140,
+"h": "27b9a665",
+"en_raw": "Sorry, sorry"
+},
+{
+"n": 141,
+"h": "252f60a1",
+"en_raw": "I'll go right away"
+},
+{
+"n": 142,
+"h": "3f1a5946",
+"en_raw": "Let me get my bag?"
+},
+{
+"n": 143,
+"h": "c752ad00",
+"en_raw": "...No"
+},
+{
+"n": 144,
+"h": "05288be5",
+"en_raw": "Then you can't go home"
+},
+{
+"n": 145,
+"h": "0039bb1e",
+"en_raw": "(I'm saying this since I think we're friends"
+},
+{
+"n": 146,
+"h": "5776a6ba",
+"en_raw": "Please just leave quietly)"
+},
+{
+"n": 147,
+"h": "a8c04cec",
+"en_raw": "You and your bad jokes"
+},
+{
+"n": 148,
+"h": "2bf8abe8",
+"en_raw": "(There are things in this world"
+},
+{
+"n": 149,
+"h": "7902582f",
+"en_raw": "that you're glad you didn't see,"
+},
+{
+"n": 150,
+"h": "d2edf19c",
+"en_raw": "you know)"
+},
+{
+"n": 151,
+"h": "b7fde86e",
+"en_raw": "Like splatter videos"
+},
+{
+"n": 152,
+"h": "0f7c430e",
+"en_raw": "the underpass?"
+},
+{
+"n": 153,
+"h": "a047c24c",
+"en_raw": "(...A request?)"
+},
+{
+"n": 154,
+"h": "73c66a6d",
+"en_raw": "Even if you say that..."
+},
+{
+"n": 155,
+"h": "ea2bf9ca",
+"en_raw": "Without my bag I can't do homework"
+},
+{
+"n": 156,
+"h": "29849e29",
+"en_raw": "and if I don't do it, I'll be scolded"
+},
+{
+"n": 157,
+"h": "e1bf6e3b",
+"en_raw": "I can't back down either"
+},
+{
+"n": 158,
+"h": "05840a2c",
+"en_raw": "(...Ah"
+},
+{
+"n": 159,
+"h": "5f2931f1",
+"en_raw": "I can't hold it in anymore)"
+},
+{
+"n": 160,
+"h": "61505141",
+"en_raw": "You don't have to force yourself"
+},
+{
+"n": 161,
+"h": "aa51aa96",
+"en_raw": "to hold it in alone"
+},
+{
+"n": 162,
+"h": "5402cc54",
+"en_raw": "(I don't know anymore, I warned you)"
+},
+{
+"n": 163,
+"h": "61663c26",
+"en_raw": "Yeah, thanks"
+},
+{
+"n": 164,
+"h": "2686e86a",
+"en_raw": "How weird..."
+},
+{
+"n": 165,
+"h": "4dbf5a5c",
+"en_raw": "...Ah!!"
+},
+{
+"n": 166,
+"h": "e6f6b4bc",
+"en_raw": "(Shh, don't make a sound"
+},
+{
+"n": 167,
+"h": "ded8fa8f",
+"en_raw": "I told you not to look)"
+},
+{
+"n": 168,
+"h": "cb0eca2c",
+"en_raw": "(Hey, Hirauchi..."
+},
+{
+"n": 169,
+"h": "7cd5479c",
+"en_raw": "was Naoki Murase always such"
+},
+{
+"n": 170,
+"h": "bcad40d4",
+"en_raw": "a bold guy?)"
+},
+{
+"n": 171,
+"h": "07622786",
+"en_raw": "(When certain conditions are met"
+},
+{
+"n": 172,
+"h": "5bad972e",
+"en_raw": "he becomes endlessly"
+},
+{
+"n": 173,
+"h": "74c5eda6",
+"en_raw": "shameless"
+},
+{
+"n": 174,
+"h": "ce0347fc",
+"en_raw": "See, the honor student's other face?)"
+},
+{
+"n": 175,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 176,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 177,
+"h": "c5d36185",
+"en_raw": "(Shiina's also kind of"
+},
+{
+"n": 178,
+"h": "7d291352",
+"en_raw": "too unguarded)"
+},
+{
+"n": 179,
+"h": "05470ce8",
+"en_raw": "(That's why I'm the watcher)"
+},
+{
+"n": 180,
+"h": "6fbd1486",
+"en_raw": "(But they seem super close...)"
+},
+{
+"n": 181,
+"h": "6b2d3bd9",
+"en_raw": "(That's an illusion"
+},
+{
+"n": 182,
+"h": "4d889030",
+"en_raw": "Shiina's like that with everyone)"
+},
+{
+"n": 183,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 184,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 185,
+"h": "174e12ad",
+"en_raw": "...Opening it!"
+},
+{
+"n": 186,
+"h": "44711d1a",
+"en_raw": "...No!"
+},
+{
+"n": 187,
+"h": "3ef10089",
+"en_raw": "(...Why are you stopping me?)"
+},
+{
+"n": 188,
+"h": "67b967cf",
+"en_raw": "(...I stop you no matter what)"
+},
+{
+"n": 189,
+"h": "dce4b17e",
+"en_raw": "(...Aren't you frustrated?)"
+},
+{
+"n": 190,
+"h": "34e74bb9",
+"en_raw": "(...What do you"
+},
+{
+"n": 191,
+"h": "871eb1f8",
+"en_raw": "mean frustrated?)"
+},
+{
+"n": 192,
+"h": "45909464",
+"en_raw": "...Anyway, opening it!"
+},
+{
+"n": 193,
+"h": "44711d1a",
+"en_raw": "...No!"
+},
+{
+"n": 194,
+"h": "174e12ad",
+"en_raw": "...Opening it!"
+},
+{
+"n": 195,
+"h": "44711d1a",
+"en_raw": "...No!"
+},
+{
+"n": 196,
+"h": "31e555f5",
+"en_raw": "...! Opening"
+},
+{
+"n": 197,
+"h": "5936a2ae",
+"en_raw": "(Ah, they're coming out!)"
+}
+]
+}

@@ -1,0 +1,413 @@
+{
+"file": 927,
+"paths": [
+"d008/d103/f018"
+],
+"lines": [
+{
+"n": 0,
+"h": "271da6bd",
+"en_raw": "Come in here"
+},
+{
+"n": 1,
+"h": "a550d6d9",
+"en_raw": "...Don't worry"
+},
+{
+"n": 2,
+"h": "89f80fe6",
+"en_raw": "Go in / Run away  Um... well..."
+},
+{
+"n": 3,
+"h": "a530caf6",
+"en_raw": "Excuse me!"
+},
+{
+"n": 4,
+"h": "0c5c6c78",
+"en_raw": "...All right"
+},
+{
+"n": 5,
+"h": "291b66b0",
+"en_raw": "Why..."
+},
+{
+"n": 6,
+"h": "7aa93252",
+"en_raw": "would you do this to me?"
+},
+{
+"n": 7,
+"h": "15c62aa4",
+"en_raw": "Sorry for frightening you"
+},
+{
+"n": 8,
+"h": "1a4bd049",
+"en_raw": "I know it's childish"
+},
+{
+"n": 9,
+"h": "f6788e61",
+"en_raw": "but I can't control myself..."
+},
+{
+"n": 10,
+"h": "deebd145",
+"en_raw": "I badly wanted you"
+},
+{
+"n": 11,
+"h": "89ce3f8d",
+"en_raw": "to understand"
+},
+{
+"n": 12,
+"h": "3f38c5f8",
+"en_raw": "You who were with"
+},
+{
+"n": 13,
+"h": "0660c3f0",
+"en_raw": "that girl..."
+},
+{
+"n": 14,
+"h": "eaa2a791",
+"en_raw": "That girl..."
+},
+{
+"n": 15,
+"h": "60b643e1",
+"en_raw": "do you mean Shiina?"
+},
+{
+"n": 16,
+"h": "606737e7",
+"en_raw": "Does it have something"
+},
+{
+"n": 17,
+"h": "7c826e74",
+"en_raw": "to do with Shiina?"
+},
+{
+"n": 18,
+"h": "c99f8cc9",
+"en_raw": "...I killed her..."
+},
+{
+"n": 19,
+"h": "2817f5a7",
+"en_raw": "...What?"
+},
+{
+"n": 20,
+"h": "be809f53",
+"en_raw": "I killed her"
+},
+{
+"n": 21,
+"h": "0a5cab86",
+"en_raw": "W-what do you mean?"
+},
+{
+"n": 22,
+"h": "9c4fc9b8",
+"en_raw": "I don't really understand..."
+},
+{
+"n": 23,
+"h": "a1ccd02c",
+"en_raw": "...It was thirteen years ago..."
+},
+{
+"n": 24,
+"h": "cd59aa68",
+"en_raw": "That girl"
+},
+{
+"n": 25,
+"h": "daa6e54f",
+"en_raw": "always carried a clown in her arms"
+},
+{
+"n": 26,
+"h": "be3220e8",
+"en_raw": "It was a broken music box"
+},
+{
+"n": 27,
+"h": "d0602f98",
+"en_raw": "it only played a mad melody"
+},
+{
+"n": 28,
+"h": "27a229d9",
+"en_raw": "At times the girl would sing along"
+},
+{
+"n": 29,
+"h": "aec83603",
+"en_raw": "with an off-key tune"
+},
+{
+"n": 30,
+"h": "fd12d184",
+"en_raw": "I could never suppress the fear"
+},
+{
+"n": 31,
+"h": "2b16c299",
+"en_raw": "it caused me"
+},
+{
+"n": 32,
+"h": "bdfa2edc",
+"en_raw": "Just hearing it made me tremble"
+},
+{
+"n": 33,
+"h": "dee46160",
+"en_raw": "And I, still immature"
+},
+{
+"n": 34,
+"h": "759609d5",
+"en_raw": "like covering a stinking pot with a lid"
+},
+{
+"n": 35,
+"h": "0e157edc",
+"en_raw": "locked the girl in this basement cell"
+},
+{
+"n": 36,
+"h": "d6d657d9",
+"en_raw": "It was all I could do..."
+},
+{
+"n": 37,
+"h": "38328eed",
+"en_raw": "Her blackened madness"
+},
+{
+"n": 38,
+"h": "f703de14",
+"en_raw": "had begun to infect those around her"
+},
+{
+"n": 39,
+"h": "42e13aa7",
+"en_raw": "But, but you see..."
+},
+{
+"n": 40,
+"h": "5e73fe43",
+"en_raw": "she escaped by her own power"
+},
+{
+"n": 41,
+"h": "f01aefbb",
+"en_raw": "and vanished into the forest"
+},
+{
+"n": 42,
+"h": "f0b1590f",
+"en_raw": "that spreads behind this building..."
+},
+{
+"n": 43,
+"h": "86b7337c",
+"en_raw": "On the sixth day, early morning"
+},
+{
+"n": 44,
+"h": "38c1dd0d",
+"en_raw": "she was found dead..."
+},
+{
+"n": 45,
+"h": "25e88c4f",
+"en_raw": "Can you believe it? Deep in the forest"
+},
+{
+"n": 46,
+"h": "737728da",
+"en_raw": "at the bottom of an old well"
+},
+{
+"n": 47,
+"h": "d96005a2",
+"en_raw": "crouched, with a faint smile"
+},
+{
+"n": 48,
+"h": "cefc59f9",
+"en_raw": "she'd starved to death"
+},
+{
+"n": 49,
+"h": "0a70402b",
+"en_raw": "her eyes wide open..."
+},
+{
+"n": 50,
+"h": "86f68064",
+"en_raw": "Hatred... and mockery"
+},
+{
+"n": 51,
+"h": "381a7f9f",
+"en_raw": "Those were not human eyes"
+},
+{
+"n": 52,
+"h": "7160919e",
+"en_raw": "hating everything while, at the same time"
+},
+{
+"n": 53,
+"h": "ddbc263c",
+"en_raw": "seeming to try to swallow it all"
+},
+{
+"n": 54,
+"h": "24bc41d4",
+"en_raw": "Those... those..."
+},
+{
+"n": 55,
+"h": "59cb1802",
+"en_raw": "cloudy... pupils..."
+},
+{
+"n": 56,
+"h": "b7e37e24",
+"en_raw": "that make you want to claw them out"
+},
+{
+"n": 57,
+"h": "6643b26f",
+"en_raw": "For these thirteen years, I tried to forget"
+},
+{
+"n": 58,
+"h": "59f5f53a",
+"en_raw": "I thought I could forget"
+},
+{
+"n": 59,
+"h": "62ef07f7",
+"en_raw": "But then she appeared with you"
+},
+{
+"n": 60,
+"h": "35de198f",
+"en_raw": "that girl..."
+},
+{
+"n": 61,
+"h": "091e563e",
+"en_raw": "She really looks just like her!"
+},
+{
+"n": 62,
+"h": "6458d4a7",
+"en_raw": "The eyes differ, but that face"
+},
+{
+"n": 63,
+"h": "8e95cf2c",
+"en_raw": "that bearing, and that voice..."
+},
+{
+"n": 64,
+"h": "3d58e8ae",
+"en_raw": "This tune... can it be!"
+},
+{
+"n": 65,
+"h": "7a336215",
+"en_raw": "Nao, let's go~"
+},
+{
+"n": 66,
+"h": "b87eae26",
+"en_raw": "...I see... it is so after all"
+},
+{
+"n": 67,
+"h": "7474b599",
+"en_raw": "...Do you believe in curses?"
+},
+{
+"n": 68,
+"h": "396d9ef1",
+"en_raw": "No, Shiina isn't..."
+},
+{
+"n": 69,
+"h": "dbeaee9e",
+"en_raw": "I believe, she came"
+},
+{
+"n": 70,
+"h": "59d224f3",
+"en_raw": "You brought her"
+},
+{
+"n": 71,
+"h": "3f69ffdb",
+"en_raw": "She came out"
+},
+{
+"n": 72,
+"h": "13a84a95",
+"en_raw": "from the darkness below"
+},
+{
+"n": 73,
+"h": "2343db29",
+"en_raw": "What are you talking about?"
+},
+{
+"n": 74,
+"h": "09b03c49",
+"en_raw": "So I too am finally to be judged..."
+},
+{
+"n": 75,
+"h": "d1369ea7",
+"en_raw": "Very well"
+},
+{
+"n": 76,
+"h": "f0993b87",
+"en_raw": "if now is the time..."
+},
+{
+"n": 77,
+"h": "af0b8270",
+"en_raw": "take my hand and lead me"
+},
+{
+"n": 78,
+"h": "c5878191",
+"en_raw": "...into your darkness..."
+},
+{
+"n": 79,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 80,
+"h": "fafd0410",
+"en_raw": "............"
+}
+]
+}

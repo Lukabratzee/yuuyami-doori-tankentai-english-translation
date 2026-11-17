@@ -1,0 +1,893 @@
+{
+"file": 1017,
+"paths": [
+"d008/d132/f018"
+],
+"lines": [
+{
+"n": 0,
+"h": "e934d82c",
+"en_raw": "Hey, Melos!"
+},
+{
+"n": 1,
+"h": "f4597960",
+"en_raw": "What a terrible smell..."
+},
+{
+"n": 2,
+"h": "1c4b61e9",
+"en_raw": "It can't be helped behind the toilet"
+},
+{
+"n": 3,
+"h": "52279cc0",
+"en_raw": "and what else is it"
+},
+{
+"n": 4,
+"h": "172e77b1",
+"en_raw": "It smells like Melos's doghouse"
+},
+{
+"n": 5,
+"h": "4efb1ad2",
+"en_raw": "Huh?"
+},
+{
+"n": 6,
+"h": "363cca79",
+"en_raw": "I thought it was a parabolic antenna"
+},
+{
+"n": 7,
+"h": "da7979e6",
+"en_raw": "but no..."
+},
+{
+"n": 8,
+"h": "94d2a2b7",
+"en_raw": "An umbrella and a wok...?"
+},
+{
+"n": 9,
+"h": "5ad17fd5",
+"en_raw": "Why would anyone put up something like this..."
+},
+{
+"n": 10,
+"h": "a9f225a8",
+"en_raw": "...There's a person inside"
+},
+{
+"n": 11,
+"h": "acdb844e",
+"en_raw": "Uh-oh... let's go home"
+},
+{
+"n": 12,
+"h": "4bdaecb0",
+"en_raw": "...Ah!?"
+},
+{
+"n": 13,
+"h": "16a4c19b",
+"en_raw": "Ah, by the way,"
+},
+{
+"n": 14,
+"h": "2d17d317",
+"en_raw": "it seems the creature from yesterday isn't here?"
+},
+{
+"n": 15,
+"h": "79ae1ccf",
+"en_raw": "Yesterday's creature?"
+},
+{
+"n": 16,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 17,
+"h": "896c3bb8",
+"en_raw": "Ah, it's you"
+},
+{
+"n": 18,
+"h": "b968b048",
+"en_raw": "Good, good"
+},
+{
+"n": 19,
+"h": "958f15f8",
+"en_raw": "You haven't brought that creature"
+},
+{
+"n": 20,
+"h": "25f3b429",
+"en_raw": "the one pretending to be your servant"
+},
+{
+"n": 21,
+"h": "89dc08ca",
+"en_raw": "That scary one, you know"
+},
+{
+"n": 22,
+"h": "6f2eb25a",
+"en_raw": "Don't say you don't know"
+},
+{
+"n": 23,
+"h": "eb3dadc9",
+"en_raw": "The one with fangs,"
+},
+{
+"n": 24,
+"h": "fa938906",
+"en_raw": "oh, how frightening..."
+},
+{
+"n": 25,
+"h": "59a5d64e",
+"en_raw": "...You mean Melos?"
+},
+{
+"n": 26,
+"h": "a8dc92ce",
+"en_raw": "Then he really was inside"
+},
+{
+"n": 27,
+"h": "7a711e0b",
+"en_raw": "here yesterday, too?"
+},
+{
+"n": 28,
+"h": "03942332",
+"en_raw": "Sorry"
+},
+{
+"n": 29,
+"h": "22468af1",
+"en_raw": "But Melos barking at people"
+},
+{
+"n": 30,
+"h": "ff02a668",
+"en_raw": "is"
+},
+{
+"n": 31,
+"h": "f67459b2",
+"en_raw": "really rare"
+},
+{
+"n": 32,
+"h": "7b7d6434",
+"en_raw": "It's our natural enemy,"
+},
+{
+"n": 33,
+"h": "269460c5",
+"en_raw": "you see"
+},
+{
+"n": 34,
+"h": "06a9240d",
+"en_raw": "From the Kinko star system"
+},
+{
+"n": 35,
+"h": "a95bdd78",
+"en_raw": "by the hands of the Kinkodals,"
+},
+{
+"n": 36,
+"h": "716f25fd",
+"en_raw": "it was genetically"
+},
+{
+"n": 37,
+"h": "dd4cdfe2",
+"en_raw": "modified, a creature"
+},
+{
+"n": 38,
+"h": "e7be7168",
+"en_raw": "made to detect"
+},
+{
+"n": 39,
+"h": "edd0b5b8",
+"en_raw": "us Kapras people"
+},
+{
+"n": 40,
+"h": "eda75ec6",
+"en_raw": "Yes... a biological weapon"
+},
+{
+"n": 41,
+"h": "85505889",
+"en_raw": "No way"
+},
+{
+"n": 42,
+"h": "ca54cc1b",
+"en_raw": "He's just a mutt"
+},
+{
+"n": 43,
+"h": "84965ea1",
+"en_raw": "\"No way\" won't do,"
+},
+{
+"n": 44,
+"h": "061d3c5f",
+"en_raw": "Earth boy"
+},
+{
+"n": 45,
+"h": "76c4f612",
+"en_raw": "Truth always moves"
+},
+{
+"n": 46,
+"h": "2f533acb",
+"en_raw": "outside your common sense"
+},
+{
+"n": 47,
+"h": "7c0b00ec",
+"en_raw": "Now, go on"
+},
+{
+"n": 48,
+"h": "76c4f612",
+"en_raw": "Truth always moves"
+},
+{
+"n": 49,
+"h": "2f533acb",
+"en_raw": "outside your common sense"
+},
+{
+"n": 50,
+"h": "9e1b6de5",
+"en_raw": "Whoa, it smells like a zoo..."
+},
+{
+"n": 51,
+"h": "5bcd5cf9",
+"en_raw": "Now, Earth boy"
+},
+{
+"n": 52,
+"h": "894cdf85",
+"en_raw": "...Y-yes?"
+},
+{
+"n": 53,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 54,
+"h": "f107a561",
+"en_raw": "Until now, have you"
+},
+{
+"n": 55,
+"h": "feba0aef",
+"en_raw": "ever been hit by strong dizziness"
+},
+{
+"n": 56,
+"h": "4c4b4f17",
+"en_raw": "or had sudden memory gaps"
+},
+{
+"n": 57,
+"h": "bd3c208f",
+"en_raw": "or anything?"
+},
+{
+"n": 58,
+"h": "911387b0",
+"en_raw": "Probably not..."
+},
+{
+"n": 59,
+"h": "797b4d74",
+"en_raw": "Oh, oh, good"
+},
+{
+"n": 60,
+"h": "4d258eb6",
+"en_raw": "You're fortunately still"
+},
+{
+"n": 61,
+"h": "a71a4f91",
+"en_raw": "unexposed to the Kinkodal"
+},
+{
+"n": 62,
+"h": "d5a98d45",
+"en_raw": "brainwashing ray"
+},
+{
+"n": 63,
+"h": "0dfd30f9",
+"en_raw": "But be careful"
+},
+{
+"n": 64,
+"h": "af71181c",
+"en_raw": "They're always targeting"
+},
+{
+"n": 65,
+"h": "bfcf980a",
+"en_raw": "Earthlings like you"
+},
+{
+"n": 66,
+"h": "61faac7c",
+"en_raw": "...With a machine like a ballpoint pen"
+},
+{
+"n": 67,
+"h": "0b5f7c88",
+"en_raw": "they flash it, and then"
+},
+{
+"n": 68,
+"h": "80c25b00",
+"en_raw": "the Earthling's memory is erased"
+},
+{
+"n": 69,
+"h": "22ef9a80",
+"en_raw": "and they become"
+},
+{
+"n": 70,
+"h": "bd54b66a",
+"en_raw": "a Kinkodal minion"
+},
+{
+"n": 71,
+"h": "c8be3d0c",
+"en_raw": "...Huh"
+},
+{
+"n": 72,
+"h": "a3017eb4",
+"en_raw": "TV is dangerous too"
+},
+{
+"n": 73,
+"h": "61010a90",
+"en_raw": "...I used to be"
+},
+{
+"n": 74,
+"h": "abf46b59",
+"en_raw": "at a TV station"
+},
+{
+"n": 75,
+"h": "4b79b8fa",
+"en_raw": "but that place is"
+},
+{
+"n": 76,
+"h": "cb4a9b47",
+"en_raw": "completely occupied by the Kinkodals"
+},
+{
+"n": 77,
+"h": "767a2292",
+"en_raw": "Bathed in TV waves"
+},
+{
+"n": 78,
+"h": "51822115",
+"en_raw": "you're slowly brainwashed"
+},
+{
+"n": 79,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 80,
+"h": "b5850690",
+"en_raw": "With special glasses"
+},
+{
+"n": 81,
+"h": "c419bc85",
+"en_raw": "you can see through their disguises, but..."
+},
+{
+"n": 82,
+"h": "cf44c350",
+"en_raw": "Well, go on"
+},
+{
+"n": 83,
+"h": "90956487",
+"en_raw": "...Ah, yes"
+},
+{
+"n": 84,
+"h": "e62ebe2d",
+"en_raw": "What is it?"
+},
+{
+"n": 85,
+"h": "f037a966",
+"en_raw": "Frankly, you're a good Earthling"
+},
+{
+"n": 86,
+"h": "431df8f8",
+"en_raw": "Oh..."
+},
+{
+"n": 87,
+"h": "b11a7319",
+"en_raw": "Frankly, it's a pity"
+},
+{
+"n": 88,
+"h": "fa12440b",
+"en_raw": "A pity... what is?"
+},
+{
+"n": 89,
+"h": "d5857011",
+"en_raw": "Oh, oh, sorry"
+},
+{
+"n": 90,
+"h": "aeead3e2",
+"en_raw": "If only I had power..."
+},
+{
+"n": 91,
+"h": "c06e4423",
+"en_raw": "If only I'd noticed"
+},
+{
+"n": 92,
+"h": "35679fb7",
+"en_raw": "a little sooner"
+},
+{
+"n": 93,
+"h": "3d076a3e",
+"en_raw": "Please don't be so down"
+},
+{
+"n": 94,
+"h": "fc806fbf",
+"en_raw": "...Oh, yes, you're right"
+},
+{
+"n": 95,
+"h": "c5064c24",
+"en_raw": "It's too soon to give up hope"
+},
+{
+"n": 96,
+"h": "78189d8a",
+"en_raw": "That's right, if relief from the home star arrives"
+},
+{
+"n": 97,
+"h": "488c1d17",
+"en_raw": "the future of this planet"
+},
+{
+"n": 98,
+"h": "6155f0ce",
+"en_raw": "might change"
+},
+{
+"n": 99,
+"h": "b3e5340f",
+"en_raw": "...Y-yes, haha"
+},
+{
+"n": 100,
+"h": "0275c3c6",
+"en_raw": "Eventually, I may have to"
+},
+{
+"n": 101,
+"h": "d26e472c",
+"en_raw": "borrow your power too"
+},
+{
+"n": 102,
+"h": "016fbbcd",
+"en_raw": "I'm counting on you then"
+},
+{
+"n": 103,
+"h": "a359b0aa",
+"en_raw": "Ah, y-yes..."
+},
+{
+"n": 104,
+"h": "9fe40d28",
+"en_raw": "Oh, oh, boy of Earth"
+},
+{
+"n": 105,
+"h": "f9fb29c7",
+"en_raw": "There's something I want to ask you"
+},
+{
+"n": 106,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 107,
+"h": "9fe40d28",
+"en_raw": "Oh, oh, boy of Earth"
+},
+{
+"n": 108,
+"h": "f9fb29c7",
+"en_raw": "There's something I want to ask you"
+},
+{
+"n": 109,
+"h": "a04d50e8",
+"en_raw": "...What is it?"
+},
+{
+"n": 110,
+"h": "54616cb0",
+"en_raw": "It's none other than"
+},
+{
+"n": 111,
+"h": "24251245",
+"en_raw": "Princess Bon"
+},
+{
+"n": 112,
+"h": "0301f81a",
+"en_raw": "Princess Bon... you mean"
+},
+{
+"n": 113,
+"h": "60b643e1",
+"en_raw": "do you mean Shiina?"
+},
+{
+"n": 114,
+"h": "1aa498e2",
+"en_raw": "We can't leave the Princess"
+},
+{
+"n": 115,
+"h": "e025d749",
+"en_raw": "on this planet as is"
+},
+{
+"n": 116,
+"h": "c76d9190",
+"en_raw": "This planet can no longer escape"
+},
+{
+"n": 117,
+"h": "0d0f7477",
+"en_raw": "Kinkodal brainwashing"
+},
+{
+"n": 118,
+"h": "c155797d",
+"en_raw": "Kinkodal brainwashing... what's that?"
+},
+{
+"n": 119,
+"h": "11ace3ce",
+"en_raw": "Trends, theories, hard study,"
+},
+{
+"n": 120,
+"h": "c08f7828",
+"en_raw": "anyway, a flood of"
+},
+{
+"n": 121,
+"h": "fbce4bda",
+"en_raw": "massive information"
+},
+{
+"n": 122,
+"h": "893814f2",
+"en_raw": "to scramble the brain"
+},
+{
+"n": 123,
+"h": "4a1b7a7f",
+"en_raw": "so the truth can't be seen"
+},
+{
+"n": 124,
+"h": "f3a9b8b6",
+"en_raw": "making all Kinkodal information"
+},
+{
+"n": 125,
+"h": "9317960e",
+"en_raw": "feel like"
+},
+{
+"n": 126,
+"h": "62018424",
+"en_raw": "reality"
+},
+{
+"n": 127,
+"h": "7e4d183f",
+"en_raw": "Then, once the power to see"
+},
+{
+"n": 128,
+"h": "4b9ca23a",
+"en_raw": "and feel things for yourself weakens"
+},
+{
+"n": 129,
+"h": "5774ca51",
+"en_raw": "Kinkodal turns the planet's residents"
+},
+{
+"n": 130,
+"h": "fdd320f5",
+"en_raw": "into slaves"
+},
+{
+"n": 131,
+"h": "0a07a6bd",
+"en_raw": "...Terrible, isn't it?"
+},
+{
+"n": 132,
+"h": "44ee4671",
+"en_raw": "Huh..."
+},
+{
+"n": 133,
+"h": "2cacb5e1",
+"en_raw": "It used to target adults,"
+},
+{
+"n": 134,
+"h": "858b5754",
+"en_raw": "but lately, because of the brainwashing waves"
+},
+{
+"n": 135,
+"h": "a4c8be41",
+"en_raw": "brain degradation is very fast"
+},
+{
+"n": 136,
+"h": "1dc84b0f",
+"en_raw": "so the targets are getting younger"
+},
+{
+"n": 137,
+"h": "d1cdbcba",
+"en_raw": "Now, some Earth children"
+},
+{
+"n": 138,
+"h": "9e671b57",
+"en_raw": "have begun to become Kinkodalized"
+},
+{
+"n": 139,
+"h": "8fab9a26",
+"en_raw": "Somewhere, they"
+},
+{
+"n": 140,
+"h": "aa6b2414",
+"en_raw": "watch it, grinning"
+},
+{
+"n": 141,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 142,
+"h": "e26f7229",
+"en_raw": "We have resisted such forces"
+},
+{
+"n": 143,
+"h": "3ed6c165",
+"en_raw": "...But we couldn't get the vital"
+},
+{
+"n": 144,
+"h": "a11e0a77",
+"en_raw": "cooperation of Earthlings"
+},
+{
+"n": 145,
+"h": "08ed584d",
+"en_raw": "...We lost"
+},
+{
+"n": 146,
+"h": "e8fec60f",
+"en_raw": "Soon, I will leave this planet"
+},
+{
+"n": 147,
+"h": "4d9ccc08",
+"en_raw": "I called a Kapras rescue ship"
+},
+{
+"n": 148,
+"h": "f35b74a0",
+"en_raw": "near here"
+},
+{
+"n": 149,
+"h": "d3a7e65f",
+"en_raw": "If possible, I'd like to take"
+},
+{
+"n": 150,
+"h": "346a3caf",
+"en_raw": "Princess Bon home too"
+},
+{
+"n": 151,
+"h": "1eb532ed",
+"en_raw": "But Princess Bon..."
+},
+{
+"n": 152,
+"h": "89f8781d",
+"en_raw": "She's an Earthling, Shiina is"
+},
+{
+"n": 153,
+"h": "4fefb141",
+"en_raw": "Oh, oh,"
+},
+{
+"n": 154,
+"h": "ab095725",
+"en_raw": "I understand your feelings well"
+},
+{
+"n": 155,
+"h": "6af6d178",
+"en_raw": "But it can't"
+},
+{
+"n": 156,
+"h": "df3265f9",
+"en_raw": "be done that way"
+},
+{
+"n": 157,
+"h": "bcbd56dd",
+"en_raw": "There's a hilltop in this town, right?"
+},
+{
+"n": 158,
+"h": "d3063a04",
+"en_raw": "The ship will come there"
+},
+{
+"n": 159,
+"h": "d02b9e3f",
+"en_raw": "When night falls, you must"
+},
+{
+"n": 160,
+"h": "67e71c14",
+"en_raw": "bring Princess Bon there"
+},
+{
+"n": 161,
+"h": "ab203125",
+"en_raw": "Otherwise..."
+},
+{
+"n": 162,
+"h": "85cfe444",
+"en_raw": "Otherwise, what?"
+},
+{
+"n": 163,
+"h": "485ebad0",
+"en_raw": "...Our Kapras comrades"
+},
+{
+"n": 164,
+"h": "416c25c4",
+"en_raw": "will use a bug bomb"
+},
+{
+"n": 165,
+"h": "07d820d5",
+"en_raw": "Its power is"
+},
+{
+"n": 166,
+"h": "a980a0c8",
+"en_raw": "a million times that of an Earth flea..."
+},
+{
+"n": 167,
+"h": "bde49598",
+"en_raw": "That's absurd..."
+},
+{
+"n": 168,
+"h": "5190c403",
+"en_raw": "Anyway, boy of Earth"
+},
+{
+"n": 169,
+"h": "5a9c07fa",
+"en_raw": "Princess Bon to the hilltop!"
+},
+{
+"n": 170,
+"h": "6645febd",
+"en_raw": "...You cannot"
+},
+{
+"n": 171,
+"h": "fc9e061d",
+"en_raw": "refuse this"
+},
+{
+"n": 172,
+"h": "6645febd",
+"en_raw": "...You cannot"
+},
+{
+"n": 173,
+"h": "fc9e061d",
+"en_raw": "refuse this"
+},
+{
+"n": 174,
+"h": "88a9ebb7",
+"en_raw": "...Excuse me"
+},
+{
+"n": 175,
+"h": "80036c06",
+"en_raw": "Huh...?"
+},
+{
+"n": 176,
+"h": "2160ffd2",
+"en_raw": "He's gone..."
+}
+]
+}

@@ -1,0 +1,458 @@
+{
+"file": 922,
+"paths": [
+"d008/d102/f016"
+],
+"lines": [
+{
+"n": 0,
+"h": "b14db744",
+"en_raw": "Granny"
+},
+{
+"n": 1,
+"h": "393e817b",
+"en_raw": "Hello~"
+},
+{
+"n": 2,
+"h": "f6197a04",
+"en_raw": "If you play in a place like this"
+},
+{
+"n": 3,
+"h": "904d045a",
+"en_raw": "Dr. Izumi will scold you"
+},
+{
+"n": 4,
+"h": "d5770ba5",
+"en_raw": "Hey hey, Granny"
+},
+{
+"n": 5,
+"h": "a90429fc",
+"en_raw": "do you know the clown?"
+},
+{
+"n": 6,
+"h": "520962ec",
+"en_raw": "The clown!"
+},
+{
+"n": 7,
+"h": "08d80f14",
+"en_raw": "Dr. Izumi is a truly good person"
+},
+{
+"n": 8,
+"h": "2b308859",
+"en_raw": "Kurumi, you know, came to see the clown"
+},
+{
+"n": 9,
+"h": "fadabe29",
+"en_raw": "a clown who hates carrots"
+},
+{
+"n": 10,
+"h": "63f5fdd3",
+"en_raw": "This is a doggy"
+},
+{
+"n": 11,
+"h": "0fd6328a",
+"en_raw": "Go on home"
+},
+{
+"n": 12,
+"h": "2b308859",
+"en_raw": "Kurumi, you know, came to see the clown"
+},
+{
+"n": 13,
+"h": "fadabe29",
+"en_raw": "a clown who hates carrots"
+},
+{
+"n": 14,
+"h": "75f69810",
+"en_raw": "Go home quickly"
+},
+{
+"n": 15,
+"h": "f6a3b7f7",
+"en_raw": "Hey, do you know the clown?"
+},
+{
+"n": 16,
+"h": "4a32b4d4",
+"en_raw": "...!!"
+},
+{
+"n": 17,
+"h": "8d599f62",
+"en_raw": "Kurumi knows"
+},
+{
+"n": 18,
+"h": "c24edefa",
+"en_raw": "A circus person! Bingo!"
+},
+{
+"n": 19,
+"h": "587a9fdd",
+"en_raw": "...Why are you here?"
+},
+{
+"n": 20,
+"h": "62a3c5e3",
+"en_raw": "Huh? What's wrong?"
+},
+{
+"n": 21,
+"h": "796dc1d9",
+"en_raw": "...Surely not, it can't be"
+},
+{
+"n": 22,
+"h": "9f654048",
+"en_raw": "Hey hey"
+},
+{
+"n": 23,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 24,
+"h": "6733a893",
+"en_raw": "...Weird"
+},
+{
+"n": 25,
+"h": "6de938ef",
+"en_raw": "Never mind, Shiina"
+},
+{
+"n": 26,
+"h": "7a403d1e",
+"en_raw": "let's go ahead"
+},
+{
+"n": 27,
+"h": "83477214",
+"en_raw": "That area's under construction"
+},
+{
+"n": 28,
+"h": "177dc618",
+"en_raw": "so no entering"
+},
+{
+"n": 29,
+"h": "4a32b4d4",
+"en_raw": "...!!"
+},
+{
+"n": 30,
+"h": "587a9fdd",
+"en_raw": "...Why are you here?"
+},
+{
+"n": 31,
+"h": "62a3c5e3",
+"en_raw": "Huh? What's wrong?"
+},
+{
+"n": 32,
+"h": "95a6ad13",
+"en_raw": "Came again today?"
+},
+{
+"n": 33,
+"h": "24f03dc0",
+"en_raw": "Yeah, I kind of came"
+},
+{
+"n": 34,
+"h": "bbcde0ff",
+"en_raw": "Is walking the dog fun?"
+},
+{
+"n": 35,
+"h": "fff7506f",
+"en_raw": "It's fun with Melos"
+},
+{
+"n": 36,
+"h": "36e322fe",
+"en_raw": "I see, good"
+},
+{
+"n": 37,
+"h": "b81f5724",
+"en_raw": "Hey hey, about before"
+},
+{
+"n": 38,
+"h": "14448f11",
+"en_raw": "why was Kurumi watching?"
+},
+{
+"n": 39,
+"h": "60caa101",
+"en_raw": "Yeah, you're right"
+},
+{
+"n": 40,
+"h": "c9149a4a",
+"en_raw": "I showed you something odd the other day"
+},
+{
+"n": 41,
+"h": "d34c78b8",
+"en_raw": "Did I scare you?"
+},
+{
+"n": 42,
+"h": "3aee3fc2",
+"en_raw": "No, today you're nice"
+},
+{
+"n": 43,
+"h": "bda2cdb5",
+"en_raw": "That's... thank you"
+},
+{
+"n": 44,
+"h": "3ab256de",
+"en_raw": "Are you going somewhere now?"
+},
+{
+"n": 45,
+"h": "6c0fabd6",
+"en_raw": "Kurumi"
+},
+{
+"n": 46,
+"h": "3ab256de",
+"en_raw": "Are you going somewhere now?"
+},
+{
+"n": 47,
+"h": "878d477b",
+"en_raw": "Pa-pi-pu-pe"
+},
+{
+"n": 48,
+"h": "41f0860f",
+"en_raw": "I'm going to look for the clow-n"
+},
+{
+"n": 49,
+"h": "a1fd9fac",
+"en_raw": "I see, then"
+},
+{
+"n": 50,
+"h": "e7b20e8c",
+"en_raw": "don't go any further"
+},
+{
+"n": 51,
+"h": "d4f9455a",
+"en_raw": "Hey hey, those clothes"
+},
+{
+"n": 52,
+"h": "4fe81cd3",
+"en_raw": "...a doctor's outfit?"
+},
+{
+"n": 53,
+"h": "7d1c25e6",
+"en_raw": "Yes, I'm a doctor"
+},
+{
+"n": 54,
+"h": "005ed0b5",
+"en_raw": "Kurumi doesn't"
+},
+{
+"n": 55,
+"h": "4668aae2",
+"en_raw": "like doctors much"
+},
+{
+"n": 56,
+"h": "117f274d",
+"en_raw": "Yes, I suppose so"
+},
+{
+"n": 57,
+"h": "83e93eb2",
+"en_raw": "But Kurumi likes mister"
+},
+{
+"n": 58,
+"h": "606cdc40",
+"en_raw": "And so"
+},
+{
+"n": 59,
+"h": "0eca376f",
+"en_raw": "Dr. Takehiko she likes even more"
+},
+{
+"n": 60,
+"h": "d6508aa9",
+"en_raw": "I see, thank you"
+},
+{
+"n": 61,
+"h": "3913e7e6",
+"en_raw": "If Kurumi doesn't mind"
+},
+{
+"n": 62,
+"h": "6d4ffb66",
+"en_raw": "come play again"
+},
+{
+"n": 63,
+"h": "3dacfbe8",
+"en_raw": "Next time I'll have"
+},
+{
+"n": 64,
+"h": "774728c4",
+"en_raw": "something fun ready"
+},
+{
+"n": 65,
+"h": "35285dbc",
+"en_raw": "Really! Yay!"
+},
+{
+"n": 66,
+"h": "ad703642",
+"en_raw": "It's dangerous, so go home soon"
+},
+{
+"n": 67,
+"h": "cc4f1f28",
+"en_raw": "Wait a moment"
+},
+{
+"n": 68,
+"h": "f8698ea8",
+"en_raw": "Past there is off-limits"
+},
+{
+"n": 69,
+"h": "873c45f8",
+"en_raw": "It's under construction, so dangerous"
+},
+{
+"n": 70,
+"h": "d0fb6d79",
+"en_raw": "Now, it's dangerous, go somewhere else"
+},
+{
+"n": 71,
+"h": "2f97518b",
+"en_raw": "Now, hurry home"
+},
+{
+"n": 72,
+"h": "c18ca8fe",
+"en_raw": "No"
+},
+{
+"n": 73,
+"h": "d0d3bef3",
+"en_raw": "It's dangerous that way"
+},
+{
+"n": 74,
+"h": "802f2376",
+"en_raw": "Granny!"
+},
+{
+"n": 75,
+"h": "34adf176",
+"en_raw": "Even Dr. Izumi, who was so sharp"
+},
+{
+"n": 76,
+"h": "41541e9c",
+"en_raw": "has become like that"
+},
+{
+"n": 77,
+"h": "12cb39ea",
+"en_raw": "...How pitiful"
+},
+{
+"n": 78,
+"h": "de68d2a6",
+"en_raw": "In this world, what's normal"
+},
+{
+"n": 79,
+"h": "eccccc23",
+"en_raw": "no one can tell at all"
+},
+{
+"n": 80,
+"h": "d75302ee",
+"en_raw": "People die"
+},
+{
+"n": 81,
+"h": "cb7933ef",
+"en_raw": "People die..."
+},
+{
+"n": 82,
+"h": "264ee6ef",
+"en_raw": "The curse of thirteen years ago"
+},
+{
+"n": 83,
+"h": "8e1f5a38",
+"en_raw": "The curse of thirteen years ago..."
+},
+{
+"n": 84,
+"h": "3375b91f",
+"en_raw": "Hey hey, doctor mister"
+},
+{
+"n": 85,
+"h": "7b7928f4",
+"en_raw": "Kurumi came to see you"
+},
+{
+"n": 86,
+"h": "8c464792",
+"en_raw": "You mustn't run away"
+},
+{
+"n": 87,
+"h": "1dad7830",
+"en_raw": "Now, let's go back to your room"
+},
+{
+"n": 88,
+"h": "e1bae6f7",
+"en_raw": "The watering can's empty"
+},
+{
+"n": 89,
+"h": "20f714df",
+"en_raw": "Next time, let's draw pictures"
+}
+]
+}

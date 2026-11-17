@@ -1,0 +1,613 @@
+{
+"file": 408,
+"paths": [
+"d008/d014/f016"
+],
+"lines": [
+{
+"n": 0,
+"h": "7ade6943",
+"en_raw": "Hey, look, look at this!"
+},
+{
+"n": 1,
+"h": "20e315f6",
+"en_raw": "...The middle character"
+},
+{
+"n": 2,
+"h": "e13ca12f",
+"en_raw": "It's the same character as Kurumi's"
+},
+{
+"n": 3,
+"h": "f024033d",
+"en_raw": "Nao, what does this mean?"
+},
+{
+"n": 4,
+"h": "cc6c0d74",
+"en_raw": "It means 'to stay'"
+},
+{
+"n": 5,
+"h": "5da364e9",
+"en_raw": "Sun, stay, see..."
+},
+{
+"n": 6,
+"h": "524fc0f0",
+"en_raw": "Yes"
+},
+{
+"n": 7,
+"h": "35301a0d",
+"en_raw": "To see the evening sun stay..."
+},
+{
+"n": 8,
+"h": "7ac31697",
+"en_raw": "That's why it's written Hirumi"
+},
+{
+"n": 9,
+"h": "dba084ac",
+"en_raw": "...What's your name?"
+},
+{
+"n": 10,
+"h": "3715587b",
+"en_raw": "What's your name?"
+},
+{
+"n": 11,
+"h": "30eca39b",
+"en_raw": "Kurumi Shiina!"
+},
+{
+"n": 12,
+"h": "3afaf416",
+"en_raw": "And the 'ru' in Kurumi~ is"
+},
+{
+"n": 13,
+"h": "17140818",
+"en_raw": "this same character!"
+},
+{
+"n": 14,
+"h": "283ff664",
+"en_raw": "Is that so"
+},
+{
+"n": 15,
+"h": "82e1f995",
+"en_raw": "What an unusual name"
+},
+{
+"n": 16,
+"h": "07872856",
+"en_raw": "Beauty that stays long..."
+},
+{
+"n": 17,
+"h": "d114b78e",
+"en_raw": "Still, it's a good name"
+},
+{
+"n": 18,
+"h": "8c30e16d",
+"en_raw": "It suits you"
+},
+{
+"n": 19,
+"h": "767b0f2f",
+"en_raw": "I used to like"
+},
+{
+"n": 20,
+"h": "a039b3f4",
+"en_raw": "Hirumi too"
+},
+{
+"n": 21,
+"h": "5599fb7f",
+"en_raw": "but since the mayor"
+},
+{
+"n": 22,
+"h": "81adeeb0",
+"en_raw": "changed, well..."
+},
+{
+"n": 23,
+"h": "a0d9ba9b",
+"en_raw": "Hmm, Kurumi..."
+},
+{
+"n": 24,
+"h": "c601d4e3",
+"en_raw": "City planning, walking toward the sun brightly"
+},
+{
+"n": 25,
+"h": "837e69bc",
+"en_raw": "...whatever that means"
+},
+{
+"n": 26,
+"h": "402ac351",
+"en_raw": "it's certainly become"
+},
+{
+"n": 27,
+"h": "01666088",
+"en_raw": "a hard town for old people..."
+},
+{
+"n": 28,
+"h": "06e83e1e",
+"en_raw": "I preferred the previous mayor"
+},
+{
+"n": 29,
+"h": "1e69cc30",
+"en_raw": "I liked him better"
+},
+{
+"n": 30,
+"h": "82eadb55",
+"en_raw": "I see, Kurumi..."
+},
+{
+"n": 31,
+"h": "4b540301",
+"en_raw": "When I was a child"
+},
+{
+"n": 32,
+"h": "4d635d7c",
+"en_raw": "it was a more easygoing place"
+},
+{
+"n": 33,
+"h": "9bc1a91f",
+"en_raw": "and the river water was clean"
+},
+{
+"n": 34,
+"h": "296492db",
+"en_raw": "Oh yes, kingfishers"
+},
+{
+"n": 35,
+"h": "f628d41b",
+"en_raw": "kids today wouldn't know them, would they?"
+},
+{
+"n": 36,
+"h": "4ba270a6",
+"en_raw": "They used to be here"
+},
+{
+"n": 37,
+"h": "be84714e",
+"en_raw": "Such a beautiful bird"
+},
+{
+"n": 38,
+"h": "27510d32",
+"en_raw": "These days the feathers have dulled"
+},
+{
+"n": 39,
+"h": "835beb99",
+"en_raw": "and all you see is egrets"
+},
+{
+"n": 40,
+"h": "37fa0ff1",
+"en_raw": "You see, Kurumi..."
+},
+{
+"n": 41,
+"h": "0e719874",
+"en_raw": "Oh, the bus is here"
+},
+{
+"n": 42,
+"h": "7660e693",
+"en_raw": "Well then"
+},
+{
+"n": 43,
+"h": "0826759e",
+"en_raw": "I wonder when Granny will come"
+},
+{
+"n": 44,
+"h": "34fd803e",
+"en_raw": "Wait / Go home  You see, Kurumi"
+},
+{
+"n": 45,
+"h": "dea50c15",
+"en_raw": "wants to go somewhere else"
+},
+{
+"n": 46,
+"h": "f30b800a",
+"en_raw": "Then, Kurumi"
+},
+{
+"n": 47,
+"h": "baa571e7",
+"en_raw": "will wait for Granny!"
+},
+{
+"n": 48,
+"h": "455b4ebb",
+"en_raw": "Not a bad idea"
+},
+{
+"n": 49,
+"h": "d8b37d58",
+"en_raw": "for Shiina"
+},
+{
+"n": 50,
+"h": "52de0910",
+"en_raw": "Maybe the old woman"
+},
+{
+"n": 51,
+"h": "f06eb7ed",
+"en_raw": "has already left"
+},
+{
+"n": 52,
+"h": "2ca5854e",
+"en_raw": "Looks like we came too late"
+},
+{
+"n": 53,
+"h": "ba5f19fa",
+"en_raw": "Well, well"
+},
+{
+"n": 54,
+"h": "450b23d8",
+"en_raw": "If it isn't Kurumi"
+},
+{
+"n": 55,
+"h": "6796f22c",
+"en_raw": "We meet again"
+},
+{
+"n": 56,
+"h": "70fc9e25",
+"en_raw": "Kurumi was waiting"
+},
+{
+"n": 57,
+"h": "4d9933e3",
+"en_raw": "Oh, is that so"
+},
+{
+"n": 58,
+"h": "d56a8942",
+"en_raw": "What do you need from me?"
+},
+{
+"n": 59,
+"h": "dcb5cac0",
+"en_raw": "Do you need something from me?"
+},
+{
+"n": 60,
+"h": "82808a59",
+"en_raw": "Kurumi"
+},
+{
+"n": 61,
+"h": "27c709d6",
+"en_raw": "Kurumi came to look at graves"
+},
+{
+"n": 62,
+"h": "288e96b1",
+"en_raw": "Look at blossoms?"
+},
+{
+"n": 63,
+"h": "6e6765cb",
+"en_raw": "This year's cherry blossom viewing"
+},
+{
+"n": 64,
+"h": "7b1e83c7",
+"en_raw": "is already over, you know"
+},
+{
+"n": 65,
+"h": "24f85291",
+"en_raw": "I guess"
+},
+{
+"n": 66,
+"h": "52cb4547",
+"en_raw": "...Huh?"
+},
+{
+"n": 67,
+"h": "78c87304",
+"en_raw": "It was beautiful again this year"
+},
+{
+"n": 68,
+"h": "3739404f",
+"en_raw": "No, no"
+},
+{
+"n": 69,
+"h": "a37e6727",
+"en_raw": "Kurumi came to look at graves"
+},
+{
+"n": 70,
+"h": "7629af13",
+"en_raw": "Graves are at the temple, aren't they?"
+},
+{
+"n": 71,
+"h": "e069b079",
+"en_raw": "You don't go to look at graves"
+},
+{
+"n": 72,
+"h": "6df4acd9",
+"en_raw": "you go to pay respects"
+},
+{
+"n": 73,
+"h": "24f85291",
+"en_raw": "I guess"
+},
+{
+"n": 74,
+"h": "8ca0e361",
+"en_raw": "...Huh?"
+},
+{
+"n": 75,
+"h": "31d9ac5a",
+"en_raw": "Do you have incense?"
+},
+{
+"n": 76,
+"h": "3739404f",
+"en_raw": "No, no"
+},
+{
+"n": 77,
+"h": "55c09760",
+"en_raw": "Kurumi, you see..."
+},
+{
+"n": 78,
+"h": "551ab996",
+"en_raw": "it's not like that..."
+},
+{
+"n": 79,
+"h": "6e6de332",
+"en_raw": "not a grave, Hanako-san's..."
+},
+{
+"n": 80,
+"h": "659dab8e",
+"en_raw": "You see..."
+},
+{
+"n": 81,
+"h": "ed265d32",
+"en_raw": "Hey"
+},
+{
+"n": 82,
+"h": "f30685fb",
+"en_raw": "You're big now"
+},
+{
+"n": 83,
+"h": "7adc04a6",
+"en_raw": "so you should be more proper"
+},
+{
+"n": 84,
+"h": "f30c6b9b",
+"en_raw": "Right?"
+},
+{
+"n": 85,
+"h": "c1fc05dd",
+"en_raw": "Don't cause me trouble"
+},
+{
+"n": 86,
+"h": "bed76229",
+"en_raw": "Here, I'll give you candy"
+},
+{
+"n": 87,
+"h": "d97ce204",
+"en_raw": "Okay~"
+},
+{
+"n": 88,
+"h": "36db3627",
+"en_raw": "Good girl, good girl, bye then"
+},
+{
+"n": 89,
+"h": "5c7f865c",
+"en_raw": "...Hey, Shiina!"
+},
+{
+"n": 90,
+"h": "88895a30",
+"en_raw": "Why say bye-bye there!"
+},
+{
+"n": 91,
+"h": "eeea2d35",
+"en_raw": "Ah!"
+},
+{
+"n": 92,
+"h": "a8afa30a",
+"en_raw": "Granny, Granny"
+},
+{
+"n": 93,
+"h": "dfe96884",
+"en_raw": "Kurumi is looking for a grave"
+},
+{
+"n": 94,
+"h": "334bf8a0",
+"en_raw": "Hanako-san's grave!"
+},
+{
+"n": 95,
+"h": "ebd75f16",
+"en_raw": "There aren't any graves around here"
+},
+{
+"n": 96,
+"h": "fb74d41c",
+"en_raw": "...Oh, right, right"
+},
+{
+"n": 97,
+"h": "6862f513",
+"en_raw": "Not a grave, but"
+},
+{
+"n": 98,
+"h": "85ce4295",
+"en_raw": "there's the Hime Grove"
+},
+{
+"n": 99,
+"h": "04bfa0dd",
+"en_raw": "Not Hime Grove"
+},
+{
+"n": 100,
+"h": "f4ad5d7b",
+"en_raw": "Hanako-san"
+},
+{
+"n": 101,
+"h": "15a77924",
+"en_raw": "Not Hanako-san"
+},
+{
+"n": 102,
+"h": "82c7e1f2",
+"en_raw": "it's the Hime Grove"
+},
+{
+"n": 103,
+"h": "8c6227f5",
+"en_raw": "You know, there's the big hospital"
+},
+{
+"n": 104,
+"h": "342e195f",
+"en_raw": "Go in on the road before it"
+},
+{
+"n": 105,
+"h": "7e35391a",
+"en_raw": "and at the crossroads beyond"
+},
+{
+"n": 106,
+"h": "36bbde94",
+"en_raw": "head toward the river"
+},
+{
+"n": 107,
+"h": "b5944258",
+"en_raw": "Hime Grove?"
+},
+{
+"n": 108,
+"h": "a8273f0d",
+"en_raw": "No, it's~"
+},
+{
+"n": 109,
+"h": "d8847112",
+"en_raw": "Hanako-san's grave"
+},
+{
+"n": 110,
+"h": "15a77924",
+"en_raw": "Not Hanako-san"
+},
+{
+"n": 111,
+"h": "c286aed3",
+"en_raw": "It's the Hime Grove"
+},
+{
+"n": 112,
+"h": "8c6227f5",
+"en_raw": "You know, there's the big hospital"
+},
+{
+"n": 113,
+"h": "342e195f",
+"en_raw": "Go in on the road before it"
+},
+{
+"n": 114,
+"h": "95145db0",
+"en_raw": "and at the crossroads beyond, toward the river"
+},
+{
+"n": 115,
+"h": "36bbde94",
+"en_raw": "head toward the river"
+},
+{
+"n": 116,
+"h": "ed99d5d3",
+"en_raw": "I don't know the road ahead..."
+},
+{
+"n": 117,
+"h": "b5bb2ada",
+"en_raw": "For a walk, this is"
+},
+{
+"n": 118,
+"h": "e7d20466",
+"en_raw": "a bit too far"
+},
+{
+"n": 119,
+"h": "c0e859da",
+"en_raw": "If we go somewhere unfamiliar"
+},
+{
+"n": 120,
+"h": "c1f8d9b5",
+"en_raw": "we won't be able to get home"
+}
+]
+}

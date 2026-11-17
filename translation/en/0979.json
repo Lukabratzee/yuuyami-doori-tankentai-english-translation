@@ -1,0 +1,574 @@
+{
+"file": 979,
+"paths": [
+"d008/d119/f036",
+"d008/d146/f024"
+],
+"lines": [
+{
+"n": 0,
+"h": "680ac39d",
+"en_raw": "Excuse me, um..."
+},
+{
+"n": 1,
+"h": "b2ddd8f8",
+"en_raw": "Yes?"
+},
+{
+"n": 2,
+"h": "7d991ad6",
+"en_raw": "What is it..."
+},
+{
+"n": 3,
+"h": "7a1bba72",
+"en_raw": "Ah... um..."
+},
+{
+"n": 4,
+"h": "ea57b98d",
+"en_raw": "No, it's nothing"
+},
+{
+"n": 5,
+"h": "02df979b",
+"en_raw": "Sorry"
+},
+{
+"n": 6,
+"h": "ba56ae17",
+"en_raw": "What happened to the cell phone?"
+},
+{
+"n": 7,
+"h": "8ed929fd",
+"en_raw": "No, I still can't"
+},
+{
+"n": 8,
+"h": "e2ee3906",
+"en_raw": "reach the owner..."
+},
+{
+"n": 9,
+"h": "bf7225b4",
+"en_raw": "Well, as for the rest"
+},
+{
+"n": 10,
+"h": "0f501fbd",
+"en_raw": "you can leave it to us"
+},
+{
+"n": 11,
+"h": "251eef67",
+"en_raw": "Excuse me, I came to"
+},
+{
+"n": 12,
+"h": "de131b6d",
+"en_raw": "turn in a lost item"
+},
+{
+"n": 13,
+"h": "b79ffd4d",
+"en_raw": "...A cell phone, huh"
+},
+{
+"n": 14,
+"h": "33772096",
+"en_raw": "There are more than umbrellas lately"
+},
+{
+"n": 15,
+"h": "a6ab5a8b",
+"en_raw": "Write your address and phone number here"
+},
+{
+"n": 16,
+"h": "d1624928",
+"en_raw": "...So, where did you find it?"
+},
+{
+"n": 17,
+"h": "69179f60",
+"en_raw": "At the reservoir"
+},
+{
+"n": 18,
+"h": "84b6564f",
+"en_raw": "near where the car is"
+},
+{
+"n": 19,
+"h": "cf86e0a2",
+"en_raw": "Ah, there..."
+},
+{
+"n": 20,
+"h": "e0c3a5e7",
+"en_raw": "Well, we'll find the owner soon"
+},
+{
+"n": 21,
+"h": "bd7ff25a",
+"en_raw": "There are plenty of ways to check"
+},
+{
+"n": 22,
+"h": "eb838f9b",
+"en_raw": "By the way, has this rung a few times?"
+},
+{
+"n": 23,
+"h": "9be6f74f",
+"en_raw": "Ah, when I picked it up..."
+},
+{
+"n": 24,
+"h": "73e5f00c",
+"en_raw": "Did anyone answer then?"
+},
+{
+"n": 25,
+"h": "8643223e",
+"en_raw": "It seemed like a woman..."
+},
+{
+"n": 26,
+"h": "9ded37ce",
+"en_raw": "What should I do?"
+},
+{
+"n": 27,
+"h": "d6b81578",
+"en_raw": "Press the receiver mark"
+},
+{
+"n": 28,
+"h": "bba6d45f",
+"en_raw": "Who could be calling?"
+},
+{
+"n": 29,
+"h": "2c178df8",
+"en_raw": "Answer / Don't  It's fine"
+},
+{
+"n": 30,
+"h": "8e0a51ac",
+"en_raw": "It's someone I don't know..."
+},
+{
+"n": 31,
+"h": "ac0f78c3",
+"en_raw": "Then I'll answer"
+},
+{
+"n": 32,
+"h": "b78d1f5f",
+"en_raw": "Ah...."
+},
+{
+"n": 33,
+"h": "8b055fdd",
+"en_raw": "Bad timing"
+},
+{
+"n": 34,
+"h": "62dcd55e",
+"en_raw": "Hello?"
+},
+{
+"n": 35,
+"h": "79dde1ba",
+"en_raw": "Doesn't seem connected"
+},
+{
+"n": 36,
+"h": "0ecf4781",
+"en_raw": "Hang up / Listen  Ah, it cut off..."
+},
+{
+"n": 37,
+"h": "a47535b9",
+"en_raw": "How was it?"
+},
+{
+"n": 38,
+"h": "5549cda4",
+"en_raw": "No, I can't really tell"
+},
+{
+"n": 39,
+"h": "1cc13455",
+"en_raw": "It's like static..."
+},
+{
+"n": 40,
+"h": "12f06b3d",
+"en_raw": "Maybe the lines are crossed"
+},
+{
+"n": 41,
+"h": "f23a09f9",
+"en_raw": "Is it the owner?"
+},
+{
+"n": 42,
+"h": "6071f027",
+"en_raw": "If it was the owner they'd"
+},
+{
+"n": 43,
+"h": "629052fa",
+"en_raw": "call again"
+},
+{
+"n": 44,
+"h": "3aaf1895",
+"en_raw": "Let's wait a little"
+},
+{
+"n": 45,
+"h": "a9fdda6a",
+"en_raw": "By the way, um..."
+},
+{
+"n": 46,
+"h": "6d796af2",
+"en_raw": "the car at the spot where I found this"
+},
+{
+"n": 47,
+"h": "3bd0a3c0",
+"en_raw": "...at the reservoir"
+},
+{
+"n": 48,
+"h": "85fc8703",
+"en_raw": "That car, is it true"
+},
+{
+"n": 49,
+"h": "1ef0a6da",
+"en_raw": "it was used in the"
+},
+{
+"n": 50,
+"h": "e3a1ac5b",
+"en_raw": "double suicide case?"
+},
+{
+"n": 51,
+"h": "8894880d",
+"en_raw": "...Double suicide?"
+},
+{
+"n": 52,
+"h": "6adbb35f",
+"en_raw": "I've heard of that"
+},
+{
+"n": 53,
+"h": "4a918749",
+"en_raw": "Did it really happen?"
+},
+{
+"n": 54,
+"h": "b9fd7c0f",
+"en_raw": "But that car is probably"
+},
+{
+"n": 55,
+"h": "40ff1a5d",
+"en_raw": "illegally dumped or something"
+},
+{
+"n": 56,
+"h": "2d40cc27",
+"en_raw": "The double suicide was long ago"
+},
+{
+"n": 57,
+"h": "281a8389",
+"en_raw": "Then that car"
+},
+{
+"n": 58,
+"h": "5ec820d9",
+"en_raw": "has nothing to do with it?"
+},
+{
+"n": 59,
+"h": "67c957d8",
+"en_raw": "No, well, I'm trying to recall..."
+},
+{
+"n": 60,
+"h": "fa71b596",
+"en_raw": "...It was before you"
+},
+{
+"n": 61,
+"h": "694f66ee",
+"en_raw": "came here"
+},
+{
+"n": 62,
+"h": "478f97d4",
+"en_raw": "There really was a"
+},
+{
+"n": 63,
+"h": "5dc3f271",
+"en_raw": "double suicide there"
+},
+{
+"n": 64,
+"h": "484369cb",
+"en_raw": "The woman made the man take sleeping pills"
+},
+{
+"n": 65,
+"h": "91b844d5",
+"en_raw": "and pumped in the car's exhaust gas"
+},
+{
+"n": 66,
+"h": "6d7c5071",
+"en_raw": "So someone"
+},
+{
+"n": 67,
+"h": "ca12f62c",
+"en_raw": "did die?"
+},
+{
+"n": 68,
+"h": "881f715c",
+"en_raw": "...What happened, again?"
+},
+{
+"n": 69,
+"h": "f910ef31",
+"en_raw": "The woman was completely beyond help"
+},
+{
+"n": 70,
+"h": "d2087e79",
+"en_raw": "But the man"
+},
+{
+"n": 71,
+"h": "1114edeb",
+"en_raw": "got out of the car on his own"
+},
+{
+"n": 72,
+"h": "b94bf9af",
+"en_raw": "and then, how did it go..."
+},
+{
+"n": 73,
+"h": "f956fb48",
+"en_raw": "Oh, right"
+},
+{
+"n": 74,
+"h": "072724eb",
+"en_raw": "He died at the hospital..."
+},
+{
+"n": 75,
+"h": "3f256bf6",
+"en_raw": "Answer it?"
+},
+{
+"n": 76,
+"h": "9071bf7b",
+"en_raw": "Try / Skip  Hello...?"
+},
+{
+"n": 77,
+"h": "fb8ef599",
+"en_raw": "No, I'm..."
+},
+{
+"n": 78,
+"h": "1ff53a78",
+"en_raw": "Maybe it's the owner?"
+},
+{
+"n": 79,
+"h": "b78d1f5f",
+"en_raw": "Ah...."
+},
+{
+"n": 80,
+"h": "290ed762",
+"en_raw": "Oh boy"
+},
+{
+"n": 81,
+"h": "a47535b9",
+"en_raw": "How was it?"
+},
+{
+"n": 82,
+"h": "ca518f09",
+"en_raw": "...It cut off, though"
+},
+{
+"n": 83,
+"h": "3f5dc662",
+"en_raw": "It's ringing again..."
+},
+{
+"n": 84,
+"h": "990acb8f",
+"en_raw": "Answer / No  I'll pass..."
+},
+{
+"n": 85,
+"h": "93080e30",
+"en_raw": "Hello...?"
+},
+{
+"n": 86,
+"h": "035cf359",
+"en_raw": "Um... who are you?"
+},
+{
+"n": 87,
+"h": "c30bc191",
+"en_raw": "Well... um..."
+},
+{
+"n": 88,
+"h": "951c0f3f",
+"en_raw": "I found this phone"
+},
+{
+"n": 89,
+"h": "26b2893d",
+"en_raw": "at the reservoir..."
+},
+{
+"n": 90,
+"h": "d0801086",
+"en_raw": "The reservoir?"
+},
+{
+"n": 91,
+"h": "7d978881",
+"en_raw": "Why were you in a place like that?"
+},
+{
+"n": 92,
+"h": "bf567eb5",
+"en_raw": "...Where are you now?"
+},
+{
+"n": 93,
+"h": "28df5d7b",
+"en_raw": "At a police box..."
+},
+{
+"n": 94,
+"h": "1606a683",
+"en_raw": "Oh, thanks, thanks"
+},
+{
+"n": 95,
+"h": "5e555d85",
+"en_raw": "This was a company phone"
+},
+{
+"n": 96,
+"h": "2321da4e",
+"en_raw": "so I wasn't sure"
+},
+{
+"n": 97,
+"h": "3f3b662b",
+"en_raw": "what to do..."
+},
+{
+"n": 98,
+"h": "e333a75e",
+"en_raw": "Thank you very much"
+},
+{
+"n": 99,
+"h": "4666f075",
+"en_raw": "Thanks for your help"
+},
+{
+"n": 100,
+"h": "e2902bb2",
+"en_raw": "If you're curious"
+},
+{
+"n": 101,
+"h": "05d01310",
+"en_raw": "you could wait here for the call"
+},
+{
+"n": 102,
+"h": "c1f8bf1f",
+"en_raw": "careful"
+},
+{
+"n": 103,
+"h": "c661c016",
+"en_raw": "Looks like they don't"
+},
+{
+"n": 104,
+"h": "404dc529",
+"en_raw": "want you to leave"
+},
+{
+"n": 105,
+"h": "3f256bf6",
+"en_raw": "Answer it?"
+},
+{
+"n": 106,
+"h": "f2c4bea5",
+"en_raw": "Must answer / Hmm...  Ah, no"
+},
+{
+"n": 107,
+"h": "594384cb",
+"en_raw": "I'm..."
+},
+{
+"n": 108,
+"h": "df829f0c",
+"en_raw": "Please"
+},
+{
+"n": 109,
+"h": "9065ad96",
+"en_raw": "Is that so?"
+},
+{
+"n": 110,
+"h": "8e9cf5ef",
+"en_raw": "I must be really"
+},
+{
+"n": 111,
+"h": "4768fb04",
+"en_raw": "disliked, huh"
+},
+{
+"n": 112,
+"h": "f98495d2",
+"en_raw": "Go play outside."
+}
+]
+}

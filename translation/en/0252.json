@@ -1,0 +1,463 @@
+{
+"file": 252,
+"paths": [
+"d007/d011/f221"
+],
+"lines": [
+{
+"n": 0,
+"h": "fda771b2",
+"en_raw": "I heard from Segawa"
+},
+{
+"n": 1,
+"h": "28c65944",
+"en_raw": "that he saw a huge swarm of snakes..."
+},
+{
+"n": 2,
+"h": "c504df6c",
+"en_raw": "About that snake story from before..."
+},
+{
+"n": 3,
+"h": "f58fdd9f",
+"en_raw": "What about it?"
+},
+{
+"n": 4,
+"h": "afc407b3",
+"en_raw": "Um..."
+},
+{
+"n": 5,
+"h": "7716e72c",
+"en_raw": "It's not like"
+},
+{
+"n": 6,
+"h": "d45c2c70",
+"en_raw": "anything's wrong"
+},
+{
+"n": 7,
+"h": "ff7290bc",
+"en_raw": "It just seemed amazing..."
+},
+{
+"n": 8,
+"h": "f58fdd9f",
+"en_raw": "What about it?"
+},
+{
+"n": 9,
+"h": "afc407b3",
+"en_raw": "Um..."
+},
+{
+"n": 10,
+"h": "7716e72c",
+"en_raw": "It's not like"
+},
+{
+"n": 11,
+"h": "d45c2c70",
+"en_raw": "anything's wrong"
+},
+{
+"n": 12,
+"h": "ff7290bc",
+"en_raw": "It just seemed amazing..."
+},
+{
+"n": 13,
+"h": "0b5246c2",
+"en_raw": "...I watched it"
+},
+{
+"n": 14,
+"h": "6d10c8b0",
+"en_raw": "There were over 100 of them"
+},
+{
+"n": 15,
+"h": "097d78a1",
+"en_raw": "Where was that?"
+},
+{
+"n": 16,
+"h": "cb822587",
+"en_raw": "but from Tsukazato Inari"
+},
+{
+"n": 17,
+"h": "7a7974fc",
+"en_raw": "I think it was on the way to the reservoir"
+},
+{
+"n": 18,
+"h": "273c5935",
+"en_raw": "So what Segawa said"
+},
+{
+"n": 19,
+"h": "1d8af533",
+"en_raw": "is true"
+},
+{
+"n": 20,
+"h": "9c02fe63",
+"en_raw": "Obtained the rumor of the Snake Spot"
+},
+{
+"n": 21,
+"h": "d9a0d04d",
+"en_raw": "By the way, Murase, what"
+},
+{
+"n": 22,
+"h": "9709abb6",
+"en_raw": "do you want with me?"
+},
+{
+"n": 23,
+"h": "d224c250",
+"en_raw": "Oh, um, did I"
+},
+{
+"n": 24,
+"h": "384c193e",
+"en_raw": "interrupt something?"
+},
+{
+"n": 25,
+"h": "3975da97",
+"en_raw": "Must be nice to have time to spare"
+},
+{
+"n": 26,
+"h": "0b5246c2",
+"en_raw": "...I watched it"
+},
+{
+"n": 27,
+"h": "6d10c8b0",
+"en_raw": "There were over 100 of them"
+},
+{
+"n": 28,
+"h": "097d78a1",
+"en_raw": "Where was that?"
+},
+{
+"n": 29,
+"h": "cb822587",
+"en_raw": "but from Tsukazato Inari"
+},
+{
+"n": 30,
+"h": "7a7974fc",
+"en_raw": "I think it was on the way to the reservoir"
+},
+{
+"n": 31,
+"h": "273c5935",
+"en_raw": "So what Segawa said"
+},
+{
+"n": 32,
+"h": "1d8af533",
+"en_raw": "is true"
+},
+{
+"n": 33,
+"h": "9c02fe63",
+"en_raw": "Obtained the rumor of the Snake Spot"
+},
+{
+"n": 34,
+"h": "d9a0d04d",
+"en_raw": "By the way, Murase, what"
+},
+{
+"n": 35,
+"h": "9709abb6",
+"en_raw": "do you want with me?"
+},
+{
+"n": 36,
+"h": "d224c250",
+"en_raw": "Oh, um, did I"
+},
+{
+"n": 37,
+"h": "384c193e",
+"en_raw": "interrupt something?"
+},
+{
+"n": 38,
+"h": "3975da97",
+"en_raw": "Must be nice to have time to spare"
+},
+{
+"n": 39,
+"h": "50eb6faa",
+"en_raw": "(...He seems annoyed"
+},
+{
+"n": 40,
+"h": "f1303165",
+"en_raw": "so I'll drop it...)"
+},
+{
+"n": 41,
+"h": "ac72e33c",
+"en_raw": "Sorry, but I"
+},
+{
+"n": 42,
+"h": "cafe7fef",
+"en_raw": "have things to do"
+},
+{
+"n": 43,
+"h": "ac72e33c",
+"en_raw": "Sorry, but I"
+},
+{
+"n": 44,
+"h": "cafe7fef",
+"en_raw": "have things to do"
+},
+{
+"n": 45,
+"h": "6beb8c78",
+"en_raw": "Yamazaki"
+},
+{
+"n": 46,
+"h": "00f8dcd3",
+"en_raw": "Oh, Murase"
+},
+{
+"n": 47,
+"h": "bf84bfab",
+"en_raw": "Need something?"
+},
+{
+"n": 48,
+"h": "b0545ed4",
+"en_raw": "Oh Murase, need something?"
+},
+{
+"n": 49,
+"h": "3c4de0bd",
+"en_raw": "...The class log, I see"
+},
+{
+"n": 50,
+"h": "117554a0",
+"en_raw": "Being class rep is tough"
+},
+{
+"n": 51,
+"h": "22bfebd3",
+"en_raw": "Nobody becomes class rep"
+},
+{
+"n": 52,
+"h": "51314461",
+"en_raw": "because they like it"
+},
+{
+"n": 53,
+"h": "b0e5197b",
+"en_raw": "...I don't come to school"
+},
+{
+"n": 54,
+"h": "495909ab",
+"en_raw": "to look after other people"
+},
+{
+"n": 55,
+"h": "22bfebd3",
+"en_raw": "Nobody becomes class rep"
+},
+{
+"n": 56,
+"h": "51314461",
+"en_raw": "because they like it"
+},
+{
+"n": 57,
+"h": "b0e5197b",
+"en_raw": "...I don't come to school"
+},
+{
+"n": 58,
+"h": "495909ab",
+"en_raw": "to look after other people"
+},
+{
+"n": 59,
+"h": "2012a86b",
+"en_raw": "But Yamazaki"
+},
+{
+"n": 60,
+"h": "3a8b8ab3",
+"en_raw": "has a sense of responsibility..."
+},
+{
+"n": 61,
+"h": "71fe2369",
+"en_raw": "I'm only doing it"
+},
+{
+"n": 62,
+"h": "47765e66",
+"en_raw": "because I was told to"
+},
+{
+"n": 63,
+"h": "e2968d65",
+"en_raw": "It's not about responsibility"
+},
+{
+"n": 64,
+"h": "5e97b5f3",
+"en_raw": "But you're amazing, Yamazaki"
+},
+{
+"n": 65,
+"h": "91da3239",
+"en_raw": "You're good at studying too..."
+},
+{
+"n": 66,
+"h": "b9336318",
+"en_raw": "...Let me say this"
+},
+{
+"n": 67,
+"h": "2a7d1df2",
+"en_raw": "You're just"
+},
+{
+"n": 68,
+"h": "07329013",
+"en_raw": "not serious, aren't you, Murase?"
+},
+{
+"n": 69,
+"h": "cf27cf2c",
+"en_raw": "Someone who hovers around"
+},
+{
+"n": 70,
+"h": "8ab51dea",
+"en_raw": "the top twenty in the grade"
+},
+{
+"n": 71,
+"h": "6aed7144",
+"en_raw": "can do it"
+},
+{
+"n": 72,
+"h": "a3321076",
+"en_raw": "but just doesn't..."
+},
+{
+"n": 73,
+"h": "cc24bbbd",
+"en_raw": "Anyway, I"
+},
+{
+"n": 74,
+"h": "bf07ac55",
+"en_raw": "don't have time to spare like you"
+},
+{
+"n": 75,
+"h": "401a2afa",
+"en_raw": "Don't get in my way"
+},
+{
+"n": 76,
+"h": "b9336318",
+"en_raw": "...Let me say this"
+},
+{
+"n": 77,
+"h": "2a7d1df2",
+"en_raw": "You're just"
+},
+{
+"n": 78,
+"h": "07329013",
+"en_raw": "not serious, aren't you, Murase?"
+},
+{
+"n": 79,
+"h": "cf27cf2c",
+"en_raw": "Someone who hovers around"
+},
+{
+"n": 80,
+"h": "8ab51dea",
+"en_raw": "the top twenty in the grade"
+},
+{
+"n": 81,
+"h": "14bbeb43",
+"en_raw": "can do it, but"
+},
+{
+"n": 82,
+"h": "a3321076",
+"en_raw": "but just doesn't..."
+},
+{
+"n": 83,
+"h": "cc24bbbd",
+"en_raw": "Anyway, I"
+},
+{
+"n": 84,
+"h": "bf07ac55",
+"en_raw": "don't have time to spare like you"
+},
+{
+"n": 85,
+"h": "401a2afa",
+"en_raw": "Don't get in my way"
+},
+{
+"n": 86,
+"h": "bf84bfab",
+"en_raw": "Need something?"
+},
+{
+"n": 87,
+"h": "bf84bfab",
+"en_raw": "Need something?"
+},
+{
+"n": 88,
+"h": "6fd25df5",
+"en_raw": "No, it's not like that"
+},
+{
+"n": 89,
+"h": "91a04699",
+"en_raw": "You're always so idle, lucky you"
+},
+{
+"n": 90,
+"h": "91a04699",
+"en_raw": "You're always so idle, lucky you"
+}
+]
+}

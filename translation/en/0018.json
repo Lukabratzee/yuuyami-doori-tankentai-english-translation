@@ -1,0 +1,1573 @@
+{
+"file": 18,
+"paths": [
+"d002/f615"
+],
+"lines": [
+{
+"n": 0,
+"h": "ad4c8e22",
+"en_raw": "Ah, I blew it..."
+},
+{
+"n": 1,
+"h": "9036e405",
+"en_raw": "What's wrong, Sango?"
+},
+{
+"n": 2,
+"h": "e6fb5bc0",
+"en_raw": "It's weird to say it myself, but"
+},
+{
+"n": 3,
+"h": "0aca5ed0",
+"en_raw": "our class"
+},
+{
+"n": 4,
+"h": "d0620af4",
+"en_raw": "is rotten, Shiina"
+},
+{
+"n": 5,
+"h": "3d5fce72",
+"en_raw": "Yeah, it's rotten"
+},
+{
+"n": 6,
+"h": "624f3e65",
+"en_raw": "Sango"
+},
+{
+"n": 7,
+"h": "94d88756",
+"en_raw": "What are you talking about?"
+},
+{
+"n": 8,
+"h": "696a493a",
+"en_raw": "I carelessly made a dangerous"
+},
+{
+"n": 9,
+"h": "1b7b5fa9",
+"en_raw": "bet"
+},
+{
+"n": 10,
+"h": "91710d48",
+"en_raw": "Not like me..."
+},
+{
+"n": 11,
+"h": "7b8a7001",
+"en_raw": "Nao, you"
+},
+{
+"n": 12,
+"h": "18a6b78b",
+"en_raw": "know the Strolling Old Man?"
+},
+{
+"n": 13,
+"h": "11fbd675",
+"en_raw": "I don't know the details"
+},
+{
+"n": 14,
+"h": "f8b14401",
+"en_raw": "but he's famous, right?"
+},
+{
+"n": 15,
+"h": "584368cb",
+"en_raw": "Muttering to himself"
+},
+{
+"n": 16,
+"h": "c580919c",
+"en_raw": "as he walks Yuuyami Hill..."
+},
+{
+"n": 17,
+"h": "9973989f",
+"en_raw": "But they say he died"
+},
+{
+"n": 18,
+"h": "041c3879",
+"en_raw": "Huh, really?"
+},
+{
+"n": 19,
+"h": "d28927d1",
+"en_raw": "Apparently"
+},
+{
+"n": 20,
+"h": "4df139ca",
+"en_raw": "Unexpected, or something"
+},
+{
+"n": 21,
+"h": "f67f3d5d",
+"en_raw": "I ended up winning the bet"
+},
+{
+"n": 22,
+"h": "02a91651",
+"en_raw": "...True, the Toilet Gang's"
+},
+{
+"n": 23,
+"h": "66c19718",
+"en_raw": "speed with that kind of info"
+},
+{
+"n": 24,
+"h": "f4473f8d",
+"en_raw": "is like a sports paper"
+},
+{
+"n": 25,
+"h": "40f02466",
+"en_raw": "Sango, don't tell me"
+},
+{
+"n": 26,
+"h": "e5fa140f",
+"en_raw": "you bet on whether he's alive..."
+},
+{
+"n": 27,
+"h": "068119c6",
+"en_raw": "...Yes, I made a bet"
+},
+{
+"n": 28,
+"h": "05494ed6",
+"en_raw": "Rotten, right?"
+},
+{
+"n": 29,
+"h": "ec48d8c2",
+"en_raw": "That is rotten..."
+},
+{
+"n": 30,
+"h": "6eed80f8",
+"en_raw": "But we don't know"
+},
+{
+"n": 31,
+"h": "d4319c0c",
+"en_raw": "I only heard this"
+},
+{
+"n": 32,
+"h": "77695a9b",
+"en_raw": "from Yuasa and the others"
+},
+{
+"n": 33,
+"h": "4f45afee",
+"en_raw": "Hey, Nao, that info is dodgy"
+},
+{
+"n": 34,
+"h": "a30163da",
+"en_raw": "Yeah"
+},
+{
+"n": 35,
+"h": "e3bc4a3a",
+"en_raw": "As information, I"
+},
+{
+"n": 36,
+"h": "918cb2ef",
+"en_raw": "think it's suspicious too"
+},
+{
+"n": 37,
+"h": "739aa651",
+"en_raw": "We shouldn't stick our necks in"
+},
+{
+"n": 38,
+"h": "6ec739d4",
+"en_raw": "too far, right..."
+},
+{
+"n": 39,
+"h": "20d53d38",
+"en_raw": "On the street in front of school"
+},
+{
+"n": 40,
+"h": "bf8e9cc5",
+"en_raw": "we could get accurate info"
+},
+{
+"n": 41,
+"h": "6691fe3d",
+"en_raw": "Let's stop, we'll get scolded..."
+},
+{
+"n": 42,
+"h": "1bb0aa5f",
+"en_raw": "I know full well it's improper"
+},
+{
+"n": 43,
+"h": "bb926f93",
+"en_raw": "Just a little"
+},
+{
+"n": 44,
+"h": "013120a9",
+"en_raw": "I only want to confirm life or death"
+},
+{
+"n": 45,
+"h": "0361902f",
+"en_raw": "The place where he was sighted"
+},
+{
+"n": 46,
+"h": "62124af8",
+"en_raw": "near Yuuyami Hill from the shopping street"
+},
+{
+"n": 47,
+"h": "8ba1c390",
+"en_raw": "right"
+},
+{
+"n": 48,
+"h": "41ee56f8",
+"en_raw": "Let's start"
+},
+{
+"n": 49,
+"h": "cb2c82a4",
+"en_raw": "around there"
+},
+{
+"n": 50,
+"h": "d3c9132f",
+"en_raw": "...You could at least"
+},
+{
+"n": 51,
+"h": "440f571d",
+"en_raw": "show up for choir practice"
+},
+{
+"n": 52,
+"h": "b521212d",
+"en_raw": "So the old man"
+},
+{
+"n": 53,
+"h": "da7514b0",
+"en_raw": "is still out walking"
+},
+{
+"n": 54,
+"h": "ffe2c7e4",
+"en_raw": "Is he?"
+},
+{
+"n": 55,
+"h": "b82ed1f4",
+"en_raw": "I kind of"
+},
+{
+"n": 56,
+"h": "b9bf3b3f",
+"en_raw": "feel it's poetic, or something"
+},
+{
+"n": 57,
+"h": "4995527d",
+"en_raw": "Basically, like I've been"
+},
+{
+"n": 58,
+"h": "2b079081",
+"en_raw": "dodged"
+},
+{
+"n": 59,
+"h": "97403ec9",
+"en_raw": "What do you mean?"
+},
+{
+"n": 60,
+"h": "3f0022e5",
+"en_raw": "...Hmm"
+},
+{
+"n": 61,
+"h": "8e9a17d8",
+"en_raw": "I can't ask straight whether he's alive"
+},
+{
+"n": 62,
+"h": "ce4ccf52",
+"en_raw": "I'm irritated at my own"
+},
+{
+"n": 63,
+"h": "f9c0db78",
+"en_raw": "very sensible self..."
+},
+{
+"n": 64,
+"h": "a71636f1",
+"en_raw": "Hey, Sango, stop"
+},
+{
+"n": 65,
+"h": "6b38c031",
+"en_raw": "You haven't done anything"
+},
+{
+"n": 66,
+"h": "b558cad7",
+"en_raw": "That's not it"
+},
+{
+"n": 67,
+"h": "5e740c3d",
+"en_raw": "That happy look"
+},
+{
+"n": 68,
+"h": "0dd2d348",
+"en_raw": "...You said it yourself, didn't you?"
+},
+{
+"n": 69,
+"h": "2447f76f",
+"en_raw": "that it's improper"
+},
+{
+"n": 70,
+"h": "092e9ba7",
+"en_raw": "No matter how awful the murder case"
+},
+{
+"n": 71,
+"h": "f4a43586",
+"en_raw": "a detective, once the mystery is solved"
+},
+{
+"n": 72,
+"h": "21d15826",
+"en_raw": "gets happy"
+},
+{
+"n": 73,
+"h": "b0745f45",
+"en_raw": "I don't know about that"
+},
+{
+"n": 74,
+"h": "d2642129",
+"en_raw": "Anyway, the answer is near"
+},
+{
+"n": 75,
+"h": "ded10cce",
+"en_raw": "To Mr. Takagi of the fried chicken shop"
+},
+{
+"n": 76,
+"h": "9584ed9c",
+"en_raw": "let's go!"
+},
+{
+"n": 77,
+"h": "f5880931",
+"en_raw": "Sorry, class rep, but"
+},
+{
+"n": 78,
+"h": "34a5ad67",
+"en_raw": "I guess I win the bet..."
+},
+{
+"n": 79,
+"h": "5c610738",
+"en_raw": "If the family says so"
+},
+{
+"n": 80,
+"h": "8ffe6be3",
+"en_raw": "it must be right"
+},
+{
+"n": 81,
+"h": "419ee13b",
+"en_raw": "No, you see"
+},
+{
+"n": 82,
+"h": "e7468542",
+"en_raw": "Kurumi met him"
+},
+{
+"n": 83,
+"h": "a38d42de",
+"en_raw": "Muttering about tamago boro"
+},
+{
+"n": 84,
+"h": "f34a3aa2",
+"en_raw": "the old man was walking"
+},
+{
+"n": 85,
+"h": "edd65710",
+"en_raw": "That, Shiina"
+},
+{
+"n": 86,
+"h": "ee195e87",
+"en_raw": "is a different strolling old man"
+},
+{
+"n": 87,
+"h": "33320ce6",
+"en_raw": "...Got it?"
+},
+{
+"n": 88,
+"h": "c84e733b",
+"en_raw": "Strolling old men"
+},
+{
+"n": 89,
+"h": "ad7aa771",
+"en_raw": "are all over town, right?"
+},
+{
+"n": 90,
+"h": "61ea3559",
+"en_raw": "I see..."
+},
+{
+"n": 91,
+"h": "3f0b3ffa",
+"en_raw": "...No!"
+},
+{
+"n": 92,
+"h": "de6f92c8",
+"en_raw": "Not the croquette shop!"
+},
+{
+"n": 93,
+"h": "7bd6fd1a",
+"en_raw": "What's wrong, suddenly?"
+},
+{
+"n": 94,
+"h": "04b50d02",
+"en_raw": "We were talking about the class rep"
+},
+{
+"n": 95,
+"h": "a6914441",
+"en_raw": "The old man Shiina just mentioned"
+},
+{
+"n": 96,
+"h": "75cfbfa6",
+"en_raw": "Come to think of it"
+},
+{
+"n": 97,
+"h": "776eded2",
+"en_raw": "tamago boro or whatever"
+},
+{
+"n": 98,
+"h": "9dcdf413",
+"en_raw": "the Toilet Gang said that too"
+},
+{
+"n": 99,
+"h": "dc5aa431",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 100,
+"h": "2a0ac2bb",
+"en_raw": "where did you see that old man?"
+},
+{
+"n": 101,
+"h": "780559cf",
+"en_raw": "...On the road"
+},
+{
+"n": 102,
+"h": "b7de37d0",
+"en_raw": "When did you see him?"
+},
+{
+"n": 103,
+"h": "dd329c20",
+"en_raw": "...A little before just now"
+},
+{
+"n": 104,
+"h": "55e12497",
+"en_raw": "......."
+},
+{
+"n": 105,
+"h": "f896bce6",
+"en_raw": "Then, Shiina, order"
+},
+{
+"n": 106,
+"h": "3defd634",
+"en_raw": "bring that person here!"
+},
+{
+"n": 107,
+"h": "b7729617",
+"en_raw": "It's true"
+},
+{
+"n": 108,
+"h": "40036751",
+"en_raw": "The tamago boro old man"
+},
+{
+"n": 109,
+"h": "34df3449",
+"en_raw": "was walking, uh-uh"
+},
+{
+"n": 110,
+"h": "ce736dc9",
+"en_raw": "It's confusing, so"
+},
+{
+"n": 111,
+"h": "70652ff8",
+"en_raw": "Shiina, bring that old man here"
+},
+{
+"n": 112,
+"h": "7ea0aa64",
+"en_raw": "But dead people don't walk, Shiina"
+},
+{
+"n": 113,
+"h": "4c20ef21",
+"en_raw": "But you see"
+},
+{
+"n": 114,
+"h": "aaa47fe1",
+"en_raw": "when Melos barked"
+},
+{
+"n": 115,
+"h": "d4ef4e7f",
+"en_raw": "the old man left..."
+},
+{
+"n": 116,
+"h": "4bd27c6e",
+"en_raw": "...?"
+},
+{
+"n": 117,
+"h": "6091b53a",
+"en_raw": "Kurumi Shiina"
+},
+{
+"n": 118,
+"h": "0709a053",
+"en_raw": "...Yes?"
+},
+{
+"n": 119,
+"h": "ae05a9d7",
+"en_raw": "Thanks for guiding us"
+},
+{
+"n": 120,
+"h": "a00f6037",
+"en_raw": "to an amazing place"
+},
+{
+"n": 121,
+"h": "b16493e9",
+"en_raw": "Thanks to you we got bitten"
+},
+{
+"n": 122,
+"h": "c5c62001",
+"en_raw": "by lots of mosquitoes, fun"
+},
+{
+"n": 123,
+"h": "6e967657",
+"en_raw": "That place"
+},
+{
+"n": 124,
+"h": "21364284",
+"en_raw": "was really weird, wasn't it?"
+},
+{
+"n": 125,
+"h": "4aea8ba8",
+"en_raw": "But Shiina, how did you"
+},
+{
+"n": 126,
+"h": "37282505",
+"en_raw": "find a place like that?"
+},
+{
+"n": 127,
+"h": "bbd3166c",
+"en_raw": "Uh-uh, the tamago boro old man"
+},
+{
+"n": 128,
+"h": "7147b5fb",
+"en_raw": "I chased him"
+},
+{
+"n": 129,
+"h": "215ff746",
+"en_raw": "The Strolling Old Man..."
+},
+{
+"n": 130,
+"h": "2ce27c25",
+"en_raw": "Looks right"
+},
+{
+"n": 131,
+"h": "ac224510",
+"en_raw": "...Did you see him, Nao?"
+},
+{
+"n": 132,
+"h": "c30e5112",
+"en_raw": "I feel like I did, but"
+},
+{
+"n": 133,
+"h": "ff6441c9",
+"en_raw": "I didn't notice well"
+},
+{
+"n": 134,
+"h": "8a74d194",
+"en_raw": "Which means... ugh"
+},
+{
+"n": 135,
+"h": "aa8f0a59",
+"en_raw": "so the class rep wins?"
+},
+{
+"n": 136,
+"h": "c13eb552",
+"en_raw": "No, we still don't know"
+},
+{
+"n": 137,
+"h": "e6925a22",
+"en_raw": "whether that old man"
+},
+{
+"n": 138,
+"h": "a8a4091b",
+"en_raw": "is the rumored mystery man"
+},
+{
+"n": 139,
+"h": "ed6bf325",
+"en_raw": "Until we see it ourselves"
+},
+{
+"n": 140,
+"h": "4175d687",
+"en_raw": "you look like you won't believe it"
+},
+{
+"n": 141,
+"h": "935d0532",
+"en_raw": "Exactly, let's go!"
+},
+{
+"n": 142,
+"h": "aa3961ca",
+"en_raw": "This has turned into"
+},
+{
+"n": 143,
+"h": "24e143a1",
+"en_raw": "a weird story"
+},
+{
+"n": 144,
+"h": "f3a63e8c",
+"en_raw": "Enough, let's stop"
+},
+{
+"n": 145,
+"h": "797823fc",
+"en_raw": "No way, someone in this town"
+},
+{
+"n": 146,
+"h": "d7345981",
+"en_raw": "must know"
+},
+{
+"n": 147,
+"h": "bbaabb86",
+"en_raw": "the Strolling Old Man's identity"
+},
+{
+"n": 148,
+"h": "b642352f",
+"en_raw": "The strolling old man was walking"
+},
+{
+"n": 149,
+"h": "510ffe64",
+"en_raw": "A weird place..."
+},
+{
+"n": 150,
+"h": "d5e2ddad",
+"en_raw": "Mistaken identity, or a mix-up"
+},
+{
+"n": 151,
+"h": "8451d058",
+"en_raw": "either way,"
+},
+{
+"n": 152,
+"h": "e8f42f79",
+"en_raw": "I'm done with that story"
+},
+{
+"n": 153,
+"h": "a985bfee",
+"en_raw": "Sango-chan is mean"
+},
+{
+"n": 154,
+"h": "22419c18",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 155,
+"h": "1a2460b4",
+"en_raw": "What don't you like"
+},
+{
+"n": 156,
+"h": "46c95735",
+"en_raw": "that makes you want me"
+},
+{
+"n": 157,
+"h": "ded86a6f",
+"en_raw": "to practice choir?"
+},
+{
+"n": 158,
+"h": "c5446d97",
+"en_raw": "Stop it, Sango"
+},
+{
+"n": 159,
+"h": "ee758d7a",
+"en_raw": "She says she saw him"
+},
+{
+"n": 160,
+"h": "f9059646",
+"en_raw": "...I also"
+},
+{
+"n": 161,
+"h": "fdcac05e",
+"en_raw": "saw that old man a bit ago"
+},
+{
+"n": 162,
+"h": "590c78b4",
+"en_raw": "I remembered"
+},
+{
+"n": 163,
+"h": "9040d2f4",
+"en_raw": "What, you two?"
+},
+{
+"n": 164,
+"h": "70e533e1",
+"en_raw": "Anyway, I think"
+},
+{
+"n": 165,
+"h": "d4037a26",
+"en_raw": "declaring someone dead on your own"
+},
+{
+"n": 166,
+"h": "14bc5466",
+"en_raw": "isn't good"
+},
+{
+"n": 167,
+"h": "342a6bb8",
+"en_raw": "Nao somehow"
+},
+{
+"n": 168,
+"h": "70b14875",
+"en_raw": "looks like our class rep"
+},
+{
+"n": 169,
+"h": "d93b25c9",
+"en_raw": "If we wait at the place"
+},
+{
+"n": 170,
+"h": "b2631725",
+"en_raw": "Shiina went, we'll surely meet"
+},
+{
+"n": 171,
+"h": "a2e74fa9",
+"en_raw": "that Strolling Old Man..."
+},
+{
+"n": 172,
+"h": "9250f6d3",
+"en_raw": "Sango, you're going in there again?"
+},
+{
+"n": 173,
+"h": "1070a25a",
+"en_raw": "What, after lecturing me"
+},
+{
+"n": 174,
+"h": "f677918f",
+"en_raw": "now you're backing off?"
+},
+{
+"n": 175,
+"h": "04629114",
+"en_raw": "...You'll get bitten by mosquitoes"
+},
+{
+"n": 176,
+"h": "9a0b24db",
+"en_raw": "If we go around from the north exit, it's fine"
+},
+{
+"n": 177,
+"h": "51d9b404",
+"en_raw": "It was a graveyard, that place"
+},
+{
+"n": 178,
+"h": "82b78168",
+"en_raw": "I thought it was just a weird place"
+},
+{
+"n": 179,
+"h": "1372794f",
+"en_raw": "Looks like it"
+},
+{
+"n": 180,
+"h": "16ad9656",
+"en_raw": "Do you think it has"
+},
+{
+"n": 181,
+"h": "c9a126c3",
+"en_raw": "something to do with the Strolling Old Man?"
+},
+{
+"n": 182,
+"h": "eda10d96",
+"en_raw": "The Strolling Old Man is the Takagi-ya guy"
+},
+{
+"n": 183,
+"h": "1f88c9c2",
+"en_raw": "The grave said Yamamoto"
+},
+{
+"n": 184,
+"h": "ed73261c",
+"en_raw": "Different person"
+},
+{
+"n": 185,
+"h": "b366d20b",
+"en_raw": "...I mean"
+},
+{
+"n": 186,
+"h": "5213e6da",
+"en_raw": "the grave of someone who died recently"
+},
+{
+"n": 187,
+"h": "41613bfc",
+"en_raw": "wouldn't be that overgrown"
+},
+{
+"n": 188,
+"h": "52d6d13d",
+"en_raw": "...It was in terrible shape"
+},
+{
+"n": 189,
+"h": "7ee758d5",
+"en_raw": "Yamamoto's grave, huh..."
+},
+{
+"n": 190,
+"h": "18a54780",
+"en_raw": "I'm totally"
+},
+{
+"n": 191,
+"h": "b0f3449b",
+"en_raw": "confused now"
+},
+{
+"n": 192,
+"h": "a4802d2c",
+"en_raw": "Does the class rep still"
+},
+{
+"n": 193,
+"h": "2d0972ac",
+"en_raw": "remember the bet..."
+},
+{
+"n": 194,
+"h": "ce5f78d1",
+"en_raw": "Why not ask"
+},
+{
+"n": 195,
+"h": "7184c2bb",
+"en_raw": "the croquette shop again?"
+},
+{
+"n": 196,
+"h": "94ef2818",
+"en_raw": "It's someone Sango doesn't know"
+},
+{
+"n": 197,
+"h": "10a1348f",
+"en_raw": "I'm sure"
+},
+{
+"n": 198,
+"h": "87a7a357",
+"en_raw": "That might be the punchline"
+},
+{
+"n": 199,
+"h": "ac27db2b",
+"en_raw": "Who is he, in the end?"
+},
+{
+"n": 200,
+"h": "35fa1d5d",
+"en_raw": "The Strolling Old Man..."
+},
+{
+"n": 201,
+"h": "ef509101",
+"en_raw": "Maybe the class rep and the Toilet Gang"
+},
+{
+"n": 202,
+"h": "56d692c6",
+"en_raw": "are all talking"
+},
+{
+"n": 203,
+"h": "a755bdf8",
+"en_raw": "about different people"
+},
+{
+"n": 204,
+"h": "9f6ea290",
+"en_raw": "In the end, who is the Strolling Old Man"
+},
+{
+"n": 205,
+"h": "f29f8e0f",
+"en_raw": "Takagi-ya, and Yamamoto?"
+},
+{
+"n": 206,
+"h": "dc483598",
+"en_raw": "I'm totally"
+},
+{
+"n": 207,
+"h": "75703afd",
+"en_raw": "confused now"
+},
+{
+"n": 208,
+"h": "4fd9b351",
+"en_raw": "Ask the deli once more"
+},
+{
+"n": 209,
+"h": "b6050d34",
+"en_raw": "By now"
+},
+{
+"n": 210,
+"h": "2635970a",
+"en_raw": "it's hard to ask"
+},
+{
+"n": 211,
+"h": "22c19830",
+"en_raw": "I've kind of lost"
+},
+{
+"n": 212,
+"h": "29d1b404",
+"en_raw": "confidence in my own actions"
+},
+{
+"n": 213,
+"h": "098bba76",
+"en_raw": "Then be good and"
+},
+{
+"n": 214,
+"h": "8fce3b5e",
+"en_raw": "listen to what"
+},
+{
+"n": 215,
+"h": "37dc7f83",
+"en_raw": "the class rep says?"
+},
+{
+"n": 216,
+"h": "804e5866",
+"en_raw": "I don't want that either"
+},
+{
+"n": 217,
+"h": "fa8eb9e0",
+"en_raw": "Hey, Nao"
+},
+{
+"n": 218,
+"h": "9798942f",
+"en_raw": "Do you think we did a good thing?"
+},
+{
+"n": 219,
+"h": "cd7f0fa4",
+"en_raw": "Not at all, but..."
+},
+{
+"n": 220,
+"h": "23eba92b",
+"en_raw": "Right"
+},
+{
+"n": 221,
+"h": "85ea1820",
+"en_raw": "He seemed kind of angry"
+},
+{
+"n": 222,
+"h": "31a24c79",
+"en_raw": "the croquette shop man"
+},
+{
+"n": 223,
+"h": "dc8cc797",
+"en_raw": "So in the end"
+},
+{
+"n": 224,
+"h": "471d65fe",
+"en_raw": "what happened to the bet?"
+},
+{
+"n": 225,
+"h": "e71c0578",
+"en_raw": "I finally"
+},
+{
+"n": 226,
+"h": "5699674f",
+"en_raw": "gave up too"
+},
+{
+"n": 227,
+"h": "ca46d68c",
+"en_raw": "That's a lie"
+},
+{
+"n": 228,
+"h": "296ee43b",
+"en_raw": "It's a lie"
+},
+{
+"n": 229,
+"h": "7848cb71",
+"en_raw": "Since then, the class rep"
+},
+{
+"n": 230,
+"h": "9f4f9bad",
+"en_raw": "hasn't brought it up"
+},
+{
+"n": 231,
+"h": "8e277ff8",
+"en_raw": "The Strolling Old Man story?"
+},
+{
+"n": 232,
+"h": "0ff24ec9",
+"en_raw": "Right..."
+},
+{
+"n": 233,
+"h": "592d5aee",
+"en_raw": "No matter how I think about it"
+},
+{
+"n": 234,
+"h": "d21c0e21",
+"en_raw": "the rumored Strolling Old Man"
+},
+{
+"n": 235,
+"h": "9871770b",
+"en_raw": "is the croquette shop old man"
+},
+{
+"n": 236,
+"h": "fac2166a",
+"en_raw": "and if so, he definitely"
+},
+{
+"n": 237,
+"h": "7736b5d6",
+"en_raw": "isn't out walking anymore"
+},
+{
+"n": 238,
+"h": "8849161e",
+"en_raw": "The old man isn't walking anymore"
+},
+{
+"n": 239,
+"h": "ade9b977",
+"en_raw": "Shiina, which is it?"
+},
+{
+"n": 240,
+"h": "ac8163bf",
+"en_raw": "Your one remark at the start"
+},
+{
+"n": 241,
+"h": "24f78ec2",
+"en_raw": "tangled up the whole story"
+},
+{
+"n": 242,
+"h": "2ebc3be6",
+"en_raw": "But that grave there"
+},
+{
+"n": 243,
+"h": "408f2c9e",
+"en_raw": "Shiina is the one who found it"
+},
+{
+"n": 244,
+"h": "7356ce8f",
+"en_raw": "Well, that's true"
+},
+{
+"n": 245,
+"h": "bb6a6a7f",
+"en_raw": "Even if by chance..."
+},
+{
+"n": 246,
+"h": "e209cbbe",
+"en_raw": "I've been meaning to say it many times"
+},
+{
+"n": 247,
+"h": "6680d6c8",
+"en_raw": "I'm more bothered by that grave"
+},
+{
+"n": 248,
+"h": "2e007810",
+"en_raw": "That's a child's grave, right?"
+},
+{
+"n": 249,
+"h": "e27ae814",
+"en_raw": "Something like that"
+},
+{
+"n": 250,
+"h": "53e53c21",
+"en_raw": "somehow..."
+},
+{
+"n": 251,
+"h": "7169d34e",
+"en_raw": "Looks like ghosts would show up"
+},
+{
+"n": 252,
+"h": "61597751",
+"en_raw": "That's not what I mean"
+},
+{
+"n": 253,
+"h": "42222772",
+"en_raw": "I feel kind of sorry for it..."
+},
+{
+"n": 254,
+"h": "131427f4",
+"en_raw": "The class rep would probably"
+},
+{
+"n": 255,
+"h": "a117b72a",
+"en_raw": "say she'd clean it"
+},
+{
+"n": 256,
+"h": "88904cad",
+"en_raw": "Sango would hate that, right?"
+},
+{
+"n": 257,
+"h": "1fa65a7a",
+"en_raw": "What is?"
+},
+{
+"n": 258,
+"h": "aa1fe57e",
+"en_raw": "If I said"
+},
+{
+"n": 259,
+"h": "3140f9fe",
+"en_raw": "let's go just once more"
+},
+{
+"n": 260,
+"h": "5aec205d",
+"en_raw": "what would you do there?"
+},
+{
+"n": 261,
+"h": "406c556c",
+"en_raw": "Pay respects, maybe..."
+},
+{
+"n": 262,
+"h": "19867683",
+"en_raw": "Go do it on your own"
+},
+{
+"n": 263,
+"h": "e1ba0060",
+"en_raw": "Pay respects or whatever, go ahead"
+},
+{
+"n": 264,
+"h": "573f5b8a",
+"en_raw": "in this town, I'll go along"
+},
+{
+"n": 265,
+"h": "739cf3e0",
+"en_raw": "I'm just letting Melos"
+},
+{
+"n": 266,
+"h": "bf7f97d4",
+"en_raw": "walk on the dirt a bit"
+},
+{
+"n": 267,
+"h": "28349ef3",
+"en_raw": "Whatever, but"
+},
+{
+"n": 268,
+"h": "751635c3",
+"en_raw": "let's go from the north exit"
+},
+{
+"n": 269,
+"h": "6720dd48",
+"en_raw": "Those stairs are tiring"
+},
+{
+"n": 270,
+"h": "e7898cce",
+"en_raw": "The Strolling Old Man, huh"
+},
+{
+"n": 271,
+"h": "82e16d23",
+"en_raw": "holding tamago boro"
+},
+{
+"n": 272,
+"h": "05ca1abf",
+"en_raw": "He went to visit his son's grave"
+},
+{
+"n": 273,
+"h": "3b0e83bc",
+"en_raw": "a troublesome eccentric..."
+},
+{
+"n": 274,
+"h": "f5cf2405",
+"en_raw": "He's gone now"
+},
+{
+"n": 275,
+"h": "19bceacb",
+"en_raw": "The Strolling Old Man"
+},
+{
+"n": 276,
+"h": "9e8d9453",
+"en_raw": "Everyone will surely"
+},
+{
+"n": 277,
+"h": "e056c005",
+"en_raw": "forget him soon"
+},
+{
+"n": 278,
+"h": "48ccd782",
+"en_raw": "...Well then"
+},
+{
+"n": 279,
+"h": "8a7fa972",
+"en_raw": "So now I can skip choir"
+},
+{
+"n": 280,
+"h": "527060b2",
+"en_raw": "practice without feeling"
+},
+{
+"n": 281,
+"h": "a45a554d",
+"en_raw": "guilty, huh"
+},
+{
+"n": 282,
+"h": "df29fd87",
+"en_raw": "You look kind of"
+},
+{
+"n": 283,
+"h": "c7725987",
+"en_raw": "relieved"
+},
+{
+"n": 284,
+"h": "fe4f80ab",
+"en_raw": "You do too, you know"
+},
+{
+"n": 285,
+"h": "f315a65a",
+"en_raw": "Solved the rumor of the Strolling Old Man"
+},
+{
+"n": 286,
+"h": "48ccd782",
+"en_raw": "...Well then"
+},
+{
+"n": 287,
+"h": "df29fd87",
+"en_raw": "You look kind of"
+},
+{
+"n": 288,
+"h": "c7725987",
+"en_raw": "relieved"
+},
+{
+"n": 289,
+"h": "8a7fa972",
+"en_raw": "So now I can skip choir"
+},
+{
+"n": 290,
+"h": "527060b2",
+"en_raw": "practice without feeling"
+},
+{
+"n": 291,
+"h": "a45a554d",
+"en_raw": "guilty, huh"
+},
+{
+"n": 292,
+"h": "f8b16b64",
+"en_raw": "You never had any sense"
+},
+{
+"n": 293,
+"h": "989cb14d",
+"en_raw": "of guilt from the start"
+},
+{
+"n": 294,
+"h": "19d0ce87",
+"en_raw": "Nao, honestly"
+},
+{
+"n": 295,
+"h": "e66fa344",
+"en_raw": "stop raining on"
+},
+{
+"n": 296,
+"h": "04d86e49",
+"en_raw": "people's victories"
+},
+{
+"n": 297,
+"h": "97672b67",
+"en_raw": "I'm never doing"
+},
+{
+"n": 298,
+"h": "c5e3853d",
+"en_raw": "this kind of thing again"
+},
+{
+"n": 299,
+"h": "528e48d4",
+"en_raw": "Don't get mad, junior high boy"
+},
+{
+"n": 300,
+"h": "bb3f1f5f",
+"en_raw": "At Takagi-ya"
+},
+{
+"n": 301,
+"h": "f2247f6c",
+"en_raw": "I'll treat you to a croquette"
+},
+{
+"n": 302,
+"h": "f315a65a",
+"en_raw": "Solved the rumor of the Strolling Old Man"
+},
+{
+"n": 303,
+"h": "393b47cc",
+"en_raw": "So in the end, the Strolling Old Man"
+},
+{
+"n": 304,
+"h": "d952c838",
+"en_raw": "is gone"
+},
+{
+"n": 305,
+"h": "3a8448be",
+"en_raw": "And I win the bet"
+},
+{
+"n": 306,
+"h": "f4c0add8",
+"en_raw": "But what's bugging me is"
+},
+{
+"n": 307,
+"h": "5c5f560f",
+"en_raw": "the class rep's been weird lately"
+},
+{
+"n": 308,
+"h": "08a544d2",
+"en_raw": "...Serious people lose out"
+},
+{
+"n": 309,
+"h": "5de03705",
+"en_raw": "Well, I don't think it's limited"
+},
+{
+"n": 310,
+"h": "36c1542e",
+"en_raw": "to our class"
+},
+{
+"n": 311,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 312,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

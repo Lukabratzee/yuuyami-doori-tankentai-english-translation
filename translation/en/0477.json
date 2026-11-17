@@ -1,0 +1,833 @@
+{
+"file": 477,
+"paths": [
+"d008/d024/f024"
+],
+"lines": [
+{
+"n": 0,
+"h": "28353603",
+"en_raw": "I'm done for today"
+},
+{
+"n": 1,
+"h": "efa8c185",
+"en_raw": "Could you make it tomorrow?"
+},
+{
+"n": 2,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 3,
+"h": "9ff36797",
+"en_raw": "Sorry"
+},
+{
+"n": 4,
+"h": "2eca52d3",
+"en_raw": "I can't draw the same motif"
+},
+{
+"n": 5,
+"h": "0de423e5",
+"en_raw": "twice..."
+},
+{
+"n": 6,
+"h": "dddd59b1",
+"en_raw": "Um... a portrait, please..."
+},
+{
+"n": 7,
+"h": "08b74980",
+"en_raw": "You're a middle schooler?"
+},
+{
+"n": 8,
+"h": "55fc29a5",
+"en_raw": "It's 500 yen a piece, okay?"
+},
+{
+"n": 9,
+"h": "ea0b219b",
+"en_raw": "Pay / Don't  Um... sorry"
+},
+{
+"n": 10,
+"h": "cc6e5d8e",
+"en_raw": "I'll do it another time"
+},
+{
+"n": 11,
+"h": "9065ad96",
+"en_raw": "Is that so?"
+},
+{
+"n": 12,
+"h": "e56507c8",
+"en_raw": "Then another time"
+},
+{
+"n": 13,
+"h": "27afe441",
+"en_raw": "Then... 500 yen"
+},
+{
+"n": 14,
+"h": "92e1ad0d",
+"en_raw": "Then sit over there"
+},
+{
+"n": 15,
+"h": "166adeea",
+"en_raw": "There, it's done"
+},
+{
+"n": 16,
+"h": "63433a5a",
+"en_raw": "I..."
+},
+{
+"n": 17,
+"h": "fd984b1c",
+"en_raw": "I wonder if this is the image..."
+},
+{
+"n": 18,
+"h": "425d9718",
+"en_raw": "Thank you very much..."
+},
+{
+"n": 19,
+"h": "5c7c39d0",
+"en_raw": "No"
+},
+{
+"n": 20,
+"h": "c23c18a3",
+"en_raw": "Oh, sorry"
+},
+{
+"n": 21,
+"h": "1a60046d",
+"en_raw": "It's nothing"
+},
+{
+"n": 22,
+"h": "28353603",
+"en_raw": "I'm done for today"
+},
+{
+"n": 23,
+"h": "efa8c185",
+"en_raw": "Could you make it tomorrow?"
+},
+{
+"n": 24,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 25,
+"h": "9ff36797",
+"en_raw": "Sorry"
+},
+{
+"n": 26,
+"h": "2eca52d3",
+"en_raw": "I can't draw the same motif"
+},
+{
+"n": 27,
+"h": "0de423e5",
+"en_raw": "twice..."
+},
+{
+"n": 28,
+"h": "dddd59b1",
+"en_raw": "Um... a portrait, please..."
+},
+{
+"n": 29,
+"h": "08b74980",
+"en_raw": "You're a middle schooler?"
+},
+{
+"n": 30,
+"h": "55fc29a5",
+"en_raw": "It's 500 yen a piece, okay?"
+},
+{
+"n": 31,
+"h": "ea0b219b",
+"en_raw": "Pay / Don't  Um... sorry"
+},
+{
+"n": 32,
+"h": "cc6e5d8e",
+"en_raw": "I'll do it another time"
+},
+{
+"n": 33,
+"h": "9065ad96",
+"en_raw": "Is that so?"
+},
+{
+"n": 34,
+"h": "e56507c8",
+"en_raw": "Then another time"
+},
+{
+"n": 35,
+"h": "27afe441",
+"en_raw": "Then... 500 yen"
+},
+{
+"n": 36,
+"h": "92e1ad0d",
+"en_raw": "Then sit over there"
+},
+{
+"n": 37,
+"h": "166adeea",
+"en_raw": "There, it's done"
+},
+{
+"n": 38,
+"h": "63433a5a",
+"en_raw": "I..."
+},
+{
+"n": 39,
+"h": "fd984b1c",
+"en_raw": "I wonder if this is the image..."
+},
+{
+"n": 40,
+"h": "425d9718",
+"en_raw": "Thank you very much..."
+},
+{
+"n": 41,
+"h": "5c7c39d0",
+"en_raw": "No"
+},
+{
+"n": 42,
+"h": "c23c18a3",
+"en_raw": "Oh, sorry"
+},
+{
+"n": 43,
+"h": "1a60046d",
+"en_raw": "It's nothing"
+},
+{
+"n": 44,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 45,
+"h": "c3f95b7b",
+"en_raw": "Today might not work"
+},
+{
+"n": 46,
+"h": "a3d78b2c",
+"en_raw": "But..."
+},
+{
+"n": 47,
+"h": "a57b5a97",
+"en_raw": "If you happen to have"
+},
+{
+"n": 48,
+"h": "542d7ca3",
+"en_raw": "a little time tomorrow"
+},
+{
+"n": 49,
+"h": "c7e1de69",
+"en_raw": "please"
+},
+{
+"n": 50,
+"h": "ae0822ef",
+"en_raw": "let me continue"
+},
+{
+"n": 51,
+"h": "08c3e8ad",
+"en_raw": "Good..."
+},
+{
+"n": 52,
+"h": "9e1e6a7b",
+"en_raw": "You came today too"
+},
+{
+"n": 53,
+"h": "e2d68390",
+"en_raw": "Well, yes"
+},
+{
+"n": 54,
+"h": "4dccd4b9",
+"en_raw": "Let's begin right away"
+},
+{
+"n": 55,
+"h": "34dd5212",
+"en_raw": "Sit down"
+},
+{
+"n": 56,
+"h": "67064005",
+"en_raw": "Shiina, he says he'll continue"
+},
+{
+"n": 57,
+"h": "a7294223",
+"en_raw": "Kurumi's been sitting forever"
+},
+{
+"n": 58,
+"h": "2811ea94",
+"en_raw": "It's a pain"
+},
+{
+"n": 59,
+"h": "b804f48b",
+"en_raw": "W-well, of course..."
+},
+{
+"n": 60,
+"h": "8e4dce19",
+"en_raw": "I know I'm being unreasonable"
+},
+{
+"n": 61,
+"h": "8c529484",
+"en_raw": "but please, somehow..."
+},
+{
+"n": 62,
+"h": "413a82a0",
+"en_raw": "No way"
+},
+{
+"n": 63,
+"h": "7961ab4e",
+"en_raw": "W-what..."
+},
+{
+"n": 64,
+"h": "55c35767",
+"en_raw": "Hey, could you persuade"
+},
+{
+"n": 65,
+"h": "27448460",
+"en_raw": "her too?"
+},
+{
+"n": 66,
+"h": "4ccbcac6",
+"en_raw": "Shiina, no"
+},
+{
+"n": 67,
+"h": "cf6525c6",
+"en_raw": "He said he'll draw it properly"
+},
+{
+"n": 68,
+"h": "d914d9d0",
+"en_raw": "so"
+},
+{
+"n": 69,
+"h": "ae645ba5",
+"en_raw": "I want to do something different today"
+},
+{
+"n": 70,
+"h": "7631ffad",
+"en_raw": "Yeah, after the picture's done, okay"
+},
+{
+"n": 71,
+"h": "a42c6765",
+"en_raw": "Boring"
+},
+{
+"n": 72,
+"h": "85dee5c4",
+"en_raw": "Then we'll be waiting"
+},
+{
+"n": 73,
+"h": "8fd2561e",
+"en_raw": "Aww, how boring"
+},
+{
+"n": 74,
+"h": "4612a2de",
+"en_raw": "Don't move!"
+},
+{
+"n": 75,
+"h": "05764945",
+"en_raw": "Hey hey, is it done?"
+},
+{
+"n": 76,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 77,
+"h": "3f5a9e27",
+"en_raw": "Hey hey, Kurumi"
+},
+{
+"n": 78,
+"h": "0507eb30",
+"en_raw": "has been so patient, you know?"
+},
+{
+"n": 79,
+"h": "7537ba20",
+"en_raw": "S-sorry..."
+},
+{
+"n": 80,
+"h": "dfd2edf0",
+"en_raw": "Only the finishing touches remain, but..."
+},
+{
+"n": 81,
+"h": "ec0b7b9c",
+"en_raw": "What!? Not yet?"
+},
+{
+"n": 82,
+"h": "cd6f97ec",
+"en_raw": "B-but really, just a little more..."
+},
+{
+"n": 83,
+"h": "70849b9a",
+"en_raw": "Sorry, but tomorrow"
+},
+{
+"n": 84,
+"h": "1aa1f5bb",
+"en_raw": "come once more"
+},
+{
+"n": 85,
+"h": "10021ca9",
+"en_raw": "Kurumi doesn't need it anymore"
+},
+{
+"n": 86,
+"h": "27db87c0",
+"en_raw": "Don't say that..."
+},
+{
+"n": 87,
+"h": "f02d192b",
+"en_raw": "Shiina,"
+},
+{
+"n": 88,
+"h": "31922177",
+"en_raw": "it'll surely be done tomorrow"
+},
+{
+"n": 89,
+"h": "c47c9f1e",
+"en_raw": "Let's give up for today, okay?"
+},
+{
+"n": 90,
+"h": "e5f53576",
+"en_raw": "Hey, you"
+},
+{
+"n": 91,
+"h": "eb1db120",
+"en_raw": "Please, cooperate"
+},
+{
+"n": 92,
+"h": "ea0990ed",
+"en_raw": "Is it still no?"
+},
+{
+"n": 93,
+"h": "2fa028a0",
+"en_raw": "I see..."
+},
+{
+"n": 94,
+"h": "ab39f8d1",
+"en_raw": "Sorry for being unreasonable"
+},
+{
+"n": 95,
+"h": "02df979b",
+"en_raw": "Sorry"
+},
+{
+"n": 96,
+"h": "239f03f9",
+"en_raw": "I just remembered something"
+},
+{
+"n": 97,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 98,
+"h": "e8fa9ebe",
+"en_raw": "...I was waiting"
+},
+{
+"n": 99,
+"h": "4dccd4b9",
+"en_raw": "Let's begin right away"
+},
+{
+"n": 100,
+"h": "68f99a3d",
+"en_raw": "Um, will it be done today?"
+},
+{
+"n": 101,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 102,
+"h": "3f301a24",
+"en_raw": "Anyway, please sit"
+},
+{
+"n": 103,
+"h": "501c08b6",
+"en_raw": "Kurumi is bored already"
+},
+{
+"n": 104,
+"h": "e3d8d45d",
+"en_raw": "I-I know..."
+},
+{
+"n": 105,
+"h": "87fcd7ba",
+"en_raw": "but I can't leave"
+},
+{
+"n": 106,
+"h": "f2eab4db",
+"en_raw": "the picture unfinished, can I..."
+},
+{
+"n": 107,
+"h": "da2f393c",
+"en_raw": "I don't know that"
+},
+{
+"n": 108,
+"h": "fd67dc21",
+"en_raw": "Please tell her too"
+},
+{
+"n": 109,
+"h": "b70a1dfc",
+"en_raw": "This is art"
+},
+{
+"n": 110,
+"h": "2c608c1e",
+"en_raw": "It's the most sublime mental activity"
+},
+{
+"n": 111,
+"h": "bb0c0839",
+"en_raw": "I'm not asking you to understand it all"
+},
+{
+"n": 112,
+"h": "f99345f1",
+"en_raw": "R-right..."
+},
+{
+"n": 113,
+"h": "d09ae423",
+"en_raw": "It's impossible"
+},
+{
+"n": 114,
+"h": "4881d6d0",
+"en_raw": "What lies at the end of my path"
+},
+{
+"n": 115,
+"h": "28e041fc",
+"en_raw": "rejects ordinary understanding"
+},
+{
+"n": 116,
+"h": "b63b5049",
+"en_raw": "and all objectivity"
+},
+{
+"n": 117,
+"h": "b3ce8c57",
+"en_raw": "a place even light doesn't reach"
+},
+{
+"n": 118,
+"h": "7ce3d749",
+"en_raw": "the truth of a deep inner world"
+},
+{
+"n": 119,
+"h": "bd88bf12",
+"en_raw": "a fragment of that truth..."
+},
+{
+"n": 120,
+"h": "cdd35de9",
+"en_raw": "Just in case"
+},
+{
+"n": 121,
+"h": "a909768a",
+"en_raw": "I'd like to ask"
+},
+{
+"n": 122,
+"h": "7bfb9998",
+"en_raw": "what about Shiina's picture...?"
+},
+{
+"n": 123,
+"h": "eb29919a",
+"en_raw": "When this picture is done I'll break my brush"
+},
+{
+"n": 124,
+"h": "4cc0aa50",
+"en_raw": "Oh, um, sorry..."
+},
+{
+"n": 125,
+"h": "dc1b99a0",
+"en_raw": "If you break it"
+},
+{
+"n": 126,
+"h": "8cac7923",
+"en_raw": "you'd have to buy a new one"
+},
+{
+"n": 127,
+"h": "55aac395",
+"en_raw": "Tomorrow for sure..."
+},
+{
+"n": 128,
+"h": "4f2924fa",
+"en_raw": "Please, for sure..."
+},
+{
+"n": 129,
+"h": "66b5440a",
+"en_raw": "I-I'm sorry..."
+},
+{
+"n": 130,
+"h": "2451f43d",
+"en_raw": "I may have gone too far..."
+},
+{
+"n": 131,
+"h": "c29edb85",
+"en_raw": "But please"
+},
+{
+"n": 132,
+"h": "bfe4ad77",
+"en_raw": "I can't not draw this..."
+},
+{
+"n": 133,
+"h": "e3820ea7",
+"en_raw": "I-I understand"
+},
+{
+"n": 134,
+"h": "5cbc087d",
+"en_raw": "let's give up today"
+},
+{
+"n": 135,
+"h": "f59a1753",
+"en_raw": "But tomorrow, for sure..."
+},
+{
+"n": 136,
+"h": "4f2924fa",
+"en_raw": "Please, for sure..."
+},
+{
+"n": 137,
+"h": "2a5b607c",
+"en_raw": "Shiina"
+},
+{
+"n": 138,
+"h": "0be3bd32",
+"en_raw": "Anyway, it seems best"
+},
+{
+"n": 139,
+"h": "5151438f",
+"en_raw": "to do as he says"
+},
+{
+"n": 140,
+"h": "afd7d8a8",
+"en_raw": "Hmph..."
+},
+{
+"n": 141,
+"h": "c80ca0a3",
+"en_raw": "Let's get it over with, okay, Shiina?"
+},
+{
+"n": 142,
+"h": "a04bf572",
+"en_raw": "It's surely the last time today"
+},
+{
+"n": 143,
+"h": "1ba9ecfb",
+"en_raw": "Aww, Kurumi"
+},
+{
+"n": 144,
+"h": "7ff4ffb0",
+"en_raw": "It's a big failure"
+},
+{
+"n": 145,
+"h": "32b3c1fd",
+"en_raw": "Water flea, water flea..."
+},
+{
+"n": 146,
+"h": "4612a2de",
+"en_raw": "Don't move!"
+},
+{
+"n": 147,
+"h": "51d4617c",
+"en_raw": "Kurumi got tired"
+},
+{
+"n": 148,
+"h": "05764945",
+"en_raw": "Hey hey, is it done?"
+},
+{
+"n": 149,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 150,
+"h": "676932ef",
+"en_raw": "Hey hey, hey hey?"
+},
+{
+"n": 151,
+"h": "5093d769",
+"en_raw": "This picture..."
+},
+{
+"n": 152,
+"h": "241dbb50",
+"en_raw": "Show me quick~"
+},
+{
+"n": 153,
+"h": "42d35adf",
+"en_raw": "This picture goes to no one"
+},
+{
+"n": 154,
+"h": "1fb0b92d",
+"en_raw": "Huh, you won't give it?"
+},
+{
+"n": 155,
+"h": "c95db8d1",
+"en_raw": "Not fair, Kurumi"
+},
+{
+"n": 156,
+"h": "911b8720",
+"en_raw": "paid properly"
+},
+{
+"n": 157,
+"h": "6f19a725",
+"en_raw": "Then take this home"
+},
+{
+"n": 158,
+"h": "c5b55993",
+"en_raw": "I think this isn't Shiina"
+},
+{
+"n": 159,
+"h": "d77c52bd",
+"en_raw": "but a picture of a cat..."
+},
+{
+"n": 160,
+"h": "310e51c4",
+"en_raw": "Well, anyway"
+},
+{
+"n": 161,
+"h": "4ba13d5f",
+"en_raw": "We got the picture"
+},
+{
+"n": 162,
+"h": "058c0645",
+"en_raw": "so let's go home, okay, Shiina"
+},
+{
+"n": 163,
+"h": "fcaf38f1",
+"en_raw": "Yeah, let's go"
+},
+{
+"n": 164,
+"h": "32f05034",
+"en_raw": "...Excuse me"
+}
+]
+}

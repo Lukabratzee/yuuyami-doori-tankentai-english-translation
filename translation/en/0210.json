@@ -1,0 +1,338 @@
+{
+"file": 210,
+"paths": [
+"d007/d009/f057"
+],
+"lines": [
+{
+"n": 0,
+"h": "789c7d0b",
+"en_raw": "Minami!"
+},
+{
+"n": 1,
+"h": "b322035e",
+"en_raw": "Kurumi"
+},
+{
+"n": 2,
+"h": "561cf441",
+"en_raw": "Do you remember the promise from before?"
+},
+{
+"n": 3,
+"h": "dd8ee086",
+"en_raw": "What kind?"
+},
+{
+"n": 4,
+"h": "e7927807",
+"en_raw": "...The promise to play together"
+},
+{
+"n": 5,
+"h": "ccb8ca2b",
+"en_raw": "Yeah, let's play!"
+},
+{
+"n": 6,
+"h": "1b2aa885",
+"en_raw": "Minami's game"
+},
+{
+"n": 7,
+"h": "a1e9399d",
+"en_raw": "What kind of game?"
+},
+{
+"n": 8,
+"h": "bef5ab93",
+"en_raw": "...It's a secret"
+},
+{
+"n": 9,
+"h": "aaaf061c",
+"en_raw": "A secret game?"
+},
+{
+"n": 10,
+"h": "abf24aa7",
+"en_raw": "Yeah, it is"
+},
+{
+"n": 11,
+"h": "cd4965b5",
+"en_raw": "I'll tell you the secret"
+},
+{
+"n": 12,
+"h": "524f3619",
+"en_raw": "I'll be waiting in front of the torii in the forest"
+},
+{
+"n": 13,
+"h": "08e924be",
+"en_raw": "Kurumi, please come"
+},
+{
+"n": 14,
+"h": "ff6fc33e",
+"en_raw": "Okay!"
+},
+{
+"n": 15,
+"h": "f2aac7fb",
+"en_raw": "And definitely come alone"
+},
+{
+"n": 16,
+"h": "9d1096cf",
+"en_raw": "It's a secret... because it's a secret"
+},
+{
+"n": 17,
+"h": "ff6fc33e",
+"en_raw": "Okay!"
+},
+{
+"n": 18,
+"h": "103f3563",
+"en_raw": "Obtained the rumor of the Secret Thing"
+},
+{
+"n": 19,
+"h": "524f3619",
+"en_raw": "I'll be waiting in front of the torii in the forest"
+},
+{
+"n": 20,
+"h": "08e924be",
+"en_raw": "Kurumi, please come"
+},
+{
+"n": 21,
+"h": "2557e420",
+"en_raw": "I'll be waiting"
+},
+{
+"n": 22,
+"h": "a56e9dc3",
+"en_raw": "I'll be waiting"
+},
+{
+"n": 23,
+"h": "1eea6ff0",
+"en_raw": "All the time..."
+},
+{
+"n": 24,
+"h": "87887ddb",
+"en_raw": "Rustle, rustle"
+},
+{
+"n": 25,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 26,
+"h": "0e81c9c2",
+"en_raw": "Hey hey, what are you looking at?"
+},
+{
+"n": 27,
+"h": "87887ddb",
+"en_raw": "Rustle, rustle"
+},
+{
+"n": 28,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 29,
+"h": "0e81c9c2",
+"en_raw": "Hey hey, what are you looking at?"
+},
+{
+"n": 30,
+"h": "138a88ab",
+"en_raw": "...A car?"
+},
+{
+"n": 31,
+"h": "af2bede3",
+"en_raw": "...Why do you bother with me?"
+},
+{
+"n": 32,
+"h": "87887ddb",
+"en_raw": "Rustle, rustle"
+},
+{
+"n": 33,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 34,
+"h": "17169a67",
+"en_raw": "You're watching again today"
+},
+{
+"n": 35,
+"h": "689869d5",
+"en_raw": "Oh, Kurumi saw a water flea"
+},
+{
+"n": 36,
+"h": "af3288b9",
+"en_raw": "...A water flea?"
+},
+{
+"n": 37,
+"h": "0c4d4af4",
+"en_raw": "You know, a big one"
+},
+{
+"n": 38,
+"h": "e92c5bb4",
+"en_raw": "If you squint at the sun"
+},
+{
+"n": 39,
+"h": "de70dcb5",
+"en_raw": "and see a big water flea"
+},
+{
+"n": 40,
+"h": "6f3a7af3",
+"en_raw": "tomorrow will be sunny!"
+},
+{
+"n": 41,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 42,
+"h": "87887ddb",
+"en_raw": "Rustle, rustle"
+},
+{
+"n": 43,
+"h": "c10ff3dc",
+"en_raw": "...?"
+},
+{
+"n": 44,
+"h": "7925f070",
+"en_raw": "Oh, she turned this way!"
+},
+{
+"n": 45,
+"h": "55e12497",
+"en_raw": "......."
+},
+{
+"n": 46,
+"h": "cbddd512",
+"en_raw": "Hey hey, why are you looking at Kurumi?"
+},
+{
+"n": 47,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 48,
+"h": "87887ddb",
+"en_raw": "Rustle, rustle"
+},
+{
+"n": 49,
+"h": "d81df1fc",
+"en_raw": "...Kurumi Shiina?"
+},
+{
+"n": 50,
+"h": "4efb1ad2",
+"en_raw": "Huh?"
+},
+{
+"n": 51,
+"h": "4cc0bd46",
+"en_raw": "You're Shiina, right?"
+},
+{
+"n": 52,
+"h": "1920baf9",
+"en_raw": " "
+},
+{
+"n": 53,
+"h": "d5b21d99",
+"en_raw": "Yep"
+},
+{
+"n": 54,
+"h": "47ab06ee",
+"en_raw": "But Kurumi doesn't know"
+},
+{
+"n": 55,
+"h": "a551c3ee",
+"en_raw": "...that name"
+},
+{
+"n": 56,
+"h": "f86cc282",
+"en_raw": "Minami, Minami Aiba"
+},
+{
+"n": 57,
+"h": "789c7d0b",
+"en_raw": "Minami!"
+},
+{
+"n": 58,
+"h": "b322035e",
+"en_raw": "Kurumi"
+},
+{
+"n": 59,
+"h": "96e177b9",
+"en_raw": "...You keep one too, Kurumi"
+},
+{
+"n": 60,
+"h": "1d795098",
+"en_raw": "We could be friends"
+},
+{
+"n": 61,
+"h": "ff6fc33e",
+"en_raw": "Okay!"
+},
+{
+"n": 62,
+"h": "789c7d0b",
+"en_raw": "Minami!"
+},
+{
+"n": 63,
+"h": "b322035e",
+"en_raw": "Kurumi"
+},
+{
+"n": 64,
+"h": "c2fa7689",
+"en_raw": "What?"
+},
+{
+"n": 65,
+"h": "757b7437",
+"en_raw": "Hee hee"
+}
+]
+}

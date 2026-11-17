@@ -1,0 +1,633 @@
+{
+"file": 490,
+"paths": [
+"d008/d025/f026"
+],
+"lines": [
+{
+"n": 0,
+"h": "524fc0f0",
+"en_raw": "Yes"
+},
+{
+"n": 1,
+"h": "6640a359",
+"en_raw": "I should have asked Tomoki"
+},
+{
+"n": 2,
+"h": "69a82891",
+"en_raw": "from the start"
+},
+{
+"n": 3,
+"h": "fbb09597",
+"en_raw": "Call him / Hold off. Is Tomoki in...?"
+},
+{
+"n": 4,
+"h": "1c1c9aa8",
+"en_raw": "Is this Tomoki?"
+},
+{
+"n": 5,
+"h": "6762c71e",
+"en_raw": "...Oh, Sango-chan?"
+},
+{
+"n": 6,
+"h": "b8d0feb2",
+"en_raw": "It's been a while"
+},
+{
+"n": 7,
+"h": "ae34e582",
+"en_raw": "Aww, I wanted to hear your voice~"
+},
+{
+"n": 8,
+"h": "29de41bb",
+"en_raw": "Phones are banned at my house now"
+},
+{
+"n": 9,
+"h": "f0a12f84",
+"en_raw": "and I was dying"
+},
+{
+"n": 10,
+"h": "8fc6db08",
+"en_raw": "Ha ha, too many long calls?"
+},
+{
+"n": 11,
+"h": "35ecb12f",
+"en_raw": "So you're calling from outside now?"
+},
+{
+"n": 12,
+"h": "db6fea3b",
+"en_raw": "So I can't talk"
+},
+{
+"n": 13,
+"h": "e980df74",
+"en_raw": "for very long"
+},
+{
+"n": 14,
+"h": "a3cc5b29",
+"en_raw": "...Waaah"
+},
+{
+"n": 15,
+"h": "99ce32b8",
+"en_raw": "Don't cry, don't cry"
+},
+{
+"n": 16,
+"h": "5600f0ed",
+"en_raw": "...So, what happened?"
+},
+{
+"n": 17,
+"h": "13b20744",
+"en_raw": "This may sound like a weird question"
+},
+{
+"n": 18,
+"h": "68986687",
+"en_raw": "Tomoki"
+},
+{
+"n": 19,
+"h": "fac36f35",
+"en_raw": "...do you know why babies"
+},
+{
+"n": 20,
+"h": "22a8d94c",
+"en_raw": "in the womb dance?"
+},
+{
+"n": 21,
+"h": "d2c54fa4",
+"en_raw": "Babies in the womb?"
+},
+{
+"n": 22,
+"h": "168c45f7",
+"en_raw": "...Why they dance?"
+},
+{
+"n": 23,
+"h": "27e34163",
+"en_raw": "Yeah, if I can't figure that out..."
+},
+{
+"n": 24,
+"h": "4bb14f90",
+"en_raw": "supposedly a child with no face"
+},
+{
+"n": 25,
+"h": "40dd98c7",
+"en_raw": "will be born"
+},
+{
+"n": 26,
+"h": "24c0a954",
+"en_raw": "...Can that happen?"
+},
+{
+"n": 27,
+"h": "6b8fff7a",
+"en_raw": "Medically speaking"
+},
+{
+"n": 28,
+"h": "281d762d",
+"en_raw": "there's no way"
+},
+{
+"n": 29,
+"h": "9c37ef74",
+"en_raw": "It's just a rumor"
+},
+{
+"n": 30,
+"h": "2f03fc57",
+"en_raw": "Just a rumor, huh..."
+},
+{
+"n": 31,
+"h": "2688dd29",
+"en_raw": "But Sango-chan, you should be"
+},
+{
+"n": 32,
+"h": "77cf849f",
+"en_raw": "careful with that kind of story"
+},
+{
+"n": 33,
+"h": "2a9a30bf",
+"en_raw": "They call it 'casting a curse'"
+},
+{
+"n": 34,
+"h": "10b16a12",
+"en_raw": "making someone anxious with obscure words"
+},
+{
+"n": 35,
+"h": "452c4076",
+"en_raw": "even if it doesn't have the exact effect"
+},
+{
+"n": 36,
+"h": "356ca1fa",
+"en_raw": "dealing psychological damage"
+},
+{
+"n": 37,
+"h": "a8eae654",
+"en_raw": "to the other person"
+},
+{
+"n": 38,
+"h": "c3990466",
+"en_raw": "is a curse that's been common since ancient times"
+},
+{
+"n": 39,
+"h": "9f8609bf",
+"en_raw": "Oh, Tomoki, come on"
+},
+{
+"n": 40,
+"h": "33c673e8",
+"en_raw": "Remember I told you about kotodama before?"
+},
+{
+"n": 41,
+"h": "5ba26710",
+"en_raw": "It's the same thing"
+},
+{
+"n": 42,
+"h": "52b753a1",
+"en_raw": "You'd better clear it up"
+},
+{
+"n": 43,
+"h": "21bdc9e1",
+"en_raw": "because the answer isn't in the dictionary"
+},
+{
+"n": 44,
+"h": "9940a652",
+"en_raw": "Now that you say it, true..."
+},
+{
+"n": 45,
+"h": "9873ea9f",
+"en_raw": "So, Sango-chan"
+},
+{
+"n": 46,
+"h": "14763069",
+"en_raw": "did you figure anything out?"
+},
+{
+"n": 47,
+"h": "58aab7a3",
+"en_raw": "Something's nagging me"
+},
+{
+"n": 48,
+"h": "8304e843",
+"en_raw": "but I can't remember"
+},
+{
+"n": 49,
+"h": "65e1ec54",
+"en_raw": "So I called Tomoki..."
+},
+{
+"n": 50,
+"h": "f4030e8f",
+"en_raw": "Hmm~"
+},
+{
+"n": 51,
+"h": "8c84d180",
+"en_raw": "I've already figured it out"
+},
+{
+"n": 52,
+"h": "9c6b5613",
+"en_raw": "Huh?!"
+},
+{
+"n": 53,
+"h": "905df1e6",
+"en_raw": "I think Sango-chan"
+},
+{
+"n": 54,
+"h": "db74e03b",
+"en_raw": "probably knows it too"
+},
+{
+"n": 55,
+"h": "811bbdab",
+"en_raw": "...I know it?"
+},
+{
+"n": 56,
+"h": "78492889",
+"en_raw": "I remember / Don't know... but fine"
+},
+{
+"n": 57,
+"h": "ceb9fb95",
+"en_raw": "I'm not getting married"
+},
+{
+"n": 58,
+"h": "8adfead8",
+"en_raw": "and I won't have kids either"
+},
+{
+"n": 59,
+"h": "793bc4ad",
+"en_raw": "I've heard that before"
+},
+{
+"n": 60,
+"h": "a4c2a704",
+"en_raw": "but it's separate from this time"
+},
+{
+"n": 61,
+"h": "05af4882",
+"en_raw": "Dancing babies... why?"
+},
+{
+"n": 62,
+"h": "6c9b0bc5",
+"en_raw": "Hmm, what was it"
+},
+{
+"n": 63,
+"h": "6fab755e",
+"en_raw": "Um, the keywords are..."
+},
+{
+"n": 64,
+"h": "6ce301bb",
+"en_raw": "Right, right"
+},
+{
+"n": 65,
+"h": "78a39607",
+"en_raw": "\"Dream\" / \"Reality\"  And then..."
+},
+{
+"n": 66,
+"h": "2dab838c",
+"en_raw": "\"Field\" / \"Mountain\"  And then..."
+},
+{
+"n": 67,
+"h": "f5d85f40",
+"en_raw": "\"Long\" / \"Always\"  So... it's a work by...!"
+},
+{
+"n": 68,
+"h": "5b319904",
+"en_raw": "That's it, these words"
+},
+{
+"n": 69,
+"h": "d302b85e",
+"en_raw": "are the opening of Dogra Magra"
+},
+{
+"n": 70,
+"h": "e0f7648e",
+"en_raw": "Fetus, fetus, why do you dance"
+},
+{
+"n": 71,
+"h": "9f984a38",
+"en_raw": "Do you understand your mother's heart"
+},
+{
+"n": 72,
+"h": "6647bb76",
+"en_raw": "and fear it?"
+},
+{
+"n": 73,
+"h": "c984c679",
+"en_raw": "...Right, Tomoki?"
+},
+{
+"n": 74,
+"h": "bef5e9ec",
+"en_raw": "Ding dong"
+},
+{
+"n": 75,
+"h": "99d98741",
+"en_raw": "As expected of Sango-chan"
+},
+{
+"n": 76,
+"h": "29ad316a",
+"en_raw": "What comes to mind is..."
+},
+{
+"n": 77,
+"h": "34108cd8",
+"en_raw": "\"Reality\" \"Field\" \"Long\""
+},
+{
+"n": 78,
+"h": "3b8f6044",
+"en_raw": "but..."
+},
+{
+"n": 79,
+"h": "29ad316a",
+"en_raw": "What comes to mind is..."
+},
+{
+"n": 80,
+"h": "12d7d65a",
+"en_raw": "\"Dream\" \"Mountain\" \"Long\""
+},
+{
+"n": 81,
+"h": "3b8f6044",
+"en_raw": "but..."
+},
+{
+"n": 82,
+"h": "29ad316a",
+"en_raw": "What comes to mind is..."
+},
+{
+"n": 83,
+"h": "6b39f148",
+"en_raw": "\"Dream\" \"Field\" \"Always\""
+},
+{
+"n": 84,
+"h": "3b8f6044",
+"en_raw": "but..."
+},
+{
+"n": 85,
+"h": "29ad316a",
+"en_raw": "What comes to mind is..."
+},
+{
+"n": 86,
+"h": "13698494",
+"en_raw": "\"Reality\" \"Field\" \"Always\""
+},
+{
+"n": 87,
+"h": "3b8f6044",
+"en_raw": "but..."
+},
+{
+"n": 88,
+"h": "29ad316a",
+"en_raw": "What comes to mind is..."
+},
+{
+"n": 89,
+"h": "b13ae986",
+"en_raw": "\"Dream\" \"Mountain\" \"Always\""
+},
+{
+"n": 90,
+"h": "3b8f6044",
+"en_raw": "but..."
+},
+{
+"n": 91,
+"h": "29ad316a",
+"en_raw": "What comes to mind is..."
+},
+{
+"n": 92,
+"h": "cf3bc278",
+"en_raw": "\"Reality\" \"Mountain\" \"Always\""
+},
+{
+"n": 93,
+"h": "3b8f6044",
+"en_raw": "but..."
+},
+{
+"n": 94,
+"h": "b2a2aff0",
+"en_raw": "Too bad!"
+},
+{
+"n": 95,
+"h": "20a6542b",
+"en_raw": "I thought Sango-chan"
+},
+{
+"n": 96,
+"h": "bd8cc19a",
+"en_raw": "would know"
+},
+{
+"n": 97,
+"h": "cf99a335",
+"en_raw": "Then let me give you a hint"
+},
+{
+"n": 98,
+"h": "875d2fb7",
+"en_raw": "It's in Sango-chan's specialty"
+},
+{
+"n": 99,
+"h": "cc8473aa",
+"en_raw": "It's a fairly famous book"
+},
+{
+"n": 100,
+"h": "4679fc86",
+"en_raw": "so you'll find it right away"
+},
+{
+"n": 101,
+"h": "2862098d",
+"en_raw": "Aww, Tomoki, you're mean~"
+},
+{
+"n": 102,
+"h": "5a978bd2",
+"en_raw": "Call me again when you figure it out"
+},
+{
+"n": 103,
+"h": "64fbb706",
+"en_raw": "Bye, then"
+},
+{
+"n": 104,
+"h": "5f84f33d",
+"en_raw": "A famous book... hmm"
+},
+{
+"n": 105,
+"h": "f0254784",
+"en_raw": "Maybe I'll go to a used bookstore"
+},
+{
+"n": 106,
+"h": "4e5e3fa1",
+"en_raw": "...I'll look into it"
+},
+{
+"n": 107,
+"h": "b0066230",
+"en_raw": "a bit more first"
+},
+{
+"n": 108,
+"h": "c5d63205",
+"en_raw": "Oh, is this Tomoki?"
+},
+{
+"n": 109,
+"h": "d98826b5",
+"en_raw": "I figured it out~"
+},
+{
+"n": 110,
+"h": "e08e2614",
+"en_raw": "I..."
+},
+{
+"n": 111,
+"h": "e0f7648e",
+"en_raw": "Fetus, fetus, why do you dance"
+},
+{
+"n": 112,
+"h": "9f984a38",
+"en_raw": "Do you understand your mother's heart"
+},
+{
+"n": 113,
+"h": "6647bb76",
+"en_raw": "and fear it?"
+},
+{
+"n": 114,
+"h": "c984c679",
+"en_raw": "...Right, Tomoki?"
+},
+{
+"n": 115,
+"h": "bef5e9ec",
+"en_raw": "Ding dong"
+},
+{
+"n": 116,
+"h": "99d98741",
+"en_raw": "As expected of Sango-chan"
+},
+{
+"n": 117,
+"h": "9f6471f8",
+"en_raw": "Yeah, yes"
+},
+{
+"n": 118,
+"h": "f62b4d76",
+"en_raw": "When the phone ban ends"
+},
+{
+"n": 119,
+"h": "d1a0e5db",
+"en_raw": "I'll definitely call and talk properly again"
+},
+{
+"n": 120,
+"h": "bf8e832f",
+"en_raw": "Well, thanks"
+},
+{
+"n": 121,
+"h": "5f727ebb",
+"en_raw": "Ah, what a relief!"
+},
+{
+"n": 122,
+"h": "29ad316a",
+"en_raw": "What comes to mind is..."
+},
+{
+"n": 123,
+"h": "b6984d73",
+"en_raw": "\"Reality\" \"Mountain\" \"Long\""
+},
+{
+"n": 124,
+"h": "3b8f6044",
+"en_raw": "but..."
+}
+]
+}

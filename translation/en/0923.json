@@ -1,0 +1,433 @@
+{
+"file": 923,
+"paths": [
+"d008/d102/f018"
+],
+"lines": [
+{
+"n": 0,
+"h": "1c41067f",
+"en_raw": "Excuse me, um..."
+},
+{
+"n": 1,
+"h": "f6197a04",
+"en_raw": "If you play in a place like this"
+},
+{
+"n": 2,
+"h": "904d045a",
+"en_raw": "Dr. Izumi will scold you"
+},
+{
+"n": 3,
+"h": "5a6f9d2b",
+"en_raw": "Um, a person dressed like a clown"
+},
+{
+"n": 4,
+"h": "8d599436",
+"en_raw": "have you seen one around here?"
+},
+{
+"n": 5,
+"h": "08d80f14",
+"en_raw": "Dr. Izumi is a truly good person"
+},
+{
+"n": 6,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 7,
+"h": "63f5fdd3",
+"en_raw": "This is a doggy"
+},
+{
+"n": 8,
+"h": "0fd6328a",
+"en_raw": "Go on home"
+},
+{
+"n": 9,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 10,
+"h": "75f69810",
+"en_raw": "Go home quickly"
+},
+{
+"n": 11,
+"h": "a3b7eee8",
+"en_raw": "Excuse me, um..."
+},
+{
+"n": 12,
+"h": "0efaa6ec",
+"en_raw": "What is it?"
+},
+{
+"n": 13,
+"h": "b173e16c",
+"en_raw": "Um, around here"
+},
+{
+"n": 14,
+"h": "fc08bdc5",
+"en_raw": "um..."
+},
+{
+"n": 15,
+"h": "fcbb1096",
+"en_raw": "have you seen a person"
+},
+{
+"n": 16,
+"h": "5b5995ae",
+"en_raw": "like a clown?"
+},
+{
+"n": 17,
+"h": "e8323e1c",
+"en_raw": "I don't know what you mean"
+},
+{
+"n": 18,
+"h": "80bde28f",
+"en_raw": "Anyway, no strolling here"
+},
+{
+"n": 19,
+"h": "d50cec3a",
+"en_raw": "This is hospital grounds"
+},
+{
+"n": 20,
+"h": "9ffb3c36",
+"en_raw": "Sorry, we'll go right away"
+},
+{
+"n": 21,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 22,
+"h": "ee1ec2ce",
+"en_raw": "Go home quickly"
+},
+{
+"n": 23,
+"h": "f463ea1a",
+"en_raw": "Yes, sorry..."
+},
+{
+"n": 24,
+"h": "83477214",
+"en_raw": "That area's under construction"
+},
+{
+"n": 25,
+"h": "177dc618",
+"en_raw": "so no entering"
+},
+{
+"n": 26,
+"h": "88356838",
+"en_raw": "Hey, wait!"
+},
+{
+"n": 27,
+"h": "0115be0e",
+"en_raw": "Past there is off-limits"
+},
+{
+"n": 28,
+"h": "4c87160f",
+"en_raw": "It's under construction, dangerous"
+},
+{
+"n": 29,
+"h": "2def54cc",
+"en_raw": "As I keep saying"
+},
+{
+"n": 30,
+"h": "40339d3c",
+"en_raw": "this is hospital grounds"
+},
+{
+"n": 31,
+"h": "194326f7",
+"en_raw": "If you want a stroll, go to the park"
+},
+{
+"n": 32,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 33,
+"h": "ee1ec2ce",
+"en_raw": "Go home quickly"
+},
+{
+"n": 34,
+"h": "90346ca2",
+"en_raw": "Wait a moment!"
+},
+{
+"n": 35,
+"h": "bf405151",
+"en_raw": "...W-who's that child?"
+},
+{
+"n": 36,
+"h": "e62ebe2d",
+"en_raw": "What is it?"
+},
+{
+"n": 37,
+"h": "55e12497",
+"en_raw": "......."
+},
+{
+"n": 38,
+"h": "7e1f94d2",
+"en_raw": "He's staring at Kurumi"
+},
+{
+"n": 39,
+"h": "8f612f3b",
+"en_raw": "Um, what about Shiina?"
+},
+{
+"n": 40,
+"h": "55e12497",
+"en_raw": "......."
+},
+{
+"n": 41,
+"h": "90e656a6",
+"en_raw": "Is something wrong?"
+},
+{
+"n": 42,
+"h": "73d02cc9",
+"en_raw": "...No, it's nothing"
+},
+{
+"n": 43,
+"h": "0e85963c",
+"en_raw": "It's nothing, but"
+},
+{
+"n": 44,
+"h": "2e5c2c97",
+"en_raw": "who is she...?"
+},
+{
+"n": 45,
+"h": "e2ebd190",
+"en_raw": "A friend, why?"
+},
+{
+"n": 46,
+"h": "dc2c2a3f",
+"en_raw": "...Sorry, I asked something odd"
+},
+{
+"n": 47,
+"h": "6daf8b73",
+"en_raw": "Anyway, go home now"
+},
+{
+"n": 48,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 49,
+"h": "b61120da",
+"en_raw": "...Ah, oh"
+},
+{
+"n": 50,
+"h": "ee1ec2ce",
+"en_raw": "Go home quickly"
+},
+{
+"n": 51,
+"h": "757e4d5e",
+"en_raw": "What are you doing?"
+},
+{
+"n": 52,
+"h": "ee1ec2ce",
+"en_raw": "Go home quickly"
+},
+{
+"n": 53,
+"h": "74fb737e",
+"en_raw": "Wait a sec, Nao"
+},
+{
+"n": 54,
+"h": "70d06a5d",
+"en_raw": "Thinking worst case"
+},
+{
+"n": 55,
+"h": "d6299aec",
+"en_raw": "let's hide Shiina"
+},
+{
+"n": 56,
+"h": "67e1353a",
+"en_raw": "Sure thing"
+},
+{
+"n": 57,
+"h": "08dabab7",
+"en_raw": "So,"
+},
+{
+"n": 58,
+"h": "d6a1a464",
+"en_raw": "we'll be waiting"
+},
+{
+"n": 59,
+"h": "9f02c545",
+"en_raw": "Um, excuse me"
+},
+{
+"n": 60,
+"h": "a9f4333c",
+"en_raw": "about the other day"
+},
+{
+"n": 61,
+"h": "0868c558",
+"en_raw": "I have something to ask..."
+},
+{
+"n": 62,
+"h": "12cf9395",
+"en_raw": "You too?"
+},
+{
+"n": 63,
+"h": "30bc9904",
+"en_raw": "Actually, I have something to tell you"
+},
+{
+"n": 64,
+"h": "0a475a90",
+"en_raw": "Come with me"
+},
+{
+"n": 65,
+"h": "7f96bbc2",
+"en_raw": "Follow / Run away  ...No thank you"
+},
+{
+"n": 66,
+"h": "2d023aa9",
+"en_raw": "Excuse me"
+},
+{
+"n": 67,
+"h": "0c5c6c78",
+"en_raw": "...All right"
+},
+{
+"n": 68,
+"h": "1c44875e",
+"en_raw": "Follow me"
+},
+{
+"n": 69,
+"h": "7aa06f9d",
+"en_raw": "Where do you think you're going?"
+},
+{
+"n": 70,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 71,
+"h": "34adf176",
+"en_raw": "Even Dr. Izumi, who was so sharp"
+},
+{
+"n": 72,
+"h": "41541e9c",
+"en_raw": "has become like that"
+},
+{
+"n": 73,
+"h": "12cb39ea",
+"en_raw": "...How pitiful"
+},
+{
+"n": 74,
+"h": "de68d2a6",
+"en_raw": "In this world, what's normal"
+},
+{
+"n": 75,
+"h": "eccccc23",
+"en_raw": "no one can tell at all"
+},
+{
+"n": 76,
+"h": "d75302ee",
+"en_raw": "People die"
+},
+{
+"n": 77,
+"h": "cb7933ef",
+"en_raw": "People die..."
+},
+{
+"n": 78,
+"h": "264ee6ef",
+"en_raw": "The curse of thirteen years ago"
+},
+{
+"n": 79,
+"h": "8e1f5a38",
+"en_raw": "The curse of thirteen years ago..."
+},
+{
+"n": 80,
+"h": "a3b7eee8",
+"en_raw": "Excuse me, um..."
+},
+{
+"n": 81,
+"h": "865fd9d6",
+"en_raw": "Do you know a child with a clown doll?"
+},
+{
+"n": 82,
+"h": "d7d16dca",
+"en_raw": "Honestly, what should I do..."
+},
+{
+"n": 83,
+"h": "c03a63da",
+"en_raw": "Um..."
+},
+{
+"n": 84,
+"h": "ebbc5ed9",
+"en_raw": "No good, he can't hear me..."
+}
+]
+}

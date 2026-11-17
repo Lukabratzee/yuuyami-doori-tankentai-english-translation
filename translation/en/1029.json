@@ -1,0 +1,438 @@
+{
+"file": 1029,
+"paths": [
+"d008/d138/f018"
+],
+"lines": [
+{
+"n": 0,
+"h": "fa17583a",
+"en_raw": "There's an answering machine message..."
+},
+{
+"n": 1,
+"h": "d694d25a",
+"en_raw": "Play it / Don't  No, not someone's machine"
+},
+{
+"n": 2,
+"h": "55ff7777",
+"en_raw": "I can't do that"
+},
+{
+"n": 3,
+"h": "829b055b",
+"en_raw": "This is Nakamura"
+},
+{
+"n": 4,
+"h": "c4d8f4b6",
+"en_raw": "from Orion Corporation"
+},
+{
+"n": 5,
+"h": "452b0ef3",
+"en_raw": "Mr. Kimura's payment this month"
+},
+{
+"n": 6,
+"h": "2203266d",
+"en_raw": "hasn't been transferred yet"
+},
+{
+"n": 7,
+"h": "b3276fde",
+"en_raw": "5,890 yen, please transfer"
+},
+{
+"n": 8,
+"h": "ce6c2ddd",
+"en_raw": "to the account urgently"
+},
+{
+"n": 9,
+"h": "2677b199",
+"en_raw": "This is Hirumi City Hall"
+},
+{
+"n": 10,
+"h": "3f89ce86",
+"en_raw": "Mr. Kimura's national insurance premium"
+},
+{
+"n": 11,
+"h": "515b40e3",
+"en_raw": "has not been paid"
+},
+{
+"n": 12,
+"h": "fe7f6662",
+"en_raw": "If this continues..."
+},
+{
+"n": 13,
+"h": "15193303",
+"en_raw": "...Is he in financial trouble?"
+},
+{
+"n": 14,
+"h": "70634b9b",
+"en_raw": "The message contents..."
+},
+{
+"n": 15,
+"h": "0c4a0613",
+"en_raw": "Recheck / No need  Not someone's machine"
+},
+{
+"n": 16,
+"h": "55ff7777",
+"en_raw": "I can't do that"
+},
+{
+"n": 17,
+"h": "829b055b",
+"en_raw": "This is Nakamura"
+},
+{
+"n": 18,
+"h": "c4d8f4b6",
+"en_raw": "from Orion Corporation"
+},
+{
+"n": 19,
+"h": "452b0ef3",
+"en_raw": "Mr. Kimura's payment this month"
+},
+{
+"n": 20,
+"h": "b24ef1e6",
+"en_raw": "..."
+},
+{
+"n": 21,
+"h": "8750e0cb",
+"en_raw": "Every time I listen, it's"
+},
+{
+"n": 22,
+"h": "6f4b237f",
+"en_raw": "all about money..."
+},
+{
+"n": 23,
+"h": "7273080a",
+"en_raw": "The doorknob is"
+},
+{
+"n": 24,
+"h": "1d22ab01",
+"en_raw": "wrapped in wire..."
+},
+{
+"n": 25,
+"h": "fafd0410",
+"en_raw": "............"
+},
+{
+"n": 26,
+"h": "1c286eba",
+"en_raw": "What do we do?"
+},
+{
+"n": 27,
+"h": "e9c1ad2c",
+"en_raw": "Run / Quiet!  (Hey... Nao!)"
+},
+{
+"n": 28,
+"h": "86544a11",
+"en_raw": "(Everyone, be quiet!)"
+},
+{
+"n": 29,
+"h": "ddcdf58f",
+"en_raw": "(Hold your breath if you can...)"
+},
+{
+"n": 30,
+"h": "4d564cb0",
+"en_raw": "(Hey, Nao"
+},
+{
+"n": 31,
+"h": "ab4aac9a",
+"en_raw": "how long are we staying like this?)"
+},
+{
+"n": 32,
+"h": "5d67e730",
+"en_raw": "(Shh...)"
+},
+{
+"n": 33,
+"h": "1c286eba",
+"en_raw": "What do we do?"
+},
+{
+"n": 34,
+"h": "2becd140",
+"en_raw": "Run / Watch a bit more  (Nao, I'm bored~)"
+},
+{
+"n": 35,
+"h": "2184cd28",
+"en_raw": "(Shiina, shh!!!)"
+},
+{
+"n": 36,
+"h": "3ab13d1c",
+"en_raw": "Excuse me,"
+},
+{
+"n": 37,
+"h": "43ef608c",
+"en_raw": "it's the Mainichi Shimbun"
+},
+{
+"n": 38,
+"h": "e132eed8",
+"en_raw": "I've come to collect the newspaper fee"
+},
+{
+"n": 39,
+"h": "c71c89c1",
+"en_raw": "(...The newspaper guy?)"
+},
+{
+"n": 40,
+"h": "09601c21",
+"en_raw": "Oh..."
+},
+{
+"n": 41,
+"h": "b18420a6",
+"en_raw": "I want to go home soon..."
+},
+{
+"n": 42,
+"h": "9f9e27d1",
+"en_raw": "Go home / A bit more...  No, surely there's"
+},
+{
+"n": 43,
+"h": "30976320",
+"en_raw": "more here..."
+},
+{
+"n": 44,
+"h": "5256590b",
+"en_raw": "Let's hurry home..."
+},
+{
+"n": 45,
+"h": "e333a75e",
+"en_raw": "Thank you very much"
+},
+{
+"n": 46,
+"h": "0ab204ad",
+"en_raw": "Nao, you're going home"
+},
+{
+"n": 47,
+"h": "8154a347",
+"en_raw": "in this state?"
+},
+{
+"n": 48,
+"h": "79b4fc7d",
+"en_raw": "Hmm..."
+},
+{
+"n": 49,
+"h": "313e0bc8",
+"en_raw": "Go home anyway / Investigate  Okay"
+},
+{
+"n": 50,
+"h": "abbeff05",
+"en_raw": "I'll investigate a bit more"
+},
+{
+"n": 51,
+"h": "e7895232",
+"en_raw": "I don't like"
+},
+{
+"n": 52,
+"h": "1d6cfefa",
+"en_raw": "being here"
+},
+{
+"n": 53,
+"h": "5256590b",
+"en_raw": "Let's hurry home..."
+},
+{
+"n": 54,
+"h": "c310c387",
+"en_raw": "Tch..."
+},
+{
+"n": 55,
+"h": "fae39bef",
+"en_raw": "Coward"
+},
+{
+"n": 56,
+"h": "f7ec4e15",
+"en_raw": "There's a room over here too..."
+},
+{
+"n": 57,
+"h": "4739cf7f",
+"en_raw": "Shall I go further in...?"
+},
+{
+"n": 58,
+"h": "79b6c692",
+"en_raw": "Of course / Kind of scary  Try going once more?"
+},
+{
+"n": 59,
+"h": "ceeb39fd",
+"en_raw": "Go / Enough  That's enough"
+},
+{
+"n": 60,
+"h": "001a32d9",
+"en_raw": "I'll go once more"
+},
+{
+"n": 61,
+"h": "b544688e",
+"en_raw": "Nao actually"
+},
+{
+"n": 62,
+"h": "b1d076da",
+"en_raw": "had some courage"
+},
+{
+"n": 63,
+"h": "cf6c8abf",
+"en_raw": "I'm a bit impressed"
+},
+{
+"n": 64,
+"h": "328a50bd",
+"en_raw": "Next time is fine..."
+},
+{
+"n": 65,
+"h": "1238e567",
+"en_raw": "I don't know what"
+},
+{
+"n": 66,
+"h": "48927b72",
+"en_raw": "the room ahead is like"
+},
+{
+"n": 67,
+"h": "ee75d2f5",
+"en_raw": "I'll go alone"
+},
+{
+"n": 68,
+"h": "0c9a55bc",
+"en_raw": "If there's mold"
+},
+{
+"n": 69,
+"h": "218ca435",
+"en_raw": "be careful"
+},
+{
+"n": 70,
+"h": "6ef4f0d1",
+"en_raw": "Touch it and it's the end"
+},
+{
+"n": 71,
+"h": "8069636c",
+"en_raw": "you'll be mold's prey too"
+},
+{
+"n": 72,
+"h": "63d07068",
+"en_raw": "Stop it..."
+},
+{
+"n": 73,
+"h": "b0bb4c8c",
+"en_raw": "Well, Nao"
+},
+{
+"n": 74,
+"h": "3505825d",
+"en_raw": "good luck"
+},
+{
+"n": 75,
+"h": "a47535b9",
+"en_raw": "How was it?"
+},
+{
+"n": 76,
+"h": "4c8e2b15",
+"en_raw": "Yeah... the mold..."
+},
+{
+"n": 77,
+"h": "5b14edeb",
+"en_raw": "is stuck on the bathtub..."
+},
+{
+"n": 78,
+"h": "494db0cf",
+"en_raw": "Huh..."
+},
+{
+"n": 79,
+"h": "a1987642",
+"en_raw": "The rumor isn't"
+},
+{
+"n": 80,
+"h": "00b66fbe",
+"en_raw": "entirely false"
+},
+{
+"n": 81,
+"h": "cfd124dc",
+"en_raw": "You didn't"
+},
+{
+"n": 82,
+"h": "818ee785",
+"en_raw": "touch the mold, did you?"
+},
+{
+"n": 83,
+"h": "6677278a",
+"en_raw": "Yeah"
+},
+{
+"n": 84,
+"h": "cd197810",
+"en_raw": "There's no fridge"
+},
+{
+"n": 85,
+"h": "f7b76920",
+"en_raw": "anywhere... right?"
+}
+]
+}

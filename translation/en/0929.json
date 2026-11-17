@@ -1,0 +1,103 @@
+{
+"file": 929,
+"paths": [
+"d008/d103/f024"
+],
+"lines": [
+{
+"n": 0,
+"h": "fc3e3ac9",
+"en_raw": "...If it's the place on that map"
+},
+{
+"n": 1,
+"h": "50a873b1",
+"en_raw": "it should be around here..."
+},
+{
+"n": 2,
+"h": "e84172ae",
+"en_raw": "Stairs continue..."
+},
+{
+"n": 3,
+"h": "58056cf1",
+"en_raw": "Go down the stairs / Skip it  I don't have time"
+},
+{
+"n": 4,
+"h": "d91f5e21",
+"en_raw": "for this..."
+},
+{
+"n": 5,
+"h": "3c181bb1",
+"en_raw": "Let me investigate a bit more"
+},
+{
+"n": 6,
+"h": "bf15370c",
+"en_raw": "The place is surely"
+},
+{
+"n": 7,
+"h": "0977bf19",
+"en_raw": "right here..."
+},
+{
+"n": 8,
+"h": "db839154",
+"en_raw": "I can't find anything..."
+},
+{
+"n": 9,
+"h": "94dd0dd0",
+"en_raw": "There's no hint anywhere..."
+},
+{
+"n": 10,
+"h": "baedc0b2",
+"en_raw": "Did I take the wrong road?"
+},
+{
+"n": 11,
+"h": "3da8b603",
+"en_raw": "...No, don't panic"
+},
+{
+"n": 12,
+"h": "9ff41bde",
+"en_raw": "Search once more"
+},
+{
+"n": 13,
+"h": "70092714",
+"en_raw": "That place, the one on the map"
+},
+{
+"n": 14,
+"h": "b37ccdce",
+"en_raw": "is definitely here..."
+},
+{
+"n": 15,
+"h": "b6263d6f",
+"en_raw": "Maybe, behind that fence"
+},
+{
+"n": 16,
+"h": "952b518f",
+"en_raw": "the path continues...?"
+},
+{
+"n": 17,
+"h": "b3d720dd",
+"en_raw": "Go look / Skip it  No, the hint"
+},
+{
+"n": 18,
+"h": "83624a7c",
+"en_raw": "has to be right here..."
+}
+]
+}

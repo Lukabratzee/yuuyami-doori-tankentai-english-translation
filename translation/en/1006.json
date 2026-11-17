@@ -1,0 +1,413 @@
+{
+"file": 1006,
+"paths": [
+"d008/d126/f020"
+],
+"lines": [
+{
+"n": 0,
+"h": "eeea2d35",
+"en_raw": "Ah!"
+},
+{
+"n": 1,
+"h": "eaf0004b",
+"en_raw": "Uh-oh, before we're found..."
+},
+{
+"n": 2,
+"h": "eeea2d35",
+"en_raw": "Ah!"
+},
+{
+"n": 3,
+"h": "9d876b99",
+"en_raw": "Uh-oh, he's staking it out..."
+},
+{
+"n": 4,
+"h": "8445d2ca",
+"en_raw": "Hey, what are you"
+},
+{
+"n": 5,
+"h": "4f44218b",
+"en_raw": "doing in a place like this"
+},
+{
+"n": 6,
+"h": "317fd9df",
+"en_raw": "I told you"
+},
+{
+"n": 7,
+"h": "682ec30d",
+"en_raw": "to go home quickly"
+},
+{
+"n": 8,
+"h": "0fb0bbb6",
+"en_raw": "Ah, perfect timing!"
+},
+{
+"n": 9,
+"h": "601b7784",
+"en_raw": "It's not perfect at all"
+},
+{
+"n": 10,
+"h": "845b5e57",
+"en_raw": "What did you come here for"
+},
+{
+"n": 11,
+"h": "27fbc6a3",
+"en_raw": "Just listen"
+},
+{
+"n": 12,
+"h": "4796c8ef",
+"en_raw": "Something terrible"
+},
+{
+"n": 13,
+"h": "05ff5f8b",
+"en_raw": "is happening now"
+},
+{
+"n": 14,
+"h": "d12420ed",
+"en_raw": "A child... a small child"
+},
+{
+"n": 15,
+"h": "e8bfa0d0",
+"en_raw": "went in here"
+},
+{
+"n": 16,
+"h": "a9e3004f",
+"en_raw": "seems to have gone in!"
+},
+{
+"n": 17,
+"h": "e30f7fef",
+"en_raw": "What?"
+},
+{
+"n": 18,
+"h": "3eaf2ff3",
+"en_raw": "Before yesterday, maybe"
+},
+{
+"n": 19,
+"h": "13b6a112",
+"en_raw": "I think it was... before yesterday"
+},
+{
+"n": 20,
+"h": "c40722d6",
+"en_raw": "No, not those kids"
+},
+{
+"n": 21,
+"h": "9a67539a",
+"en_raw": "A different one? ...What kind of kid?"
+},
+{
+"n": 22,
+"h": "63515bab",
+"en_raw": "Um... well..."
+},
+{
+"n": 23,
+"h": "1cd3f065",
+"en_raw": "Shiina, what kind of kid was it?"
+},
+{
+"n": 24,
+"h": "6bd47f3e",
+"en_raw": "...What kind of kid?"
+},
+{
+"n": 25,
+"h": "5ab7dfe2",
+"en_raw": "The one we saw here, you know"
+},
+{
+"n": 26,
+"h": "4fbb0f78",
+"en_raw": "You said so"
+},
+{
+"n": 27,
+"h": "b52421a5",
+"en_raw": "Kurumi's bored"
+},
+{
+"n": 28,
+"h": "983ea979",
+"en_raw": "and wants ice cream"
+},
+{
+"n": 29,
+"h": "09c4e643",
+"en_raw": "Whoa, oops..."
+},
+{
+"n": 30,
+"h": "8969660c",
+"en_raw": "Didn't you see it?"
+},
+{
+"n": 31,
+"h": "5f5a3586",
+"en_raw": "Listen..."
+},
+{
+"n": 32,
+"h": "4268e699",
+"en_raw": "if you're going to lie"
+},
+{
+"n": 33,
+"h": "a3272818",
+"en_raw": "make it a better one"
+},
+{
+"n": 34,
+"h": "eef17378",
+"en_raw": "Why do you think I'm"
+},
+{
+"n": 35,
+"h": "9e566ce6",
+"en_raw": "here in uniform?"
+},
+{
+"n": 36,
+"h": "3ae04993",
+"en_raw": "Reports like that definitely"
+},
+{
+"n": 37,
+"h": "fcae7b81",
+"en_raw": "Of course, right"
+},
+{
+"n": 38,
+"h": "35a5c30a",
+"en_raw": "I panicked for nothing..."
+},
+{
+"n": 39,
+"h": "a9403824",
+"en_raw": "Such a big attitude"
+},
+{
+"n": 40,
+"h": "6f1b32da",
+"en_raw": "You're being scolded"
+},
+{
+"n": 41,
+"h": "2ce9caaa",
+"en_raw": "Huh, is that how it is?"
+},
+{
+"n": 42,
+"h": "738374ea",
+"en_raw": "Shouldn't you apologize honestly?"
+},
+{
+"n": 43,
+"h": "14d2881f",
+"en_raw": "How should I put it"
+},
+{
+"n": 44,
+"h": "2f5e844c",
+"en_raw": "Kind of like sorry..."
+},
+{
+"n": 45,
+"h": "41c74759",
+"en_raw": "Um... I'm sorry"
+},
+{
+"n": 46,
+"h": "9bf65580",
+"en_raw": "Well, I only heard this"
+},
+{
+"n": 47,
+"h": "6ff13bb6",
+"en_raw": "Five years ago, a kid"
+},
+{
+"n": 48,
+"h": "f8078147",
+"en_raw": "got into this ruin's boiler"
+},
+{
+"n": 49,
+"h": "ff333aec",
+"en_raw": "and died of exhaustion"
+},
+{
+"n": 50,
+"h": "804dc5e5",
+"en_raw": "If you leave places like this"
+},
+{
+"n": 51,
+"h": "4d04f92f",
+"en_raw": "kids always want to play"
+},
+{
+"n": 52,
+"h": "72a2a686",
+"en_raw": "So if you really see one"
+},
+{
+"n": 53,
+"h": "54c74cbb",
+"en_raw": "When I feel like it"
+},
+{
+"n": 54,
+"h": "e381ad1f",
+"en_raw": "You really startled me..."
+},
+{
+"n": 55,
+"h": "2cf4e5bd",
+"en_raw": "Anyway, go home quickly"
+},
+{
+"n": 56,
+"h": "557c6b05",
+"en_raw": "Sorry"
+},
+{
+"n": 57,
+"h": "c64d465b",
+"en_raw": "We'll go home right away"
+},
+{
+"n": 58,
+"h": "e9834630",
+"en_raw": "Sorry, I'll go home right away..."
+},
+{
+"n": 59,
+"h": "d001a7fc",
+"en_raw": "Since you've been caught"
+},
+{
+"n": 60,
+"h": "33c5454d",
+"en_raw": "I can't just send you home"
+},
+{
+"n": 61,
+"h": "742dcc0e",
+"en_raw": "You'll hear the"
+},
+{
+"n": 62,
+"h": "8445d2ca",
+"en_raw": "Hey, what are you"
+},
+{
+"n": 63,
+"h": "4f44218b",
+"en_raw": "doing in a place like this"
+},
+{
+"n": 64,
+"h": "113c223a",
+"en_raw": "...That's the situation"
+},
+{
+"n": 65,
+"h": "5f8f361c",
+"en_raw": "Excuse me..."
+},
+{
+"n": 66,
+"h": "7158a92b",
+"en_raw": "...That's the situation"
+},
+{
+"n": 67,
+"h": "9703a530",
+"en_raw": "I should be thanking you"
+},
+{
+"n": 68,
+"h": "c5d76fcd",
+"en_raw": "but, how to put it... well"
+},
+{
+"n": 69,
+"h": "024ad7ae",
+"en_raw": "If you learn the details"
+},
+{
+"n": 70,
+"h": "b6490642",
+"en_raw": "will you tell us?"
+},
+{
+"n": 71,
+"h": "e81e65ef",
+"en_raw": "If it turns out to be a case"
+},
+{
+"n": 72,
+"h": "df0aeef3",
+"en_raw": "where you'd be a key witness"
+},
+{
+"n": 73,
+"h": "7dbeabda",
+"en_raw": "well, I doubt it..."
+},
+{
+"n": 74,
+"h": "38f0fb8b",
+"en_raw": "But mothers these days"
+},
+{
+"n": 75,
+"h": "097209ad",
+"en_raw": "are so careless..."
+},
+{
+"n": 76,
+"h": "2cae455a",
+"en_raw": "I'll say it again, it's dangerous"
+},
+{
+"n": 77,
+"h": "2d8d8e76",
+"en_raw": "so don't go in again"
+},
+{
+"n": 78,
+"h": "2447d2ed",
+"en_raw": "Still,"
+},
+{
+"n": 79,
+"h": "6dac419d",
+"en_raw": "What a strange day..."
+},
+{
+"n": 80,
+"h": "3a841e1d",
+"en_raw": "Excuse me"
+}
+]
+}

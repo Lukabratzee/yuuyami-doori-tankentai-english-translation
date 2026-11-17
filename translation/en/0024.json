@@ -1,0 +1,923 @@
+{
+"file": 24,
+"paths": [
+"d002/f627"
+],
+"lines": [
+{
+"n": 0,
+"h": "6d51c0d7",
+"en_raw": "Nao, did you know?"
+},
+{
+"n": 1,
+"h": "1774f106",
+"en_raw": "The yellow umbrellas left lying around"
+},
+{
+"n": 2,
+"h": "6badeca9",
+"en_raw": "are cursed umbrellas, they say"
+},
+{
+"n": 3,
+"h": "c63ad66f",
+"en_raw": "...Even after hearing that story"
+},
+{
+"n": 4,
+"h": "3fcce1a2",
+"en_raw": "you still walk off"
+},
+{
+"n": 5,
+"h": "4dead2f3",
+"en_raw": "with someone's umbrella"
+},
+{
+"n": 6,
+"h": "23b51c4e",
+"en_raw": "Where was it, that thing?"
+},
+{
+"n": 7,
+"h": "09ef306a",
+"en_raw": "It's the sudden rain that's the problem"
+},
+{
+"n": 8,
+"h": "8b832068",
+"en_raw": "Besides, this is surely"
+},
+{
+"n": 9,
+"h": "93827147",
+"en_raw": "something a graduate left behind"
+},
+{
+"n": 10,
+"h": "708829b5",
+"en_raw": "All dingy"
+},
+{
+"n": 11,
+"h": "cefd799a",
+"en_raw": "left in the corner..."
+},
+{
+"n": 12,
+"h": "974ae8e8",
+"en_raw": "Anyway, I just"
+},
+{
+"n": 13,
+"h": "ebb553e7",
+"en_raw": "borrowed it for a bit"
+},
+{
+"n": 14,
+"h": "cca28f44",
+"en_raw": "Then let's return it to the school"
+},
+{
+"n": 15,
+"h": "5f7d36b7",
+"en_raw": "The rain has stopped now anyway"
+},
+{
+"n": 16,
+"h": "5b9225a5",
+"en_raw": "...I mean"
+},
+{
+"n": 17,
+"h": "eb9892d0",
+"en_raw": "this is trash, isn't it?"
+},
+{
+"n": 18,
+"h": "a08e0ae8",
+"en_raw": "Wouldn't it be kind"
+},
+{
+"n": 19,
+"h": "180220a2",
+"en_raw": "to throw it in the trash box?"
+},
+{
+"n": 20,
+"h": "574a2d98",
+"en_raw": "Umbrellas don't burn"
+},
+{
+"n": 21,
+"h": "b078be50",
+"en_raw": "so the red trash box eats them"
+},
+{
+"n": 22,
+"h": "37cf138d",
+"en_raw": "Munch munch"
+},
+{
+"n": 23,
+"h": "9ae9bc58",
+"en_raw": "Kurumi will do it"
+},
+{
+"n": 24,
+"h": "cdf65719",
+"en_raw": "No, you'll definitely do something"
+},
+{
+"n": 25,
+"h": "a6f7de95",
+"en_raw": "embarrassing before throwing it out"
+},
+{
+"n": 26,
+"h": "da86f81e",
+"en_raw": "Lend Kurumi the umbrella too"
+},
+{
+"n": 27,
+"h": "5beb1cd6",
+"en_raw": "No"
+},
+{
+"n": 28,
+"h": "26e73aaa",
+"en_raw": "Why?"
+},
+{
+"n": 29,
+"h": "36ecd4d5",
+"en_raw": "Because you'd just walk around with it open"
+},
+{
+"n": 30,
+"h": "29651f26",
+"en_raw": "An umbrella is for opening"
+},
+{
+"n": 31,
+"h": "6e4a116e",
+"en_raw": "Why can't I open it?"
+},
+{
+"n": 32,
+"h": "89cf1247",
+"en_raw": "...It's not raining"
+},
+{
+"n": 33,
+"h": "3ea52d02",
+"en_raw": "right now!"
+},
+{
+"n": 34,
+"h": "1a509dab",
+"en_raw": "Nao, you're really meticulous"
+},
+{
+"n": 35,
+"h": "9e77aa70",
+"en_raw": "to an annoying degree"
+},
+{
+"n": 36,
+"h": "45cfea58",
+"en_raw": "It's Sango's fault for"
+},
+{
+"n": 37,
+"h": "f827f1e1",
+"en_raw": "taking someone's umbrella"
+},
+{
+"n": 38,
+"h": "f9ebacde",
+"en_raw": "Well, anyway"
+},
+{
+"n": 39,
+"h": "3e9df331",
+"en_raw": "it feels good after doing a good deed"
+},
+{
+"n": 40,
+"h": "490f216e",
+"en_raw": "But..."
+},
+{
+"n": 41,
+"h": "b6fb028b",
+"en_raw": "It still bugs me a bit"
+},
+{
+"n": 42,
+"h": "e4d3100b",
+"en_raw": "Hey, Sango"
+},
+{
+"n": 43,
+"h": "5746e27a",
+"en_raw": "Whose umbrella was that, I wonder"
+},
+{
+"n": 44,
+"h": "610ea1fb",
+"en_raw": "Well, if it rains tomorrow"
+},
+{
+"n": 45,
+"h": "9b89d29a",
+"en_raw": "the owner might take it back"
+},
+{
+"n": 46,
+"h": "10ca1273",
+"en_raw": "Don't worry about it"
+},
+{
+"n": 47,
+"h": "1745e6e8",
+"en_raw": "Kurumi will open an umbrella"
+},
+{
+"n": 48,
+"h": "0dfee365",
+"en_raw": "a yellow umbrella"
+},
+{
+"n": 49,
+"h": "aca552da",
+"en_raw": "after checking the weather forecast"
+},
+{
+"n": 50,
+"h": "89858a97",
+"en_raw": "I never thought you'd"
+},
+{
+"n": 51,
+"h": "3fa33ce7",
+"en_raw": "really throw it away..."
+},
+{
+"n": 52,
+"h": "2598f78d",
+"en_raw": "It couldn't be opened anymore anyway"
+},
+{
+"n": 53,
+"h": "18dd0128",
+"en_raw": "I think it was happy to be"
+},
+{
+"n": 54,
+"h": "f3aac3d7",
+"en_raw": "used by me in the end"
+},
+{
+"n": 55,
+"h": "36637ece",
+"en_raw": "That's an excuse"
+},
+{
+"n": 56,
+"h": "5e21b49f",
+"en_raw": "Yeah, so? Is that bad?"
+},
+{
+"n": 57,
+"h": "910cd225",
+"en_raw": "It doesn't matter"
+},
+{
+"n": 58,
+"h": "8f6d619e",
+"en_raw": "Okay, the umbrella matter ends here"
+},
+{
+"n": 59,
+"h": "99c3b90b",
+"en_raw": "If you don't like it"
+},
+{
+"n": 60,
+"h": "93d1f095",
+"en_raw": "take it out of the trash yourself"
+},
+{
+"n": 61,
+"h": "24a2cb41",
+"en_raw": "and return it"
+},
+{
+"n": 62,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 63,
+"h": "1745e6e8",
+"en_raw": "Kurumi will open an umbrella"
+},
+{
+"n": 64,
+"h": "0dfee365",
+"en_raw": "a yellow umbrella"
+},
+{
+"n": 65,
+"h": "aca552da",
+"en_raw": "after checking the weather forecast"
+},
+{
+"n": 66,
+"h": "14245d3a",
+"en_raw": "Hey Nao, do you think"
+},
+{
+"n": 67,
+"h": "8b5779fb",
+"en_raw": "it'll rain today too?"
+},
+{
+"n": 68,
+"h": "700a7b25",
+"en_raw": "They say it'll rain from midnight"
+},
+{
+"n": 69,
+"h": "e751c7be",
+"en_raw": "It's rainy season, can't be helped"
+},
+{
+"n": 70,
+"h": "eb95db23",
+"en_raw": "Then let's take the umbrella by Nao's house"
+},
+{
+"n": 71,
+"h": "da1f0a96",
+"en_raw": "and go for a walk"
+},
+{
+"n": 72,
+"h": "ab47f3e8",
+"en_raw": "...What are you talking about?"
+},
+{
+"n": 73,
+"h": "57b03f6e",
+"en_raw": "Because the same one as yesterday"
+},
+{
+"n": 74,
+"h": "2fe01040",
+"en_raw": "was there"
+},
+{
+"n": 75,
+"h": "b8f5b09a",
+"en_raw": "by the wall of Nao's house"
+},
+{
+"n": 76,
+"h": "63220a2b",
+"en_raw": "Kurumi saw it"
+},
+{
+"n": 77,
+"h": "2fe0c005",
+"en_raw": "the same as yesterday"
+},
+{
+"n": 78,
+"h": "d62f6a90",
+"en_raw": "there was an umbrella"
+},
+{
+"n": 79,
+"h": "77d39e0d",
+"en_raw": "a yellow umbrella"
+},
+{
+"n": 80,
+"h": "0dc3d529",
+"en_raw": "...Hey, where was it?"
+},
+{
+"n": 81,
+"h": "2ff020ef",
+"en_raw": "In front of Nao's house"
+},
+{
+"n": 82,
+"h": "b2d06fdb",
+"en_raw": "Hey, Sango"
+},
+{
+"n": 83,
+"h": "20aeceeb",
+"en_raw": "isn't this yesterday's umbrella..."
+},
+{
+"n": 84,
+"h": "472ee991",
+"en_raw": "It's your imagination"
+},
+{
+"n": 85,
+"h": "261a45f9",
+"en_raw": "But no matter how I look at it..."
+},
+{
+"n": 86,
+"h": "dca99471",
+"en_raw": "So what?"
+},
+{
+"n": 87,
+"h": "5dc77676",
+"en_raw": "Are you saying it's the rumored"
+},
+{
+"n": 88,
+"h": "d5b72213",
+"en_raw": "cursed umbrella?"
+},
+{
+"n": 89,
+"h": "35ce779b",
+"en_raw": "That's not what I mean"
+},
+{
+"n": 90,
+"h": "330220ef",
+"en_raw": "but I think we should return"
+},
+{
+"n": 91,
+"h": "452fd3f4",
+"en_raw": "it directly to the owner"
+},
+{
+"n": 92,
+"h": "07169583",
+"en_raw": "How would we know"
+},
+{
+"n": 93,
+"h": "da84d67c",
+"en_raw": "who the owner is?"
+},
+{
+"n": 94,
+"h": "1adfa970",
+"en_raw": "Why did you take it"
+},
+{
+"n": 95,
+"h": "6cf4b793",
+"en_raw": "in the first place?"
+},
+{
+"n": 96,
+"h": "0da5c422",
+"en_raw": "That's stealing"
+},
+{
+"n": 97,
+"h": "bfc21bf2",
+"en_raw": "You're rewinding the story"
+},
+{
+"n": 98,
+"h": "2b0c7fc9",
+"en_raw": "Forget it, this umbrella"
+},
+{
+"n": 99,
+"h": "1856ad00",
+"en_raw": "I'll just throw it away as many times as needed"
+},
+{
+"n": 100,
+"h": "9d400417",
+"en_raw": "I'll return it as many times as needed..."
+},
+{
+"n": 101,
+"h": "b2d06fdb",
+"en_raw": "Hey, Sango"
+},
+{
+"n": 102,
+"h": "9624a066",
+"en_raw": "The cursed umbrella story..."
+},
+{
+"n": 103,
+"h": "e1714822",
+"en_raw": "Dunno, I didn't listen well"
+},
+{
+"n": 104,
+"h": "e799565b",
+"en_raw": "It's some pointless rumor anyway"
+},
+{
+"n": 105,
+"h": "f009e0e4",
+"en_raw": "It has nothing at all"
+},
+{
+"n": 106,
+"h": "94efad62",
+"en_raw": "to do with this umbrella"
+},
+{
+"n": 107,
+"h": "9d0c1b80",
+"en_raw": "Hey Shiina, yesterday"
+},
+{
+"n": 108,
+"h": "8cc6495c",
+"en_raw": "where did you go with that umbrella?"
+},
+{
+"n": 109,
+"h": "4e3d4b61",
+"en_raw": "Dunno, where the bus comes"
+},
+{
+"n": 110,
+"h": "83b904a5",
+"en_raw": "...You mean the bus stop?"
+},
+{
+"n": 111,
+"h": "43d0a155",
+"en_raw": "Yeah, yeah, there"
+},
+{
+"n": 112,
+"h": "469bf4e8",
+"en_raw": "And then they told me"
+},
+{
+"n": 113,
+"h": "a2b86108",
+"en_raw": "to give the umbrella back"
+},
+{
+"n": 114,
+"h": "be709a2b",
+"en_raw": "Why didn't you give it back"
+},
+{
+"n": 115,
+"h": "faaaac2a",
+"en_raw": "you dummy"
+},
+{
+"n": 116,
+"h": "fd36234b",
+"en_raw": "But Kurumi really"
+},
+{
+"n": 117,
+"h": "1ffc82a8",
+"en_raw": "meant to give it back"
+},
+{
+"n": 118,
+"h": "b790de14",
+"en_raw": "But they said they hate everything"
+},
+{
+"n": 119,
+"h": "d2898207",
+"en_raw": "I don't really get it"
+},
+{
+"n": 120,
+"h": "824a2fd3",
+"en_raw": "but it seems Shiina won't do"
+},
+{
+"n": 121,
+"h": "287bd5c0",
+"en_raw": "Nao, why don't you try"
+},
+{
+"n": 122,
+"h": "3cfea6d4",
+"en_raw": "returning it?"
+},
+{
+"n": 123,
+"h": "942aed77",
+"en_raw": "The bus stop, they say"
+},
+{
+"n": 124,
+"h": "b34a777c",
+"en_raw": "Yeah, I'll go"
+},
+{
+"n": 125,
+"h": "62bbb74b",
+"en_raw": "The umbrella's owner"
+},
+{
+"n": 126,
+"h": "aa922eda",
+"en_raw": "will they be there today too?"
+},
+{
+"n": 127,
+"h": "0cef6bc6",
+"en_raw": "The odds are low, aren't they?"
+},
+{
+"n": 128,
+"h": "2cabbc5c",
+"en_raw": "Well, if we meet, we return it"
+},
+{
+"n": 129,
+"h": "956862eb",
+"en_raw": "and if not, we can hang it"
+},
+{
+"n": 130,
+"h": "7e014115",
+"en_raw": "near the bus stop"
+},
+{
+"n": 131,
+"h": "a30163da",
+"en_raw": "Yeah"
+},
+{
+"n": 132,
+"h": "6ed8329b",
+"en_raw": "That yellow umbrella"
+},
+{
+"n": 133,
+"h": "4d9c2313",
+"en_raw": "will it really not come back now?"
+},
+{
+"n": 134,
+"h": "d37b665d",
+"en_raw": "If it's there next time, just"
+},
+{
+"n": 135,
+"h": "3a982113",
+"en_raw": "tear it apart"
+},
+{
+"n": 136,
+"h": "de0b5a1b",
+"en_raw": "Right, why don't you"
+},
+{
+"n": 137,
+"h": "b4845818",
+"en_raw": "notice that trick?"
+},
+{
+"n": 138,
+"h": "0220af64",
+"en_raw": "...You'll be cursed"
+},
+{
+"n": 139,
+"h": "8f2007ba",
+"en_raw": "It's just a prank"
+},
+{
+"n": 140,
+"h": "6cce491c",
+"en_raw": "Yeah, probably by the one"
+},
+{
+"n": 141,
+"h": "7b8f89fc",
+"en_raw": "whose umbrella got stolen"
+},
+{
+"n": 142,
+"h": "fb8b191e",
+"en_raw": "You think so?"
+},
+{
+"n": 143,
+"h": "3b283ba5",
+"en_raw": "But it really is miserable"
+},
+{
+"n": 144,
+"h": "219f0755",
+"en_raw": "getting soaked like a rat..."
+},
+{
+"n": 145,
+"h": "d02018c3",
+"en_raw": "That umbrella isn't coming back"
+},
+{
+"n": 146,
+"h": "abfd151c",
+"en_raw": "Maybe someone else"
+},
+{
+"n": 147,
+"h": "0962fe3b",
+"en_raw": "stole it?"
+},
+{
+"n": 148,
+"h": "e7707e0b",
+"en_raw": "How can you say"
+},
+{
+"n": 149,
+"h": "6f77550d",
+"en_raw": "something so irresponsible?"
+},
+{
+"n": 150,
+"h": "ee95654f",
+"en_raw": "I'm only saying"
+},
+{
+"n": 151,
+"h": "0ac3df0e",
+"en_raw": "it might be"
+},
+{
+"n": 152,
+"h": "9b097048",
+"en_raw": "Besides, Sango is the one who"
+},
+{
+"n": 153,
+"h": "8fa1b37d",
+"en_raw": "took it first"
+},
+{
+"n": 154,
+"h": "e7b26444",
+"en_raw": "Why am I the only one"
+},
+{
+"n": 155,
+"h": "1829c699",
+"en_raw": "getting blamed?"
+},
+{
+"n": 156,
+"h": "6f4b82c6",
+"en_raw": "I've had my new umbrella stolen too"
+},
+{
+"n": 157,
+"h": "2173c2ae",
+"en_raw": "and went home soaked"
+},
+{
+"n": 158,
+"h": "ffa5ab1d",
+"en_raw": "Being stolen from doesn't mean"
+},
+{
+"n": 159,
+"h": "4a31adee",
+"en_raw": "you can steal"
+},
+{
+"n": 160,
+"h": "b97686f1",
+"en_raw": "That's why, in this world"
+},
+{
+"n": 161,
+"h": "2feb4a30",
+"en_raw": "there are people like that"
+},
+{
+"n": 162,
+"h": "3067e6eb",
+"en_raw": "If we go down that road"
+},
+{
+"n": 163,
+"h": "40c163fa",
+"en_raw": "we'll never finish talking"
+},
+{
+"n": 164,
+"h": "d55d1824",
+"en_raw": "...That's it!"
+},
+{
+"n": 165,
+"h": "7aa862e9",
+"en_raw": "The one to blame is the person who"
+},
+{
+"n": 166,
+"h": "0b6bdc78",
+"en_raw": "started this vicious cycle"
+},
+{
+"n": 167,
+"h": "68149027",
+"en_raw": "namely the first one who"
+},
+{
+"n": 168,
+"h": "ad5a2ce3",
+"en_raw": "'borrowed' an umbrella"
+},
+{
+"n": 169,
+"h": "e1186aa3",
+"en_raw": "That's the root of all evil"
+},
+{
+"n": 170,
+"h": "2e5f6156",
+"en_raw": "The recession, juvenile crime"
+},
+{
+"n": 171,
+"h": "11d20910",
+"en_raw": "the Ebola virus, mad cow disease"
+},
+{
+"n": 172,
+"h": "710b385b",
+"en_raw": "it's all that person's fault"
+},
+{
+"n": 173,
+"h": "7f25976f",
+"en_raw": "Solved the rumor of the Yellow Umbrella"
+},
+{
+"n": 174,
+"h": "bfbbc626",
+"en_raw": "Even if you meant to borrow it"
+},
+{
+"n": 175,
+"h": "3c034f7e",
+"en_raw": "the shock to the one it's taken from"
+},
+{
+"n": 176,
+"h": "fb10f079",
+"en_raw": "is bigger than you'd expect"
+},
+{
+"n": 177,
+"h": "5d671029",
+"en_raw": "I think this lack of consideration"
+},
+{
+"n": 178,
+"h": "5ea182f1",
+"en_raw": "will eventually destroy humanity"
+},
+{
+"n": 179,
+"h": "cd0460f6",
+"en_raw": "...If I threaten them this much"
+},
+{
+"n": 180,
+"h": "69caed0c",
+"en_raw": "that should do, right?"
+},
+{
+"n": 181,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 182,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

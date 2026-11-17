@@ -1,0 +1,858 @@
+{
+"file": 4,
+"paths": [
+"d002/f587"
+],
+"lines": [
+{
+"n": 0,
+"h": "8a992089",
+"en_raw": "Nao, do you have no sense of direction?"
+},
+{
+"n": 1,
+"h": "17b02eb7",
+"en_raw": "Not that I've"
+},
+{
+"n": 2,
+"h": "6248b10e",
+"en_raw": "ever thought so"
+},
+{
+"n": 3,
+"h": "e9b53a73",
+"en_raw": "Then"
+},
+{
+"n": 4,
+"h": "385caa6e",
+"en_raw": "Do you know about Lost Street?"
+},
+{
+"n": 5,
+"h": "bab9539b",
+"en_raw": "No, I don't"
+},
+{
+"n": 6,
+"h": "e9754063",
+"en_raw": "It's on Mukaibashi Street"
+},
+{
+"n": 7,
+"h": "059b866a",
+"en_raw": "the back street of the office district"
+},
+{
+"n": 8,
+"h": "a422123f",
+"en_raw": "At a glance it's nothing unusual"
+},
+{
+"n": 9,
+"h": "fd952634",
+"en_raw": "just a street of houses, apparently"
+},
+{
+"n": 10,
+"h": "60ea4f9b",
+"en_raw": "...That area"
+},
+{
+"n": 11,
+"h": "277f5410",
+"en_raw": "I've never been either"
+},
+{
+"n": 12,
+"h": "d780b2bf",
+"en_raw": "So, from what I heard"
+},
+{
+"n": 13,
+"h": "6cea5d2b",
+"en_raw": "a traveler who wanders into that street"
+},
+{
+"n": 14,
+"h": "de564921",
+"en_raw": "keeps walking in circles in the same place"
+},
+{
+"n": 15,
+"h": "8d3f5d5d",
+"en_raw": "and in the end..."
+},
+{
+"n": 16,
+"h": "62e3ffe6",
+"en_raw": "dies by the roadside"
+},
+{
+"n": 17,
+"h": "a3721fcd",
+"en_raw": "...No way"
+},
+{
+"n": 18,
+"h": "bec8125f",
+"en_raw": "So when you go through there"
+},
+{
+"n": 19,
+"h": "cea3e4dc",
+"en_raw": "never, ever let go of hands"
+},
+{
+"n": 20,
+"h": "d873af41",
+"en_raw": "because letting go is the end"
+},
+{
+"n": 21,
+"h": "2cfd5d75",
+"en_raw": "Then let's go"
+},
+{
+"n": 22,
+"h": "905e640b",
+"en_raw": "and see if you really get lost"
+},
+{
+"n": 23,
+"h": "f32bc36d",
+"en_raw": "...I'm not holding hands"
+},
+{
+"n": 24,
+"h": "46624182",
+"en_raw": "On Mukaibashi Avenue"
+},
+{
+"n": 25,
+"h": "52866347",
+"en_raw": "in the office district..."
+},
+{
+"n": 26,
+"h": "2af02782",
+"en_raw": "past the crosswalk"
+},
+{
+"n": 27,
+"h": "adc169ff",
+"en_raw": "behind there, apparently"
+},
+{
+"n": 28,
+"h": "998634c6",
+"en_raw": "A place Kurumi doesn't know"
+},
+{
+"n": 29,
+"h": "809189de",
+"en_raw": "Want to go, want to go quick!"
+},
+{
+"n": 30,
+"h": "5fbd1639",
+"en_raw": "If we don't get lost"
+},
+{
+"n": 31,
+"h": "d4af8190",
+"en_raw": "I'll complain to Inagaki tomorrow"
+},
+{
+"n": 32,
+"h": "093171c9",
+"en_raw": "...Hey, you two"
+},
+{
+"n": 33,
+"h": "64d8c85f",
+"en_raw": "where were you?"
+},
+{
+"n": 34,
+"h": "4bee96e1",
+"en_raw": "That's my line"
+},
+{
+"n": 35,
+"h": "20c657ad",
+"en_raw": "Nao, where did you go"
+},
+{
+"n": 36,
+"h": "71533db6",
+"en_raw": "all by yourself?"
+},
+{
+"n": 37,
+"h": "2079c899",
+"en_raw": "Where did I go...?"
+},
+{
+"n": 38,
+"h": "4ec76774",
+"en_raw": "I turned a corner and"
+},
+{
+"n": 39,
+"h": "788780a3",
+"en_raw": "you two didn't follow"
+},
+{
+"n": 40,
+"h": "d7c94f80",
+"en_raw": "me"
+},
+{
+"n": 41,
+"h": "74b51c21",
+"en_raw": "I got so lost!"
+},
+{
+"n": 42,
+"h": "da0d5b3f",
+"en_raw": "Huh, you were on that street all along?"
+},
+{
+"n": 43,
+"h": "88c6312f",
+"en_raw": "We totally thought"
+},
+{
+"n": 44,
+"h": "dce373f0",
+"en_raw": "Nao had gone straight home"
+},
+{
+"n": 45,
+"h": "1e9713f2",
+"en_raw": "and we were eating ice cream"
+},
+{
+"n": 46,
+"h": "38a22546",
+"en_raw": "Kurumi got treated to"
+},
+{
+"n": 47,
+"h": "2aebfde3",
+"en_raw": "a Guriguri-kun!"
+},
+{
+"n": 48,
+"h": "c496fa61",
+"en_raw": "That's awful..."
+},
+{
+"n": 49,
+"h": "76786f39",
+"en_raw": "So you're saying it's really"
+},
+{
+"n": 50,
+"h": "617e24cd",
+"en_raw": "truly Lost Street?"
+},
+{
+"n": 51,
+"h": "5c14ca77",
+"en_raw": "No way"
+},
+{
+"n": 52,
+"h": "6b007c2c",
+"en_raw": "The only ones who'd get lost there"
+},
+{
+"n": 53,
+"h": "5f214f89",
+"en_raw": "are Nao and Inagaki"
+},
+{
+"n": 54,
+"h": "61b919c6",
+"en_raw": "Then Sango"
+},
+{
+"n": 55,
+"h": "df511c24",
+"en_raw": "should go by herself"
+},
+{
+"n": 56,
+"h": "b923b24a",
+"en_raw": "Fine, fine, but"
+},
+{
+"n": 57,
+"h": "71d4e08c",
+"en_raw": "what if you don't get lost?"
+},
+{
+"n": 58,
+"h": "10d20f67",
+"en_raw": "I don't really get it, but"
+},
+{
+"n": 59,
+"h": "fed3f3eb",
+"en_raw": "that street"
+},
+{
+"n": 60,
+"h": "3053fca5",
+"en_raw": "doesn't lead anywhere"
+},
+{
+"n": 61,
+"h": "5efbf255",
+"en_raw": "you just go around the same place"
+},
+{
+"n": 62,
+"h": "593207a8",
+"en_raw": "And there doesn't seem to be a road"
+},
+{
+"n": 63,
+"h": "81b8036b",
+"en_raw": "out toward the temple either..."
+},
+{
+"n": 64,
+"h": "3c21ef12",
+"en_raw": "So it's just a dead end?"
+},
+{
+"n": 65,
+"h": "c21366e7",
+"en_raw": "Well, yeah"
+},
+{
+"n": 66,
+"h": "62d4f663",
+"en_raw": "Lost Street, my foot"
+},
+{
+"n": 67,
+"h": "547c0742",
+"en_raw": "Sango, you liar..."
+},
+{
+"n": 68,
+"h": "e1238475",
+"en_raw": "Still, if Nao goes"
+},
+{
+"n": 69,
+"h": "e9d0310d",
+"en_raw": "he might get lost"
+},
+{
+"n": 70,
+"h": "2cd87ba2",
+"en_raw": "No way"
+},
+{
+"n": 71,
+"h": "79fc3845",
+"en_raw": "But that tall wall, what's"
+},
+{
+"n": 72,
+"h": "0f2aebff",
+"en_raw": "behind it, I wonder"
+},
+{
+"n": 73,
+"h": "b7f98f97",
+"en_raw": "Just a house, isn't it?"
+},
+{
+"n": 74,
+"h": "2bf4a494",
+"en_raw": "I bet in there"
+},
+{
+"n": 75,
+"h": "c469a218",
+"en_raw": "some secret"
+},
+{
+"n": 76,
+"h": "3aa7cf3a",
+"en_raw": "is being hidden"
+},
+{
+"n": 77,
+"h": "02bf1d63",
+"en_raw": "Don't you think so?"
+},
+{
+"n": 78,
+"h": "2c15dffc",
+"en_raw": "No way, you're overthinking it"
+},
+{
+"n": 79,
+"h": "d22805d5",
+"en_raw": "Man, you're no fun"
+},
+{
+"n": 80,
+"h": "0c2d9821",
+"en_raw": "Shiina might find it"
+},
+{
+"n": 81,
+"h": "d102e73c",
+"en_raw": "That strangely tall wall"
+},
+{
+"n": 82,
+"h": "5db69786",
+"en_raw": "does bug me"
+},
+{
+"n": 83,
+"h": "ccf9d49a",
+"en_raw": "Hey, how about going"
+},
+{
+"n": 84,
+"h": "31a13a8d",
+"en_raw": "back there once more?"
+},
+{
+"n": 85,
+"h": "06cd09d5",
+"en_raw": "Hey, Shiina"
+},
+{
+"n": 86,
+"h": "f4e386f3",
+"en_raw": "How could you possibly"
+},
+{
+"n": 87,
+"h": "0648473f",
+"en_raw": "get lost there?"
+},
+{
+"n": 88,
+"h": "5fadc25b",
+"en_raw": "Anyway, it's true"
+},
+{
+"n": 89,
+"h": "e7479c50",
+"en_raw": "I did get lost"
+},
+{
+"n": 90,
+"h": "581caf94",
+"en_raw": "You just don't realize that"
+},
+{
+"n": 91,
+"h": "b100aff7",
+"en_raw": "you have no sense of direction, Nao"
+},
+{
+"n": 92,
+"h": "a7909077",
+"en_raw": "That can't be..."
+},
+{
+"n": 93,
+"h": "f1037294",
+"en_raw": "Then what is it?"
+},
+{
+"n": 94,
+"h": "cd2a546c",
+"en_raw": "Are you saying there's a magnetic field"
+},
+{
+"n": 95,
+"h": "022d7661",
+"en_raw": "that messes up your sense of direction?"
+},
+{
+"n": 96,
+"h": "8ab1d2a5",
+"en_raw": "I'll bring a compass"
+},
+{
+"n": 97,
+"h": "d3f5c41d",
+"en_raw": "...Nao, don't tell me"
+},
+{
+"n": 98,
+"h": "37d5c55a",
+"en_raw": "you're mad that we left you"
+},
+{
+"n": 99,
+"h": "0b716ff9",
+"en_raw": "and ate ice cream?"
+},
+{
+"n": 100,
+"h": "f640797b",
+"en_raw": "That's not it!"
+},
+{
+"n": 101,
+"h": "941e2432",
+"en_raw": "Then what do you think, Shiina?"
+},
+{
+"n": 102,
+"h": "3fece9df",
+"en_raw": "...Hmm, well then"
+},
+{
+"n": 103,
+"h": "baee9386",
+"en_raw": "Kurumi should go"
+},
+{
+"n": 104,
+"h": "6e1ef8af",
+"en_raw": "Shiina, where did you"
+},
+{
+"n": 105,
+"h": "e26e3314",
+"en_raw": "go by yourself?"
+},
+{
+"n": 106,
+"h": "5a0a2171",
+"en_raw": "You can't just do what you like"
+},
+{
+"n": 107,
+"h": "6f3247a3",
+"en_raw": "You'll really get lost"
+},
+{
+"n": 108,
+"h": "d03e42c3",
+"en_raw": "I won't"
+},
+{
+"n": 109,
+"h": "84904c87",
+"en_raw": "Really? You didn't get lost?"
+},
+{
+"n": 110,
+"h": "a7f9f520",
+"en_raw": "A little"
+},
+{
+"n": 111,
+"h": "e9b4a68e",
+"en_raw": "But Kurumi is fine"
+},
+{
+"n": 112,
+"h": "164c3b13",
+"en_raw": "because the mail person is there"
+},
+{
+"n": 113,
+"h": "3ab4d9cd",
+"en_raw": "So in the end, what was"
+},
+{
+"n": 114,
+"h": "3f105171",
+"en_raw": "behind the wall?"
+},
+{
+"n": 115,
+"h": "0bc6f772",
+"en_raw": "Hee hee, that's..."
+},
+{
+"n": 116,
+"h": "2f3c94cc",
+"en_raw": "What is it, tell me"
+},
+{
+"n": 117,
+"h": "09dc377a",
+"en_raw": "It's a se-cret!"
+},
+{
+"n": 118,
+"h": "fd719ffa",
+"en_raw": "Hey hey, Nao, Sango"
+},
+{
+"n": 119,
+"h": "298cbdd6",
+"en_raw": "Let's go again"
+},
+{
+"n": 120,
+"h": "45045ba7",
+"en_raw": "Then"
+},
+{
+"n": 121,
+"h": "3de5b611",
+"en_raw": "Poppo will surely be there"
+},
+{
+"n": 122,
+"h": "7b6ebce1",
+"en_raw": "Hey hey, Sango"
+},
+{
+"n": 123,
+"h": "298cbdd6",
+"en_raw": "Let's go again"
+},
+{
+"n": 124,
+"h": "2c9679ec",
+"en_raw": "Then, then"
+},
+{
+"n": 125,
+"h": "271ffde9",
+"en_raw": "he'll surely be waiting"
+},
+{
+"n": 126,
+"h": "167c8233",
+"en_raw": "What the heck was there?"
+},
+{
+"n": 127,
+"h": "b540a91c",
+"en_raw": "Tell me already, geez"
+},
+{
+"n": 128,
+"h": "6e9f292f",
+"en_raw": "The road circles around a vacant lot"
+},
+{
+"n": 129,
+"h": "cf838bcf",
+"en_raw": "Conclusion: you don't get lost"
+},
+{
+"n": 130,
+"h": "a36a0925",
+"en_raw": "That proves it"
+},
+{
+"n": 131,
+"h": "b67069f0",
+"en_raw": "But what was that"
+},
+{
+"n": 132,
+"h": "128df7cc",
+"en_raw": "place, I wonder..."
+},
+{
+"n": 133,
+"h": "e0719103",
+"en_raw": "Just a vacant lot, right?"
+},
+{
+"n": 134,
+"h": "64bd3760",
+"en_raw": "Surrounded by house walls"
+},
+{
+"n": 135,
+"h": "2dd9f5c7",
+"en_raw": "just a vacant lot"
+},
+{
+"n": 136,
+"h": "a8707aae",
+"en_raw": "But that little shrine"
+},
+{
+"n": 137,
+"h": "98c6bafb",
+"en_raw": "nobody can get to it, right?"
+},
+{
+"n": 138,
+"h": "c21366e7",
+"en_raw": "Well, yeah"
+},
+{
+"n": 139,
+"h": "a3346966",
+"en_raw": "Is that okay...?"
+},
+{
+"n": 140,
+"h": "0cf1d906",
+"en_raw": "Things like that"
+},
+{
+"n": 141,
+"h": "9d2e882f",
+"en_raw": "Is what okay?"
+},
+{
+"n": 142,
+"h": "9f59775f",
+"en_raw": "That feeling, I don't"
+},
+{
+"n": 143,
+"h": "24cf05da",
+"en_raw": "get it at all"
+},
+{
+"n": 144,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 145,
+"h": "f7da1942",
+"en_raw": "No, Nao"
+},
+{
+"n": 146,
+"h": "5d62c596",
+"en_raw": "Kurumi, you see"
+},
+{
+"n": 147,
+"h": "fc03742b",
+"en_raw": "promised, I'll come again"
+},
+{
+"n": 148,
+"h": "3153cabe",
+"en_raw": "...Who did you promise?"
+},
+{
+"n": 149,
+"h": "617933d5",
+"en_raw": "The young master inside the wall!"
+},
+{
+"n": 150,
+"h": "fd58c641",
+"en_raw": "Poppo, he's a god"
+},
+{
+"n": 151,
+"h": "956b090b",
+"en_raw": "just like Kurumi"
+},
+{
+"n": 152,
+"h": "07c07ecc",
+"en_raw": "loves hide-and-seek!"
+},
+{
+"n": 153,
+"h": "ed25ad6c",
+"en_raw": "Poppo, you see"
+},
+{
+"n": 154,
+"h": "2a68b353",
+"en_raw": "is a shy one"
+},
+{
+"n": 155,
+"h": "f3ebe64c",
+"en_raw": "Solved the rumor of Lost Street"
+},
+{
+"n": 156,
+"h": "5d78a2cc",
+"en_raw": "By the way, Shiina"
+},
+{
+"n": 157,
+"h": "f8b0f594",
+"en_raw": "from that vacant lot"
+},
+{
+"n": 158,
+"h": "fbc35c79",
+"en_raw": "how did you get out?"
+},
+{
+"n": 159,
+"h": "f1df93aa",
+"en_raw": "Right, now that I think about it"
+},
+{
+"n": 160,
+"h": "e881c0c5",
+"en_raw": "there's no way out of there"
+},
+{
+"n": 161,
+"h": "fbc431de",
+"en_raw": "from the young master's house"
+},
+{
+"n": 162,
+"h": "440e4e65",
+"en_raw": "I climbed over the wall"
+},
+{
+"n": 163,
+"h": "525c9cbd",
+"en_raw": "...Heave-ho"
+},
+{
+"n": 164,
+"h": "9d9e285a",
+"en_raw": "Shiina, could it be"
+},
+{
+"n": 165,
+"h": "db89096f",
+"en_raw": "you stepped on that little"
+},
+{
+"n": 166,
+"h": "9cba31a2",
+"en_raw": "shrine...?"
+},
+{
+"n": 167,
+"h": "6396d418",
+"en_raw": "Yes"
+},
+{
+"n": 168,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 169,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}

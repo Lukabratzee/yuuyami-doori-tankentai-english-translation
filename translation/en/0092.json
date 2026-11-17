@@ -1,0 +1,598 @@
+{
+"file": 92,
+"paths": [
+"d007/d001/f245"
+],
+"lines": [
+{
+"n": 0,
+"h": "1d36fa52",
+"en_raw": "Yo, Murase"
+},
+{
+"n": 1,
+"h": "00ec1867",
+"en_raw": "Nishi"
+},
+{
+"n": 2,
+"h": "1e78301a",
+"en_raw": "Hey, Nishi"
+},
+{
+"n": 3,
+"h": "87fff5fc",
+"en_raw": "About what we were talking about..."
+},
+{
+"n": 4,
+"h": "ef6a273b",
+"en_raw": "I heard something"
+},
+{
+"n": 5,
+"h": "34e954f5",
+"en_raw": "Is it true Murase has been collecting"
+},
+{
+"n": 6,
+"h": "39b415e4",
+"en_raw": "weird school rumors?"
+},
+{
+"n": 7,
+"h": "ef6a273b",
+"en_raw": "I heard something"
+},
+{
+"n": 8,
+"h": "34e954f5",
+"en_raw": "Is it true Murase has been collecting"
+},
+{
+"n": 9,
+"h": "39b415e4",
+"en_raw": "weird school rumors?"
+},
+{
+"n": 10,
+"h": "7f3667dc",
+"en_raw": "Yeah, well, not exactly false"
+},
+{
+"n": 11,
+"h": "0c5f95df",
+"en_raw": "You're a strange guy"
+},
+{
+"n": 12,
+"h": "2bbca743",
+"en_raw": "I thought you were just"
+},
+{
+"n": 13,
+"h": "ade6981b",
+"en_raw": "studying all the time"
+},
+{
+"n": 14,
+"h": "0c5f95df",
+"en_raw": "You're a strange guy"
+},
+{
+"n": 15,
+"h": "2bbca743",
+"en_raw": "I thought you were just"
+},
+{
+"n": 16,
+"h": "ade6981b",
+"en_raw": "studying all the time"
+},
+{
+"n": 17,
+"h": "b8fddbb5",
+"en_raw": "That's not true!"
+},
+{
+"n": 18,
+"h": "eb861019",
+"en_raw": "Sorry, sorry"
+},
+{
+"n": 19,
+"h": "eb861019",
+"en_raw": "Sorry, sorry"
+},
+{
+"n": 20,
+"h": "5c50f44c",
+"en_raw": "Nishi, how do you know"
+},
+{
+"n": 21,
+"h": "ce0da6cd",
+"en_raw": "I'm collecting rumors?"
+},
+{
+"n": 22,
+"h": "4ac5224b",
+"en_raw": "Oh, so it was true"
+},
+{
+"n": 23,
+"h": "c7a8b88c",
+"en_raw": "I heard it from Yuasa and them"
+},
+{
+"n": 24,
+"h": "4ac5224b",
+"en_raw": "Oh, so it was true"
+},
+{
+"n": 25,
+"h": "c7a8b88c",
+"en_raw": "I heard it from Yuasa and them"
+},
+{
+"n": 26,
+"h": "d798c2b3",
+"en_raw": "By the way, Murase"
+},
+{
+"n": 27,
+"h": "0d0b1c35",
+"en_raw": "I know a rumor too"
+},
+{
+"n": 28,
+"h": "37f65857",
+"en_raw": "Want to hear it?"
+},
+{
+"n": 29,
+"h": "d798c2b3",
+"en_raw": "By the way, Murase"
+},
+{
+"n": 30,
+"h": "0d0b1c35",
+"en_raw": "I know a rumor too"
+},
+{
+"n": 31,
+"h": "37f65857",
+"en_raw": "Want to hear it?"
+},
+{
+"n": 32,
+"h": "b4e5ccfb",
+"en_raw": "Sure, but..."
+},
+{
+"n": 33,
+"h": "f1ed415e",
+"en_raw": "Is it a scary story...?"
+},
+{
+"n": 34,
+"h": "881a8e86",
+"en_raw": "As expected"
+},
+{
+"n": 35,
+"h": "6bfa586e",
+"en_raw": "does it have to be scary?"
+},
+{
+"n": 36,
+"h": "881a8e86",
+"en_raw": "As expected"
+},
+{
+"n": 37,
+"h": "6bfa586e",
+"en_raw": "does it have to be scary?"
+},
+{
+"n": 38,
+"h": "5ac1deae",
+"en_raw": "No, that's not it"
+},
+{
+"n": 39,
+"h": "1d520b01",
+"en_raw": "I'd rather"
+},
+{
+"n": 40,
+"h": "7a13506d",
+"en_raw": "it not be scary..."
+},
+{
+"n": 41,
+"h": "8765fe13",
+"en_raw": "It's not scary at all"
+},
+{
+"n": 42,
+"h": "61d216b0",
+"en_raw": "A silly story"
+},
+{
+"n": 43,
+"h": "8765fe13",
+"en_raw": "It's not scary at all"
+},
+{
+"n": 44,
+"h": "61d216b0",
+"en_raw": "A silly story"
+},
+{
+"n": 45,
+"h": "f473ecf2",
+"en_raw": "There's one old vending machine"
+},
+{
+"n": 46,
+"h": "464b606f",
+"en_raw": "on Takadai Street, you know it?"
+},
+{
+"n": 47,
+"h": "541fb1b7",
+"en_raw": "Well, did you know that machine"
+},
+{
+"n": 48,
+"h": "0e738df7",
+"en_raw": "actually has a secret trick?"
+},
+{
+"n": 49,
+"h": "f473ecf2",
+"en_raw": "There's one old vending machine"
+},
+{
+"n": 50,
+"h": "464b606f",
+"en_raw": "on Takadai Street, you know it?"
+},
+{
+"n": 51,
+"h": "541fb1b7",
+"en_raw": "Well, did you know that machine"
+},
+{
+"n": 52,
+"h": "0e738df7",
+"en_raw": "actually has a secret trick?"
+},
+{
+"n": 53,
+"h": "f8b1eacf",
+"en_raw": "A secret trick?"
+},
+{
+"n": 54,
+"h": "0774ffcc",
+"en_raw": "Yeah"
+},
+{
+"n": 55,
+"h": "0774ffcc",
+"en_raw": "Yeah"
+},
+{
+"n": 56,
+"h": "1968678b",
+"en_raw": "Press the buttons up, down, up, down"
+},
+{
+"n": 57,
+"h": "fbe7fded",
+"en_raw": "insert money, then press Dr. P"
+},
+{
+"n": 58,
+"h": "97740114",
+"en_raw": "and then in the dispenser"
+},
+{
+"n": 59,
+"h": "728a83d2",
+"en_raw": "comes a juice you've never seen..."
+},
+{
+"n": 60,
+"h": "1968678b",
+"en_raw": "Press the buttons up, down, up, down"
+},
+{
+"n": 61,
+"h": "fbe7fded",
+"en_raw": "insert money, then press Dr. P"
+},
+{
+"n": 62,
+"h": "97740114",
+"en_raw": "and then in the dispenser"
+},
+{
+"n": 63,
+"h": "728a83d2",
+"en_raw": "comes a juice you've never seen..."
+},
+{
+"n": 64,
+"h": "5f4018de",
+"en_raw": "Hmm"
+},
+{
+"n": 65,
+"h": "fc140193",
+"en_raw": "And that mystery juice"
+},
+{
+"n": 66,
+"h": "559becd4",
+"en_raw": "supposedly tastes pretty good"
+},
+{
+"n": 67,
+"h": "fc140193",
+"en_raw": "And that mystery juice"
+},
+{
+"n": 68,
+"h": "559becd4",
+"en_raw": "supposedly tastes pretty good"
+},
+{
+"n": 69,
+"h": "fd1f559e",
+"en_raw": "Wow, that's amazing"
+},
+{
+"n": 70,
+"h": "73d00d1f",
+"en_raw": "...Amazing?"
+},
+{
+"n": 71,
+"h": "95afc798",
+"en_raw": "Isn't it super silly?"
+},
+{
+"n": 72,
+"h": "73d00d1f",
+"en_raw": "...Amazing?"
+},
+{
+"n": 73,
+"h": "95afc798",
+"en_raw": "Isn't it super silly?"
+},
+{
+"n": 74,
+"h": "0044fb49",
+"en_raw": "...Oh, right"
+},
+{
+"n": 75,
+"h": "51d26196",
+"en_raw": "It is silly"
+},
+{
+"n": 76,
+"h": "b73be0b8",
+"en_raw": "Well, I don't mind either way"
+},
+{
+"n": 77,
+"h": "b73be0b8",
+"en_raw": "Well, I don't mind either way"
+},
+{
+"n": 78,
+"h": "31fe7a89",
+"en_raw": "Murase, sometime"
+},
+{
+"n": 79,
+"h": "a399eddd",
+"en_raw": "want to go try it together?"
+},
+{
+"n": 80,
+"h": "31fe7a89",
+"en_raw": "Murase, sometime"
+},
+{
+"n": 81,
+"h": "a399eddd",
+"en_raw": "want to go try it together?"
+},
+{
+"n": 82,
+"h": "121907a8",
+"en_raw": "Huh? ...I'd feel bad"
+},
+{
+"n": 83,
+"h": "f14c80de",
+"en_raw": "Why?"
+},
+{
+"n": 84,
+"h": "f14c80de",
+"en_raw": "Why?"
+},
+{
+"n": 85,
+"h": "d07077c3",
+"en_raw": "Somehow..."
+},
+{
+"n": 86,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 87,
+"h": "857fc500",
+"en_raw": "Why are you holding back?"
+},
+{
+"n": 88,
+"h": "40318619",
+"en_raw": "Nao"
+},
+{
+"n": 89,
+"h": "3764dd8c",
+"en_raw": "......"
+},
+{
+"n": 90,
+"h": "857fc500",
+"en_raw": "Why are you holding back?"
+},
+{
+"n": 91,
+"h": "40318619",
+"en_raw": "Nao"
+},
+{
+"n": 92,
+"h": "180c3995",
+"en_raw": "Obtained the rumor of the Secret Trick!"
+},
+{
+"n": 93,
+"h": "180c3995",
+"en_raw": "Obtained the rumor of the Secret Trick!"
+},
+{
+"n": 94,
+"h": "1ad55e99",
+"en_raw": "I'm not kidding"
+},
+{
+"n": 95,
+"h": "fe2784ee",
+"en_raw": "invite me once, okay?"
+},
+{
+"n": 96,
+"h": "b3a48680",
+"en_raw": "...Well, don't expect much"
+},
+{
+"n": 97,
+"h": "c290f017",
+"en_raw": "I'll be waiting"
+},
+{
+"n": 98,
+"h": "1ad55e99",
+"en_raw": "I'm not kidding"
+},
+{
+"n": 99,
+"h": "fe2784ee",
+"en_raw": "invite me once, okay?"
+},
+{
+"n": 100,
+"h": "b3a48680",
+"en_raw": "...Well, don't expect much"
+},
+{
+"n": 101,
+"h": "c290f017",
+"en_raw": "I'll be waiting"
+},
+{
+"n": 102,
+"h": "d8b66987",
+"en_raw": "...A hoax"
+},
+{
+"n": 103,
+"h": "748d69ed",
+"en_raw": "Yuasa's stories can't be trusted"
+},
+{
+"n": 104,
+"h": "d8b66987",
+"en_raw": "...A hoax"
+},
+{
+"n": 105,
+"h": "748d69ed",
+"en_raw": "Yuasa's stories can't be trusted"
+},
+{
+"n": 106,
+"h": "a64c732d",
+"en_raw": "This story is"
+},
+{
+"n": 107,
+"h": "534cd77b",
+"en_raw": "too fake-sounding, huh"
+},
+{
+"n": 108,
+"h": "a64c732d",
+"en_raw": "This story is"
+},
+{
+"n": 109,
+"h": "534cd77b",
+"en_raw": "too fake-sounding, huh"
+},
+{
+"n": 110,
+"h": "f7bd5718",
+"en_raw": "It's silly after all"
+},
+{
+"n": 111,
+"h": "f7bd5718",
+"en_raw": "It's silly after all"
+},
+{
+"n": 112,
+"h": "8ff414ed",
+"en_raw": "So you don't want to go with me?"
+},
+{
+"n": 113,
+"h": "3c5a4050",
+"en_raw": "...If I'm too pushy"
+},
+{
+"n": 114,
+"h": "424bdc8c",
+"en_raw": "you'll dislike me"
+},
+{
+"n": 115,
+"h": "8ff414ed",
+"en_raw": "So you don't want to go with me?"
+},
+{
+"n": 116,
+"h": "3c5a4050",
+"en_raw": "...If I'm too pushy"
+},
+{
+"n": 117,
+"h": "424bdc8c",
+"en_raw": "you'll dislike me"
+}
+]
+}

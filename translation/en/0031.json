@@ -1,0 +1,1043 @@
+{
+"file": 31,
+"paths": [
+"d002/f641"
+],
+"lines": [
+{
+"n": 0,
+"h": "f9a7181a",
+"en_raw": "A cat in a bottle, huh..."
+},
+{
+"n": 1,
+"h": "c8fb7860",
+"en_raw": "That's quite an extreme story"
+},
+{
+"n": 2,
+"h": "b30657e5",
+"en_raw": "Oh, right, there's a novel"
+},
+{
+"n": 3,
+"h": "8a0a2097",
+"en_raw": "called Hell in a Bottle..."
+},
+{
+"n": 4,
+"h": "c5446d97",
+"en_raw": "Stop it, Sango"
+},
+{
+"n": 5,
+"h": "3df1416a",
+"en_raw": "It's not something to talk about lightly"
+},
+{
+"n": 6,
+"h": "5a4a2393",
+"en_raw": "If it stays buried"
+},
+{
+"n": 7,
+"h": "fb9d2266",
+"en_raw": "the cat will die, you know?"
+},
+{
+"n": 8,
+"h": "81aa5fee",
+"en_raw": "And not just die"
+},
+{
+"n": 9,
+"h": "27bc717b",
+"en_raw": "In a bottle"
+},
+{
+"n": 10,
+"h": "6462eb3f",
+"en_raw": "it can't return to the earth even rotting"
+},
+{
+"n": 11,
+"h": "4818dd2f",
+"en_raw": "and in there is a goo that"
+},
+{
+"n": 12,
+"h": "ae3a2508",
+"en_raw": "was once a cat..."
+},
+{
+"n": 13,
+"h": "60f9063e",
+"en_raw": "Sango!"
+},
+{
+"n": 14,
+"h": "fa8eb9e0",
+"en_raw": "Hey, Nao"
+},
+{
+"n": 15,
+"h": "606f6260",
+"en_raw": "You're still going to look for it?"
+},
+{
+"n": 16,
+"h": "e00d6efc",
+"en_raw": "You're brave"
+},
+{
+"n": 17,
+"h": "d57d9ffa",
+"en_raw": "Right, Shiina?"
+},
+{
+"n": 18,
+"h": "6677278a",
+"en_raw": "Yeah"
+},
+{
+"n": 19,
+"h": "f9223a58",
+"en_raw": "Nao, you're amazing"
+},
+{
+"n": 20,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 21,
+"h": "ad2105f7",
+"en_raw": "Anyway, let's go"
+},
+{
+"n": 22,
+"h": "debdd779",
+"en_raw": "to the Tama riverbank once"
+},
+{
+"n": 23,
+"h": "e7abfd91",
+"en_raw": "It bugs me to do nothing at all"
+},
+{
+"n": 24,
+"h": "9700faa8",
+"en_raw": "about what I was asked..."
+},
+{
+"n": 25,
+"h": "412b7b75",
+"en_raw": "Well, why not?"
+},
+{
+"n": 26,
+"h": "cd9c3053",
+"en_raw": "If we go once"
+},
+{
+"n": 27,
+"h": "90ec591a",
+"en_raw": "our duty's done, right?"
+},
+{
+"n": 28,
+"h": "3c30e240",
+"en_raw": "...There really are idiots who do it seriously"
+},
+{
+"n": 29,
+"h": "316db836",
+"en_raw": "I'll hunt down the culprit"
+},
+{
+"n": 30,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 31,
+"h": "fa8eb9e0",
+"en_raw": "Hey, Nao"
+},
+{
+"n": 32,
+"h": "6f446d53",
+"en_raw": "Can't we ask Sanjo for a bit"
+},
+{
+"n": 33,
+"h": "f8cc64d6",
+"en_raw": "more detail?"
+},
+{
+"n": 34,
+"h": "9d77836a",
+"en_raw": "Like the situation when she found it..."
+},
+{
+"n": 35,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 36,
+"h": "6f799efc",
+"en_raw": "...Nao, are you listening?"
+},
+{
+"n": 37,
+"h": "cf7f4b2a",
+"en_raw": "Uh, ah, yeah"
+},
+{
+"n": 38,
+"h": "34663c18",
+"en_raw": "Weird"
+},
+{
+"n": 39,
+"h": "e4d3100b",
+"en_raw": "Hey, Sango"
+},
+{
+"n": 40,
+"h": "5452b7ab",
+"en_raw": "Um... but"
+},
+{
+"n": 41,
+"h": "b935233e",
+"en_raw": "there must be some reason..."
+},
+{
+"n": 42,
+"h": "ab990316",
+"en_raw": "What reason?"
+},
+{
+"n": 43,
+"h": "1cb6cb62",
+"en_raw": "Whoever it was and whatever reason"
+},
+{
+"n": 44,
+"h": "bbfaa0a5",
+"en_raw": "that's something you must not"
+},
+{
+"n": 45,
+"h": "0302ee68",
+"en_raw": "do as a human being"
+},
+{
+"n": 46,
+"h": "34cf0292",
+"en_raw": "........"
+},
+{
+"n": 47,
+"h": "a709753d",
+"en_raw": "...Or what?"
+},
+{
+"n": 48,
+"h": "5c7f19df",
+"en_raw": "Nao, do you know something?"
+},
+{
+"n": 49,
+"h": "a627791a",
+"en_raw": "Not really..."
+},
+{
+"n": 50,
+"h": "f07c5c94",
+"en_raw": "It's not like that, but"
+},
+{
+"n": 51,
+"h": "d93f79d5",
+"en_raw": "...Hmm"
+},
+{
+"n": 52,
+"h": "7f956e5b",
+"en_raw": "What"
+},
+{
+"n": 53,
+"h": "b0887d9b",
+"en_raw": "that NM and KS are an item?"
+},
+{
+"n": 54,
+"h": "7164193d",
+"en_raw": "When Nao lies"
+},
+{
+"n": 55,
+"h": "4299a0df",
+"en_raw": "he blinks a whole lot more"
+},
+{
+"n": 56,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 57,
+"h": "cba0f4c7",
+"en_raw": "Oh well"
+},
+{
+"n": 58,
+"h": "c896abfb",
+"en_raw": "We just need to catch them in the act"
+},
+{
+"n": 59,
+"h": "0cd46095",
+"en_raw": "I'll definitely catch them"
+},
+{
+"n": 60,
+"h": "9920e4c9",
+"en_raw": "Hey, Sango, um..."
+},
+{
+"n": 61,
+"h": "7b8293d2",
+"en_raw": "I'm the one who heard this rumor"
+},
+{
+"n": 62,
+"h": "8090e9af",
+"en_raw": "so can you leave it to me?"
+},
+{
+"n": 63,
+"h": "2e9abd27",
+"en_raw": "Nao, are you confident"
+},
+{
+"n": 64,
+"h": "de675dc2",
+"en_raw": "you can get to the bottom of it?"
+},
+{
+"n": 65,
+"h": "56e0244f",
+"en_raw": "Well..."
+},
+{
+"n": 66,
+"h": "f98c4c6b",
+"en_raw": "But I'll manage somehow"
+},
+{
+"n": 67,
+"h": "965879cf",
+"en_raw": "Somehow, huh..."
+},
+{
+"n": 68,
+"h": "35f089fd",
+"en_raw": "...Suspicious"
+},
+{
+"n": 69,
+"h": "764a28ec",
+"en_raw": "...What is?"
+},
+{
+"n": 70,
+"h": "ad8312db",
+"en_raw": "is obvious"
+},
+{
+"n": 71,
+"h": "42358eea",
+"en_raw": "Your timid friend"
+},
+{
+"n": 72,
+"h": "abd130b9",
+"en_raw": "Segawa wouldn't... do that"
+},
+{
+"n": 73,
+"h": "6f829bff",
+"en_raw": "...kind of thing"
+},
+{
+"n": 74,
+"h": "b87c9c60",
+"en_raw": "Hmm..."
+},
+{
+"n": 75,
+"h": "72b15040",
+"en_raw": "So you do have a guess"
+},
+{
+"n": 76,
+"h": "ada7d231",
+"en_raw": "Why do you say that?"
+},
+{
+"n": 77,
+"h": "6d296116",
+"en_raw": "Didn't I tell you?"
+},
+{
+"n": 78,
+"h": "ed3c8fda",
+"en_raw": "When Nao lies"
+},
+{
+"n": 79,
+"h": "24dab569",
+"en_raw": "his blinking increases"
+},
+{
+"n": 80,
+"h": "629e34fa",
+"en_raw": "........."
+},
+{
+"n": 81,
+"h": "8c30543e",
+"en_raw": "If Nao can't say"
+},
+{
+"n": 82,
+"h": "cc41f763",
+"en_raw": "I'll just ask the person"
+},
+{
+"n": 83,
+"h": "7ca90b61",
+"en_raw": "He's probably at the Tama riverbank"
+},
+{
+"n": 84,
+"h": "130f71cf",
+"en_raw": "today too"
+},
+{
+"n": 85,
+"h": "ce05db49",
+"en_raw": "Hey, Sango..."
+},
+{
+"n": 86,
+"h": "7a550d61",
+"en_raw": "Nao, you seem"
+},
+{
+"n": 87,
+"h": "6c72f2e2",
+"en_raw": "to have noticed something"
+},
+{
+"n": 88,
+"h": "3541b10c",
+"en_raw": "but if you cover for someone"
+},
+{
+"n": 89,
+"h": "ff020c10",
+"en_raw": "I won't forgive you"
+},
+{
+"n": 90,
+"h": "c6195e03",
+"en_raw": "Until I've cornered"
+},
+{
+"n": 91,
+"h": "cb44a355",
+"en_raw": "the real culprit"
+},
+{
+"n": 92,
+"h": "6c6265e2",
+"en_raw": "Saving a cat again..."
+},
+{
+"n": 93,
+"h": "8abb22d6",
+"en_raw": "Why do we"
+},
+{
+"n": 94,
+"h": "99d83f59",
+"en_raw": "have to do this"
+},
+{
+"n": 95,
+"h": "ec733267",
+"en_raw": "kind of thing, I wonder"
+},
+{
+"n": 96,
+"h": "53b71742",
+"en_raw": "The cause is that Kume guy"
+},
+{
+"n": 97,
+"h": "76a294d3",
+"en_raw": "the dangerous one, right?"
+},
+{
+"n": 98,
+"h": "6194db60",
+"en_raw": "Kume is a problem, sure"
+},
+{
+"n": 99,
+"h": "7ead3985",
+"en_raw": "but the people around him are bad too"
+},
+{
+"n": 100,
+"h": "7ae6678f",
+"en_raw": "Those guys are especially"
+},
+{
+"n": 101,
+"h": "5ac94d66",
+"en_raw": "cruel to Kume"
+},
+{
+"n": 102,
+"h": "3670a1e7",
+"en_raw": "If you want the real cause"
+},
+{
+"n": 103,
+"h": "5b671346",
+"en_raw": "it's definitely that"
+},
+{
+"n": 104,
+"h": "eaa92595",
+"en_raw": "Thinking of it as the top-ranked"
+},
+{
+"n": 105,
+"h": "a34b7ef0",
+"en_raw": "excellent class"
+},
+{
+"n": 106,
+"h": "5d399ef0",
+"en_raw": "what does that mean?"
+},
+{
+"n": 107,
+"h": "bbc3b728",
+"en_raw": "Compared to this"
+},
+{
+"n": 108,
+"h": "c06df151",
+"en_raw": "the Toilet Gang is cuter"
+},
+{
+"n": 109,
+"h": "ae9ed1c5",
+"en_raw": "If you don't like it"
+},
+{
+"n": 110,
+"h": "46776c6a",
+"en_raw": "you don't have to come along"
+},
+{
+"n": 111,
+"h": "05e0657b",
+"en_raw": "I'll handle it myself..."
+},
+{
+"n": 112,
+"h": "4b00abbd",
+"en_raw": "I didn't say that"
+},
+{
+"n": 113,
+"h": "8b82be8b",
+"en_raw": "I just think you should choose"
+},
+{
+"n": 114,
+"h": "374cb2cc",
+"en_raw": "your friends a bit more carefully"
+},
+{
+"n": 115,
+"h": "c0163b04",
+"en_raw": "that's all"
+},
+{
+"n": 116,
+"h": "8b157252",
+"en_raw": "After saving the cat"
+},
+{
+"n": 117,
+"h": "4a3575b7",
+"en_raw": "you're meeting Segawa, right?"
+},
+{
+"n": 118,
+"h": "d0069239",
+"en_raw": "But that guy will surely"
+},
+{
+"n": 119,
+"h": "114f3bda",
+"en_raw": "be made to do it again"
+},
+{
+"n": 120,
+"h": "51b4b885",
+"en_raw": "Meow meow, it's tough too, meow"
+},
+{
+"n": 121,
+"h": "49b58a3d",
+"en_raw": "So today it's Segawa and me"
+},
+{
+"n": 122,
+"h": "04e14a73",
+"en_raw": "thinking of ways to stop Kume"
+},
+{
+"n": 123,
+"h": "3ff613b8",
+"en_raw": "Change of plan"
+},
+{
+"n": 124,
+"h": "0706ac6f",
+"en_raw": "Wait behind the schoolhouse"
+},
+{
+"n": 125,
+"h": "91b4cec7",
+"en_raw": "Behind the school, alone, huh..."
+},
+{
+"n": 126,
+"h": "fc41ea8c",
+"en_raw": "I wonder if something happened to Segawa"
+},
+{
+"n": 127,
+"h": "28b432dc",
+"en_raw": "More importantly, Nao"
+},
+{
+"n": 128,
+"h": "03a7305d",
+"en_raw": "you'd better be careful"
+},
+{
+"n": 129,
+"h": "04b6e67d",
+"en_raw": "I can't tell whose handwriting this is"
+},
+{
+"n": 130,
+"h": "58240f6b",
+"en_raw": "It doesn't have to be Segawa's"
+},
+{
+"n": 131,
+"h": "23cb2c23",
+"en_raw": "You think so too, Sango"
+},
+{
+"n": 132,
+"h": "3ff613b8",
+"en_raw": "Change of plan"
+},
+{
+"n": 133,
+"h": "0706ac6f",
+"en_raw": "Wait behind the schoolhouse"
+},
+{
+"n": 134,
+"h": "aac06dcb",
+"en_raw": "We should confirm who's calling us"
+},
+{
+"n": 135,
+"h": "7ca91802",
+"en_raw": "I'm the one being called"
+},
+{
+"n": 136,
+"h": "3e0ca495",
+"en_raw": "Sango, don't get in the way"
+},
+{
+"n": 137,
+"h": "4b426675",
+"en_raw": "Um..."
+},
+{
+"n": 138,
+"h": "9b617e95",
+"en_raw": "There's a place I want to stop by"
+},
+{
+"n": 139,
+"h": "9ed65ba4",
+"en_raw": "is that okay?"
+},
+{
+"n": 140,
+"h": "b2610665",
+"en_raw": "what is it?"
+},
+{
+"n": 141,
+"h": "59b900e7",
+"en_raw": "I want to make a phone call"
+},
+{
+"n": 142,
+"h": "8e2c0813",
+"en_raw": "About the other day..."
+},
+{
+"n": 143,
+"h": "567781c4",
+"en_raw": "Segawa was really"
+},
+{
+"n": 144,
+"h": "24e1738d",
+"en_raw": "scared..."
+},
+{
+"n": 145,
+"h": "b530db82",
+"en_raw": "Don't do it at home"
+},
+{
+"n": 146,
+"h": "2db322cf",
+"en_raw": "I don't want my mom to hear"
+},
+{
+"n": 147,
+"h": "08e6a247",
+"en_raw": "Don't want anyone to hear, huh"
+},
+{
+"n": 148,
+"h": "7012cdc1",
+"en_raw": "Then how about the phone booth"
+},
+{
+"n": 149,
+"h": "b5014507",
+"en_raw": "along Koshu Kaido?"
+},
+{
+"n": 150,
+"h": "8dadc779",
+"en_raw": "Yeah, thanks..."
+},
+{
+"n": 151,
+"h": "b0ff1abd",
+"en_raw": "I have to call Segawa"
+},
+{
+"n": 152,
+"h": "132a3f8b",
+"en_raw": "If you want somewhere nobody's around"
+},
+{
+"n": 153,
+"h": "7012cdc1",
+"en_raw": "Then how about the phone booth"
+},
+{
+"n": 154,
+"h": "7c38706b",
+"en_raw": "I recommend the phone booth"
+},
+{
+"n": 155,
+"h": "9726e99b",
+"en_raw": "Ugh, somehow"
+},
+{
+"n": 156,
+"h": "54092d52",
+"en_raw": "it's even more tense than before"
+},
+{
+"n": 157,
+"h": "c3a4563b",
+"en_raw": "Why did it turn out like this?"
+},
+{
+"n": 158,
+"h": "7e0b4261",
+"en_raw": "...That's right"
+},
+{
+"n": 159,
+"h": "033aec16",
+"en_raw": "Back then, Sango showed up"
+},
+{
+"n": 160,
+"h": "17cab34e",
+"en_raw": "and egged us on..."
+},
+{
+"n": 161,
+"h": "4b564fb6",
+"en_raw": "I helped you out"
+},
+{
+"n": 162,
+"h": "ca8b7b77",
+"en_raw": "and you say that?"
+},
+{
+"n": 163,
+"h": "7bd1321b",
+"en_raw": "Well, setting that aside"
+},
+{
+"n": 164,
+"h": "7b6ea872",
+"en_raw": "Hey, Nao"
+},
+{
+"n": 165,
+"h": "b9afbd3d",
+"en_raw": "let me say one thing"
+},
+{
+"n": 166,
+"h": "7b21f876",
+"en_raw": "This time, this was for the best"
+},
+{
+"n": 167,
+"h": "357d91d8",
+"en_raw": "The best possible outcome"
+},
+{
+"n": 168,
+"h": "1d55ca25",
+"en_raw": "yes, perfect"
+},
+{
+"n": 169,
+"h": "6ac58c92",
+"en_raw": "For Sango, you mean..."
+},
+{
+"n": 170,
+"h": "8a18dcdd",
+"en_raw": "No, you see"
+},
+{
+"n": 171,
+"h": "ec96e87e",
+"en_raw": "Nao, you"
+},
+{
+"n": 172,
+"h": "7875cf08",
+"en_raw": "think you can get along"
+},
+{
+"n": 173,
+"h": "225b2219",
+"en_raw": "with everyone, right?"
+},
+{
+"n": 174,
+"h": "dde6236f",
+"en_raw": "That's a huge mistake"
+},
+{
+"n": 175,
+"h": "9ed7fd8a",
+"en_raw": "Sadly, in this world"
+},
+{
+"n": 176,
+"h": "d7cba2d7",
+"en_raw": "there are people who take advantage"
+},
+{
+"n": 177,
+"h": "5e123179",
+"en_raw": "of that softness"
+},
+{
+"n": 178,
+"h": "9572b1b7",
+"en_raw": "Yuasa, for example"
+},
+{
+"n": 179,
+"h": "d01c4797",
+"en_raw": "So this was for the best"
+},
+{
+"n": 180,
+"h": "daf44bfa",
+"en_raw": "Not everyone"
+},
+{
+"n": 181,
+"h": "bc840e44",
+"en_raw": "has to force themselves to be friends"
+},
+{
+"n": 182,
+"h": "b0f37ef7",
+"en_raw": "right?"
+},
+{
+"n": 183,
+"h": "67981027",
+"en_raw": "Right, Shiina!"
+},
+{
+"n": 184,
+"h": "248e66bc",
+"en_raw": "Yeah, Kurumi"
+},
+{
+"n": 185,
+"h": "9b11f87e",
+"en_raw": "Everybody is friends!"
+},
+{
+"n": 186,
+"h": "d8cbe108",
+"en_raw": "Solved the rumor of the Cat in a Bottle"
+},
+{
+"n": 187,
+"h": "098deae1",
+"en_raw": "And after that"
+},
+{
+"n": 188,
+"h": "d1a33956",
+"en_raw": "how's it going?"
+},
+{
+"n": 189,
+"h": "31df6354",
+"en_raw": "How's what going?"
+},
+{
+"n": 190,
+"h": "196af51c",
+"en_raw": "The friendship"
+},
+{
+"n": 191,
+"h": "f6c50868",
+"en_raw": "of the bullied trio"
+},
+{
+"n": 192,
+"h": "3c96ce86",
+"en_raw": "...Segawa and Kume"
+},
+{
+"n": 193,
+"h": "45ae5322",
+"en_raw": "are fine"
+},
+{
+"n": 194,
+"h": "03959c2a",
+"en_raw": "Why do I have to be told"
+},
+{
+"n": 195,
+"h": "452cc1e2",
+"en_raw": "that by Sango, anyway?"
+},
+{
+"n": 196,
+"h": "4eadf3df",
+"en_raw": "I'm worried about you and this is what I get"
+},
+{
+"n": 197,
+"h": "c86e6953",
+"en_raw": "That doesn't sound like worry at all"
+},
+{
+"n": 198,
+"h": "14316cda",
+"en_raw": "I just don't get it"
+},
+{
+"n": 199,
+"h": "e302ff04",
+"en_raw": "I mean"
+},
+{
+"n": 200,
+"h": "bec9c22b",
+"en_raw": "if you were friends with"
+},
+{
+"n": 201,
+"h": "a06c8231",
+"en_raw": "Takayuki Nishi or someone"
+},
+{
+"n": 202,
+"h": "2683de17",
+"en_raw": "you'd definitely benefit..."
+},
+{
+"n": 203,
+"h": "627b2359",
+"en_raw": "None of your business"
+},
+{
+"n": 204,
+"h": "ae2d2acf",
+"en_raw": "Mind your own business"
+},
+{
+"n": 205,
+"h": "14f5784c",
+"en_raw": "Enough, drop it"
+},
+{
+"n": 206,
+"h": "da16b673",
+"en_raw": "Let's talk about something else already!"
+}
+]
+}
